@@ -14,12 +14,10 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: 18.x
-      - name: Create file
-        run: |
-          echo "chuj" > test.txt
-          cat test.txt
+      - run: node scripts/create-everything-list.js
+      - run: node scripts/generate-adguard.js
       - name: Add
-        run: git add test.txt
+        run: git add .
       - name: Add and Commit
         uses: EndBug/add-and-commit@v7
         with:
