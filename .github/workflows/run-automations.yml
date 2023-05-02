@@ -16,6 +16,10 @@ jobs:
           node-version: 18.x
       - run: node scripts/create-everything-list.js
       - run: node scripts/generate-adguard.js
+      - name: Add files to commit
+        run: |
+          git add -A
+          git status
       - name: Commit & Push
         uses: actions-x/commit@v6
         with:
