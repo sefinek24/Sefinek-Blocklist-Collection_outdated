@@ -25,7 +25,7 @@ jobs:
         run: node scripts/generate-adguard.js
 
       - name: Show files
-        run: ls -R
+        run: ls -R /home/runner/work/PiHole-BlockList-Test/PiHole-BlockList-Test
 
       - name: Show file content
         run: cat blocklist/generated/adguard/test.txt
