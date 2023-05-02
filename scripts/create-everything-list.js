@@ -50,7 +50,7 @@ const generatedFolder = path.join(__dirname, '..', 'blocklist', 'generated');
 # Last update : ${date.hours}:${date.minutes}:${date.seconds}.${date.milliseconds}, ${date.day}.${date.month}.${date.year} [HH:MM:SS.MS, DD.MM.YYYY]
 #
 # > ABOUT:
-# This file is part of the Pi-hole Blocklist Collection maintained by Sefinek. The collection is hosted on GitHub and can also be accessed from the main URL address provided below.
+# This file is part of the Pi-hole Blocklist Collection maintained by Sefinek.
 # If you encounter any issues or have suggestions, please open an issue on the GitHub repository or contact the author. Feel free to create new Pull Requests.
 #
 # > WARNING:
