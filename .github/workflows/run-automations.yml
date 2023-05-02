@@ -14,15 +14,13 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: 18.x
+      - name: Pull latest changes
+        run: git pull
       - run: node scripts/create-everything-list.js
-      - run: node scripts/remove-duplicates.js
-      - run: node scripts/update-number-of-domains.js
-      - run: node scripts/generate-noip.js
-      - run: node scripts/generate-dnsmasq.js
       - run: node scripts/generate-adguard.js
       - name: Commit & Push
         uses: actions-x/commit@v6
         with:
           email: contact@sefinek.net
           name: GitHub Actions
-          branch: master
+          branch: main
