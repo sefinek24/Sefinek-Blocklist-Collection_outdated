@@ -8,9 +8,6 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Show current directory
-        run: |
-          pwd
       - run: git config --global --add safe.directory /github/workspace
       - uses: actions/checkout@v2
       - name: Use Node.js
@@ -19,13 +16,14 @@ jobs:
           node-version: 18.x
       - run: node scripts/create-everything-list.js
       - run: node scripts/generate-adguard.js
-      - name: Add files to commit
-        run: |
-          git add .
-          git status
-      - name: Commit & Push
-        uses: actions-x/commit@v6
+      - name: Add and Commit
+        uses: EndBug/add-and-commit@v7
         with:
-          email: contact@sefinek.net
-          name: GitHub Actions
+          author_name: GitHub Actions
+          author_email: contact@sefinek.net
+          message: "Update blocklist files"
+      - name: Push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main
