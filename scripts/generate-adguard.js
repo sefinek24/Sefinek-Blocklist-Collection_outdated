@@ -50,10 +50,9 @@ const convertToAdGuardFormat = async (folderPath = path.join(__dirname, '../bloc
 			.replace(/<Version>/gim, `${date.timestamp}-${date.year}${date.month}${date.day}`)
 			.replace(/<LastUpdate>/gim, `${date.hours}:${date.minutes}:${date.seconds}.${date.milliseconds}, ${date.day}.${date.month}.${date.year} [HH:MM:SS.MS, DD.MM.YYYY]`);
 
-		const generatedFileName = file.name.replace('.txt', '-ags.txt');
 		const subFolderName = path.basename(path.dirname(thisFileName));
 		const categoryPath = subFolderName === 'template' ? adGuardPath : path.join(adGuardPath, subFolderName);
-		const fullNewFile = path.join(categoryPath, generatedFileName);
+		const fullNewFile = path.join(categoryPath, file.name);
 
 		try {
 			await fs.access(categoryPath);
