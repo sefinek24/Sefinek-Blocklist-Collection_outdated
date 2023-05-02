@@ -20,6 +20,8 @@ jobs:
         run: node scripts/create-everything-list
       - name: Generate AdGuard list
         run: node scripts/generate-adguard.js
+      - name: Show files
+        run: ls -R
       - name: Add files to Git index
         run: git add .
       - name: Commit changes
