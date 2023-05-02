@@ -8,6 +8,9 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - name: Show current directory
+        run: |
+          pwd
       - run: git config --global --add safe.directory /github/workspace
       - uses: actions/checkout@v2
       - name: Use Node.js
