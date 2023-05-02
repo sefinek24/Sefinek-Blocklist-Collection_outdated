@@ -16,14 +16,9 @@ jobs:
           node-version: 18.x
       - run: node scripts/create-everything-list.js
       - run: node scripts/generate-adguard.js
-      - name: Add and Commit
-        uses: EndBug/add-and-commit@v7
+      - name: Commit & Push
+        uses: actions-x/commit@v6
         with:
-          author_name: GitHub Actions
-          author_email: contact@sefinek.net
-          message: "Update blocklist files"
-      - name: Push changes
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          email: contact@sefinek.net
+          name: GitHub Actions
           branch: main
