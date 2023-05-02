@@ -1,0 +1,86 @@
+###
+# Blocklist for blocking access to Riot Games websites and services.
+# This list includes the main Riot Games website, as well as related services such as game launchers and authentication servers.
+#
+# WARNING:
+# By using this file, you agree that the author is not responsible for any damages or losses that may result from its use.
+#
+# ABOUT:
+# This file is part of the Pi-hole Blocklist Collection maintained by Sefinek.
+# The collection is hosted on GitHub and can also be accessed from the main URL address provided below.
+# If you encounter any issues or have suggestions, please open an issue on the GitHub repository or contact the author. Feel free to create new Pull Requests.
+#
+# INFO:
+# Last update       : 28.03.2023
+# Author            : Sefinek (https://sefinek.net) <contact@sefinek.net>
+# GitHub repository : https://github.com/sefinek24/PiHole-Blocklist-Collection
+# Main URL address  : https://cdn.sefinek.net/resources/PiHole-Blocklist-Collection/blocklist/sites/riotgames.txt
+##
+
+0.0.0.0 auth.riotgames.com
+0.0.0.0 authenticate.riotgames.com
+0.0.0.0 bacon.secure.dyn.riotcdn.net
+0.0.0.0 chat.euw1.lol.riotgames.com
+0.0.0.0 chat.na1.lol.riotgames.com
+0.0.0.0 chat.oce1.lol.riotgames.com
+0.0.0.0 chat.pbe1.lol.riotgames.com
+0.0.0.0 chat.tr1.lol.riotgames.com
+0.0.0.0 clientconfig.rpg.riotgames.com
+0.0.0.0 data.riotgames.com
+0.0.0.0 dc.lol.riotgames.com
+0.0.0.0 entitlements.auth.riotgames.com
+0.0.0.0 eu.edge.rms.si.riotgames.com
+0.0.0.0 eun1.chat.si.riotgames.com
+0.0.0.0 ks-foundation.secure.dyn.riotcdn.net
+0.0.0.0 lol.riotgames.com
+0.0.0.0 lol.secure.dyn.riotcdn.net
+0.0.0.0 lq.euw1.lol.riotgames.com
+0.0.0.0 lq.na1.lol.riotgames.com
+0.0.0.0 lq.oc1.lol.riotgames.com
+0.0.0.0 lq.oc2.lol.riotgames.com
+0.0.0.0 lq.oc3.lol.riotgames.com
+0.0.0.0 lq.oce1.lol.riotgames.com
+0.0.0.0 lq.pbe1.lol.riotgames.com
+0.0.0.0 lq.tr1.lol.riotgames.com
+0.0.0.0 matchhistory.euw1.lol.riotgames.com
+0.0.0.0 matchhistory.na1.lol.riotgames.com
+0.0.0.0 matchhistory.oce1.lol.riotgames.com
+0.0.0.0 matchhistory.tr1.lol.riotgames.com
+0.0.0.0 oc1.lol.riotgames.com
+0.0.0.0 oc2.lol.riotgames.com
+0.0.0.0 oc3.lol.riotgames.com
+0.0.0.0 pbe1.lol.riotgames.com
+0.0.0.0 prod.euw1.lol.riotgames.com
+0.0.0.0 prod.na1.lol.riotgames.com
+0.0.0.0 prod.oc1.lol.riotgames.com
+0.0.0.0 prod.oc2.lol.riotgames.com
+0.0.0.0 prod.oc3.lol.riotgames.com
+0.0.0.0 prod.oce1.lol.riotgames.com
+0.0.0.0 prod.pbe1.lol.riotgames.com
+0.0.0.0 prod.tr1.lol.riotgames.com
+0.0.0.0 riot-client.dyn.riotcdn.net
+0.0.0.0 riot-client.secure.dyn.riotcdn.net
+0.0.0.0 riotgames.com
+0.0.0.0 ritoplus.secure.dyn.riotcdn.net
+0.0.0.0 s.lol.riotgames.com
+0.0.0.0 spectator.euw1.lol.riotgames.com
+0.0.0.0 spectator.na1.lol.riotgames.com
+0.0.0.0 spectator.oc1.lol.riotgames.com
+0.0.0.0 spectator.oc2.lol.riotgames.com
+0.0.0.0 spectator.oc3.lol.riotgames.com
+0.0.0.0 spectator.oce1.lol.riotgames.com
+0.0.0.0 spectator.pbe1.lol.riotgames.com
+0.0.0.0 spectator.tr1.lol.riotgames.com
+0.0.0.0 store.euw1.lol.riotgames.com
+0.0.0.0 store.na1.lol.riotgames.com
+0.0.0.0 store.oc1.lol.riotgames.com
+0.0.0.0 store.oc2.lol.riotgames.com
+0.0.0.0 store.oc3.lol.riotgames.com
+0.0.0.0 store.oce1.lol.riotgames.com
+0.0.0.0 store.pbe1.lol.riotgames.com
+0.0.0.0 store.tr1.lol.riotgames.com
+0.0.0.0 tr1.lol.riotgames.com
+0.0.0.0 valorant.secure.dyn.riotcdn.net
+0.0.0.0 wildrift.secure.dyn.riotcdn.net
+0.0.0.0 www.riotgames.com
+0.0.0.0 xsso.riotgames.com

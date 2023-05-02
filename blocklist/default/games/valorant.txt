@@ -1,0 +1,47 @@
+###
+# Block all Valorant domains.
+# This file is designed to block access to the Valorant game, including related servers and services.
+#
+# WARNING:
+# By using this file, you agree that the author is not responsible for any damages or losses that may result from its use.
+#
+# ABOUT:
+# This file is part of the Pi-hole Blocklist Collection maintained by Sefinek.
+# The collection is hosted on GitHub and can also be accessed from the main URL address provided below.
+# If you encounter any issues or have suggestions, please open an issue on the GitHub repository or contact the author. Feel free to create new Pull Requests.
+#
+# INFO:
+# Last update       : 28.02.2023
+# Author            : Sefinek (https://sefinek.net) <contact@sefinek.net>
+# GitHub repository : https://github.com/sefinek24/PiHole-Blocklist-Collection
+# Main URL address  : https://cdn.sefinek.net/resources/PiHole-Blocklist-Collection/blocklist/games/valorant.txt
+##
+
+0.0.0.0 access.soap.riotgames.com
+0.0.0.0 cdn.valorant-api.com
+0.0.0.0 content.valorant-api.com
+0.0.0.0 entitlements.auth.api.riotgames.com
+0.0.0.0 entitlements.auth.riotgames.com.edgesuite.net
+0.0.0.0 launcher-website-prod07.ol.epicgames.com
+0.0.0.0 pd.ap.a.pvp.net
+0.0.0.0 pd.eu.a.pvp.net
+0.0.0.0 pd.kr.a.pvp.net
+0.0.0.0 pd.na.a.pvp.net
+0.0.0.0 playvalorant.com
+0.0.0.0 riot-client-api-prod.ap.p.razerzone.com
+0.0.0.0 riot-client-api-prod.eu.p.razerzone.com
+0.0.0.0 riot-client-api-prod.kr.p.razerzone.com
+0.0.0.0 riot-client-api-prod.na.p.razerzone.com
+0.0.0.0 riot.dualstack.ap-northeast-1.amazon.com
+0.0.0.0 riot.dualstack.ap-southeast-1.amazon.com
+0.0.0.0 riot.dualstack.eu-west-1.amazon.com
+0.0.0.0 riot.dualstack.sa-east-1.amazon.com
+0.0.0.0 riot.dualstack.us-central-1.amazon.com
+0.0.0.0 riot.dualstack.us-west-2.amazon.com
+0.0.0.0 riotcdn.net
+0.0.0.0 riotgames.com
+0.0.0.0 riotgames.net
+0.0.0.0 riotstatic.net
+0.0.0.0 rso-auth.riotgames.com.edgesuite.net
+0.0.0.0 rso.api.riotgames.com.edgesuite.net
+0.0.0.0 valorant-api.com

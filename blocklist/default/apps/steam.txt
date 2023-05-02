@@ -1,0 +1,53 @@
+###
+# Block all Steam domains.
+#
+# WARNING:
+# By using this file, you agree that the author is not responsible for any damages or losses that may result from its use.
+#
+# ABOUT:
+# This file is part of the Pi-hole Blocklist Collection maintained by Sefinek.
+# The collection is hosted on GitHub and can also be accessed from the main URL address provided below.
+# If you encounter any issues or have suggestions, please open an issue on the GitHub repository or contact the author. Feel free to create new Pull Requests.
+#
+# INFO:
+# Last update       : 01.03.2023
+# Author            : Sefinek (https://sefinek.net) <contact@sefinek.net>
+# GitHub repository : https://github.com/sefinek24/PiHole-Blocklist-Collection
+# Main URL address  : https://cdn.sefinek.net/resources/PiHole-Blocklist-Collection/blocklist/apps/steam.txt
+##
+
+0.0.0.0 akamaihd.net
+0.0.0.0 akamaized.net
+0.0.0.0 api.steampowered.com
+0.0.0.0 avatars.akamai.steamstatic.com
+0.0.0.0 avatars.cloudflare.steamstatic.com
+0.0.0.0 cdn.akamai.steamstatic.com
+0.0.0.0 community.akamai.steamstatic.com
+0.0.0.0 cs.steampowered.com
+0.0.0.0 ext1-fra1.steamserver.net
+0.0.0.0 ext1-fra2.steamserver.net
+0.0.0.0 forums.steampowered.com
+0.0.0.0 help.steampowered.com
+0.0.0.0 ipv6check-http.steamserver.net
+0.0.0.0 ipv6check-udp.steamserver.net
+0.0.0.0 steam-dns.top
+0.0.0.0 steam.live
+0.0.0.0 steamcommunity.com
+0.0.0.0 steamcontent.com
+0.0.0.0 steamdb.info
+0.0.0.0 steamgames.com
+0.0.0.0 steamgifts.com
+0.0.0.0 steamstatic.com
+0.0.0.0 steamusercontent-a.akamaihd.net
+0.0.0.0 steamusercontent-a.akamaized.net
+0.0.0.0 steamusercontent-a.steamstatic.com
+0.0.0.0 steamusercontent.com
+0.0.0.0 steamuserimages-a.akamaihd.net
+0.0.0.0 steamuserimages-a.akamaized.net
+0.0.0.0 store.akamai.steamstatic.com
+0.0.0.0 store.steampowered.com
+0.0.0.0 test.steampowered.com
+0.0.0.0 vortigaunt.steamstat.us
+0.0.0.0 www.steamcommunity.com
+0.0.0.0 www.steamdb.info
+0.0.0.0 www.steamgifts.com

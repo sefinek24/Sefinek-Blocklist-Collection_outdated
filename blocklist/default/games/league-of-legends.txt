@@ -1,0 +1,81 @@
+###
+# Block all League of Legends domains.
+# This file is designed to block access to the League of Legends game, including related servers and services.
+#
+# WARNING:
+# By using this file, you agree that the author is not responsible for any damages or losses that may result from its use.
+#
+# ABOUT:
+# This file is part of the Pi-hole Blocklist Collection maintained by Sefinek.
+# The collection is hosted on GitHub and can also be accessed from the main URL address provided below.
+# If you encounter any issues or have suggestions, please open an issue on the GitHub repository or contact the author. Feel free to create new Pull Requests.
+#
+# INFO:
+# Last update       : 28.02.2023
+# Author            : Sefinek (https://sefinek.net) <contact@sefinek.net>
+# GitHub repository : https://github.com/sefinek24/PiHole-Blocklist-Collection
+# Main URL address  : https://cdn.sefinek.net/resources/PiHole-Blocklist-Collection/blocklist/games/league-of-legends.txt
+##
+
+0.0.0.0 chat.euw1.lol.riotgames.com
+0.0.0.0 chat.na1.lol.riotgames.com
+0.0.0.0 chat.oce1.lol.riotgames.com
+0.0.0.0 chat.tr1.lol.riotgames.com
+0.0.0.0 ddragon.leagueoflegends.com
+0.0.0.0 eu.edge.rms.si.riotgames.com
+0.0.0.0 eu.lers.loyalty.riotgames.com
+0.0.0.0 euc1-green.pp.sgp.pvp.net
+0.0.0.0 eun1.chat.si.riotgames.com
+0.0.0.0 eune-blue.lol.sgp.pvp.net
+0.0.0.0 leagueoflegends.com
+0.0.0.0 lienminh.vnggames.com
+0.0.0.0 lol.dyn.riotcdn.net
+0.0.0.0 lol.riotgames.com
+0.0.0.0 lol.secure.dyn.riotcdn.net
+0.0.0.0 lolstatic-a.akamaihd.net
+0.0.0.0 lq.euw1.lol.riotgames.com
+0.0.0.0 lq.na1.lol.riotgames.com
+0.0.0.0 lq.oc1.lol.riotgames.com
+0.0.0.0 lq.oc2.lol.riotgames.com
+0.0.0.0 lq.oc3.lol.riotgames.com
+0.0.0.0 lq.oce1.lol.riotgames.com
+0.0.0.0 lq.pbe1.lol.riotgames.com
+0.0.0.0 lq.tr1.lol.riotgames.com
+0.0.0.0 matchhistory.euw1.lol.riotgames.com
+0.0.0.0 matchhistory.na1.lol.riotgames.com
+0.0.0.0 matchhistory.oce1.lol.riotgames.com
+0.0.0.0 matchhistory.tr1.lol.riotgames.com
+0.0.0.0 oc1.lol.riotgames.com
+0.0.0.0 oc2.lol.riotgames.com
+0.0.0.0 oc3.lol.riotgames.com
+0.0.0.0 play.eune.leagueoflegends.com
+0.0.0.0 prod.eun1.lol.riotgames.com
+0.0.0.0 prod.euw1.lol.riotgames.com
+0.0.0.0 prod.na1.lol.riotgames.com
+0.0.0.0 prod.oc1.lol.riotgames.com
+0.0.0.0 prod.oc2.lol.riotgames.com
+0.0.0.0 prod.oc3.lol.riotgames.com
+0.0.0.0 prod.oce1.lol.riotgames.com
+0.0.0.0 prod.pbe1.lol.riotgames.com
+0.0.0.0 prod.tr1.lol.riotgames.com
+0.0.0.0 s.lol.riotgames.com
+0.0.0.0 s.lolstatic.com
+0.0.0.0 signup.leagueoflegends.com
+0.0.0.0 spectator.euw1.lol.riotgames.com
+0.0.0.0 spectator.na1.lol.riotgames.com
+0.0.0.0 spectator.oc1.lol.riotgames.com
+0.0.0.0 spectator.oc2.lol.riotgames.com
+0.0.0.0 spectator.oc3.lol.riotgames.com
+0.0.0.0 spectator.oce1.lol.riotgames.com
+0.0.0.0 spectator.pbe1.lol.riotgames.com
+0.0.0.0 spectator.tr1.lol.riotgames.com
+0.0.0.0 store.euw1.lol.riotgames.com
+0.0.0.0 store.na1.lol.riotgames.com
+0.0.0.0 store.oc1.lol.riotgames.com
+0.0.0.0 store.oc2.lol.riotgames.com
+0.0.0.0 store.oc3.lol.riotgames.com
+0.0.0.0 store.oce1.lol.riotgames.com
+0.0.0.0 store.pbe1.lol.riotgames.com
+0.0.0.0 store.tr1.lol.riotgames.com
+0.0.0.0 www.leagueoflegends.com
+0.0.0.0 xsso.leagueoflegends.com
