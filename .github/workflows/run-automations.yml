@@ -18,7 +18,7 @@ jobs:
       - run: node scripts/generate-adguard.js
       - name: Add files to commit
         run: |
-          git add -A
+          git add .
           git status
       - name: Commit & Push
         uses: actions-x/commit@v6
