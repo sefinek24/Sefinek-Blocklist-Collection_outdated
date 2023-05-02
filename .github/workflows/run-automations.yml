@@ -36,7 +36,7 @@ jobs:
           git config --global user.email "sefinek.actions@gmail.com"
           git add .
           git status
-          git commit -m "Update blocklist files by GitHub Actions"
+          git commit -m "Update files by GitHub Actions"
 
       - name: Push changes
         uses: ad-m/github-push-action@v0.6.0
