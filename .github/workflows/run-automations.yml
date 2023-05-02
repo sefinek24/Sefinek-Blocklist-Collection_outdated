@@ -18,6 +18,8 @@ jobs:
         run: |
           echo "chuj" > test.txt
           cat test.txt
+      - name: Add
+        run: git add test.txt
       - name: Add and Commit
         uses: EndBug/add-and-commit@v7
         with:
