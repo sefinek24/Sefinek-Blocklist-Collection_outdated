@@ -14,12 +14,11 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: 18.x
-      - name: Create file
+      - run: node scripts/create-everything-list.js
+      - run: node scripts/generate-adguard.js
+      - name: Console all files
         run: |
-          echo "aefasdfasdfasdfasdfasdf" > z-masleeeeeeem.txt
-          cat z-masleeeeeeem.txt
-      - name: Add
-        run: git add test.txt
+          ls
       - name: Add and Commit
         uses: EndBug/add-and-commit@v7
         with:
