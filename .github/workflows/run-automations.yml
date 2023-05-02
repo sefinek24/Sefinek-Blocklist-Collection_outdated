@@ -27,9 +27,6 @@ jobs:
       - name: Show files
         run: ls -R /home/runner/work/PiHole-BlockList-Test/PiHole-BlockList-Test
 
-      - name: Show file content
-        run: cat blocklist/generated/adguard/test-ags.txt
-
       - name: Commit files
         run: |
           git config --global user.name "Sefinek Actions"
