@@ -1,5 +1,5 @@
-const fs = require('fs').promises;
-const path = require('path');
+const fs = require('node:fs').promises;
+const path = require('node:path');
 
 (async () => {
 	let hasError = false;
@@ -21,8 +21,8 @@ const path = require('path');
 		});
 	}
 
-	await Promise.all(files.filter((file) => file !== 'everything.txt').map(async (file) => { // For each file
-		const fileContents = await fs.readFile(path.join(file), 'utf8'); // Get file contents as a string
+	await Promise.all(files.filter((file) => file !== 'everything.txt').map(async file => {
+		const fileContents = await fs.readFile(path.join(file), 'utf8');
 
 		const commentedURLs = fileContents.split('\n').map((line) => {
 			if (line.startsWith('# 0.0.0.0')) {

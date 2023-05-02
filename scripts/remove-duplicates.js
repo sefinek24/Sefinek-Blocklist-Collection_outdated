@@ -1,13 +1,13 @@
-const fs = require('fs').promises;
-const path = require('path');
+const fs = require('node:fs').promises;
+const path = require('node:path');
 
 (async () => {
-	const files = (await fs.readdir(path.join(__dirname, '..'))).filter((file) => file.endsWith('.txt')); // Array of strings, each representing a single file that ends in `.txt`
+	const files = (await fs.readdir(path.join(__dirname, '..'))).filter((file) => file.endsWith('.txt'));
 
-	await Promise.all(files.map(async (file) => { // For each file
+	await Promise.all(files.map(async file => {
 		const existingDomains = new Set();
 
-		let fileContents = await fs.readFile(path.join(__dirname, '..', file), 'utf8'); // Get file contents as a string
+		let fileContents = await fs.readFile(path.join(__dirname, '..', file), 'utf8');
 
 		fileContents.split('\n').forEach((line) => {
 			if (line.startsWith('0.0.0.0 ')) {

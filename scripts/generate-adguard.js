@@ -1,5 +1,6 @@
 const fs = require('node:fs').promises;
 const path = require('node:path');
+const date = require('./functions/date.js');
 
 const convertToAdGuardFormat = async (folderPath = path.join(__dirname, '../blocklist/default')) => {
 	const adGuardPath = path.join(__dirname, '../blocklist/generated/adguard');
@@ -17,23 +18,13 @@ const convertToAdGuardFormat = async (folderPath = path.join(__dirname, '../bloc
 			const thisFileName = path.join(folderPath, file.name);
 			const fileContents = await fs.readFile(thisFileName, 'utf8');
 
-			const now = new Date();
-			const timestamp = now.getTime();
-			const day = now.getDate().toString().padStart(2, '0');
-			const month = (now.getMonth() + 1).toString().padStart(2, '0');
-			const year = now.getFullYear().toString();
-			const hours = now.getHours().toString().padStart(2, '0');
-			const minutes = now.getMinutes().toString().padStart(2, '0');
-			const seconds = now.getSeconds().toString().padStart(2, '0');
-			const milliseconds = now.getMilliseconds().toString().padStart(3, '0');
-
 			const adGuardFileContents = fileContents
-				.replaceAll(/^# 0\.0\.0\.0 (.*?) (.*)/gmu, '@@||$1^! $2')
-				.replaceAll(/0\.0\.0\.0 (.*?)$/gmu, '||$1^')
-				.replaceAll(/^#/gmu, '!')
+				.replace(/^# 0\.0\.0\.0 (.*?) (.*)/gmu, '@@||$1^! $2')
+				.replace(/0\.0\.0\.0 (.*?)$/gmu, '||$1^')
+				.replace(/^#/gmu, '!')
 				.replace(/<Release>/gim, 'AdGuard [adguard.com]')
-				.replace(/<Version>/gim, `${timestamp}-${year}${month}${day}`)
-				.replace(/<LastUpdate>/gim, `${hours}:${minutes}:${seconds}.${milliseconds}, ${day}.${month}.${year} [HH:MM:SS.MS, DD.MM.YYYY]`);
+				.replace(/<Version>/gim, `${date.timestamp}-${date.year}${date.month}${date.day}`)
+				.replace(/<LastUpdate>/gim, `${date.hours}:${date.minutes}:${date.seconds}.${date.milliseconds}, ${date.day}.${date.month}.${date.year} [HH:MM:SS.MS, DD.MM.YYYY]`);
 
 			const adGuardFileName = file.name.replace('.txt', '-ags.txt');
 			const subFolderName = path.basename(path.dirname(thisFileName));
