@@ -24,11 +24,11 @@ jobs:
       - name: Generate AdGuard list
         run: node scripts/generate-adguard.js
 
-      - name: Show file content
-        run: cat blocklist/generated/adguard/test.txt
-
       - name: Show files
         run: ls -R
+
+      - name: Show file content
+        run: cat blocklist/generated/adguard/test.txt
 
       - name: Commit files
         run: |
