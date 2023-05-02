@@ -18,6 +18,9 @@ jobs:
         with:
           node-version: 18.x
 
+      - name: Run npm install
+        run: npm install
+
       - name: Create everything list
         run: node scripts/create-everything-list
 
