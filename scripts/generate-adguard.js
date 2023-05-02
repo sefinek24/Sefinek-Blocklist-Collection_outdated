@@ -1,6 +1,7 @@
 const fs = require('node:fs').promises;
 const path = require('node:path');
 const date = require('./functions/date.js');
+const sha256File = require('sha256-file');
 
 const convertToAdGuardFormat = async (folderPath = path.join(__dirname, '../blocklist/default')) => {
 	const adGuardPath = path.join(__dirname, '../blocklist/generated/adguard');
@@ -16,8 +17,32 @@ const convertToAdGuardFormat = async (folderPath = path.join(__dirname, '../bloc
 
 		await Promise.all(textFiles.map(async file => {
 			const thisFileName = path.join(folderPath, file.name);
-			const fileContents = await fs.readFile(thisFileName, 'utf8');
 
+			// Cache
+			const cacheFolder = path.join(__dirname, `../cache/${path.basename(path.dirname(thisFileName)) === 'default' ? '' : path.basename(path.dirname(thisFileName))}`);
+			await fs.mkdir(cacheFolder, { recursive: true });
+
+			const cacheFilePath = path.join(cacheFolder, `${file.name.replace('.txt', '')}.hash`);
+
+			let hashFromCache;
+			try {
+				hashFromCache = await fs.readFile(cacheFilePath, 'utf8');
+			} catch (err) {
+				console.warn('❌  Cache file not found:', cacheFilePath);
+			}
+
+			const hashDefaultFile = sha256File(thisFileName);
+			console.log(`⏳  File hash: ${hashDefaultFile || 'Unknown'}; Cache: ${hashFromCache || 'Unknown'}; File: ${file.name}`);
+
+			if (hashDefaultFile === hashFromCache) {
+				console.log(`⏭️ ${thisFileName} - skipped`);
+				return;
+			}
+
+			await fs.writeFile(cacheFilePath, hashDefaultFile);
+
+			// Content
+			const fileContents = await fs.readFile(thisFileName, 'utf8');
 			const adGuardFileContents = fileContents
 				.replace(/^# 0\.0\.0\.0 (.*?) (.*)/gmu, '@@||$1^! $2')
 				.replace(/0\.0\.0\.0 (.*?)$/gmu, '||$1^')
@@ -29,6 +54,7 @@ const convertToAdGuardFormat = async (folderPath = path.join(__dirname, '../bloc
 			const adGuardFileName = file.name.replace('.txt', '-ags.txt');
 			const subFolderName = path.basename(path.dirname(thisFileName));
 			const categoryPath = subFolderName === 'default' ? adGuardPath : path.join(adGuardPath, subFolderName);
+			const fullNewFile = path.join(categoryPath, adGuardFileName);
 
 			try {
 				await fs.access(categoryPath);
@@ -36,15 +62,14 @@ const convertToAdGuardFormat = async (folderPath = path.join(__dirname, '../bloc
 				await fs.mkdir(categoryPath, { recursive: true });
 			}
 
-			await fs.writeFile(path.join(categoryPath, adGuardFileName), adGuardFileContents);
+			await fs.writeFile(fullNewFile, adGuardFileContents);
+			console.log(`✔️ ${thisFileName}`);
 		}));
 
 		const subdirectories = files.filter(file => file.isDirectory());
 		await Promise.all(subdirectories.map(async subdirectory => {
 			await convertToAdGuardFormat(path.join(folderPath, subdirectory.name));
 		}));
-
-		console.log(`✔️ ${folderPath}`);
 	} catch (err) {
 		console.error(`❌ ${folderPath}:`, err);
 	}
