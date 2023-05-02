@@ -3,7 +3,7 @@ const path = require('node:path');
 const date = require('./functions/date.js');
 const sha256File = require('sha256-file');
 
-const convertToAdGuardFormat = async (folderPath = path.join(__dirname, '../blocklist/default')) => {
+const convertToAdGuardFormat = async (folderPath = path.join(__dirname, '../blocklist/template')) => {
 	const adGuardPath = path.join(__dirname, '../blocklist/generated/adguard');
 	try {
 		await fs.access(adGuardPath);
@@ -19,7 +19,7 @@ const convertToAdGuardFormat = async (folderPath = path.join(__dirname, '../bloc
 			const thisFileName = path.join(folderPath, file.name);
 
 			// Cache
-			const cacheFolder = path.join(__dirname, `../cache/${path.basename(path.dirname(thisFileName)) === 'default' ? '' : path.basename(path.dirname(thisFileName))}`);
+			const cacheFolder = path.join(__dirname, `../cache/${path.basename(path.dirname(thisFileName)) === 'template' ? '' : path.basename(path.dirname(thisFileName))}`);
 			await fs.mkdir(cacheFolder, { recursive: true });
 
 			const cacheFilePath = path.join(cacheFolder, `${file.name.replace('.txt', '')}.hash`);
@@ -53,7 +53,7 @@ const convertToAdGuardFormat = async (folderPath = path.join(__dirname, '../bloc
 
 			const adGuardFileName = file.name.replace('.txt', '-ags.txt');
 			const subFolderName = path.basename(path.dirname(thisFileName));
-			const categoryPath = subFolderName === 'default' ? adGuardPath : path.join(adGuardPath, subFolderName);
+			const categoryPath = subFolderName === 'template' ? adGuardPath : path.join(adGuardPath, subFolderName);
 			const fullNewFile = path.join(categoryPath, adGuardFileName);
 
 			try {

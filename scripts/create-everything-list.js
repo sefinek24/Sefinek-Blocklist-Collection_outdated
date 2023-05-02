@@ -2,7 +2,7 @@ const fs = require('node:fs').promises;
 const path = require('node:path');
 const date = require('./functions/date.js');
 
-const defaultFolder = path.join(__dirname, '..', 'blocklist', 'default');
+const defaultFolder = path.join(__dirname, '..', 'blocklist', 'template');
 const generatedFolder = path.join(__dirname, '..', 'blocklist', 'generated');
 
 (async () => {

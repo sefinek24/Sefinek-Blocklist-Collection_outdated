@@ -4,7 +4,7 @@ const path = require('node:path');
 (async () => {
 	let hasError = false;
 
-	const blocklistDir = path.join(__dirname, '..', 'blocklist', 'default');
+	const blocklistDir = path.join(__dirname, '..', 'blocklist', 'template');
 	const files = await getAllTxtFiles(blocklistDir);
 
 	async function getAllTxtFiles(dir) {
