@@ -14,8 +14,6 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: 18.x
-      - name: Pull latest changes
-        run: git pull
       - run: node scripts/create-everything-list.js
       - run: node scripts/generate-adguard.js
       - name: Commit & Push
