@@ -14,15 +14,14 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: 18.x
-      - run: node scripts/create-everything-list.js
-      - run: node scripts/generate-adguard.js
-      - name: Console all files
-        run: |
-          ls -R
-      - name: Add and Commit
-        uses: EndBug/add-and-commit@v7
-        with:
-          message: "Update blocklist files"
+      - name: Create everything list
+        run: node scripts/create-everything-list
+      - name: Generate AdGuard list
+        run: node scripts/generate-adguard.js
+      - name: Add files to Git index
+        run: git add .
+      - name: Commit changes
+        run: git commit -m "Update blocklist files by GitHub Actions"
         env:
           GIT_USER: GitHub Actions
       - name: Push changes
