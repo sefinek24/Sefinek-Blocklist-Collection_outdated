@@ -18,7 +18,7 @@ jobs:
       - run: node scripts/generate-adguard.js
       - name: Console all files
         run: |
-          ls
+          ls -R
       - name: Add and Commit
         uses: EndBug/add-and-commit@v7
         with:
