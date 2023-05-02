@@ -61,5 +61,5 @@ const generatedFolder = path.join(__dirname, '..', 'blocklist', 'generated');
 	domains.forEach((val) => content += `0.0.0.0 ${val}\n`);
 
 	await fs.writeFile(path.join(generatedFolder, 'everything.txt'), content, 'utf8');
-	console.log(`✔️ Saved everything.txt with ${domainsCount} domains`);
+	console.log(`✔️ Saved everything.txt with ${domainsCount} domains in ${generatedFolder}`);
 })();
