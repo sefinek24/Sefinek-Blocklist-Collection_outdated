@@ -1,24 +1,63 @@
-const fs = require('node:fs').promises;
-const path = require('node:path');
+const fs = require('fs').promises;
+const path = require('path');
 
-(async () => {
-	const files = (await fs.readdir(path.join(__dirname, '..'))).filter((file) => file.endsWith('.txt'));
+async function processFiles(dir) {
+	try {
+		await fs.mkdir(dir, { recursive: true });
 
-	await Promise.all(files.map(async file => {
-		const existingDomains = new Set();
+		const files = (await fs.readdir(dir)).filter((file) => file.endsWith('.txt'));
 
-		let fileContents = await fs.readFile(path.join(__dirname, '..', file), 'utf8');
+		await Promise.all(
+			files.map(async (file) => {
+				let fileContents = await fs.readFile(path.join(dir, file), 'utf8');
+				const existingDomains = new Set();
+				let lastDomain = '';
 
-		fileContents.split('\n').forEach((line) => {
-			if (line.startsWith('0.0.0.0 ')) {
-				const domain = line.replace('0.0.0.0 ', '');
-				if (existingDomains.has(domain)) {
-					fileContents = fileContents.replace(`${line}\n`, '');
-				}
-				existingDomains.add(domain);
-			}
-		});
+				const lines = fileContents.split('\n').map((line) => line.trim()).filter((line) => line !== ''); // usuwanie pustych linii i spacji
+				let duplicatesRemoved = 0;
 
-		await fs.writeFile(path.join(__dirname, '..', file), fileContents, 'utf8');
-	}));
+				fileContents = lines.filter((line) => {
+					if (line.startsWith('0.0.0.0 ')) {
+						const domain = line.replace('0.0.0.0 ', '');
+						if (existingDomains.has(domain)) {
+							duplicatesRemoved++;
+							return false;
+						} else {
+							existingDomains.add(domain);
+							lastDomain = line;
+							return true;
+						}
+					} else {
+						lastDomain = line;
+						return true;
+					}
+				}).join('\n');
+
+
+
+				await fs.writeFile(path.join(dir, file), fileContents, 'utf8');
+
+				console.log(`Removed ${duplicatesRemoved} duplicates from ${path.join(dir, file)}`);
+			}),
+		);
+
+		const subdirs = await fs.readdir(dir, { withFileTypes: true });
+		await Promise.all(
+			subdirs
+				.filter((d) => d.isDirectory())
+				.map((d) => processFiles(path.join(dir, d.name))),
+		);
+	} catch (err) {
+		console.error(err);
+	}
+
+}
+
+(async function main() {
+	try {
+		await processFiles(path.join(__dirname, '..', 'blocklist', 'generated'));
+		await processFiles(path.join(__dirname, '..', 'blocklist', 'template'));
+	} catch (err) {
+		console.error(err);
+	}
 })();
