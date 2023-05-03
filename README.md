@@ -1,7 +1,7 @@
 <img width="41%" align="right" src="images/kitten.png" alt="Gigachad kitten">
 <div align="center">
     <h1>
-        The best BlockList Collection<br> for Pi-hole ✋
+        The best BlockList Collection<br> made by Sefinek ✋
     </h1>
     <img src="images/adlists.png" alt="Domains on Adlists">
     <br>
@@ -13,7 +13,7 @@
 </div>
 <br>
 <div align="center">
-    <a href="https://sefinek.net/pihole-blocklist-customization" title="PiHole Blocklist Generator - Sefinek Official Website">
+    <a href="https://sefinek.net/pihole-blocklist-customization" title="Blocklist Generator for Pihole, AdGuard etc. - Sefinek">
         <img src="images/generator.png" width="90%" alt="">
     </a>
 </div>
