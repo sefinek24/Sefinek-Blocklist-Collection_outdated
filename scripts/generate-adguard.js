@@ -1,7 +1,7 @@
 const fs = require('node:fs').promises;
 const path = require('node:path');
-const date = require('./functions/date.js');
 const sha256File = require('sha256-file');
+const date = require('./functions/date.js');
 
 const convertToAdGuardFormat = async (folderPath = path.join(__dirname, '../blocklist/template')) => {
 	const adGuardPath = path.join(__dirname, '../blocklist/generated/adguard');
@@ -76,4 +76,5 @@ const convertToAdGuardFormat = async (folderPath = path.join(__dirname, '../bloc
 
 (async () => {
 	await convertToAdGuardFormat();
+	console.log('\n');
 })();
