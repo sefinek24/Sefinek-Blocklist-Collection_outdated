@@ -1,5 +1,5 @@
 {
-  "name": "blocklist-by-sefinek",
+  "name": "sefinek-blocklist-collection",
   "version": "1.0.0",
   "description": "The best collection of blocklists for Pi-hole, AdGuard and uBlock Origin made by Sefinek.",
   "main": "www/index.js",
