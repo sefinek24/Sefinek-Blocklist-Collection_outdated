@@ -1,0 +1,67 @@
+# -------------------------------------------------------------------------------------------------------------------------------------------------------
+#
+#      _____   ______   ______   _____   _   _   ______   _  __        ____    _         ____     _____   _  __  _        _____    _____   _______
+#     / ____| |  ____| |  ____| |_   _| | \ | | |  ____| | |/ /       |  _ \  | |       / __ \   / ____| | |/ / | |      |_   _|  / ____| |__   __|
+#    | (___   | |__    | |__      | |   |  \| | | |__    | ' /        | |_) | | |      | |  | | | |      | ' /  | |        | |   | (___      | |
+#     \___ \  |  __|   |  __|     | |   | . ` | |  __|   |  <         |  _ <  | |      | |  | | | |      |  <   | |        | |    \___ \     | |
+#     ____) | | |____  | |       _| |_  | |\  | | |____  | . \        | |_) | | |____  | |__| | | |____  | . \  | |____   _| |_   ____) |    | |
+#    |_____/  |______| |_|      |_____| |_| \_| |______| |_|\_\       |____/  |______|  \____/   \_____| |_|\_\ |______| |_____| |_____/     |_|
+#
+#                            The best collection of blocklists for Pi-hole, AdGuard and uBlock Origin: https://sefinek.net
+#                                            https://github.com/sefinek24/PiHole-Blocklist-Collection
+#
+# Title       : Block all Steam domains.
+# Description : Unknown.
+# Author      : Sefinek (https://sefinek.net) <contact@sefinek.net>
+# Release for : Dnsmasq
+# Version     : 1683077708792-20230503
+# Last update : 01:35:08.792, 03.05.2023 [HH:MM:SS.MS, DD.MM.YYYY]
+#
+# > READ MORE:
+# By using this blocklist, you can help protect yourself and others from accidentally accessing inappropriate content.
+# Please note that while this blocklist is designed to be comprehensive, it may not block every NSFW website.
+# It is still important to exercise caution when browsing the internet, especially if you are concerned about accessing explicit content.
+#
+# > ABOUT:
+# This file is part of the Pi-hole Blocklist Collection maintained by Sefinek.
+# If you encounter any issues or have suggestions, please open an issue on the GitHub repository or contact the author. Feel free to create new Pull Requests.
+#
+# > WARNING:
+# By using this file, you agree that the author is not responsible for any damages or losses that may result from its use.
+#
+# -------------------------------------------------------------------------------------------------------------------------------------------------------
+server=/akamaihd.net/
+server=/akamaized.net/
+server=/api.steampowered.com/
+server=/avatars.akamai.steamstatic.com/
+server=/avatars.cloudflare.steamstatic.com/
+server=/cdn.akamai.steamstatic.com/
+server=/community.akamai.steamstatic.com/
+server=/cs.steampowered.com/
+server=/ext1-fra1.steamserver.net/
+server=/ext1-fra2.steamserver.net/
+server=/forums.steampowered.com/
+server=/help.steampowered.com/
+server=/ipv6check-http.steamserver.net/
+server=/ipv6check-udp.steamserver.net/
+server=/steam-dns.top/
+server=/steam.live/
+server=/steamcommunity.com/
+server=/steamcontent.com/
+server=/steamdb.info/
+server=/steamgames.com/
+server=/steamgifts.com/
+server=/steamstatic.com/
+server=/steamusercontent-a.akamaihd.net/
+server=/steamusercontent-a.akamaized.net/
+server=/steamusercontent-a.steamstatic.com/
+server=/steamusercontent.com/
+server=/steamuserimages-a.akamaihd.net/
+server=/steamuserimages-a.akamaized.net/
+server=/store.akamai.steamstatic.com/
+server=/store.steampowered.com/
+server=/test.steampowered.com/
+server=/vortigaunt.steamstat.us/
+server=/www.steamcommunity.com/
+server=/www.steamdb.info/
+server=/www.steamgifts.com/
