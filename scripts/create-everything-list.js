@@ -47,7 +47,7 @@ const generatedFolder = path.join(__dirname, '..', 'blocklist', 'generated');
 # GitHub      : https://github.com/sefinek24/PiHole-Blocklist-Collection
 # Release for : Default (with 0.0.0.0)
 # Domains     : ${domainsCount}
-# Version     : ${date.timestamp}-${date.year}${date.month}${date.day}
+# Version     : ${date.timestamp}
 # Last update : ${date.hours}:${date.minutes}:${date.seconds}.${date.milliseconds}, ${date.day}.${date.month}.${date.year} [HH:MM:SS.MS, DD.MM.YYYY]
 #
 # > WARNING:

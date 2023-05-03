@@ -47,7 +47,7 @@ const convert = async (folderPath = path.join(__dirname, '../blocklist/template'
 			.replaceAll(/^0\.0\.0\.0 /gmu, 'server=/')
 			.replaceAll(/^# 0\.0\.0\.0 /gmu, '# server=/')
 			.replace(/<Release>/gim, 'Dnsmasq')
-			.replace(/<Version>/gim, `${date.timestamp}-${date.year}${date.month}${date.day}`)
+			.replace(/<Version>/gim, date.timestamp.toString())
 			.replace(/<LastUpdate>/gim, `${date.hours}:${date.minutes}:${date.seconds}.${date.milliseconds}, ${date.day}.${date.month}.${date.year} [HH:MM:SS.MS, DD.MM.YYYY]`);
 
 		const subFolderName = path.basename(path.dirname(thisFileName));
