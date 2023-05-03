@@ -14,8 +14,8 @@
 ! » Description : Unknown.
 ! » Author      : Sefinek (https://sefinek.net) <contact@sefinek.net>
 ! » Release     : AdGuard [adguard.com]
-! » Version     : 1683143008956
-! » Last update : 19:43:28.956, 03.05.2023 [GMT+2 HH:MM:SS.MS, DD.MM.YYYY]
+! » Version     : 1683143893577
+! » Last update : 19:58:13.577, 03.05.2023 [GMT+2 HH:MM:SS.MS, DD.MM.YYYY]
 !
 ! 〢 Warning:
 ! By using this file, you acknowledge that the author is not liable for any damages or losses that may arise from its use, although the likelihood of such events is low.
@@ -27,3 +27,4 @@
 ! -------------------------------------------------------------------------------------------------------------------------------------------------------
 ||dnstest.sefinek.net^
 ||dnstest.sefinek.workers.dev^
+||example.com^
