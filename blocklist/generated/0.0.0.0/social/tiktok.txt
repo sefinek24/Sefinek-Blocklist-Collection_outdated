@@ -1,0 +1,183 @@
+# -------------------------------------------------------------------------------------------------------------------------------------------------------
+#
+#      _____   ______   ______   _____   _   _   ______   _  __        ____    _         ____     _____   _  __  _        _____    _____   _______
+#     / ____| |  ____| |  ____| |_   _| | \ | | |  ____| | |/ /       |  _ \  | |       / __ \   / ____| | |/ / | |      |_   _|  / ____| |__   __|
+#    | (___   | |__    | |__      | |   |  \| | | |__    | ' /        | |_) | | |      | |  | | | |      | ' /  | |        | |   | (___      | |
+#     \___ \  |  __|   |  __|     | |   | . ` | |  __|   |  <         |  _ <  | |      | |  | | | |      |  <   | |        | |    \___ \     | |
+#     ____) | | |____  | |       _| |_  | |\  | | |____  | . \        | |_) | | |____  | |__| | | |____  | . \  | |____   _| |_   ____) |    | |
+#    |_____/  |______| |_|      |_____| |_| \_| |______| |_|\_\       |____/  |______|  \____/   \_____| |_|\_\ |______| |_____| |_____/     |_|
+#
+#                            The best collection of blocklists for Pi-hole, AdGuard and uBlock Origin: https://sefinek.net
+#                                            https://github.com/sefinek24/PiHole-Blocklist-Collection
+#
+# » Title       : Block all TikTok domains.
+# » Description : Unknown.
+# » Author      : Sefinek (https://sefinek.net) <contact@sefinek.net>
+# » Release     : 0.0.0.0 before each domain
+# » Version     : 1683143008033
+# » Last update : 19:43:28.033, 03.05.2023 [GMT+2 HH:MM:SS.MS, DD.MM.YYYY]
+#
+# 〢 Read more:
+# By using this blocklist, you can help protect yourself and others from accidentally accessing inappropriate content.
+# Please note that while this blocklist is designed to be comprehensive, it may not block every NSFW website.
+# It is still important to exercise caution when browsing the internet, especially if you are concerned about accessing explicit content.
+#
+# 〢 About:
+# This file is part of the Sefinek's Blocklist Collection, maintained by github.com/sefinek24.
+# If you come across any false positives, please create a new Issue or Pull request on GitHub. Thank you!
+#
+# 〢 Warning:
+# By using this file, you acknowledge that the author is not liable for any damages or losses that may arise from its use, although the likelihood of such events is low.
+#
+# -------------------------------------------------------------------------------------------------------------------------------------------------------
+0.0.0.0 ads.tiktok.com
+0.0.0.0 api16-core-c-useast1a.tiktokv.com
+0.0.0.0 api16-core.tiktokv.com
+0.0.0.0 api16-normal-c-alisg.tiktokv.com
+0.0.0.0 api16-normal-c-useast1a.tiktokv.com
+0.0.0.0 api16-normal-useast5.us.tiktokv.com
+0.0.0.0 api19-core-c-useast1a.tiktokv.com
+0.0.0.0 api19-normal-c-useast1a.tiktokv.com
+0.0.0.0 api22-core.tiktokv.com
+0.0.0.0 bsync-va.tiktokv.com
+0.0.0.0 frontier-va.tiktokv.com
+0.0.0.0 gecko16-normal-useast1a.tiktokv.com
+0.0.0.0 gecko19-normal-useast1a.tiktokv.com
+0.0.0.0 hotapi16-normal-useast1a.tiktokv.com
+0.0.0.0 hotapi19-normal-useast1a.tiktokv.com
+0.0.0.0 im16-normal-c-useast1a.tiktokv.com
+0.0.0.0 jsb16-normal-useast1a.tiktokv.com
+0.0.0.0 lf16-effectcdn-va.tiktokcdn.com
+0.0.0.0 lf16-tiktok-common.ibytedtos.com
+0.0.0.0 lf16-tiktok-common.ttwstatic.com
+0.0.0.0 lf16-tiktok-web.ttwstatic.com
+0.0.0.0 lf19-effectcdn-va.tiktokcdn.com
+0.0.0.0 libra-va.tiktokv.com
+0.0.0.0 libra16-normal-useast1a.tiktokv.com
+0.0.0.0 libra19-normal-useast1a.tiktokv.com
+0.0.0.0 log16-normal-useast1a.tiktokv.com
+0.0.0.0 log22-normal-useast1a.tiktokv.com
+0.0.0.0 m.tiktok.com
+0.0.0.0 mcs-va.tiktok.com
+0.0.0.0 mon16-normal-useast1a.tiktokv.com
+0.0.0.0 mon19-normal-useast1a.tiktokv.com
+0.0.0.0 mssdk16-normal-useast1a.tiktokv.com
+0.0.0.0 mssdk19-normal-useast1a.tiktokv.com
+0.0.0.0 newsroom.tiktok.com
+0.0.0.0 oec16-normal-useast1a.tiktokv.com
+0.0.0.0 p16-amd-va.tiktokcdn.com
+0.0.0.0 p16-sign-sg.tiktokcdn.com
+0.0.0.0 p16-sign-va.tiktokcdn.com
+0.0.0.0 p16-sign.tiktokcdn-us.com
+0.0.0.0 p16-va.tiktokcdn.com
+0.0.0.0 p19-sign.tiktokcdn-us.com
+0.0.0.0 p19-webcast.tiktokcdn.com
+0.0.0.0 p58-sign-sg.tiktokcdn.com
+0.0.0.0 p77-sg.tiktokcdn.com
+0.0.0.0 p77-sign-sg.tiktokcdn.com
+0.0.0.0 p77-sign-va-lite.tiktokcdn.com
+0.0.0.0 p77-sign-va.tiktokcdn.com
+0.0.0.0 pull-a5-gcp01.tiktokcdn.com
+0.0.0.0 pull-a5-sg01.tiktokcdn.com
+0.0.0.0 pull-a5-tt01.fcdn.us.tiktokv.com
+0.0.0.0 pull-a5-va01.tiktokcdn.com
+0.0.0.0 pull-c5-va01.tiktokcdn.com
+0.0.0.0 pull-cmaf-f16-gcp01.tiktokcdn.com
+0.0.0.0 pull-cmaf-f16-gcp01.ttlivecdn.com
+0.0.0.0 pull-cmaf-f16-sg01.tiktokcdn.com
+0.0.0.0 pull-cmaf-f16-sg01.ttlivecdn.com
+0.0.0.0 pull-cmaf-f16-tt01.fcdn.us.tiktokv.com
+0.0.0.0 pull-cmaf-f16-tt01.tiktokcdn.com
+0.0.0.0 pull-cmaf-f16-tt02.fcdn.us.tiktokv.com
+0.0.0.0 pull-cmaf-f16-tt02.tiktokcdn.com
+0.0.0.0 pull-cmaf-f16-va01.tiktokcdn.com
+0.0.0.0 pull-cmaf-f16-va01.ttlivecdn.com
+0.0.0.0 pull-cmaf-f58-sg01.tiktokcdn.com
+0.0.0.0 pull-cmaf-f77-gcp01.tiktokcdn.com
+0.0.0.0 pull-cmaf-f77-sg01.tiktokcdn.com
+0.0.0.0 pull-cmaf-f77-va01.tiktokcdn.com
+0.0.0.0 pull-cmaf-l10-gcp01.tiktokcdn.com
+0.0.0.0 pull-cmaf-l10-sg01.tiktokcdn.com
+0.0.0.0 pull-cmaf-l16-gcp01.tiktokcdn.com
+0.0.0.0 pull-cmaf-l16-sg01.tiktokcdn.com
+0.0.0.0 pull-cmaf-l16-tt01.tiktokcdn-us.com
+0.0.0.0 pull-cmaf-l16-va01.tiktokcdn.com
+0.0.0.0 pull-cmaf-l77-va01.tiktokcdn.com
+0.0.0.0 pull-f5-gcp01.tiktokcdn.com
+0.0.0.0 pull-f5-gcp01.ttlivecdn.com
+0.0.0.0 pull-f5-sg01.tiktokcdn.com
+0.0.0.0 pull-f5-sg01.ttlivecdn.com
+0.0.0.0 pull-f5-tt01.fcdn.us.tiktokv.com
+0.0.0.0 pull-f5-tt01.tiktokcdn.com
+0.0.0.0 pull-f5-tt02-infra.fcdn.us.tiktokv.com
+0.0.0.0 pull-f5-tt02.fcdn.us.tiktokv.com
+0.0.0.0 pull-f5-tt02.tiktokcdn.com
+0.0.0.0 pull-f5-va01.tiktokcdn.com
+0.0.0.0 pull-f5-va01.ttlivecdn.com
+0.0.0.0 pull-flv-f10-gcp01.tiktokcdn.com
+0.0.0.0 pull-flv-f10-sg01.tiktokcdn.com
+0.0.0.0 pull-flv-f10-va01.tiktokcdn.com
+0.0.0.0 pull-flv-f77-gcp01.tiktokcdn.com
+0.0.0.0 pull-flv-f77-sg01.tiktokcdn.com
+0.0.0.0 pull-flv-f77-va01.tiktokcdn.com
+0.0.0.0 pull-flv-l10-gcp01.tiktokcdn.com
+0.0.0.0 pull-flv-l10-sg01.tiktokcdn.com
+0.0.0.0 pull-flv-l16-gcp01.tiktokcdn.com
+0.0.0.0 pull-flv-l16-sg01.tiktokcdn.com
+0.0.0.0 pull-flv-l16-tt01.tiktokcdn-us.com
+0.0.0.0 pull-flv-l16-va01.tiktokcdn.com
+0.0.0.0 pull-flv-l77-va01.tiktokcdn.com
+0.0.0.0 pull-hls-f58-sg01.tiktokcdn.com
+0.0.0.0 pull-hls-f77-gcp01.tiktokcdn.com
+0.0.0.0 pull-hls-f77-sg01.tiktokcdn.com
+0.0.0.0 pull-hls-f77-va01.tiktokcdn.com
+0.0.0.0 pull-hls-l77-va01.tiktokcdn.com
+0.0.0.0 pull-o5-gcp01.tiktokcdn.com
+0.0.0.0 pull-o5-sg01.tiktokcdn.com
+0.0.0.0 pull-q5-gcp01.tiktokcdn.com
+0.0.0.0 pull-q5-sg01.tiktokcdn.com
+0.0.0.0 pull-q5-va01.tiktokcdn.com
+0.0.0.0 pull-w5-gcp01.tiktokcdn.com
+0.0.0.0 pull-w5-sg01.tiktokcdn.com
+0.0.0.0 pull-w5-va01.tiktokcdn.com
+0.0.0.0 push-rtmp-f5-tt02.fcdn.us.tiktokv.com
+0.0.0.0 push-rtmp-f5-va01.tiktokcdn.com
+0.0.0.0 push-rtmp-f5-va01.ttlivecdn.com
+0.0.0.0 push-rtmp-l16-va01.tiktokcdn.com
+0.0.0.0 push-rtmp-l77-va01.tiktokcdn.com
+0.0.0.0 rtlog16-normal-useast1a.tiktokv.com
+0.0.0.0 rtlog22-normal-useast1a.tiktokv.com
+0.0.0.0 s20.tiktokcdn.com
+0.0.0.0 search16-normal-c-useast1a.tiktokv.com
+0.0.0.0 search19-normal-c-useast1a.tiktokv.com
+0.0.0.0 seller-th.tiktok.com
+0.0.0.0 sf16-ies-music-sg.tiktokcdn.com
+0.0.0.0 sf16-ies-music-va.tiktokcdn.com
+0.0.0.0 sf16-ies-music.tiktokcdn.com
+0.0.0.0 sf16-sg.tiktokcdn.com
+0.0.0.0 shop.tiktok.com
+0.0.0.0 support.tiktok.com
+0.0.0.0 tiktok.com
+0.0.0.0 tiktokcdn-us.com
+0.0.0.0 tiktokcdn.com
+0.0.0.0 tiktokv.com
+0.0.0.0 tnc16-platform-alisg.tiktokv.com
+0.0.0.0 tnc16-platform-useast1a.tiktokv.com
+0.0.0.0 tnc16-platform-useast2a.tiktokv.com
+0.0.0.0 tnc31-platform-useast2a.tiktokv.com
+0.0.0.0 tos-d-maliva19-up-va.tiktokcdn.com
+0.0.0.0 tos-quic-gcppl.tiktokcdn.com
+0.0.0.0 v16-webapp.tiktok.com
+0.0.0.0 v16.tiktokcdn.com
+0.0.0.0 v16m.tiktokcdn.com
+0.0.0.0 v39-dynamic-waw1a.tiktokcdn.com
+0.0.0.0 v39-eu-p.tiktokcdn.com
+0.0.0.0 v39-eu.tiktokcdn.com
+0.0.0.0 v58.tiktokcdn.com
+0.0.0.0 v77.tiktokcdn.com
+0.0.0.0 vcs-va.tiktokv.com
+0.0.0.0 webcast16-normal-c-useast1a.tiktokv.com
+0.0.0.0 webcast16-ws-useast1a.tiktokv.com
+0.0.0.0 webcast19-normal-c-useast1a.tiktokv.com
+0.0.0.0 webcast22-ws-useast1a.tiktokv.com
+0.0.0.0 www.tiktok.com
