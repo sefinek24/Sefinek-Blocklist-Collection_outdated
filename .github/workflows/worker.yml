@@ -46,7 +46,7 @@ jobs:
         run: node scripts/generate-dnsmasq.js
 
       - name: Show files
-        run: ls -R /home/runner/work/PiHole-BlockList-Test/PiHole-BlockList-Test
+        run: ls -R /home/runner/work
 
       - name: Commit files
         run: |
