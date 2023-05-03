@@ -1,0 +1,42 @@
+# -------------------------------------------------------------------------------------------------------------------------------------------------------
+#
+#      _____   ______   ______   _____   _   _   ______   _  __        ____    _         ____     _____   _  __  _        _____    _____   _______
+#     / ____| |  ____| |  ____| |_   _| | \ | | |  ____| | |/ /       |  _ \  | |       / __ \   / ____| | |/ / | |      |_   _|  / ____| |__   __|
+#    | (___   | |__    | |__      | |   |  \| | | |__    | ' /        | |_) | | |      | |  | | | |      | ' /  | |        | |   | (___      | |
+#     \___ \  |  __|   |  __|     | |   | . ` | |  __|   |  <         |  _ <  | |      | |  | | | |      |  <   | |        | |    \___ \     | |
+#     ____) | | |____  | |       _| |_  | |\  | | |____  | . \        | |_) | | |____  | |__| | | |____  | . \  | |____   _| |_   ____) |    | |
+#    |_____/  |______| |_|      |_____| |_| \_| |______| |_|\_\       |____/  |______|  \____/   \_____| |_|\_\ |______| |_____| |_____/     |_|
+#
+#                            The best collection of blocklists for Pi-hole, AdGuard and uBlock Origin: https://sefinek.net
+#                                            https://github.com/sefinek24/PiHole-Blocklist-Collection
+#
+# Title       : Block phising websites
+# Description : This blocklist is designed to prevent access to NSFW (Not Safe For Work) websites, which may contain explicit content not suitable for minors or in certain settings.
+# Author      : Sefinek (https://sefinek.net) <contact@sefinek.net>
+# Release for : 0.0.0.0 before each domain
+# Version     : 1683077283501-20230503
+# Last update : 01:28:03.501, 03.05.2023 [HH:MM:SS.MS, DD.MM.YYYY]
+#
+# > READ MORE:
+# Phishing attacks are a form of online fraud where attackers try to trick users into divulging sensitive information, such as usernames, passwords, and credit card numbers.
+# Please note that while this blocklist is designed to be comprehensive, it may not block every phishing website.
+# It is still important to exercise caution when browsing the internet, especially if you receive unsolicited emails or messages requesting personal information.
+#
+# > WARNING:
+# By using this file, you agree that the author is not responsible for any damages or losses that may result from its use.
+#
+# > ABOUT:
+# This file is part of the Pi-hole Blocklist Collection maintained by Sefinek.
+# If you encounter any issues or have suggestions, please open an issue on the GitHub repository or contact the author. Feel free to create new Pull Requests.
+#
+# -------------------------------------------------------------------------------------------------------------------------------------------------------
+cnvlink.com
+game.gppbet.com
+ggcasino.site
+m.bison.partners
+okebet168.com
+www.cnvlink.com
+www.game.gppbet.com
+www.ggcasino.site
+www.m.bison.partners
+www.okebet168.com

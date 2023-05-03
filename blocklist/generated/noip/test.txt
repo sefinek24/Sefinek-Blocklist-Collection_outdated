@@ -13,9 +13,9 @@
 # Title       : DO NOT USE THIS!
 # Description : Unknown.
 # Author      : Sefinek (https://sefinek.net) <contact@sefinek.net>
-# Release for : NoIP
-# Version     : 1683076790608-20230503
-# Last update : 01:19:50.608, 03.05.2023 [HH:MM:SS.MS, DD.MM.YYYY]
+# Release for : No IP (only domains)
+# Version     : 1683077283329-20230503
+# Last update : 01:28:03.329, 03.05.2023 [HH:MM:SS.MS, DD.MM.YYYY]
 #
 # > WARNING:
 # By using this file, you agree that the author is not responsible for any damages or losses that may result from its use.
@@ -27,4 +27,3 @@
 # -------------------------------------------------------------------------------------------------------------------------------------------------------
 dnstest.sefinek.net
 dnstest.sefinek.workers.dev
-test.com
