@@ -13,9 +13,9 @@
 # Title       : Block websites that are reported by Norton Antivirus to carry out network attacks.
 # Description : https://cdn.sefinek.net/resources/PiHole-Blocklist-Collection/Norton.txt
 # Author      : Sefinek (https://sefinek.net) <contact@sefinek.net>
-# Release for : Dnsmasq
-# Version     : 1683077708792-20230503
-# Last update : 01:35:08.792, 03.05.2023 [HH:MM:SS.MS, DD.MM.YYYY]
+# Release     : Dnsmasq
+# Version     : 1683078207258-20230503
+# Last update : 01:43:27.258, 03.05.2023 [HH:MM:SS.MS, DD.MM.YYYY]
 #
 # > READ MORE:
 # Please note that the listed websites in this file have been flagged by Norton Antivirus as potentially harmful.

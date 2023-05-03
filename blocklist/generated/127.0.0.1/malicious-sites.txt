@@ -13,9 +13,9 @@
 # Title       : Block websites that are reported by Norton Antivirus to be malicious. More: https://cdn.sefinek.net/resources/PiHole-Blocklist-Collection/Norton.txt
 # Description : These websites may contain malware, viruses, phishing scams, or other types of harmful content that can infect your computer, steal your personal information, or damage your device. Remember not to visit these websites.
 # Author      : Sefinek (https://sefinek.net) <contact@sefinek.net>
-# Release for : 127.0.0.1 before each domain
-# Version     : 1683077707636-20230503
-# Last update : 01:35:07.636, 03.05.2023 [HH:MM:SS.MS, DD.MM.YYYY]
+# Release     : 127.0.0.1 before each domain
+# Version     : 1683078206248-20230503
+# Last update : 01:43:26.248, 03.05.2023 [HH:MM:SS.MS, DD.MM.YYYY]
 #
 # > READ MORE:
 # Please note that the listed websites in this file have been flagged by Norton Antivirus as potentially harmful.
