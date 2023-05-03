@@ -1,19 +1,17 @@
 const fs = require('fs').promises;
 const path = require('path');
 
-async function processFiles(dir) {
+const processFiles = async dir => {
+	await fs.mkdir(dir, { recursive: true });
+
 	try {
-		await fs.mkdir(dir, { recursive: true });
-
 		const files = (await fs.readdir(dir)).filter((file) => file.endsWith('.txt'));
-
 		await Promise.all(
 			files.map(async (file) => {
 				let fileContents = await fs.readFile(path.join(dir, file), 'utf8');
 				const existingDomains = new Set();
-				let lastDomain = '';
 
-				const lines = fileContents.split('\n').map((line) => line.trim()).filter((line) => line !== ''); // usuwanie pustych linii i spacji
+				const lines = fileContents.split('\n').map((line) => line.trim()).filter((line) => line !== '');
 				let duplicatesRemoved = 0;
 
 				fileContents = lines.filter((line) => {
@@ -24,36 +22,34 @@ async function processFiles(dir) {
 							return false;
 						} else {
 							existingDomains.add(domain);
-							lastDomain = line;
 							return true;
 						}
 					} else {
-						lastDomain = line;
 						return true;
 					}
 				}).join('\n');
 
-
-
 				await fs.writeFile(path.join(dir, file), fileContents, 'utf8');
-
-				console.log(`Removed ${duplicatesRemoved} duplicates from ${path.join(dir, file)}`);
+				if (duplicatesRemoved > 0) {
+					console.log(`🗑️ ${duplicatesRemoved} duplicates removed from ${path.join(dir, file)}`);
+				} else {
+					console.log(`✔️  No actions required in ${path.join(dir, file)}`);
+				}
 			}),
 		);
 
-		const subdirs = await fs.readdir(dir, { withFileTypes: true });
+		const subDirs = await fs.readdir(dir, { withFileTypes: true });
 		await Promise.all(
-			subdirs
+			subDirs
 				.filter((d) => d.isDirectory())
 				.map((d) => processFiles(path.join(dir, d.name))),
 		);
 	} catch (err) {
 		console.error(err);
 	}
+};
 
-}
-
-(async function main() {
+(async () => {
 	try {
 		await processFiles(path.join(__dirname, '..', 'blocklist', 'generated'));
 		await processFiles(path.join(__dirname, '..', 'blocklist', 'template'));
