@@ -4,7 +4,7 @@ const sha256File = require('sha256-file');
 const date = require('./functions/date.js');
 
 const convert = async (folderPath = path.join(__dirname, '../blocklist/template')) => {
-	const generatedPath = path.join(__dirname, '../blocklist/generated/noip');
+	const generatedPath = path.join(__dirname, '../blocklist/generated/127.0.0.1');
 	try {
 		await fs.access(generatedPath);
 	} catch (err) {
@@ -18,7 +18,7 @@ const convert = async (folderPath = path.join(__dirname, '../blocklist/template'
 		const thisFileName = path.join(folderPath, file.name);
 
 		// Cache
-		const cacheFolder = path.join(__dirname, `../cache/noip/${path.basename(path.dirname(thisFileName)) === 'template' ? '' : path.basename(path.dirname(thisFileName))}`);
+		const cacheFolder = path.join(__dirname, `../cache/127.0.0.1/${path.basename(path.dirname(thisFileName)) === 'template' ? '' : path.basename(path.dirname(thisFileName))}`);
 		await fs.mkdir(cacheFolder, { recursive: true });
 
 		const cacheFilePath = path.join(cacheFolder, `${file.name.replace('.txt', '')}.hash`);
@@ -45,7 +45,7 @@ const convert = async (folderPath = path.join(__dirname, '../blocklist/template'
 		const replacedFile = fileContent
 			.replaceAll(/^0\.0\.0\.0 /gmu, '')
 			.replaceAll(/^# 0\.0\.0\.0 /gmu, '# ')
-			.replace(/<Release>/gim, 'No IP (only domains)')
+			.replace(/<Release>/gim, '127.0.0.1 before each domain')
 			.replace(/<Version>/gim, `${date.timestamp}-${date.year}${date.month}${date.day}`)
 			.replace(/<LastUpdate>/gim, `${date.hours}:${date.minutes}:${date.seconds}.${date.milliseconds}, ${date.day}.${date.month}.${date.year} [HH:MM:SS.MS, DD.MM.YYYY]`);
 
