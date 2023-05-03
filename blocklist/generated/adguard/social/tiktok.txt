@@ -1,0 +1,183 @@
+! -------------------------------------------------------------------------------------------------------------------------------------------------------
+!
+!      _____   ______   ______   _____   _   _   ______   _  __        ____    _         ____     _____   _  __  _        _____    _____   _______
+!     / ____| |  ____| |  ____| |_   _| | \ | | |  ____| | |/ /       |  _ \  | |       / __ \   / ____| | |/ / | |      |_   _|  / ____| |__   __|
+!    | (___   | |__    | |__      | |   |  \| | | |__    | ' /        | |_) | | |      | |  | | | |      | ' /  | |        | |   | (___      | |
+!     \___ \  |  __|   |  __|     | |   | . ` | |  __|   |  <         |  _ <  | |      | |  | | | |      |  <   | |        | |    \___ \     | |
+!     ____) | | |____  | |       _| |_  | |\  | | |____  | . \        | |_) | | |____  | |__| | | |____  | . \  | |____   _| |_   ____) |    | |
+!    |_____/  |______| |_|      |_____| |_| \_| |______| |_|\_\       |____/  |______|  \____/   \_____| |_|\_\ |______| |_____| |_____/     |_|
+!
+!                            The best collection of blocklists for Pi-hole, AdGuard and uBlock Origin: https://sefinek.net
+!                                            https://github.com/sefinek24/PiHole-Blocklist-Collection
+!
+! » Title       : Block all TikTok domains.
+! » Description : Unknown.
+! » Author      : Sefinek (https://sefinek.net) <contact@sefinek.net>
+! » Release     : AdGuard [adguard.com]
+! » Version     : 1683147086726
+! » Last update : 20:51:26.726, 03.05.2023 [GMT+2 HH:MM:SS.MS, DD.MM.YYYY]
+!
+! 〢 Read more:
+! By using this blocklist, you can help protect yourself and others from accidentally accessing inappropriate content.
+! Please note that while this blocklist is designed to be comprehensive, it may not block every NSFW website.
+! It is still important to exercise caution when browsing the internet, especially if you are concerned about accessing explicit content.
+!
+! 〢 About:
+! This file is part of the Sefinek's Blocklist Collection, maintained by github.com/sefinek24.
+! If you come across any false positives, please create a new Issue or Pull request on GitHub. Thank you!
+!
+! 〢 Warning:
+! By using this file, you acknowledge that the author is not liable for any damages or losses that may arise from its use, although the likelihood of such events is low.
+!
+! -------------------------------------------------------------------------------------------------------------------------------------------------------
+||ads.tiktok.com^
+||api16-core-c-useast1a.tiktokv.com^
+||api16-core.tiktokv.com^
+||api16-normal-c-alisg.tiktokv.com^
+||api16-normal-c-useast1a.tiktokv.com^
+||api16-normal-useast5.us.tiktokv.com^
+||api19-core-c-useast1a.tiktokv.com^
+||api19-normal-c-useast1a.tiktokv.com^
+||api22-core.tiktokv.com^
+||bsync-va.tiktokv.com^
+||frontier-va.tiktokv.com^
+||gecko16-normal-useast1a.tiktokv.com^
+||gecko19-normal-useast1a.tiktokv.com^
+||hotapi16-normal-useast1a.tiktokv.com^
+||hotapi19-normal-useast1a.tiktokv.com^
+||im16-normal-c-useast1a.tiktokv.com^
+||jsb16-normal-useast1a.tiktokv.com^
+||lf16-effectcdn-va.tiktokcdn.com^
+||lf16-tiktok-common.ibytedtos.com^
+||lf16-tiktok-common.ttwstatic.com^
+||lf16-tiktok-web.ttwstatic.com^
+||lf19-effectcdn-va.tiktokcdn.com^
+||libra-va.tiktokv.com^
+||libra16-normal-useast1a.tiktokv.com^
+||libra19-normal-useast1a.tiktokv.com^
+||log16-normal-useast1a.tiktokv.com^
+||log22-normal-useast1a.tiktokv.com^
+||m.tiktok.com^
+||mcs-va.tiktok.com^
+||mon16-normal-useast1a.tiktokv.com^
+||mon19-normal-useast1a.tiktokv.com^
+||mssdk16-normal-useast1a.tiktokv.com^
+||mssdk19-normal-useast1a.tiktokv.com^
+||newsroom.tiktok.com^
+||oec16-normal-useast1a.tiktokv.com^
+||p16-amd-va.tiktokcdn.com^
+||p16-sign-sg.tiktokcdn.com^
+||p16-sign-va.tiktokcdn.com^
+||p16-sign.tiktokcdn-us.com^
+||p16-va.tiktokcdn.com^
+||p19-sign.tiktokcdn-us.com^
+||p19-webcast.tiktokcdn.com^
+||p58-sign-sg.tiktokcdn.com^
+||p77-sg.tiktokcdn.com^
+||p77-sign-sg.tiktokcdn.com^
+||p77-sign-va-lite.tiktokcdn.com^
+||p77-sign-va.tiktokcdn.com^
+||pull-a5-gcp01.tiktokcdn.com^
+||pull-a5-sg01.tiktokcdn.com^
+||pull-a5-tt01.fcdn.us.tiktokv.com^
+||pull-a5-va01.tiktokcdn.com^
+||pull-c5-va01.tiktokcdn.com^
+||pull-cmaf-f16-gcp01.tiktokcdn.com^
+||pull-cmaf-f16-gcp01.ttlivecdn.com^
+||pull-cmaf-f16-sg01.tiktokcdn.com^
+||pull-cmaf-f16-sg01.ttlivecdn.com^
+||pull-cmaf-f16-tt01.fcdn.us.tiktokv.com^
+||pull-cmaf-f16-tt01.tiktokcdn.com^
+||pull-cmaf-f16-tt02.fcdn.us.tiktokv.com^
+||pull-cmaf-f16-tt02.tiktokcdn.com^
+||pull-cmaf-f16-va01.tiktokcdn.com^
+||pull-cmaf-f16-va01.ttlivecdn.com^
+||pull-cmaf-f58-sg01.tiktokcdn.com^
+||pull-cmaf-f77-gcp01.tiktokcdn.com^
+||pull-cmaf-f77-sg01.tiktokcdn.com^
+||pull-cmaf-f77-va01.tiktokcdn.com^
+||pull-cmaf-l10-gcp01.tiktokcdn.com^
+||pull-cmaf-l10-sg01.tiktokcdn.com^
+||pull-cmaf-l16-gcp01.tiktokcdn.com^
+||pull-cmaf-l16-sg01.tiktokcdn.com^
+||pull-cmaf-l16-tt01.tiktokcdn-us.com^
+||pull-cmaf-l16-va01.tiktokcdn.com^
+||pull-cmaf-l77-va01.tiktokcdn.com^
+||pull-f5-gcp01.tiktokcdn.com^
+||pull-f5-gcp01.ttlivecdn.com^
+||pull-f5-sg01.tiktokcdn.com^
+||pull-f5-sg01.ttlivecdn.com^
+||pull-f5-tt01.fcdn.us.tiktokv.com^
+||pull-f5-tt01.tiktokcdn.com^
+||pull-f5-tt02-infra.fcdn.us.tiktokv.com^
+||pull-f5-tt02.fcdn.us.tiktokv.com^
+||pull-f5-tt02.tiktokcdn.com^
+||pull-f5-va01.tiktokcdn.com^
+||pull-f5-va01.ttlivecdn.com^
+||pull-flv-f10-gcp01.tiktokcdn.com^
+||pull-flv-f10-sg01.tiktokcdn.com^
+||pull-flv-f10-va01.tiktokcdn.com^
+||pull-flv-f77-gcp01.tiktokcdn.com^
+||pull-flv-f77-sg01.tiktokcdn.com^
+||pull-flv-f77-va01.tiktokcdn.com^
+||pull-flv-l10-gcp01.tiktokcdn.com^
+||pull-flv-l10-sg01.tiktokcdn.com^
+||pull-flv-l16-gcp01.tiktokcdn.com^
+||pull-flv-l16-sg01.tiktokcdn.com^
+||pull-flv-l16-tt01.tiktokcdn-us.com^
+||pull-flv-l16-va01.tiktokcdn.com^
+||pull-flv-l77-va01.tiktokcdn.com^
+||pull-hls-f58-sg01.tiktokcdn.com^
+||pull-hls-f77-gcp01.tiktokcdn.com^
+||pull-hls-f77-sg01.tiktokcdn.com^
+||pull-hls-f77-va01.tiktokcdn.com^
+||pull-hls-l77-va01.tiktokcdn.com^
+||pull-o5-gcp01.tiktokcdn.com^
+||pull-o5-sg01.tiktokcdn.com^
+||pull-q5-gcp01.tiktokcdn.com^
+||pull-q5-sg01.tiktokcdn.com^
+||pull-q5-va01.tiktokcdn.com^
+||pull-w5-gcp01.tiktokcdn.com^
+||pull-w5-sg01.tiktokcdn.com^
+||pull-w5-va01.tiktokcdn.com^
+||push-rtmp-f5-tt02.fcdn.us.tiktokv.com^
+||push-rtmp-f5-va01.tiktokcdn.com^
+||push-rtmp-f5-va01.ttlivecdn.com^
+||push-rtmp-l16-va01.tiktokcdn.com^
+||push-rtmp-l77-va01.tiktokcdn.com^
+||rtlog16-normal-useast1a.tiktokv.com^
+||rtlog22-normal-useast1a.tiktokv.com^
+||s20.tiktokcdn.com^
+||search16-normal-c-useast1a.tiktokv.com^
+||search19-normal-c-useast1a.tiktokv.com^
+||seller-th.tiktok.com^
+||sf16-ies-music-sg.tiktokcdn.com^
+||sf16-ies-music-va.tiktokcdn.com^
+||sf16-ies-music.tiktokcdn.com^
+||sf16-sg.tiktokcdn.com^
+||shop.tiktok.com^
+||support.tiktok.com^
+||tiktok.com^
+||tiktokcdn-us.com^
+||tiktokcdn.com^
+||tiktokv.com^
+||tnc16-platform-alisg.tiktokv.com^
+||tnc16-platform-useast1a.tiktokv.com^
+||tnc16-platform-useast2a.tiktokv.com^
+||tnc31-platform-useast2a.tiktokv.com^
+||tos-d-maliva19-up-va.tiktokcdn.com^
+||tos-quic-gcppl.tiktokcdn.com^
+||v16-webapp.tiktok.com^
+||v16.tiktokcdn.com^
+||v16m.tiktokcdn.com^
+||v39-dynamic-waw1a.tiktokcdn.com^
+||v39-eu-p.tiktokcdn.com^
+||v39-eu.tiktokcdn.com^
+||v58.tiktokcdn.com^
+||v77.tiktokcdn.com^
+||vcs-va.tiktokv.com^
+||webcast16-normal-c-useast1a.tiktokv.com^
+||webcast16-ws-useast1a.tiktokv.com^
+||webcast19-normal-c-useast1a.tiktokv.com^
+||webcast22-ws-useast1a.tiktokv.com^
+||www.tiktok.com^
