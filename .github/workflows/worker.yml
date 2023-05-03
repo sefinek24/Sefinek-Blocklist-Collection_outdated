@@ -1,0 +1,58 @@
+name: Main worker
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Use Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: 18.x
+
+      - name: Run npm install
+        run: npm install
+
+      - name: Lint
+        run: node scripts/lint.js
+
+      - name: Remove duplicates
+        run: node scripts/remove-duplicates.js
+
+      - name: Create everything list
+        run: node scripts/create-everything-list
+
+      - name: Generate AdGuard list
+        run: node scripts/generate-adguard.js
+
+      - name: Generate Dnsmasq list
+        run: node scripts/generate-dnsmasq.js
+
+      - name: Generate NoIP list
+        run: node scripts/generate-noip.js
+
+      - name: Show files
+        run: ls -R /home/runner/work/PiHole-BlockList-Test/PiHole-BlockList-Test
+
+      - name: Commit files
+        run: |
+          git config --global user.name "Sefinek Actions"
+          git config --global user.email "sefinek.actions@gmail.com"
+          git add .
+          git status
+          git commit -m "Update files by GitHub Actions"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+          force: true

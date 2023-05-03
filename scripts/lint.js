@@ -4,8 +4,8 @@ const path = require('node:path');
 (async () => {
 	let hasError = false;
 
-	const blocklistDir = path.join(__dirname, '..', 'blocklist', 'template');
-	const files = await getAllTxtFiles(blocklistDir);
+	const blockListDir = path.join(__dirname, '..', 'blocklist', 'template');
+	const files = await getAllTxtFiles(blockListDir);
 
 	async function getAllTxtFiles(dir) {
 		const dirents = await fs.readdir(dir, { withFileTypes: true });
@@ -32,11 +32,11 @@ const path = require('node:path');
 			return null;
 		}).filter((a) => a !== null && !!a);
 
-		let isHeaderComplete = false;
+		// let isHeaderComplete = false;
 		fileContents.split('\n').forEach((line, index) => {
-			if (line.startsWith('0.0.0.0')) {
-				isHeaderComplete = true;
-			}
+			// if (line.startsWith('0.0.0.0')) {
+			// 	isHeaderComplete = true;
+			// }
 
 			// Ensuring that no version/date might confuse users that read the raw text-file(s)
 			if (line.length > 0 && !line.indexOf('Version')) {
