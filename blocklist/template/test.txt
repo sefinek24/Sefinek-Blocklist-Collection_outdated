@@ -7,22 +7,22 @@
 #     ____) | | |____  | |       _| |_  | |\  | | |____  | . \        | |_) | | |____  | |__| | | |____  | . \  | |____   _| |_   ____) |    | |
 #    |_____/  |______| |_|      |_____| |_| \_| |______| |_|\_\       |____/  |______|  \____/   \_____| |_|\_\ |______| |_____| |_____/     |_|
 #
-#                            The best collection of blocklists for Pi-hole, AdGuard and uBlock Origin: https://sefinek.net
+#                          The best collection of blocklists for Pi-hole, AdGuard and uBlock Origin made by https://sefinek.net
 #                                            https://github.com/sefinek24/PiHole-Blocklist-Collection
 #
-# Title       : DO NOT USE THIS!
-# Description : Unknown.
-# Author      : Sefinek (https://sefinek.net) <contact@sefinek.net>
-# Release     : <Release>
-# Version     : <Version>
-# Last update : <LastUpdate>
+# » Title       : DO NOT USE THIS!
+# » Description : Unknown.
+# » Author      : Sefinek (https://sefinek.net) <contact@sefinek.net>
+# » Release     : <Release>
+# » Version     : <Version>
+# » Last update : <LastUpdate>
 #
-# > WARNING:
-# By using this file, you agree that the author is not responsible for any damages or losses that may result from its use.
+# 〢 Warning:
+# By using this file, you acknowledge that the author is not liable for any damages or losses that may arise from its use, although the likelihood of such events is low.
 #
-# > ABOUT:
-# This file is part of the Pi-hole Blocklist Collection maintained by Sefinek.
-# If you encounter any issues or have suggestions, please open an issue on the GitHub repository or contact the author. Feel free to create new Pull Requests.
+# 〢 About:
+# This file is part of the Sefinek's Blocklist Collection, maintained by github.com/sefinek24.
+# If you come across any false positives, please create a new Issue or Pull request on GitHub. Thank you!
 #
 # -------------------------------------------------------------------------------------------------------------------------------------------------------
 0.0.0.0 dnstest.sefinek.net
