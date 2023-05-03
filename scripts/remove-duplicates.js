@@ -1,5 +1,5 @@
-const fs = require('fs').promises;
-const path = require('path');
+const fs = require('node:fs').promises;
+const path = require('node:path');
 
 const processFiles = async dir => {
 	await fs.mkdir(dir, { recursive: true });
