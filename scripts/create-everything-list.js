@@ -1,5 +1,5 @@
 const fs = require('fs/promises');
-const path = require('path');
+const path = require('node:path');
 const date = require('./functions/date.js');
 
 const defaultFolder = path.join(__dirname, '..', 'blocklist', 'template');

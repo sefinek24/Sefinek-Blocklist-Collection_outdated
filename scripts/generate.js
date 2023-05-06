@@ -1,3 +1,4 @@
+const createEverythingList = require('./create-everything-list.js');
 const generate000 = require('./generate-0.0.0.0.js');
 const generate127 = require('./generate-127.0.0.1.js');
 const generateAdGuard = require('./generate-adguard.js');
@@ -6,6 +7,9 @@ const generateNoIP = require('./generate-noip.js');
 const lint = require('./lint.js');
 
 (async () => {
+	console.log('\n\n🔵 Generating... Everything list');
+	await createEverythingList();
+
 	console.log('\n\n🔵 Generating... 0.0.0.0');
 	await generate000();
 
