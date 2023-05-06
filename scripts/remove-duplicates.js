@@ -23,7 +23,7 @@ const processDirectory = async (dirPath) => {
 						return true;
 					}
 
-					const domain = line.replace('0.0.0.0 ', '').replace('127.0.0.1', '');
+					const domain = line.replace('0.0.0.0 ', '').replace('127.0.0.1 ', '');
 
 					if (existingDomains.has(domain)) {
 						duplicatesRemoved++;
