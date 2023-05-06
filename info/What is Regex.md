@@ -9,12 +9,12 @@ This regular expression matches any string that starts with any number of letter
 
 You can also use regular expressions to block specific pages on a website. For example, the following regular expression would block any URL containing the word "tracking" on the example.com domain:
 ```regexp
-^([A-Za-z0-9-]+\.)*example\.com\/.*tracking.*
+^([A-Za-z0-9-]+\.)*example\.com/.*tracking.*
 ```
 This regular expression matches any string that starts with any number of letters, numbers, or hyphens followed by a period, and then repeats that pattern any number of times. The string must then include "example.com/", followed by any number of characters, and the word "tracking".
 
 Regular expressions can be a powerful tool for blocking unwanted content on your network. However, they can also be complex to create and maintain, so it's important to test your regex rules thoroughly before implementing them on your Pi-hole.
 
 <h3 align="right">
-    <a href="List.md">Go to recommended regex list »</a>
+    <a href="../Regex%20list.md">Go to recommended regex list »</a>
 </h3>

@@ -66,7 +66,7 @@ Therefore, please use it at your own risk.
 
 ## 🔧 Regex list
 <h3 align="center">
-    <a href="info/regex/Index.md">View the regex list and read additional information »</a>
+    <a href="info/What is Regex.md">View the regex list and read additional information »</a>
 </h3>
 
 ## 🤔 Tutorials
