@@ -5,16 +5,16 @@ const processFiles = async dir => {
 	await fs.mkdir(dir, { recursive: true });
 
 	try {
-		const files = (await fs.readdir(dir)).filter((file) => file.endsWith('.txt'));
+		const files = (await fs.readdir(dir)).filter(file => file.endsWith('.txt'));
 		await Promise.all(
-			files.map(async (file) => {
+			files.map(async file => {
 				let fileContents = await fs.readFile(path.join(dir, file), 'utf8');
 				const existingDomains = new Set();
 
 				const lines = fileContents.split('\n').map((line) => line.trim()).filter((line) => line !== '');
 				let duplicatesRemoved = 0;
 
-				fileContents = lines.filter((line) => {
+				fileContents = lines.filter(line => {
 					if (line.startsWith('0.0.0.0 ')) {
 						const domain = line.replace('0.0.0.0 ', '');
 						if (existingDomains.has(domain)) {
@@ -31,9 +31,9 @@ const processFiles = async dir => {
 
 				await fs.writeFile(path.join(dir, file), fileContents, 'utf8');
 				if (duplicatesRemoved > 0) {
-					console.log(`🗑️ ${duplicatesRemoved} duplicates removed from ${path.join(dir, file)}`);
+					console.log(`🗑️ ${duplicatesRemoved} ${duplicatesRemoved <= 1 ? 'duplicate' : 'duplicates'} removed from ${path.join(dir, file)}`);
 				} else {
-					console.log(`✔️  No actions required in ${path.join(dir, file)}`);
+					console.log(`✔️ No actions required in ${path.join(dir, file)}`);
 				}
 			}),
 		);
@@ -41,8 +41,8 @@ const processFiles = async dir => {
 		const subDirs = await fs.readdir(dir, { withFileTypes: true });
 		await Promise.all(
 			subDirs
-				.filter((d) => d.isDirectory())
-				.map((d) => processFiles(path.join(dir, d.name))),
+				.filter(d => d.isDirectory())
+				.map(d => processFiles(path.join(dir, d.name))),
 		);
 	} catch (err) {
 		console.error(err);
