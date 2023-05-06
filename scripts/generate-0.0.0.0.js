@@ -72,7 +72,11 @@ const convert = async (folderPath = path.join(__dirname, '../blocklist/template'
 	}
 };
 
-(async () => {
+const run = async () => {
 	await convert();
 	console.log('\n');
-})();
+};
+
+(async () => await run())();
+
+module.exports = () => run;

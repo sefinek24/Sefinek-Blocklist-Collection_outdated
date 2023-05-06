@@ -1,7 +1,7 @@
 const fs = require('node:fs').promises;
 const path = require('node:path');
 
-(async () => {
+const worker = async () => {
 	let hasError = false;
 
 	const blockListDir = path.join(__dirname, '..', 'blocklist', 'template');
@@ -98,4 +98,8 @@ const path = require('node:path');
 
 	console.log(hasError ? '❌ Linting failed!' : '✔️ Linting passed.');
 	process.exit(hasError ? 1 : 0);
-})();
+};
+
+(async () => await worker())();
+
+module.exports = () => worker;
