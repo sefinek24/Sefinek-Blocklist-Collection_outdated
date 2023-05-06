@@ -43,7 +43,7 @@ const header = size => {
 ## ---------------------------------------------------------------------------------------------------------------------------------------------------\n`;
 };
 
-(async () => {
+const worker = async () => {
 	try {
 		await fs.access(generatedFolder);
 	} catch (err) {
@@ -104,4 +104,8 @@ const header = size => {
 
 		console.log(`📝 Saved new file everything.txt with ${allDomainsSize} domains in ${generatedFolder}\n`);
 	}
-})();
+};
+
+(async () => worker())();
+
+module.exports = () => worker;
