@@ -10,7 +10,7 @@ const worker = async () => {
 	async function getAllTxtFiles(dir) {
 		const dirents = await fs.readdir(dir, { withFileTypes: true });
 		const filesPromise = await Promise.all(
-			dirents.map((dirent) => {
+			dirents.map(dirent => {
 				const res = path.resolve(dir, dirent.name);
 
 				return dirent.isDirectory() ? getAllTxtFiles(res) : res;

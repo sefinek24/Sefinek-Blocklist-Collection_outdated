@@ -1,15 +1,39 @@
 const express = require('express');
-const path = require('path');
+const cors = require('cors');
+const helmet = require('helmet');
+const path = require('node:path');
+const logger = require('./middlewares/morgan.js');
+const limiter = require('./middlewares/ratelimit.js');
+const { notFound, internalError } = require('./middlewares/other/errors.js');
+
+// Express instance
 const app = express();
 
-app.get('/', (req, res) => {
-	res.send('Hello World!');
-});
+// Set
+app.set('trust proxy', 1);
+app.set('view engine', 'ejs');
+app.set('views', path.join(__dirname, 'views'));
 
-const staticPath = path.join(__dirname, '..', 'blocklist', 'generated');
-console.log(staticPath);
-app.use('/static', express.static(staticPath));
+// Use
+app.use(cors({ origin: true }));
+app.use(helmet({ crossOriginResourcePolicy: false }));
+app.use(logger);
+app.use(express.static('public'));
+app.use(limiter);
 
+
+// Static
+app.use('/static', express.static(path.join(__dirname, '..', 'blocklist', 'generated')));
+
+// Endpoints
+app.get('/', (req, res) => res.render('index.ejs'));
+
+
+// Errors
+app.use(notFound);
+app.use(internalError);
+
+// Run server
 app.listen(process.env.PORT, () => {
 	if (process.env.NODE_ENV === 'production') {
 		process.send('ready');
