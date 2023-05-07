@@ -5,7 +5,7 @@
 ## 📋 Main regular expressions:
 
 ```regexp
-^ad([sxv]?[0-9]*|system)[_.-]([^.[:space]]+\.)a+|[_.-]ad([sxv]?[0-9]*|system)[_.-]
+^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]
 ^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]
 ^(.+[_.-])?telemetry[_.-]
 ^adim(age|g)s?[0-9]*[_.-]
