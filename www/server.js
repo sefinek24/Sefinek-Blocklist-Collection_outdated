@@ -18,7 +18,6 @@ app.set('views', path.join(__dirname, 'views'));
 app.use(cors({ origin: true }));
 app.use(helmet({ crossOriginResourcePolicy: false }));
 app.use(logger);
-app.use(express.static('public'));
 app.use(limiter);
 
 
