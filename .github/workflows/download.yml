@@ -1,9 +1,8 @@
 name: Download blocklists
 
 on:
-  push:
-  pull_request:
-    types: [push]
+  schedule:
+    - cron: '0 */5 * * *'
 
 jobs:
   download:
