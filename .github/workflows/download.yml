@@ -1,0 +1,13 @@
+name: Download blocklists
+
+on:
+  push:
+  pull_request:
+    types: [push]
+
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download StevenBlack hosts
+        run: curl https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts --output blocklist/template/StevenBlack.hosts.txt
