@@ -3,7 +3,7 @@ This repository contains a list of blocklists that have been downloaded and modi
 The blocklists were modified to improve their effectiveness and to ensure they do not block legitimate traffic.
 
 ### pgl.yoyo.org
-1. https://adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
+1. https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
    - **Modified version:** https://github.com/sefinek24/PiHole-Blocklist-Collection/blob/main/blocklist/ads-and-trackers.txt
    - **Added:** No additional domains have been added to this blocklist.
    - **Removed:**
