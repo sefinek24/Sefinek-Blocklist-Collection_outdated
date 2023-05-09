@@ -61,7 +61,7 @@ Therefore, please use it at your own risk.
 - [**YouTube & mobile ads etc.:**](info/block/YouTube%20and%20mobile%20ads%20etc..md)  Blocks domains that serve ads on YouTube and mobile devices.
 
 <h3 align="right">
-    <a href="lists/PiHole.md">📃 Click here choose your adblocker and copy URL addresses »</a>
+    <a href="lists/Index.md">📃 Click here choose your adblocker and copy URL addresses »</a>
 </h3>
 
 ## 🔧 Regex list
