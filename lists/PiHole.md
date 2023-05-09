@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>📥 Last list update: 13.04.2023 / DD.MM.YYYY</h1>
+    <h1>📥 Last list update: 09.05.2023 / DD.MM.YYYY</h1>
     <p>
         ⭐ <b>Mark this repository with a star if you find it useful.</b> ⭐
     </p>
@@ -14,9 +14,7 @@ https://adaway.org/hosts.txt
 https://big.oisd.nl
 https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
 https://blocklistproject.github.io/Lists/abuse.txt
-https://blocklistproject.github.io/Lists/ads.txt
 https://blocklistproject.github.io/Lists/drugs.txt
-https://blocklistproject.github.io/Lists/fraud.txt
 https://blocklistproject.github.io/Lists/gambling.txt
 https://blocklistproject.github.io/Lists/malware.txt
 https://blocklistproject.github.io/Lists/phishing.txt
@@ -26,16 +24,19 @@ https://blocklistproject.github.io/Lists/ransomware.txt
 https://blocklistproject.github.io/Lists/redirect.txt
 https://blocklistproject.github.io/Lists/scam.txt
 https://blocklistproject.github.io/Lists/tiktok.txt
-https://cdn.sefinek.net/resources/PiHole-Blocklist-Collection/blocklist/gambling.txt
-https://cdn.sefinek.net/resources/PiHole-Blocklist-Collection/blocklist/games/league-of-legends.txt
-https://cdn.sefinek.net/resources/PiHole-Blocklist-Collection/blocklist/games/valorant.txt
-https://cdn.sefinek.net/resources/PiHole-Blocklist-Collection/blocklist/malicious-sites.txt
-https://cdn.sefinek.net/resources/PiHole-Blocklist-Collection/blocklist/phishing.txt
-https://cdn.sefinek.net/resources/PiHole-Blocklist-Collection/blocklist/porn.txt
-https://cdn.sefinek.net/resources/PiHole-Blocklist-Collection/blocklist/sites/riotgames.txt
-https://cdn.sefinek.net/resources/PiHole-Blocklist-Collection/blocklist/social/tiktok.txt
-https://cdn.sefinek.net/resources/PiHole-Blocklist-Collection/blocklist/useless-websites.txt
-https://cdn.sefinek.net/resources/PiHole-Blocklist-Collection/blocklist/web-attacks.txt
+https://blocklist.sefinek.net/generated/0.0.0.0/ads-and-trackers.txt
+https://blocklist.sefinek.net/generated/0.0.0.0/ads.txt
+https://blocklist.sefinek.net/generated/0.0.0.0/fraud.txt
+https://blocklist.sefinek.net/generated/0.0.0.0/gambling.txt
+https://blocklist.sefinek.net/generated/0.0.0.0/games/league-of-legends.txt
+https://blocklist.sefinek.net/generated/0.0.0.0/games/valorant.txt
+https://blocklist.sefinek.net/generated/0.0.0.0/malicious-sites.txt
+https://blocklist.sefinek.net/generated/0.0.0.0/phishing.txt
+https://blocklist.sefinek.net/generated/0.0.0.0/porn.txt
+https://blocklist.sefinek.net/generated/0.0.0.0/sites/riotgames.txt
+https://blocklist.sefinek.net/generated/0.0.0.0/social/tiktok.txt
+https://blocklist.sefinek.net/generated/0.0.0.0/useless-websites.txt
+https://blocklist.sefinek.net/generated/0.0.0.0/web-attacks.txt
 https://ente.dev/api/blocklist/google-amp-hosts
 https://ente.dev/api/blocklist/tiktok
 https://ente.dev/api/blocklist/tv
@@ -49,7 +50,6 @@ https://justdomains.github.io/blocklists/lists/easyprivacy-justdomains.txt
 https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts-online.txt
 https://nsfw.oisd.nl
 https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
-https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 https://phishing.army/download/phishing_army_blocklist_extended.txt
 https://raw.githubusercontent.com/0Zinc/easylists-for-pihole/master/easylist.txt
 https://raw.githubusercontent.com/0Zinc/easylists-for-pihole/master/easyprivacy.txt
