@@ -17,7 +17,7 @@ https://blocklist.sefinek.net/generated/0.0.0.0/ads/jerryn70.GoodbyeAds.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/ads/TheBlockListProject.AdsList.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/ads/yoyo.AdsTrackersEtc.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/forks/StevenBlack.hosts.txt
-https://blocklist.sefinek.net/generated/0.0.0.0/forks/theBlockListProject.FraudList.txt
+https://blocklist.sefinek.net/generated/0.0.0.0/forks/TheBlockListProject.FraudList.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/fraud.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/gambling.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/games/league-of-legends.txt
