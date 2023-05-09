@@ -3,3 +3,5 @@
 </div>
 
 - [Pi-hole](PiHole.md)
+- [AdGuard](AdGuard.md)
+- [uBlock Origin](uBlock.md)
