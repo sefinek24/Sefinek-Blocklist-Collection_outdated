@@ -16,8 +16,8 @@
 # » License     : https://github.com/jerryn70/GoodbyeAds/blob/master/LICENSE
 # » Modified by : Sefinek (https://sefinek.net) <contact@sefinek.net>
 # » Release     : No IP (only domains)
-# » Version     : 1683602236385
-# » Last update : 03:17:16.385, 09.05.2023 [GMT+2 HH:MM:SS.MS, DD.MM.YYYY]
+# » Version     : 1683602961819
+# » Last update : 03:29:21.819, 09.05.2023 [GMT+2 HH:MM:SS.MS, DD.MM.YYYY]
 #
 # 〢 Important:
 # By using this blocklist, you can help protect yourself and others from accidentally accessing inappropriate content.
@@ -32,24 +32,6 @@
 # If you come across any false positives, please create a new Issue or Pull request on GitHub. Thank you!
 #
 # -------------------------------------------------------------------------------------------------------------------------------------------------------
-#
-# --------------------------------------------
-# L O C A L  H O S T
-# --------------------------------------------
-
-
-
-
-
-
-
-
-
-
-
-
-
-# --------------------------------------------
 #
 # --------------------------------------------
 # G O O D B Y E A D S  B E G I N S
@@ -16201,7 +16183,7 @@
 9z6k8pt7g6.kameleoon.eu
 9zx1pj.life
 checkra1n.cc
-_dmarc.mx.mx.www.connectindian.com
+dmarc.mx.mx.www.connectindian.com
 a-5.info
 a-94interdads.com
 a-ads.com
@@ -117942,7 +117924,6 @@ mirtrailer.ru
 mirzagelectronics.com
 mis.g.mi.com
 mis.migc.xiaomi.com
-mis.migc.xiaomi.comfile.m
 mis2.vserv.mobi
 misafnix.space
 misaglam.com
@@ -175706,7 +175687,7 @@ trk.krebsversicherung.de
 trk.lightdatahouse.com
 trk.luisaviaroma.com
 trk.m1.stadiumgoods.com
-trk.mail.ru,ping
+trk.mail.ru
 trk.maximus-solution.com
 trk.mddionline.com
 trk.meinearbeitsschuhe.com
