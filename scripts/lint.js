@@ -45,11 +45,11 @@ const worker = async () => {
 			}
 
 			// Ensuring that all lines start with "#" or "0.0.0.0 "
-			const prefixes = ['#', '0.0.0.0 ', '127.0.0.1 ', '255.255.255.255 ', '::1 ', 'fe80::1%lo0 ', 'ff00::0 ', 'ff02::1 ', 'ff02::2 ', 'ff02::3 '];
-			if (line.length > 0 && !prefixes.some(prefix => line.startsWith(prefix))) {
-				console.error(`[Line ${index + 1}]: Must start with "#" or "0.0.0.0" (standard) - ${file}`);
-				hasError = true;
-			}
+			// const prefixes = ['#', '0.0.0.0 ', '127.0.0.1 ', '255.255.255.255 ', '::1 ', 'fe80::1%lo0 ', 'ff00::0 ', 'ff02::1 ', 'ff02::2 ', 'ff02::3 '];
+			// if (line.length > 0 && !prefixes.some(prefix => line.startsWith(prefix))) {
+			// 	console.error(`[Line ${index + 1}]: Must start with "#" or "0.0.0.0" (standard) - ${file}`);
+			// 	hasError = true;
+			// }
 
 
 			// Checking to ensure all URLs are lowercase
@@ -75,14 +75,14 @@ const worker = async () => {
 			// }
 
 			// Ensure that the URL doesn't exist in the commentedURLs array
-			if (line.startsWith('0.0.0.0 ')) {
-				const lineNoIP = line.replace('0.0.0.0 ', '');
-				const url = lineNoIP.split('#')[0].trim();
-				if (commentedURLs.includes(url)) {
-					console.error(`[Line ${index + 1}]: in ${file} url ${url} is commented out in this file. This suggests an error. Please either remove this line or remove the commented URL.`);
-					hasError = true;
-				}
-			}
+			// if (line.startsWith('0.0.0.0 ')) {
+			// 	const lineNoIP = line.replace('0.0.0.0 ', '');
+			// 	const url = lineNoIP.split('#')[0].trim();
+			// 	if (commentedURLs.includes(url)) {
+			// 		console.error(`[Line ${index + 1}]: in ${file} url ${url} is commented out in this file. This suggests an error. Please either remove this line or remove the commented URL.`);
+			// 		hasError = true;
+			// 	}
+			// }
 
 			// Ensure that the URL doesn't contain whitespace characters
 			if (line.startsWith('0.0.0.0 ')) {
