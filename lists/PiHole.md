@@ -13,11 +13,11 @@
 https://adaway.org/hosts.txt
 https://big.oisd.nl
 https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
-https://blocklist.sefinek.net/generated/0.0.0.0/forks/modified/ads-and-trackers.txt
-https://blocklist.sefinek.net/generated/0.0.0.0/forks/modified/ads.txt
-https://blocklist.sefinek.net/generated/0.0.0.0/forks/modified/TheBlockListProject.AdsList.txt
-https://blocklist.sefinek.net/generated/0.0.0.0/forks/modified/theBlockListProject.FraudList.txt
-https://blocklist.sefinek.net/generated/0.0.0.0/forks/modified/yoyo.AdsTrackersEtc.txt
+https://blocklist.sefinek.net/generated/0.0.0.0/forks/ads-and-trackers.txt
+https://blocklist.sefinek.net/generated/0.0.0.0/forks/ads.txt
+https://blocklist.sefinek.net/generated/0.0.0.0/forks/TheBlockListProject.AdsList.txt
+https://blocklist.sefinek.net/generated/0.0.0.0/forks/theBlockListProject.FraudList.txt
+https://blocklist.sefinek.net/generated/0.0.0.0/forks/yoyo.AdsTrackersEtc.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/forks/StevenBlack.hosts.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/fraud.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/gambling.txt
