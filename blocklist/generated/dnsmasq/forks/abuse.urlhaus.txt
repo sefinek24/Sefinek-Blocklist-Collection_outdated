@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-11 15:23:28 (UTC)                      #
+# Last updated: 2023-05-11 15:29:04 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -192,7 +192,6 @@ server=/bodalnet.111.com.ec/
 server=/bodegasyespacios.com.pa/
 server=/bodybuildingsupplementzone.com/
 server=/boemicoffee.com/
-server=/boletisa.com/
 server=/bontiakhotel.net/
 server=/book-keepinghub.com/
 server=/bookkeepingagents.com/
@@ -214,7 +213,6 @@ server=/brknarikan.com/
 server=/brucesupplyplumbing.com/
 server=/bruiserbodies.com/
 server=/brumbysystems.com.au/
-server=/bsdtreeinc.com/
 server=/bship.biz/
 server=/bsinesssoft.com/
 server=/buckeyelakemargaritas.com/
@@ -923,6 +921,7 @@ server=/movimentoadoratori.it/
 server=/mrityunjaytrust.com/
 server=/mrketiando.com.br/
 server=/mskims.org/
+server=/mtsn3kukar.sch.id/
 server=/mujibbriyani.in/
 server=/mulberryhotels.in/
 server=/mumgee.co.za/
@@ -930,6 +929,7 @@ server=/musicaondemand.com/
 server=/mutualitemalienne.org/
 server=/mvinfotech.com/
 server=/myayurvedashoppe.com/
+server=/myhisense.com/
 server=/myjhaid.com/
 server=/myjkenterprise.com/
 server=/mylofn.com/
@@ -1257,6 +1257,7 @@ server=/spiritualoutdooradventures.org/
 server=/spit.com.mx/
 server=/spoiledit.com/
 server=/spontiacgruas.com/
+server=/src1.minibai.com/
 server=/srgarras.com.br/
 server=/srv-fattureincloud.de/
 server=/sshd.run/
@@ -1530,4 +1531,4 @@ server=/zenithcodes.com/
 server=/zero.ms/
 server=/zf.gouzapay.cn/
 server=/ztekkhosting.com/
-# Number of entries: 1523
+# Number of entries: 1524
