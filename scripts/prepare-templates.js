@@ -28,11 +28,32 @@ const processDirectory = async dirPath => {
 							return line;
 						}
 
-						// Check if domain contains uppercase letters
-						if ((line.startsWith('0.0.0.0 ') || line.startsWith('127.0.0.1 ') || !line.includes('#')) && (/[A-Z]/).test(line)) {
-							line = line.toLowerCase();
-							convertedDomains++;
+						if (!line.startsWith('#') && (/^(?:0.0.0.0|127.0.0.1)\s+/).test(line) && !line.endsWith('#') && (/^(?:0.0.0.0|127.0.0.1)\s+/).test(line)) {
+							const newLine = line.replace(/^\S+\s+(.*)$/, (match, p1) => {
+								return p1.trim().split(/\s+/).map(domain => `0.0.0.0 ${domain}`).join('\n');
+							});
+							if (newLine !== line) {
+								line = newLine;
+								modifiedLines++;
+							}
 						}
+
+						// Check if domain contains uppercase letters
+						if ((line.match(/^(0\.0\.0\.0|127\.0\.0\.1)\s/) || !line.includes('#')) && (/[A-Z]/).test(line)) {
+							const ip = line.split(/\s+/)[0];
+							const domain = line.split(/\s+/)[1].toLowerCase();
+							const comment = line.slice(line.indexOf('#'));
+
+							const modifiedLine = `${ip.trim()} ${domain.trim()} ${comment}`;
+							if (modifiedLine !== line) {
+								convertedDomains++;
+								modifiedLines++;
+
+								return modifiedLine;
+							}
+						}
+
+
 
 						if (line.includes('127.0.0.1 ')) {
 							const domain = line.replace('127.0.0.1 ', '').trim();
@@ -49,23 +70,9 @@ const processDirectory = async dirPath => {
 					})
 					.join('\n');
 
+				if (modifiedLines !== 0) console.log(`✔️ Changes made to ${fileName}: ${modifiedLines} ${modifiedLines === 1 ? 'line' : 'lines'} modified${convertedDomains > 0 ? ` and ${convertedDomains} ${convertedDomains === 1 ? 'domain' : 'domains'} converted to lowercase` : ''}`);
+
 				await fsPromises.writeFile(filePath, fileContents, 'utf8');
-
-				if (modifiedLines > 0) {
-					console.log(
-						`✔️ ${modifiedLines} ${modifiedLines === 1 ? 'line' : 'lines'} modified in file ${fileName} located in ${dirPath}`,
-					);
-				} else {
-					console.log(`✔️ No modifications needed for file ${fileName} located in ${dirPath}`);
-				}
-
-				if (convertedDomains > 0) {
-					console.log(
-						`✔️ ${convertedDomains} ${convertedDomains === 1 ? 'domain' : 'domains'} converted to lowercase in file ${fileName} located in ${dirPath}`,
-					);
-				} else {
-					console.log(`✔️ No domains needed to be converted to lowercase in file ${fileName} located in ${dirPath}`);
-				}
 			}),
 		);
 
