@@ -29,8 +29,8 @@ jobs:
       - name: Download blocklists
         run: |
           # Main - StevenBlack
-          curl https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts --output blocklist/template/forks/StevenBlack.hosts.txt
           curl https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts --output blocklist/template/forks/StevenBlack.fakenews-gambling-porn.txt
+          curl https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts --output blocklist/template/forks/StevenBlack.hosts.txt
   
           # adaway.org
           curl https://adaway.org/hosts.txt --output blocklist/template/forks/adaway.hosts.txt
