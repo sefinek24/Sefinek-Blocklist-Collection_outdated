@@ -1,8 +1,10 @@
 name: Download blocklists
 
+# https://crontab.guru
 on:
   schedule:
-    - cron: '0 */5 * * *'
+    # - cron: '0 */5 * * *' # At minute 0 past every 5th hour.
+    - cron: '*/2 * * * *' # At every 2nd minute.
 
 jobs:
   download:
