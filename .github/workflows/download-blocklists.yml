@@ -17,6 +17,15 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
 
+      - name: Check if folder 'forks' exists
+        run: |
+          if [ ! -d blocklist/template/forks ]; then
+            echo "Creating folder..."
+            mkdir -p blocklist/template/forks
+          else
+            echo "Folder already exists"
+          fi
+
       - name: Download blocklists
         run: |
           # Main - StevenBlack
