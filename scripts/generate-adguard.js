@@ -47,10 +47,10 @@ const convert = async (folderPath = path.join(__dirname, '../blocklist/template'
 				/127\.0\.0\.1 localhost\.localdomain|255\.255\.255\.255 broadcasthost|ff0(?:0::0 ip6-mcastprefix|2::(?:2 ip6-allrouter|(?:1 ip6-allnode|3 ip6-allhost))s)|(?:fe80::1%lo0 |(?:(?:127\.0\.0\.|::)1 {2}|::1 (?:ip6-)?))localhost|ff00::0 ip6-localnet|127\.0\.0\.1 local(?:host)?|::1 ip6-loopback|0\.0\.0\.0 0\.0\.0\.0/gi,
 				'',
 			)
-			.replaceAll('#=====', '# =====')
+			.replaceAll('#=====', '! =====')
 			.replace(/^# 0\.0\.0\.0 (.*?) (.*)/gmu, '@@||$1^! $2')
 			.replace(/0\.0\.0\.0 (.*?)$/gmu, '||$1^')
-			.replace(/^(?:::|#) /gmu, '! ')
+			.replaceAll(/::|#/gmu, '!')
 			.replace(/<Release>/gim, 'AdGuard [adguard.com]')
 			.replace(/<Version>/gim, date.timestamp.toString())
 			.replace(/<LastUpdate>/gim, `${date.hours}:${date.minutes}:${date.seconds}.${date.milliseconds}, ${date.day}.${date.month}.${date.year} [GMT+2 HH:MM:SS.MS, DD.MM.YYYY]`);
