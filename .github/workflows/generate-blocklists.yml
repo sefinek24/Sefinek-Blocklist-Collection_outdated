@@ -27,14 +27,14 @@ jobs:
       - name: Run npm install
         run: npm install
 
-      - name: Lint
-        run: node scripts/lint.js
-
       - name: Replace 127.0.0.1 to 0.0.0.0 or just add 0.0.0.0 before domains
-        run: node scripts/remove-duplicates.js
+        run: node scripts/prepare-templates.js
 
       - name: Remove duplicates
         run: node scripts/remove-duplicates.js
+
+      - name: Lint
+        run: node scripts/lint.js
 
       - name: Create everything list
         run: node scripts/create-everything-list.js
