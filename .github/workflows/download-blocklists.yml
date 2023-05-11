@@ -6,7 +6,7 @@ name: Download blocklists test
 on:
   schedule:
     # - cron: '0 */5 * * *' # At minute 0 past every 5th hour.
-    - cron: '*/2 * * * *' # At every 2nd minute.
+    - cron: '*/7 * * * *' # At every 7th minute.
 
   workflow_dispatch:
 
