@@ -68,11 +68,19 @@ const processDirectory = async (dirPath) => {
 							}
 						}
 
+						// 127.0.0.0 -> 0.0.0.0
 						if (line.includes('127.0.0.1')) {
 							modifiedLines++;
 							line = line.replace('127.0.0.1', '0.0.0.0');
 						}
 
+						// 0.0.0.0\t -> 0.0.0.0
+						if (line.includes('0.0.0.0\t')) {
+							modifiedLines++;
+							line = line.replace('0.0.0.0\t', '0.0.0.0 ');
+						}
+
+						// 0.0.0.0 -> nothing
 						if (line === '0.0.0.0') {
 							modifiedLines++;
 							line = line.replace('0.0.0.0', '');
