@@ -18,6 +18,9 @@ const convert = async (folderPath = path.join(__dirname, '../blocklist/template'
 		const thisFileName = path.join(folderPath, file.name);
 
 		// Cache
+		const cacheFolder = path.join(__dirname, `../cache/noip/${path.basename(path.dirname(thisFileName)) === 'template' ? '' : path.basename(path.dirname(thisFileName))}`);
+		await fs.mkdir(cacheFolder, { recursive: true });
+
 		const cacheFilePath = path.join(cacheFolder, `${file.name.replace('.txt', '')}.sha256`);
 		let hashFromCacheFile;
 		try {
