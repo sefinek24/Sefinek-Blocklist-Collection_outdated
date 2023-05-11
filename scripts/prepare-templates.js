@@ -59,9 +59,10 @@ const processDirectory = async (dirPath) => {
 								if ((/[A-Z]/).test(modifiedLine)) {
 									modifiedLine = modifiedLine.toLowerCase();
 									convertedDomains++;
+									modifiedLines++;
 								}
 
-								if (modifiedLine !== line) {
+								if (modifiedLine !== line && modifiedLine.match(/\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}/)) {
 									modifiedLines++;
 									line = modifiedLine;
 								}
