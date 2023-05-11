@@ -1,27 +1,28 @@
-const fsPromises = require('node:fs/promises');
+const fs = require('node:fs/promises');
 const path = require('node:path');
 
-const processDirectory = async dirPath => {
+const processDirectory = async (dirPath) => {
 	try {
-		await fsPromises.mkdir(dirPath, { recursive: true });
+		await fs.mkdir(dirPath, { recursive: true });
 
-		const fileNames = await fsPromises.readdir(dirPath);
-		const txtFiles = fileNames.filter(fileName => fileName.endsWith('.txt'));
+		const fileNames = await fs.readdir(dirPath);
+		const txtFiles = fileNames.filter((fileName) => fileName.endsWith('.txt'));
 
 		await Promise.all(
-			txtFiles.map(async fileName => {
+			txtFiles.map(async (fileName) => {
 				const filePath = path.join(dirPath, fileName);
-				let fileContents = await fsPromises.readFile(filePath, 'utf8');
+				let fileContents = await fs.readFile(filePath, 'utf8');
 
 				let modifiedLines = 0;
 				let convertedDomains = 0;
 
 				fileContents = fileContents
 					.split('\n')
-					.map(line => {
-						if (line.includes('127.0.0.1  localhost')) {
-							return '0.0.0.0 localhost';
-						}
+					.map((line) => {
+						line = line.trim();
+
+						if (line.includes('127.0.0.1  localhost')) return '0.0.0.0 localhost';
+						if (line.includes('::1  localhost')) return '::1 localhost';
 
 						if (
 							line.includes('127.0.0.1 localhost') ||
@@ -31,13 +32,34 @@ const processDirectory = async dirPath => {
 							return line;
 						}
 
+						// Check if domain contains uppercase letters
+						if (line.match(/^(0\.0\.0\.0|127\.0\.0\.1)\s/) && (/[A-Z]/).test(line)) {
+							const [ip, domain, ...comment] = line.split(/\s+/);
+							const modifiedLine = `${ip.trim()} ${domain.toLowerCase().trim()} ${comment.join(' ').trim()}`;
+
+							if (modifiedLine !== line) {
+								convertedDomains++;
+								modifiedLines++;
+
+								return modifiedLine;
+							}
+						}
+
+
 						if ((line.startsWith('0.0.0.0') || line.startsWith('127.0.0.1')) && !line.includes('#')) {
 							const words = line.split(' ');
-
 							if (words.length > 2) {
 								const ipAddress = words.shift();
 								const domains = words.join(' ').split(' ');
-								const modifiedLine = domains.map(domain => `${ipAddress} ${domain.toLowerCase()}`).join('\n').trim();
+
+								let modifiedLine = domains
+									.map((domain) => `${ipAddress} ${domain}`)
+									.join('\n')
+									.trim();
+								if ((/[A-Z]/).test(modifiedLine)) {
+									modifiedLine = modifiedLine.toLowerCase();
+									convertedDomains++;
+								}
 
 								if (modifiedLine !== line) {
 									modifiedLines++;
@@ -46,20 +68,6 @@ const processDirectory = async dirPath => {
 							}
 						}
 
-						// Check if domain contains uppercase letters
-						if (line.match(/^(0\.0\.0\.0|127\.0\.0\.1)\s/) && (/[A-Z]/).test(line)) {
-							const ip = line.split(/\s+/)[0];
-							const domain = line.split(/\s+/)[1].toLowerCase();
-							const comment = line.includes('#') ? line.slice(line.indexOf('#')) : '';
-
-							const modifiedLine = `${ip.trim()} ${domain.trim()} ${comment}`;
-							if (modifiedLine !== line) {
-								convertedDomains++;
-								modifiedLines++;
-
-								return modifiedLine;
-							}
-						}
 
 						if (line.includes('127.0.0.1 ')) {
 							modifiedLines++;
@@ -70,25 +78,37 @@ const processDirectory = async dirPath => {
 					})
 					.join('\n');
 
-				if (modifiedLines !== 0) console.log(`✔️ Changes made to ${fileName}: ${modifiedLines} ${modifiedLines === 1 ? 'line' : 'lines'} modified${convertedDomains > 0 ? ` and ${convertedDomains} ${convertedDomains === 1 ? 'domain' : 'domains'} converted to lowercase` : ''}`);
+				if (modifiedLines !== 0) {
+					console.log(
+						`📝 ${fileName}: ${modifiedLines} ${
+							modifiedLines === 1 ? 'line' : 'lines'
+						} modified${
+							convertedDomains > 0
+								? ` and ${convertedDomains} ${
+									convertedDomains === 1 ? 'domain' : 'domains'
+								} converted to lowercase`
+								: ''
+						}`,
+					);
+				}
 
-				await fsPromises.writeFile(filePath, fileContents, 'utf8');
+				await fs.writeFile(filePath, fileContents, 'utf8');
 			}),
 		);
 
-		const subDirectories = await fsPromises.readdir(dirPath, {
+		const subDirectories = await fs.readdir(dirPath, {
 			withFileTypes: true,
 		});
 
 		await Promise.all(
 			subDirectories
-				.filter(subDir => subDir.isDirectory())
-				.map(subDir =>
-					processDirectory(path.join(dirPath, subDir.name)),
-				),
+				.filter((subDir) => subDir.isDirectory())
+				.map((subDir) => processDirectory(path.join(dirPath, subDir.name))),
 		);
 	} catch (err) {
-		console.error(`❌ An error occurred while processing ${dirPath} directory: ${err.message}`);
+		console.error(
+			`❌ An error occurred while processing ${dirPath} directory: ${err.message}`,
+		);
 	}
 };
 
