@@ -1,6 +1,6 @@
-const fs = require('node:fs').promises;
+const { promises: fs, createReadStream } = require('node:fs');
+const crypto = require('node:crypto');
 const path = require('node:path');
-const sha256File = require('sha256-file');
 const date = require('./functions/date.js');
 
 const convert = async (folderPath = path.join(__dirname, '../blocklist/template')) => {
@@ -18,11 +18,7 @@ const convert = async (folderPath = path.join(__dirname, '../blocklist/template'
 		const thisFileName = path.join(folderPath, file.name);
 
 		// Cache
-		const cacheFolder = path.join(__dirname, `../cache/noip/${path.basename(path.dirname(thisFileName)) === 'template' ? '' : path.basename(path.dirname(thisFileName))}`);
-		await fs.mkdir(cacheFolder, { recursive: true });
-
-		const cacheFilePath = path.join(cacheFolder, `${file.name.replace('.txt', '')}.hash`);
-
+		const cacheFilePath = path.join(cacheFolder, `${file.name.replace('.txt', '')}.sha256`);
 		let hashFromCacheFile;
 		try {
 			hashFromCacheFile = await fs.readFile(cacheFilePath, 'utf8');
@@ -30,20 +26,35 @@ const convert = async (folderPath = path.join(__dirname, '../blocklist/template'
 			console.warn('❌  Cache file not found:', cacheFilePath);
 		}
 
-		const hashFromTemplateFile = sha256File(thisFileName);
-		console.log(`⏳  File hash: ${hashFromTemplateFile || 'Unknown'}; Cache: ${hashFromCacheFile || 'Unknown'}; File: ${file.name}`);
+		const stream = createReadStream(thisFileName);
+		const hash = crypto.createHash('sha256');
 
-		if (hashFromTemplateFile === hashFromCacheFile) {
-			console.log(`⏭️ ${thisFileName} - skipped`);
-			return;
-		}
+		stream.on('error', (err) => {
+			console.error(`Error reading ${thisFileName}: ${err}`);
+		});
 
-		await fs.writeFile(cacheFilePath, hashFromTemplateFile);
+		stream.pipe(hash).on('error', (err) => {
+			console.error(`Error hashing ${thisFileName}: ${err}`);
+		}).on('finish', async () => {
+			const sha256sum = hash.digest('hex');
+			if (sha256sum === hashFromCacheFile) {
+				return console.log(`⏭️ ${thisFileName} - skipped`);
+			}
+
+			try {
+				await fs.writeFile(cacheFilePath, sha256sum);
+			} catch (err) {
+				console.error(`Error writing cache file ${cacheFilePath}: ${err}`);
+			}
+		});
+
+		console.log(`⏳  File hash: Unknown; Cache: ${hashFromCacheFile || 'Unknown'}; File: ${file.name}`);
+
+
+
 
 		// Content
 		const fileContent = await fs.readFile(thisFileName, 'utf8');
-
-
 		const replacedFile = fileContent
 			// grex "127.0.0.1 localhost" "127.0.0.1  localhost" "127.0.0.1 localhost.localdomain" "127.0.0.1 local" "255.255.255.255 broadcasthost" "::1 localhost" "::1  localhost" "::1 ip6-localhost" "::1 ip6-loopback" "fe80::1%lo0 localhost" "ff00::0 ip6-localnet" "ff00::0 ip6-mcastprefix" "ff02::1 ip6-allnodes" "ff02::2 ip6-allrouters" "ff02::3 ip6-allhosts" "0.0.0.0 0.0.0.0"
 			.replaceAll(
