@@ -43,7 +43,6 @@ https://blocklistproject.github.io/Lists/redirect.txt
 https://blocklistproject.github.io/Lists/scam.txt
 https://ente.dev/api/blocklist/google-amp-hosts
 https://ente.dev/api/blocklist/tv
-https://github.com/chadmayfield/pihole-blocklists/raw/master/lists/pi_blocklist_porn_all.list
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
 https://hole.cert.pl/domains/domains_hosts.txt
 https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
@@ -63,6 +62,7 @@ https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
 https://raw.githubusercontent.com/blocklistproject/Lists/master/porn.txt
 https://raw.githubusercontent.com/blocklistproject/Lists/master/youtube.txt
 https://raw.githubusercontent.com/cbuijs/ut1/master/adult/domains.24733
+https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_all.list
 https://raw.githubusercontent.com/craiu/mobiletrackers/master/list.txt
 https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt

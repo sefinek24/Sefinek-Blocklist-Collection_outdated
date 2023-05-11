@@ -26,11 +26,14 @@ jobs:
       - name: Lint
         run: node scripts/lint.js
 
+      - name: Replace 127.0.0.1 to 0.0.0.0 or just add 0.0.0.0 before domains
+        run: node scripts/remove-duplicates.js
+
       - name: Remove duplicates
         run: node scripts/remove-duplicates.js
 
       - name: Create everything list
-        run: node scripts/create-everything-list
+        run: node scripts/create-everything-list.js
 
       - name: Generate No IP list
         run: node scripts/generate-noip.js

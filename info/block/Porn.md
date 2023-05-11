@@ -13,7 +13,7 @@ Please use this list as a reference and consider other measures to further enhan
 Here are some sample URLs with a list of domains:
 - https://blocklistproject.github.io/Lists/porn.txt
 - https://cdn.sefinek.net/resources/PiHole-Blocklist-Collection/blocklist/porn.txt
-- https://github.com/chadmayfield/pihole-blocklists/raw/master/lists/pi_blocklist_porn_all.list
+- https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_all.list
 - https://raw.githubusercontent.com/4skinSkywalker/Anti-Porn-HOSTS-File/master/HOSTS.txt
 - https://raw.githubusercontent.com/blocklistproject/Lists/master/porn.txt
 - https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_all.list
