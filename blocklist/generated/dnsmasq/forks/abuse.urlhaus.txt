@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-11 16:34:28 (UTC)                      #
+# Last updated: 2023-05-11 16:35:24 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -8,6 +8,7 @@
 #
 server=/1008691.com/
 server=/100porcentowin.com.br/
+server=/1717.1000uc.com/
 server=/1ecosolution.it/
 server=/1millionsocial.com/
 server=/2023foco.com.br/
@@ -463,7 +464,6 @@ server=/erusdesign.com.br/
 server=/eschoolbathinda.com/
 server=/espora.com/
 server=/esquiudigital.com/
-server=/esrarengo.com/
 server=/eternallyentertainment.com/
 server=/etisalatbuyback.com/
 server=/eurologisticyac.com/
