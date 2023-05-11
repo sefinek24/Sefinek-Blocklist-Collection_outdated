@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-11 19:48:33 (UTC)                      #
+# Last updated: 2023-05-11 20:09:20 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -24,6 +24,7 @@
 127.0.0.1 31337.hk
 127.0.0.1 33rdderryscouts.com
 127.0.0.1 360.lcy2zzx.pw
+127.0.0.1 360down7.miiyun.cn
 127.0.0.1 3da2animation.com
 127.0.0.1 3dtimelab.com
 127.0.0.1 3eshfino.com
@@ -66,6 +67,7 @@
 127.0.0.1 aiosubng.com
 127.0.0.1 aiothemes.com
 127.0.0.1 airhobi.com
+127.0.0.1 airlinesgroupbooking.com
 127.0.0.1 ajustetributario.com.br
 127.0.0.1 akashfeedcpl.com
 127.0.0.1 akira.ozonedesk.cloud
@@ -141,7 +143,6 @@
 127.0.0.1 astrodurgaji.com
 127.0.0.1 asu.com.vn
 127.0.0.1 atecwireless.com
-127.0.0.1 athadnw.com
 127.0.0.1 atomm.com.br
 127.0.0.1 auditprop.com
 127.0.0.1 aurorabolnica.co.rs
@@ -280,8 +281,10 @@
 127.0.0.1 cityoftransformation.com
 127.0.0.1 citypharmacylv.com
 127.0.0.1 classipie.com
+127.0.0.1 clickcurvelo.com
 127.0.0.1 clickndpick.com
 127.0.0.1 cloudyentertainment.com
+127.0.0.1 clovekwealth.com
 127.0.0.1 cmlanguageservices.it
 127.0.0.1 cmyk.com.ar
 127.0.0.1 coachomari.com
@@ -403,7 +406,7 @@
 127.0.0.1 down.udashi.com
 127.0.0.1 download.caihong.com
 127.0.0.1 download.doumaibiji.cn
-127.0.0.1 download.pdf00.cn
+127.0.0.1 downloads.bcweb.org.uk
 127.0.0.1 dplanner360.com.br
 127.0.0.1 dratheodorathays.com.br
 127.0.0.1 dreamchasersltd.com
@@ -556,6 +559,7 @@
 127.0.0.1 gobesitysurgery.com
 127.0.0.1 gokcevizyon.com
 127.0.0.1 goldenboycares.com
+127.0.0.1 goldenmoviesawards.com
 127.0.0.1 goldrush.ug
 127.0.0.1 gomaeva.com.ar
 127.0.0.1 gomezcompany.com
@@ -614,6 +618,7 @@
 127.0.0.1 helptimize.com
 127.0.0.1 henselengineeringcompany.com
 127.0.0.1 hepm.co.uk
+127.0.0.1 herchinfitout.com.sg
 127.0.0.1 hergelekitap.com.tr
 127.0.0.1 hiconnecteg.com
 127.0.0.1 highness-sa.com
@@ -625,7 +630,6 @@
 127.0.0.1 hmtdtechvn.com
 127.0.0.1 holypsychic.com
 127.0.0.1 homesolutions.111.com.ec
-127.0.0.1 homospoison.ru
 127.0.0.1 hopeassistance.ae
 127.0.0.1 horizonautocarellc.com
 127.0.0.1 hostealo.com
@@ -903,7 +907,6 @@
 127.0.0.1 media360me.com
 127.0.0.1 medicaintl.com
 127.0.0.1 medicalbillingandtelehealth.com
-127.0.0.1 medicareinc.com
 127.0.0.1 medicaretrainingonline.com
 127.0.0.1 medigapinsurancetraining.com
 127.0.0.1 meeweb.com
@@ -949,11 +952,9 @@
 127.0.0.1 movimentoadoratori.it
 127.0.0.1 mrityunjaytrust.com
 127.0.0.1 mrketiando.com.br
-127.0.0.1 mskims.org
 127.0.0.1 mtsn3kukar.sch.id
 127.0.0.1 mujibbriyani.in
 127.0.0.1 mulberryhotels.in
-127.0.0.1 mumgee.co.za
 127.0.0.1 musicaondemand.com
 127.0.0.1 mutualitemalienne.org
 127.0.0.1 mvinfotech.com
@@ -1274,6 +1275,7 @@
 127.0.0.1 smarketinglab.com.br
 127.0.0.1 smartphoodapp.com
 127.0.0.1 smeolbd.com
+127.0.0.1 smiling.mx
 127.0.0.1 smsextreme.com
 127.0.0.1 sncentralschool.com
 127.0.0.1 soaresdesigner.com.br
@@ -1379,6 +1381,7 @@
 127.0.0.1 tonimix.111.com.ec
 127.0.0.1 tonydong.com
 127.0.0.1 tophatrealtygroup.com
+127.0.0.1 topsepatu.com
 127.0.0.1 topsy.111.com.ec
 127.0.0.1 traderhype.com
 127.0.0.1 traneximp.111.com.ec
@@ -1562,7 +1565,6 @@
 127.0.0.1 yesdeko.com
 127.0.0.1 yourwebdevproject.com
 127.0.0.1 yp.hnggzyjy.cn
-127.0.0.1 yzkzixun.com
 127.0.0.1 zacuta.com
 127.0.0.1 zaefaran.com
 127.0.0.1 zainco.net
@@ -1571,4 +1573,4 @@
 127.0.0.1 zero.ms
 127.0.0.1 zf.gouzapay.cn
 127.0.0.1 ztekkhosting.com
-# Number of entries: 1564
+# Number of entries: 1566
