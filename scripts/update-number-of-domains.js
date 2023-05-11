@@ -1,8 +1,23 @@
 const fs = require('node:fs').promises;
 const path = require('node:path');
 
+async function getAllTxtFiles(dir) {
+	const dirents = await fs.readdir(dir, { withFileTypes: true });
+	const filesPromise = await Promise.all(
+		dirents.map(dirent => {
+			const res = path.resolve(dir, dirent.name);
+
+			return dirent.isDirectory() ? getAllTxtFiles(res) : res;
+		}),
+	);
+	return Array.prototype.concat(...filesPromise).filter((file) => {
+		return file.endsWith('.txt') && file.includes('blocklist');
+	});
+}
+
 (async () => {
-	const files = (await fs.readdir(path.join(__dirname, '..'))).filter((file) => file.endsWith('.txt'));
+	const blockListDir = path.join(__dirname, '..', 'blocklist', 'generated');
+	const files = await getAllTxtFiles(blockListDir);
 
 	await Promise.all(files.map(async file => {
 		const existingDomains = new Set();
