@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-11 10:09:25 (UTC)                      #
+# Last updated: 2023-05-11 10:29:24 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -697,6 +697,7 @@
 127.0.0.1	lapakwebsite.com
 127.0.0.1	lara.amiyon.com
 127.0.0.1	lara.com.ar
+127.0.0.1	lascumbres.com.mx
 127.0.0.1	lasermobilesounds.co.uk
 127.0.0.1	lashprochampionship.com
 127.0.0.1	lastimaners.ug
@@ -725,6 +726,7 @@
 127.0.0.1	logic.com.eg
 127.0.0.1	logodesignflux.com
 127.0.0.1	lojalz14.com.br
+127.0.0.1	lojueguito.com
 127.0.0.1	lonagroup.com
 127.0.0.1	lopespublicidade.com
 127.0.0.1	lorem.com.sa
@@ -1204,6 +1206,7 @@
 127.0.0.1	trastform.com
 127.0.0.1	travelallegypt.com
 127.0.0.1	travelwithmanta.co.za
+127.0.0.1	trieutin.com
 127.0.0.1	trinoxidiuvendas.com
 127.0.0.1	triplebbbfoundationrepair.com
 127.0.0.1	tscomputers.net.pe
@@ -1370,4 +1373,4 @@
 127.0.0.1	zero.ms
 127.0.0.1	zf.gouzapay.cn
 127.0.0.1	ztekkhosting.com
-# Number of entries: 1364
+# Number of entries: 1367
