@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-11 19:27:29 (UTC)                      #
+# Last updated: 2023-05-11 19:48:33 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -525,7 +525,6 @@ server=/funletters.net/
 server=/fusionshub.com/
 server=/futuretekservices.com/
 server=/fuyviagraf.com/
-server=/g-work.mx/
 server=/gabyagozetim.com/
 server=/gaepensino.net/
 server=/galerabeachartvillas.com/
@@ -800,6 +799,7 @@ server=/kymperfetto.com/
 server=/labcom.com.mx/
 server=/lacasitacolumbus.com/
 server=/lacumbre.com.uy/
+server=/lalajimatrimonial.com/
 server=/lameguard.ru/
 server=/lamilanesa.com.mx/
 server=/lapakwebsite.com/
@@ -1379,7 +1379,6 @@ server=/tomazellapresentes.com.br/
 server=/tonimix.111.com.ec/
 server=/tonydong.com/
 server=/tophatrealtygroup.com/
-server=/topsepatu.com/
 server=/topsy.111.com.ec/
 server=/traderhype.com/
 server=/traneximp.111.com.ec/
@@ -1572,4 +1571,4 @@ server=/zenithcodes.com/
 server=/zero.ms/
 server=/zf.gouzapay.cn/
 server=/ztekkhosting.com/
-# Number of entries: 1565
+# Number of entries: 1564
