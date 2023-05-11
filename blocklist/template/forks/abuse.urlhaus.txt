@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-11 17:19:27 (UTC)                      #
+# Last updated: 2023-05-11 17:24:20 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -55,6 +55,7 @@
 0.0.0.0 admin.classified.pointsource.ng
 0.0.0.0 advantagemsolutions.com
 0.0.0.0 afrokit.com
+0.0.0.0 afromerchants.co.zw
 0.0.0.0 agadirexcursion.com
 0.0.0.0 aggarwalsamajtrinagar.com
 0.0.0.0 agrigate.asia
@@ -135,7 +136,6 @@
 0.0.0.0 askemiratilawyers.com
 0.0.0.0 asopoker.com
 0.0.0.0 aspendrl.org
-0.0.0.0 assets.dsztfso.cn
 0.0.0.0 astrodurgaji.com
 0.0.0.0 asu.com.vn
 0.0.0.0 atecwireless.com
@@ -413,7 +413,6 @@
 0.0.0.0 dukaree.com
 0.0.0.0 dunaujvaros.gorogkatolikus.hu
 0.0.0.0 dutulongxuyen.com
-0.0.0.0 e-commerce.saleensuporte.com.br
 0.0.0.0 e-hemsire.net
 0.0.0.0 e-piramide.net
 0.0.0.0 eagleuhd.com
@@ -614,6 +613,7 @@
 0.0.0.0 hergelekitap.com.tr
 0.0.0.0 hiconnecteg.com
 0.0.0.0 highness-sa.com
+0.0.0.0 hikersband.sa
 0.0.0.0 hipotesis.uy
 0.0.0.0 hireawhitewitchtherapist.com
 0.0.0.0 hitstation.nl
@@ -789,6 +789,7 @@
 0.0.0.0 labcom.com.mx
 0.0.0.0 lacasitacolumbus.com
 0.0.0.0 lacumbre.com.uy
+0.0.0.0 lalajimatrimonial.com
 0.0.0.0 lameguard.ru
 0.0.0.0 lamilanesa.com.mx
 0.0.0.0 lapakwebsite.com
@@ -942,7 +943,6 @@
 0.0.0.0 mvinfotech.com
 0.0.0.0 myayurvedashoppe.com
 0.0.0.0 mycpacord.com
-0.0.0.0 myhisense.com
 0.0.0.0 myjhaid.com
 0.0.0.0 myjkenterprise.com
 0.0.0.0 mylofn.com
@@ -955,6 +955,7 @@
 0.0.0.0 nakato.co.za
 0.0.0.0 namanzodata.com.ng
 0.0.0.0 namthaibinh.net
+0.0.0.0 nanpe.eng.br
 0.0.0.0 narlaxsolutions.com
 0.0.0.0 natpet.com
 0.0.0.0 natulab.it
@@ -1119,6 +1120,7 @@
 0.0.0.0 protechasia.com
 0.0.0.0 proveedoradeproyectosysoluciones.com
 0.0.0.0 provica.111.com.ec
+0.0.0.0 proyectos.vrstudio.cl
 0.0.0.0 pryhmshift.com
 0.0.0.0 psicologastefanny.com
 0.0.0.0 psound.hu
@@ -1173,7 +1175,6 @@
 0.0.0.0 rite-tags.com
 0.0.0.0 rnltechnologies.com
 0.0.0.0 robosuperscalp31.com
-0.0.0.0 rohtasproduce.com
 0.0.0.0 rollsbeer.com
 0.0.0.0 rosecollectionofficial.com
 0.0.0.0 rosewoodlaminates.com
@@ -1181,7 +1182,6 @@
 0.0.0.0 rossandmorrison.com
 0.0.0.0 rotc-ams.com
 0.0.0.0 rotexfans.com
-0.0.0.0 royaltyblackcard.club
 0.0.0.0 rubensplima.com
 0.0.0.0 runoclean.com
 0.0.0.0 rzbpo.com.br
@@ -1275,7 +1275,6 @@
 0.0.0.0 solazone.com.au
 0.0.0.0 somosmeta.com
 0.0.0.0 soquipra.cl
-0.0.0.0 spaceframe.mobi.space-frame.co.za
 0.0.0.0 specialblue.in
 0.0.0.0 speedfachadas.com.br
 0.0.0.0 spiritualoutdooradventures.org
@@ -1373,10 +1372,10 @@
 0.0.0.0 transportadoramiranda.com
 0.0.0.0 trastform.com
 0.0.0.0 travelallegypt.com
+0.0.0.0 travelwithmanta.co.za
 0.0.0.0 travirex.com
 0.0.0.0 trdacademy.com
 0.0.0.0 trinoxidiuvendas.com
-0.0.0.0 triplebbbfoundationrepair.com
 0.0.0.0 tscomputers.net.pe
 0.0.0.0 ttps
 0.0.0.0 tudinseu.com
@@ -1426,7 +1425,6 @@
 0.0.0.0 vemas.com.mx
 0.0.0.0 venomimpex.com
 0.0.0.0 ventolinhl.com
-0.0.0.0 vesnade3ign.com
 0.0.0.0 vfocus.net
 0.0.0.0 victorysanitizer.com
 0.0.0.0 vietroll.vn
@@ -1434,7 +1432,6 @@
 0.0.0.0 vikastyagiindore.com
 0.0.0.0 villabonitacolumbus.com
 0.0.0.0 vinnew.111.com.ec
-0.0.0.0 vipysknik.by
 0.0.0.0 virtualhardwarelab.com
 0.0.0.0 virtualplaya.com
 0.0.0.0 virtualyourpondfarm.com
@@ -1493,7 +1490,6 @@
 0.0.0.0 www.cesasin.com.ar
 0.0.0.0 www.chawkyfrenn.com
 0.0.0.0 www.chemsky.tn
-0.0.0.0 www.cisnc.it
 0.0.0.0 www.clinicamomentum.com.br
 0.0.0.0 www.dacui.online
 0.0.0.0 www.ddtools.top
@@ -1539,7 +1535,6 @@
 0.0.0.0 xn----7sbhgfcdscaa3cdd6dq3e3dvf.xn--p1ai
 0.0.0.0 xpia-i.com
 0.0.0.0 xt.lykj988.com
-0.0.0.0 xyktza.nbxyk.net
 0.0.0.0 y5deals.com
 0.0.0.0 yanisite.com
 0.0.0.0 yelignin-construction.com
@@ -1557,4 +1552,4 @@
 0.0.0.0 zero.ms
 0.0.0.0 zf.gouzapay.cn
 0.0.0.0 ztekkhosting.com
-# Number of entries: 1550
+# Number of entries: 1545

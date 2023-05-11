@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-11 17:19:27 (UTC)                      #
+# Last updated: 2023-05-11 17:24:20 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -55,6 +55,7 @@
 127.0.0.1 admin.classified.pointsource.ng
 127.0.0.1 advantagemsolutions.com
 127.0.0.1 afrokit.com
+127.0.0.1 afromerchants.co.zw
 127.0.0.1 agadirexcursion.com
 127.0.0.1 aggarwalsamajtrinagar.com
 127.0.0.1 agrigate.asia
@@ -135,7 +136,6 @@
 127.0.0.1 askemiratilawyers.com
 127.0.0.1 asopoker.com
 127.0.0.1 aspendrl.org
-127.0.0.1 assets.dsztfso.cn
 127.0.0.1 astrodurgaji.com
 127.0.0.1 asu.com.vn
 127.0.0.1 atecwireless.com
@@ -413,7 +413,6 @@
 127.0.0.1 dukaree.com
 127.0.0.1 dunaujvaros.gorogkatolikus.hu
 127.0.0.1 dutulongxuyen.com
-127.0.0.1 e-commerce.saleensuporte.com.br
 127.0.0.1 e-hemsire.net
 127.0.0.1 e-piramide.net
 127.0.0.1 eagleuhd.com
@@ -614,6 +613,7 @@
 127.0.0.1 hergelekitap.com.tr
 127.0.0.1 hiconnecteg.com
 127.0.0.1 highness-sa.com
+127.0.0.1 hikersband.sa
 127.0.0.1 hipotesis.uy
 127.0.0.1 hireawhitewitchtherapist.com
 127.0.0.1 hitstation.nl
@@ -789,6 +789,7 @@
 127.0.0.1 labcom.com.mx
 127.0.0.1 lacasitacolumbus.com
 127.0.0.1 lacumbre.com.uy
+127.0.0.1 lalajimatrimonial.com
 127.0.0.1 lameguard.ru
 127.0.0.1 lamilanesa.com.mx
 127.0.0.1 lapakwebsite.com
@@ -942,7 +943,6 @@
 127.0.0.1 mvinfotech.com
 127.0.0.1 myayurvedashoppe.com
 127.0.0.1 mycpacord.com
-127.0.0.1 myhisense.com
 127.0.0.1 myjhaid.com
 127.0.0.1 myjkenterprise.com
 127.0.0.1 mylofn.com
@@ -955,6 +955,7 @@
 127.0.0.1 nakato.co.za
 127.0.0.1 namanzodata.com.ng
 127.0.0.1 namthaibinh.net
+127.0.0.1 nanpe.eng.br
 127.0.0.1 narlaxsolutions.com
 127.0.0.1 natpet.com
 127.0.0.1 natulab.it
@@ -1119,6 +1120,7 @@
 127.0.0.1 protechasia.com
 127.0.0.1 proveedoradeproyectosysoluciones.com
 127.0.0.1 provica.111.com.ec
+127.0.0.1 proyectos.vrstudio.cl
 127.0.0.1 pryhmshift.com
 127.0.0.1 psicologastefanny.com
 127.0.0.1 psound.hu
@@ -1173,7 +1175,6 @@
 127.0.0.1 rite-tags.com
 127.0.0.1 rnltechnologies.com
 127.0.0.1 robosuperscalp31.com
-127.0.0.1 rohtasproduce.com
 127.0.0.1 rollsbeer.com
 127.0.0.1 rosecollectionofficial.com
 127.0.0.1 rosewoodlaminates.com
@@ -1181,7 +1182,6 @@
 127.0.0.1 rossandmorrison.com
 127.0.0.1 rotc-ams.com
 127.0.0.1 rotexfans.com
-127.0.0.1 royaltyblackcard.club
 127.0.0.1 rubensplima.com
 127.0.0.1 runoclean.com
 127.0.0.1 rzbpo.com.br
@@ -1275,7 +1275,6 @@
 127.0.0.1 solazone.com.au
 127.0.0.1 somosmeta.com
 127.0.0.1 soquipra.cl
-127.0.0.1 spaceframe.mobi.space-frame.co.za
 127.0.0.1 specialblue.in
 127.0.0.1 speedfachadas.com.br
 127.0.0.1 spiritualoutdooradventures.org
@@ -1373,10 +1372,10 @@
 127.0.0.1 transportadoramiranda.com
 127.0.0.1 trastform.com
 127.0.0.1 travelallegypt.com
+127.0.0.1 travelwithmanta.co.za
 127.0.0.1 travirex.com
 127.0.0.1 trdacademy.com
 127.0.0.1 trinoxidiuvendas.com
-127.0.0.1 triplebbbfoundationrepair.com
 127.0.0.1 tscomputers.net.pe
 127.0.0.1 ttps
 127.0.0.1 tudinseu.com
@@ -1426,7 +1425,6 @@
 127.0.0.1 vemas.com.mx
 127.0.0.1 venomimpex.com
 127.0.0.1 ventolinhl.com
-127.0.0.1 vesnade3ign.com
 127.0.0.1 vfocus.net
 127.0.0.1 victorysanitizer.com
 127.0.0.1 vietroll.vn
@@ -1434,7 +1432,6 @@
 127.0.0.1 vikastyagiindore.com
 127.0.0.1 villabonitacolumbus.com
 127.0.0.1 vinnew.111.com.ec
-127.0.0.1 vipysknik.by
 127.0.0.1 virtualhardwarelab.com
 127.0.0.1 virtualplaya.com
 127.0.0.1 virtualyourpondfarm.com
@@ -1493,7 +1490,6 @@
 127.0.0.1 www.cesasin.com.ar
 127.0.0.1 www.chawkyfrenn.com
 127.0.0.1 www.chemsky.tn
-127.0.0.1 www.cisnc.it
 127.0.0.1 www.clinicamomentum.com.br
 127.0.0.1 www.dacui.online
 127.0.0.1 www.ddtools.top
@@ -1539,7 +1535,6 @@
 127.0.0.1 xn----7sbhgfcdscaa3cdd6dq3e3dvf.xn--p1ai
 127.0.0.1 xpia-i.com
 127.0.0.1 xt.lykj988.com
-127.0.0.1 xyktza.nbxyk.net
 127.0.0.1 y5deals.com
 127.0.0.1 yanisite.com
 127.0.0.1 yelignin-construction.com
@@ -1557,4 +1552,4 @@
 127.0.0.1 zero.ms
 127.0.0.1 zf.gouzapay.cn
 127.0.0.1 ztekkhosting.com
-# Number of entries: 1550
+# Number of entries: 1545
