@@ -14,8 +14,8 @@
 # » Description : Unknown.
 # » Author      : Sefinek (https://sefinek.net) <contact@sefinek.net>
 # » Release     : Dnsmasq
-# » Version     : 1683827540772
-# » Last update : 17:52:20.772, 11.05.2023 [GMT+2 HH:MM:SS.MS, DD.MM.YYYY]
+# » Version     : 1683827741850
+# » Last update : 17:55:41.850, 11.05.2023 [GMT+2 HH:MM:SS.MS, DD.MM.YYYY]
 #
 # 〢 Warning:
 # By using this file, you acknowledge that the author is not liable for any damages or losses that may arise from its use, although the likelihood of such events is low.
@@ -28,3 +28,4 @@
 server=/dns.sefinek.net/
 server=/dnstest.sefinek.net/
 server=/dnstest.sefinek.workers.dev/
+server=/dtest.com/
