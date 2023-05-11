@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-11 19:43:20 (UTC)                      #
+# Last updated: 2023-05-11 19:48:33 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -525,7 +525,6 @@
 0.0.0.0 fusionshub.com
 0.0.0.0 futuretekservices.com
 0.0.0.0 fuyviagraf.com
-0.0.0.0 g-work.mx
 0.0.0.0 gabyagozetim.com
 0.0.0.0 gaepensino.net
 0.0.0.0 galerabeachartvillas.com
@@ -1572,4 +1571,4 @@
 0.0.0.0 zero.ms
 0.0.0.0 zf.gouzapay.cn
 0.0.0.0 ztekkhosting.com
-# Number of entries: 1565
+# Number of entries: 1564
