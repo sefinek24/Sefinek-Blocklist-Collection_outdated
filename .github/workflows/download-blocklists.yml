@@ -8,6 +8,8 @@ on:
     # - cron: '0 */5 * * *' # At minute 0 past every 5th hour.
     - cron: '*/2 * * * *' # At every 2nd minute.
 
+  workflow_dispatch:
+
 jobs:
   download:
     runs-on: ubuntu-latest
