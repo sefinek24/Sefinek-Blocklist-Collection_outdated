@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-11 14:25:23 (UTC)                      #
+# Last updated: 2023-05-11 14:49:33 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -60,7 +60,6 @@ server=/agadirexcursion.com/
 server=/agemn.co.za/
 server=/aggarwalsamajtrinagar.com/
 server=/agrigate.asia/
-server=/agrokarti.com/
 server=/ainit.net.au/
 server=/aiosubng.com/
 server=/aiothemes.com/
@@ -126,6 +125,7 @@ server=/archibaldmcgrath.com.au/
 server=/aristonbentre.com/
 server=/arnavarena.com/
 server=/arshidasanat.com/
+server=/artcaffedemo.reserveport.com/
 server=/asfsteelco.com/
 server=/ashtechgraniteltd.com/
 server=/asian-minerals.com/
@@ -161,7 +161,6 @@ server=/barrehomes.co.ke/
 server=/barroslobo.com.br/
 server=/bawatingbarter.com/
 server=/bayyan.magesticflyer.com/
-server=/bbc-s.news/
 server=/bearcatpumps.com.cn/
 server=/beautifulqueen.com.br/
 server=/bebessi.com.tr/
@@ -531,7 +530,6 @@ server=/generatorshubltd.co.uk/
 server=/georgesnfrem.org/
 server=/gesemdelmayab.com.mx/
 server=/get-promo.world/
-server=/getbuttn.com/
 server=/getcash2surveys.com/
 server=/getfitburn.com/
 server=/ghadmoshrek.com/
@@ -583,6 +581,7 @@ server=/hackacyber.com/
 server=/hajiyanafisahshira.com.ng/
 server=/hallmapping.com/
 server=/haltbarbiz.com/
+server=/hanika-inc.com/
 server=/harleyqueretaro.com/
 server=/hasgdkdatasub.com.ng/
 server=/haskedatabundles.com.ng/
@@ -614,7 +613,6 @@ server=/horizonautocarellc.com/
 server=/hostealo.com/
 server=/hostigram.xyz/
 server=/hotelcreta.com.mx/
-server=/hotwaterasap.com/
 server=/house178.net/
 server=/houseatthebeachinoc.com/
 server=/houseboatritz.com/
@@ -737,6 +735,7 @@ server=/jyacademy.in/
 server=/jyothyvidyalaya.org/
 server=/k5fun.com/
 server=/kadisse.com/
+server=/kaiessentials.com/
 server=/kalpanacotton.com/
 server=/karary.edu.sd/
 server=/karer.by/
@@ -897,6 +896,7 @@ server=/mileageofjapimports.com.au/
 server=/milleniuninformatica.com/
 server=/milleniuninformatica.com.br/
 server=/minadimpex.com/
+server=/mindfree.co.za/
 server=/mistitis.ug/
 server=/mistydeblasiophotography.com/
 server=/mixndream.com/
@@ -1339,6 +1339,7 @@ server=/tobecoaching.co.uk/
 server=/tomazellapresentes.com.br/
 server=/tonimix.111.com.ec/
 server=/tonydong.com/
+server=/tophatrealtygroup.com/
 server=/topsepatu.com/
 server=/topsy.111.com.ec/
 server=/traderhype.com/
@@ -1530,4 +1531,4 @@ server=/zenithcodes.com/
 server=/zero.ms/
 server=/zf.gouzapay.cn/
 server=/ztekkhosting.com/
-# Number of entries: 1523
+# Number of entries: 1524
