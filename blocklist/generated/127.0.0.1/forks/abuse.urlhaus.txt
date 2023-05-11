@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-11 13:40:42 (UTC)                      #
+# Last updated: 2023-05-11 13:59:33 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -33,6 +33,7 @@
 127.0.0.1 73grillrestaurant.com
 127.0.0.1 9binary.org
 127.0.0.1 a.angel-tn.idv.tw
+127.0.0.1 aamroaviation.com
 127.0.0.1 abissnet.net
 127.0.0.1 abmaxdigital.com
 127.0.0.1 abuylike.com
@@ -79,7 +80,6 @@
 127.0.0.1 alexmarineengineering.com
 127.0.0.1 alfosoolonline.com
 127.0.0.1 algarcost.com
-127.0.0.1 algomhoria.com
 127.0.0.1 alhiaa-alaqaria.com
 127.0.0.1 alinac.ca
 127.0.0.1 aljanabdshop.com
@@ -231,6 +231,7 @@
 127.0.0.1 capitalperurrhh.com
 127.0.0.1 capriphotographer.com
 127.0.0.1 cargoconnect.online
+127.0.0.1 carladvogadatributaria.com
 127.0.0.1 casamuseoayerbe.co
 127.0.0.1 cashmereheritage.com
 127.0.0.1 caucionalquiler.com.ar
@@ -243,6 +244,7 @@
 127.0.0.1 ceatoursperu.com
 127.0.0.1 celiklergoldtasarim.com
 127.0.0.1 cemageng.com.br
+127.0.0.1 centrovivencialdepsicoterapias.com
 127.0.0.1 centurylawpartners.com
 127.0.0.1 cepemrj.com.br
 127.0.0.1 ceroerrorenmedicacion.com
@@ -263,7 +265,6 @@
 127.0.0.1 ciadooleo.com
 127.0.0.1 cici-int.org
 127.0.0.1 cigarx.com
-127.0.0.1 cimadcp.com
 127.0.0.1 cinbnigeria.com
 127.0.0.1 cipro.mx
 127.0.0.1 cityoftransformation.com
@@ -406,6 +407,7 @@
 127.0.0.1 dukaree.com
 127.0.0.1 dunaujvaros.gorogkatolikus.hu
 127.0.0.1 dutulongxuyen.com
+127.0.0.1 e-commerce.saleensuporte.com.br
 127.0.0.1 e-hemsire.net
 127.0.0.1 e-piramide.net
 127.0.0.1 eagleuhd.com
@@ -542,6 +544,7 @@
 127.0.0.1 gobesitysurgery.com
 127.0.0.1 gokcevizyon.com
 127.0.0.1 goldenboycares.com
+127.0.0.1 goldenmoviesawards.com
 127.0.0.1 goldrush.ug
 127.0.0.1 gomaeva.com.ar
 127.0.0.1 gomezcompany.com
@@ -577,7 +580,6 @@
 127.0.0.1 gympantry.com
 127.0.0.1 gynaeonline.com
 127.0.0.1 hackacyber.com
-127.0.0.1 hadrok.com
 127.0.0.1 hajiyanafisahshira.com.ng
 127.0.0.1 hallmapping.com
 127.0.0.1 haltbarbiz.com
@@ -778,8 +780,6 @@
 127.0.0.1 labcom.com.mx
 127.0.0.1 lacasitacolumbus.com
 127.0.0.1 lacumbre.com.uy
-127.0.0.1 lalajimatrimonial.com
-127.0.0.1 lameguard.ru
 127.0.0.1 lamilanesa.com.mx
 127.0.0.1 lapakwebsite.com
 127.0.0.1 lara.amiyon.com
@@ -892,7 +892,6 @@
 127.0.0.1 mepstein.com
 127.0.0.1 merasta.org
 127.0.0.1 mesoftwares.vip
-127.0.0.1 mhpa.gov.bt
 127.0.0.1 microslush.com
 127.0.0.1 mileageofjapimports.com.au
 127.0.0.1 milleniuninformatica.com
@@ -941,7 +940,6 @@
 127.0.0.1 nakato.co.za
 127.0.0.1 namanzodata.com.ng
 127.0.0.1 namthaibinh.net
-127.0.0.1 nanpe.eng.br
 127.0.0.1 narlaxsolutions.com
 127.0.0.1 natpet.com
 127.0.0.1 natulab.it
@@ -1130,7 +1128,6 @@
 127.0.0.1 regiscoimbra.pt
 127.0.0.1 regventas.111.com.ec
 127.0.0.1 reifenquick.de
-127.0.0.1 relaxindulge.co.nz
 127.0.0.1 reliamedtransport.com
 127.0.0.1 remotaja.com
 127.0.0.1 renacer.jgorange.com
@@ -1199,6 +1196,7 @@
 127.0.0.1 scientific.pk
 127.0.0.1 scpesa.net
 127.0.0.1 sdk-global.com
+127.0.0.1 sdpitc.co.in
 127.0.0.1 sealicensing.com
 127.0.0.1 secretmindcontrol.com
 127.0.0.1 security-shade.com
@@ -1212,7 +1210,6 @@
 127.0.0.1 serconadica.com.pe
 127.0.0.1 server.easysalepage.in.th
 127.0.0.1 server.toeicswt.co.kr
-127.0.0.1 serverdard3.ru
 127.0.0.1 servicioslogisticosdyc.com
 127.0.0.1 sglinternational.com
 127.0.0.1 shahu66.com
@@ -1460,7 +1457,6 @@
 127.0.0.1 www.almoeqatar.com
 127.0.0.1 www.amazonmall.club
 127.0.0.1 www.arkidecture.com
-127.0.0.1 www.artrsllc.com
 127.0.0.1 www.asterglobal.com
 127.0.0.1 www.bearware.org
 127.0.0.1 www.carusoadvogados.com.br
@@ -1531,4 +1527,4 @@
 127.0.0.1 zero.ms
 127.0.0.1 zf.gouzapay.cn
 127.0.0.1 ztekkhosting.com
-# Number of entries: 1524
+# Number of entries: 1520
