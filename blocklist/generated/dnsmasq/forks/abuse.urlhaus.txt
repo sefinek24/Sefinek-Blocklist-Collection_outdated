@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-11 18:42:40 (UTC)                      #
+# Last updated: 2023-05-11 18:48:21 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -281,7 +281,6 @@ server=/citypharmacylv.com/
 server=/classipie.com/
 server=/clickndpick.com/
 server=/cloudyentertainment.com/
-server=/clovekwealth.com/
 server=/cmlanguageservices.it/
 server=/cmyk.com.ar/
 server=/coachomari.com/
@@ -1254,7 +1253,6 @@ server=/shahu66.com/
 server=/shanepunjabdhaba.com/
 server=/sheikhrouhani.net/
 server=/shilhaandara.com/
-server=/shipminttracking.net/
 server=/shipwaysindonesia.com/
 server=/shivhement.com/
 server=/shop.mediasova.ru/
@@ -1390,6 +1388,7 @@ server=/travelallegypt.com/
 server=/travelwithmanta.co.za/
 server=/travirex.com/
 server=/trdacademy.com/
+server=/trieutin.com/
 server=/trinoxidiuvendas.com/
 server=/triplebbbfoundationrepair.com/
 server=/tscomputers.net.pe/
@@ -1571,4 +1570,4 @@ server=/zenithcodes.com/
 server=/zero.ms/
 server=/zf.gouzapay.cn/
 server=/ztekkhosting.com/
-# Number of entries: 1564
+# Number of entries: 1563

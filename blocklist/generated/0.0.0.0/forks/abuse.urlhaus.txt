@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-11 18:42:40 (UTC)                      #
+# Last updated: 2023-05-11 18:48:21 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -281,7 +281,6 @@
 0.0.0.0 classipie.com
 0.0.0.0 clickndpick.com
 0.0.0.0 cloudyentertainment.com
-0.0.0.0 clovekwealth.com
 0.0.0.0 cmlanguageservices.it
 0.0.0.0 cmyk.com.ar
 0.0.0.0 coachomari.com
@@ -1254,7 +1253,6 @@
 0.0.0.0 shanepunjabdhaba.com
 0.0.0.0 sheikhrouhani.net
 0.0.0.0 shilhaandara.com
-0.0.0.0 shipminttracking.net
 0.0.0.0 shipwaysindonesia.com
 0.0.0.0 shivhement.com
 0.0.0.0 shop.mediasova.ru
@@ -1390,6 +1388,7 @@
 0.0.0.0 travelwithmanta.co.za
 0.0.0.0 travirex.com
 0.0.0.0 trdacademy.com
+0.0.0.0 trieutin.com
 0.0.0.0 trinoxidiuvendas.com
 0.0.0.0 triplebbbfoundationrepair.com
 0.0.0.0 tscomputers.net.pe
@@ -1571,4 +1570,4 @@
 0.0.0.0 zero.ms
 0.0.0.0 zf.gouzapay.cn
 0.0.0.0 ztekkhosting.com
-# Number of entries: 1564
+# Number of entries: 1563
