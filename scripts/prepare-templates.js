@@ -27,8 +27,10 @@ const processDirectory = async dirPath => {
 							return line;
 						}
 
+						if (line.includes('0.0.0.0 ') || line.includes('127.0.0.1 ')) line = line.trim().toLowerCase();
+
 						if (line.includes('127.0.0.1 ')) {
-							const domain = line.replace('127.0.0.1 ', '').trim();
+							const domain = line.replace('127.0.0.1 ', '');
 							if (existingDomains.has(domain)) {
 								return line;
 							} else {

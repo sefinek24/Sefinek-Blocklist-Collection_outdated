@@ -1,5 +1,5 @@
 const lint = require('./lint.js');
-const replaceTo00000 = require('./replace-to-0.0.0.0.js');
+const replaceTo00000 = require('./prepare-templates.js');
 const removeDuplicates = require('./remove-duplicates.js');
 const createEverythingList = require('./create-everything-list.js');
 const generate000 = require('./generate-0.0.0.0.js');
