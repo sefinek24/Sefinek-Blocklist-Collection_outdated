@@ -38,8 +38,6 @@ const processDirectory = async (dirPath) => {
 
 				if (duplicatesRemoved > 0) {
 					console.log(`🗑️ ${duplicatesRemoved} ${duplicatesRemoved === 1 ? 'duplicate' : 'duplicates'} removed from ${filePath}`);
-				} else {
-					console.log(`✔️ No actions required in ${filePath}`);
 				}
 			}),
 		);
