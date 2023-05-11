@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-11 15:04:43 (UTC)                      #
+# Last updated: 2023-05-11 15:23:28 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -163,6 +163,7 @@
 0.0.0.0 barroslobo.com.br
 0.0.0.0 bawatingbarter.com
 0.0.0.0 bayyan.magesticflyer.com
+0.0.0.0 bbc-s.news
 0.0.0.0 bearcatpumps.com.cn
 0.0.0.0 beautifulqueen.com.br
 0.0.0.0 bebessi.com.tr
@@ -283,7 +284,6 @@
 0.0.0.0 coastalflightservices.com
 0.0.0.0 coastlandschools.org
 0.0.0.0 cointra.ac.ug
-0.0.0.0 colisumy.com
 0.0.0.0 companella.site
 0.0.0.0 concepto0.com
 0.0.0.0 conexaopb.com.br
@@ -839,7 +839,6 @@
 0.0.0.0 madicon.co.za
 0.0.0.0 maidoptimizedmarketing.com
 0.0.0.0 main.cloudfronts.net
-0.0.0.0 mainorchile.cl
 0.0.0.0 makeupuccino.com
 0.0.0.0 malpanipipes.com
 0.0.0.0 mangageto.com
@@ -919,7 +918,6 @@
 0.0.0.0 montanasoluciones.com
 0.0.0.0 moodle.corplearning.net
 0.0.0.0 moorworld.com
-0.0.0.0 motivera360.com
 0.0.0.0 mountaindelightstours.com
 0.0.0.0 movimentoadoratori.it
 0.0.0.0 mrityunjaytrust.com
@@ -1010,7 +1008,6 @@
 0.0.0.0 optimalsolutionsonline.com
 0.0.0.0 ora.ci
 0.0.0.0 orangefire.ae
-0.0.0.0 orderedami.com
 0.0.0.0 organizer.safeonline.it
 0.0.0.0 origins-france.fr
 0.0.0.0 origoapp.com
@@ -1040,7 +1037,6 @@
 0.0.0.0 parrotbay.net
 0.0.0.0 partnerlearningsolutions.com
 0.0.0.0 paste-bin.xyz
-0.0.0.0 pathways4success.com
 0.0.0.0 patmypets.com
 0.0.0.0 pazurinaholdings.com
 0.0.0.0 pegasussourcing.com
@@ -1159,6 +1155,7 @@
 0.0.0.0 rossandmorrison.com
 0.0.0.0 rotc-ams.com
 0.0.0.0 rotexfans.com
+0.0.0.0 royaltyblackcard.club
 0.0.0.0 rubensplima.com
 0.0.0.0 runoclean.com
 0.0.0.0 rzbpo.com.br
@@ -1240,7 +1237,6 @@
 0.0.0.0 smartphoodapp.com
 0.0.0.0 smeolbd.com
 0.0.0.0 smsextreme.com
-0.0.0.0 sna-india.com
 0.0.0.0 sncentralschool.com
 0.0.0.0 soaresdesigner.com.br
 0.0.0.0 sociallysavvyseo.com
@@ -1420,6 +1416,7 @@
 0.0.0.0 visualimprentadigital.com
 0.0.0.0 visualmed.org
 0.0.0.0 vitoturizm.com.tr
+0.0.0.0 vividled.in
 0.0.0.0 vladimirmesic.com
 0.0.0.0 vogue-pharmaceuticals.com
 0.0.0.0 voiceoftraders.com
@@ -1477,6 +1474,7 @@
 0.0.0.0 www.globallaborsupply.com
 0.0.0.0 www.hebgb.top
 0.0.0.0 www.hseda.com
+0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.institut-corps-a-ligne.fr
 0.0.0.0 www.janisthaaivf.com
 0.0.0.0 www.ks.cn
@@ -1500,10 +1498,11 @@
 0.0.0.0 www.sunglassesninja.com
 0.0.0.0 www.tractorandinas.com
 0.0.0.0 www.tradeinsights.net
-
+127.0.0.1
 0.0.0.0 www.tvculturaourofino.com.br
 0.0.0.0 www.vaestsolutions.com
 0.0.0.0 www.websound.ru
+0.0.0.0 www.weinsteincounseling.com
 0.0.0.0 www.yb-lawyers.com
 0.0.0.0 www.ysbaojia.com
 0.0.0.0 wynecare.com
@@ -1531,4 +1530,4 @@
 0.0.0.0 zero.ms
 0.0.0.0 zf.gouzapay.cn
 0.0.0.0 ztekkhosting.com
-# Number of entries: 1524
+# Number of entries: 1523

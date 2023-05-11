@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-11 15:04:43 (UTC)                      #
+# Last updated: 2023-05-11 15:23:28 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -163,6 +163,7 @@ server=/barrehomes.co.ke/
 server=/barroslobo.com.br/
 server=/bawatingbarter.com/
 server=/bayyan.magesticflyer.com/
+server=/bbc-s.news/
 server=/bearcatpumps.com.cn/
 server=/beautifulqueen.com.br/
 server=/bebessi.com.tr/
@@ -283,7 +284,6 @@ server=/coadymarine.com/
 server=/coastalflightservices.com/
 server=/coastlandschools.org/
 server=/cointra.ac.ug/
-server=/colisumy.com/
 server=/companella.site/
 server=/concepto0.com/
 server=/conexaopb.com.br/
@@ -839,7 +839,6 @@ server=/macro.nyc/
 server=/madicon.co.za/
 server=/maidoptimizedmarketing.com/
 server=/main.cloudfronts.net/
-server=/mainorchile.cl/
 server=/makeupuccino.com/
 server=/malpanipipes.com/
 server=/mangageto.com/
@@ -919,7 +918,6 @@ server=/moneysavingsolar.com/
 server=/montanasoluciones.com/
 server=/moodle.corplearning.net/
 server=/moorworld.com/
-server=/motivera360.com/
 server=/mountaindelightstours.com/
 server=/movimentoadoratori.it/
 server=/mrityunjaytrust.com/
@@ -1010,7 +1008,6 @@ server=/opesjk.ug/
 server=/optimalsolutionsonline.com/
 server=/ora.ci/
 server=/orangefire.ae/
-server=/orderedami.com/
 server=/organizer.safeonline.it/
 server=/origins-france.fr/
 server=/origoapp.com/
@@ -1040,7 +1037,6 @@ server=/parkrosegroup.cl/
 server=/parrotbay.net/
 server=/partnerlearningsolutions.com/
 server=/paste-bin.xyz/
-server=/pathways4success.com/
 server=/patmypets.com/
 server=/pazurinaholdings.com/
 server=/pegasussourcing.com/
@@ -1159,6 +1155,7 @@ server=/rosique.com.br/
 server=/rossandmorrison.com/
 server=/rotc-ams.com/
 server=/rotexfans.com/
+server=/royaltyblackcard.club/
 server=/rubensplima.com/
 server=/runoclean.com/
 server=/rzbpo.com.br/
@@ -1240,7 +1237,6 @@ server=/smarketinglab.com.br/
 server=/smartphoodapp.com/
 server=/smeolbd.com/
 server=/smsextreme.com/
-server=/sna-india.com/
 server=/sncentralschool.com/
 server=/soaresdesigner.com.br/
 server=/sociallysavvyseo.com/
@@ -1420,6 +1416,7 @@ server=/visits.com.au/
 server=/visualimprentadigital.com/
 server=/visualmed.org/
 server=/vitoturizm.com.tr/
+server=/vividled.in/
 server=/vladimirmesic.com/
 server=/vogue-pharmaceuticals.com/
 server=/voiceoftraders.com/
@@ -1477,6 +1474,7 @@ server=/www.garrett.kz/
 server=/www.globallaborsupply.com/
 server=/www.hebgb.top/
 server=/www.hseda.com/
+server=/www.ingonherbal.com/
 server=/www.institut-corps-a-ligne.fr/
 server=/www.janisthaaivf.com/
 server=/www.ks.cn/
@@ -1500,10 +1498,11 @@ server=/www.starcountry.net/
 server=/www.sunglassesninja.com/
 server=/www.tractorandinas.com/
 server=/www.tradeinsights.net/
-
+127.0.0.1
 server=/www.tvculturaourofino.com.br/
 server=/www.vaestsolutions.com/
 server=/www.websound.ru/
+server=/www.weinsteincounseling.com/
 server=/www.yb-lawyers.com/
 server=/www.ysbaojia.com/
 server=/wynecare.com/
@@ -1531,4 +1530,4 @@ server=/zenithcodes.com/
 server=/zero.ms/
 server=/zf.gouzapay.cn/
 server=/ztekkhosting.com/
-# Number of entries: 1524
+# Number of entries: 1523
