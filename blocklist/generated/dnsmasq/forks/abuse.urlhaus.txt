@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-11 15:42:28 (UTC)                      #
+# Last updated: 2023-05-11 15:45:36 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -356,7 +356,6 @@ server=/demonware.online/
 server=/dental.xiaoxiao.media/
 server=/dentalbraces4me.com/
 server=/designexpertsinc.com/
-server=/despachosotomayor.com/
 server=/detail-booking.com.br/
 server=/dev.sebpo.net/
 server=/developersakibur.com/
@@ -542,7 +541,6 @@ server=/gloverxplog.com/
 server=/gobesitysurgery.com/
 server=/gokcevizyon.com/
 server=/goldenboycares.com/
-server=/goldenmoviesawards.com/
 server=/goldrush.ug/
 server=/gomaeva.com.ar/
 server=/gomezcompany.com/
@@ -577,6 +575,7 @@ server=/gym-instructors.com/
 server=/gympantry.com/
 server=/gynaeonline.com/
 server=/hackacyber.com/
+server=/hadrok.com/
 server=/hajiyanafisahshira.com.ng/
 server=/hallmapping.com/
 server=/haltbarbiz.com/
@@ -596,6 +595,7 @@ server=/helptimize.com/
 server=/henselengineeringcompany.com/
 server=/hepm.co.uk/
 server=/herchinfitout.com.sg/
+server=/hergelekitap.com.tr/
 server=/hiconnecteg.com/
 server=/highness-sa.com/
 server=/hipotesis.uy/
@@ -1412,6 +1412,7 @@ server=/villabonitacolumbus.com/
 server=/vinnew.111.com.ec/
 server=/vipysknik.by/
 server=/virtualhardwarelab.com/
+server=/virtualplaya.com/
 server=/virtualyourpondfarm.com/
 server=/visaexpressbd.com/
 server=/visioni2c.com/
@@ -1534,4 +1535,4 @@ server=/zenithcodes.com/
 server=/zero.ms/
 server=/zf.gouzapay.cn/
 server=/ztekkhosting.com/
-# Number of entries: 1527
+# Number of entries: 1528

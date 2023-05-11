@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-11 15:42:28 (UTC)                      #
+# Last updated: 2023-05-11 15:45:36 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -356,7 +356,6 @@
 0.0.0.0 dental.xiaoxiao.media
 0.0.0.0 dentalbraces4me.com
 0.0.0.0 designexpertsinc.com
-0.0.0.0 despachosotomayor.com
 0.0.0.0 detail-booking.com.br
 0.0.0.0 dev.sebpo.net
 0.0.0.0 developersakibur.com
@@ -542,7 +541,6 @@
 0.0.0.0 gobesitysurgery.com
 0.0.0.0 gokcevizyon.com
 0.0.0.0 goldenboycares.com
-0.0.0.0 goldenmoviesawards.com
 0.0.0.0 goldrush.ug
 0.0.0.0 gomaeva.com.ar
 0.0.0.0 gomezcompany.com
@@ -577,6 +575,7 @@
 0.0.0.0 gympantry.com
 0.0.0.0 gynaeonline.com
 0.0.0.0 hackacyber.com
+0.0.0.0 hadrok.com
 0.0.0.0 hajiyanafisahshira.com.ng
 0.0.0.0 hallmapping.com
 0.0.0.0 haltbarbiz.com
@@ -596,6 +595,7 @@
 0.0.0.0 henselengineeringcompany.com
 0.0.0.0 hepm.co.uk
 0.0.0.0 herchinfitout.com.sg
+0.0.0.0 hergelekitap.com.tr
 0.0.0.0 hiconnecteg.com
 0.0.0.0 highness-sa.com
 0.0.0.0 hipotesis.uy
@@ -1412,6 +1412,7 @@
 0.0.0.0 vinnew.111.com.ec
 0.0.0.0 vipysknik.by
 0.0.0.0 virtualhardwarelab.com
+0.0.0.0 virtualplaya.com
 0.0.0.0 virtualyourpondfarm.com
 0.0.0.0 visaexpressbd.com
 0.0.0.0 visioni2c.com
@@ -1534,4 +1535,4 @@
 0.0.0.0 zero.ms
 0.0.0.0 zf.gouzapay.cn
 0.0.0.0 ztekkhosting.com
-# Number of entries: 1527
+# Number of entries: 1528
