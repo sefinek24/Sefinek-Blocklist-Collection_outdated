@@ -8,7 +8,7 @@ const processDirectory = async (dirPath) => {
 		const fileNames = await fs.readdir(dirPath);
 		const txtFiles = fileNames.filter((fileName) => fileName.endsWith('.txt'));
 
-		await Promise.all(
+		await Promise.allSettled(
 			txtFiles.map(async (fileName) => {
 				const filePath = path.join(dirPath, fileName);
 				let fileContents = await fs.readFile(filePath, 'utf8');
@@ -17,7 +17,6 @@ const processDirectory = async (dirPath) => {
 				let duplicatesRemoved = 0;
 
 				const lines = fileContents.split('\n').map((line) => line.trim()).filter((line) => line !== '');
-
 				fileContents = lines.filter((line) => {
 					if (line.startsWith('##') || line.startsWith('#') || line.startsWith('!')) {
 						return true;
@@ -34,34 +33,26 @@ const processDirectory = async (dirPath) => {
 					}
 				}).join('\n');
 
-				await fs.writeFile(filePath, fileContents, 'utf8');
-
 				if (duplicatesRemoved > 0) {
+					await fs.writeFile(filePath, fileContents, 'utf8');
 					console.log(`🗑️ ${duplicatesRemoved} ${duplicatesRemoved === 1 ? 'duplicate' : 'duplicates'} removed from ${filePath}`);
 				}
 			}),
 		);
 
-		const subDirectories = await fs.readdir(dirPath, { withFileTypes: true });
-
-		await Promise.all(
-			subDirectories.filter((subDirectory) => subDirectory.isDirectory())
-				.map((subDirectory) => processDirectory(path.join(dirPath, subDirectory.name))),
-		);
-	} catch (error) {
-		console.error(error);
+		await fs.readdir(dirPath, { withFileTypes: true });
+	} catch (err) {
+		console.error(err);
 	}
 };
 
 const run = async () => {
 	try {
-		const generatedDirPath = path.join(__dirname, '..', 'blocklist', 'generated');
-		console.log(`🔍 Searching for .txt files in ${generatedDirPath} directory...`);
-		await processDirectory(generatedDirPath);
+		console.log('🔍 Searching for .txt files in blocklist/template directory...');
+		await processDirectory(path.join(__dirname, '..', 'blocklist', 'template'));
 
-		const templateDirPath = path.join(__dirname, '..', 'blocklist', 'template');
-		console.log(`🔍 Searching for .txt files in ${templateDirPath} directory...`);
-		await processDirectory(templateDirPath);
+		console.log('🔍 Searching for .txt files in blocklist/generated directory...');
+		await processDirectory(path.join(__dirname, '..', 'blocklist', 'generated'));
 	} catch (error) {
 		console.error(error);
 	}

@@ -79,6 +79,8 @@ const processDirectory = async (dirPath) => {
 					.join('\n');
 
 				if (modifiedLines !== 0) {
+					await fs.writeFile(filePath, fileContents, 'utf8');
+
 					console.log(
 						`📝 ${fileName}: ${modifiedLines} ${
 							modifiedLines === 1 ? 'line' : 'lines'
@@ -91,8 +93,6 @@ const processDirectory = async (dirPath) => {
 						}`,
 					);
 				}
-
-				await fs.writeFile(filePath, fileContents, 'utf8');
 			}),
 		);
 
@@ -114,8 +114,9 @@ const processDirectory = async (dirPath) => {
 
 const run = async () => {
 	try {
+		console.log('🔍 Searching for .txt files in blocklist/template directory...');
+
 		const templateDirPath = path.join(__dirname, '..', 'blocklist', 'template');
-		console.log(`🔍 Searching for .txt files in ${templateDirPath} directory...`);
 		await processDirectory(templateDirPath);
 		console.log(`✔️ The process is completed successfully for ${templateDirPath} directory`);
 	} catch (err) {
