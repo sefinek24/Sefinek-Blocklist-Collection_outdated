@@ -89,7 +89,8 @@
 127.0.0.1 az43064.vo.msecnd.net
 127.0.0.1 cdn.samsungcloudsolution.net
 127.0.0.1 connecttv.pelmorex.com # weather app tracking
-127.0.0.1 coordinator-production-28516768.us-east-1.elb.amazonaws.com 
+127.0.0.1 coordinator-production-28516768.us-east-1.elb.amazonaws.com
+0.0.0.0
 127.0.0.1 cpu.samsungelectronics.com
 127.0.0.1 d179kwmlpc4o47.cloudfront.net
 127.0.0.1 d1jwpcr0q4pcq0.cloudfront.net

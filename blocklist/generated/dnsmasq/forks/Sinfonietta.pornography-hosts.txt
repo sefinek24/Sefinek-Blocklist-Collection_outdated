@@ -19211,8 +19211,10 @@ server=/leakxxx.com/
 server=/red.xxx/
 server=/simpcity.su/
 
-server=/ehentai.to/ 
-server=/nhentai.to/ 
+server=/ehentai.to/
+0.0.0.0
+server=/nhentai.to/
+0.0.0.0
 
 server=/a-putaria.blogspot.com/
 server=/acervo-amador.blogspot.com/

@@ -37,7 +37,8 @@ server=/launcher.us.yeshen.com/
 server=/search.adcaffe.com/
 server=/monitor.adcaffe.com/
 server=/ad-api.ehawk.com/
-server=/gwrtdp-tn690bfadt.tclclouds.com/ 
+server=/gwrtdp-tn690bfadt.tclclouds.com/
+0.0.0.0
 server=/mobotoolpush.moboapps.io/
 server=/ssp.mediation.trnox.com/
 server=/bu1.duba.com/
