@@ -15,6 +15,7 @@ const processDirectory = async dirPath => {
 
 				const existingDomains = new Set();
 				let modifiedLines = 0;
+				let convertedDomains = 0;
 
 				fileContents = fileContents
 					.split('\n')
@@ -27,10 +28,14 @@ const processDirectory = async dirPath => {
 							return line;
 						}
 
-						if (line.includes('0.0.0.0 ') || line.includes('127.0.0.1 ')) line = line.trim().toLowerCase();
+						// Check if domain contains uppercase letters
+						if ((line.startsWith('0.0.0.0 ') || line.startsWith('127.0.0.1 ') || !line.includes('#')) && (/[A-Z]/).test(line)) {
+							line = line.toLowerCase();
+							convertedDomains++;
+						}
 
 						if (line.includes('127.0.0.1 ')) {
-							const domain = line.replace('127.0.0.1 ', '');
+							const domain = line.replace('127.0.0.1 ', '').trim();
 							if (existingDomains.has(domain)) {
 								return line;
 							} else {
@@ -52,6 +57,14 @@ const processDirectory = async dirPath => {
 					);
 				} else {
 					console.log(`✔️ No modifications needed for file ${fileName} located in ${dirPath}`);
+				}
+
+				if (convertedDomains > 0) {
+					console.log(
+						`✔️ ${convertedDomains} ${convertedDomains === 1 ? 'domain' : 'domains'} converted to lowercase in file ${fileName} located in ${dirPath}`,
+					);
+				} else {
+					console.log(`✔️ No domains needed to be converted to lowercase in file ${fileName} located in ${dirPath}`);
 				}
 			}),
 		);
