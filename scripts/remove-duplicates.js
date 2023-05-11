@@ -55,14 +55,20 @@ const processDirectory = async (dirPath) => {
 	}
 };
 
-(async () => {
+const run = async () => {
 	try {
 		const generatedDirPath = path.join(__dirname, '..', 'blocklist', 'generated');
-		const templateDirPath = path.join(__dirname, '..', 'blocklist', 'template');
-
+		console.log(`🔍 Searching for .txt files in ${generatedDirPath} directory...`);
 		await processDirectory(generatedDirPath);
+
+		const templateDirPath = path.join(__dirname, '..', 'blocklist', 'template');
+		console.log(`🔍 Searching for .txt files in ${templateDirPath} directory...`);
 		await processDirectory(templateDirPath);
 	} catch (error) {
 		console.error(error);
 	}
-})();
+};
+
+(async () => await run())();
+
+module.exports = () => run;
