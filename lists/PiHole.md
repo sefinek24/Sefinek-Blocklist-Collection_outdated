@@ -27,6 +27,7 @@ https://blocklist.sefinek.net/generated/0.0.0.0/phishing.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/porn.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/sites/riotgames.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/social/tiktok.txt
+https://blocklist.sefinek.net/generated/0.0.0.0/social/snapchat.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/useless-websites.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/web-attacks.txt
 https://blocklistproject.github.io/Lists/abuse.txt
@@ -39,9 +40,7 @@ https://blocklistproject.github.io/Lists/porn.txt
 https://blocklistproject.github.io/Lists/ransomware.txt
 https://blocklistproject.github.io/Lists/redirect.txt
 https://blocklistproject.github.io/Lists/scam.txt
-https://blocklistproject.github.io/Lists/tiktok.txt
 https://ente.dev/api/blocklist/google-amp-hosts
-https://ente.dev/api/blocklist/tiktok
 https://ente.dev/api/blocklist/tv
 https://github.com/chadmayfield/pihole-blocklists/raw/master/lists/pi_blocklist_porn_all.list
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
@@ -96,7 +95,6 @@ https://raw.githubusercontent.com/mhhakim/pihole-blocklist/master/porn.txt
 https://raw.githubusercontent.com/mitchellkrogza/Stop.Google.Analytics.Ghost.Spam.HOWTO/master/output/domains/INACTIVE/list
 https://raw.githubusercontent.com/neodevpro/neodevhost/master/host
 https://raw.githubusercontent.com/nickoppen/pihole-blocklists/master/blocklist-omegle.txt
-https://raw.githubusercontent.com/nickoppen/pihole-blocklists/master/blocklist-snapchat.txt
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
 https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
 https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardApps.txt
