@@ -55,12 +55,10 @@ jobs:
           git config --global user.name "Sefinek Actions"
           git config --global user.email "sefinek.actions@gmail.com"
           git add .
-          git status
-          git commit -m "Update blocklist files by GitHub Actions"
-
-      - name: Push changes
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
-          force: true
+          if [ -n "$(git status -s)" ]; then
+            git status
+            git commit -m "Update blocklist files by GitHub Actions"
+            git push
+          else
+            echo "No changes to commit"
+          fi
