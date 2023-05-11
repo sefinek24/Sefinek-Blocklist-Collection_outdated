@@ -13,13 +13,16 @@ const processDirectory = async dirPath => {
 				const filePath = path.join(dirPath, fileName);
 				let fileContents = await fsPromises.readFile(filePath, 'utf8');
 
-				const existingDomains = new Set();
 				let modifiedLines = 0;
 				let convertedDomains = 0;
 
 				fileContents = fileContents
 					.split('\n')
 					.map(line => {
+						if (line.includes('127.0.0.1  localhost')) {
+							return '0.0.0.0 localhost';
+						}
+
 						if (
 							line.includes('127.0.0.1 localhost') ||
 							line.includes('127.0.0.1 localhost.localdomain') ||
@@ -28,21 +31,26 @@ const processDirectory = async dirPath => {
 							return line;
 						}
 
-						if (!line.startsWith('#') && (/^(?:0.0.0.0|127.0.0.1)\s+/).test(line) && !line.endsWith('#') && (/^(?:0.0.0.0|127.0.0.1)\s+/).test(line)) {
-							const newLine = line.replace(/^\S+\s+(.*)$/, (match, p1) => {
-								return p1.trim().split(/\s+/).map(domain => `0.0.0.0 ${domain}`).join('\n');
-							});
-							if (newLine !== line) {
-								line = newLine;
-								modifiedLines++;
+						if ((line.startsWith('0.0.0.0') || line.startsWith('127.0.0.1')) && !line.includes('#')) {
+							const words = line.split(' ');
+
+							if (words.length > 2) {
+								const ipAddress = words.shift();
+								const domains = words.join(' ').split(' ');
+								const modifiedLine = domains.map(domain => `${ipAddress} ${domain.toLowerCase()}`).join('\n').trim();
+
+								if (modifiedLine !== line) {
+									modifiedLines++;
+									return modifiedLine;
+								}
 							}
 						}
 
 						// Check if domain contains uppercase letters
-						if ((line.match(/^(0\.0\.0\.0|127\.0\.0\.1)\s/) || !line.includes('#')) && (/[A-Z]/).test(line)) {
+						if (line.match(/^(0\.0\.0\.0|127\.0\.0\.1)\s/) && (/[A-Z]/).test(line)) {
 							const ip = line.split(/\s+/)[0];
 							const domain = line.split(/\s+/)[1].toLowerCase();
-							const comment = line.slice(line.indexOf('#'));
+							const comment = line.includes('#') ? line.slice(line.indexOf('#')) : '';
 
 							const modifiedLine = `${ip.trim()} ${domain.trim()} ${comment}`;
 							if (modifiedLine !== line) {
@@ -53,20 +61,12 @@ const processDirectory = async dirPath => {
 							}
 						}
 
-
-
 						if (line.includes('127.0.0.1 ')) {
-							const domain = line.replace('127.0.0.1 ', '').trim();
-							if (existingDomains.has(domain)) {
-								return line;
-							} else {
-								existingDomains.add(domain);
-								modifiedLines++;
-								return line.replace('127.0.0.1', '0.0.0.0');
-							}
-						} else {
-							return line;
+							modifiedLines++;
+							return line.replace('127.0.0.1 ', '0.0.0.0 ');
 						}
+
+						return line;
 					})
 					.join('\n');
 
