@@ -14,8 +14,8 @@
 # » Description : Unknown.
 # » Author      : Sefinek (https://sefinek.net) <contact@sefinek.net>
 # » Release     : 127.0.0.1 before each domain
-# » Version     : 1683602237751
-# » Last update : 03:17:17.751, 09.05.2023 [GMT+2 HH:MM:SS.MS, DD.MM.YYYY]
+# » Version     : 1683771620841
+# » Last update : 02:20:20.841, 11.05.2023 [GMT+2 HH:MM:SS.MS, DD.MM.YYYY]
 #
 # 〢 Warning:
 # By using this file, you acknowledge that the author is not liable for any damages or losses that may arise from its use, although the likelihood of such events is low.
@@ -27,3 +27,4 @@
 # -------------------------------------------------------------------------------------------------------------------------------------------------------
 127.0.0.1 dnstest.sefinek.net
 127.0.0.1 dnstest.sefinek.workers.dev
+127.0.0.1 test.sefinek.net
