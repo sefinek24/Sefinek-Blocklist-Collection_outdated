@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-11 19:23:39 (UTC)                      #
+# Last updated: 2023-05-11 19:27:29 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -653,7 +653,6 @@
 0.0.0.0 hynadecor.com
 0.0.0.0 ianjesuscr.org
 0.0.0.0 ibremp.org.br
-0.0.0.0 icvpartners.com
 0.0.0.0 idalidcouture.com
 0.0.0.0 idamarafreire.com.br
 0.0.0.0 idealweddings.co.zw
@@ -698,6 +697,7 @@
 0.0.0.0 intelli-sys.co.zw
 0.0.0.0 intencionais.com.br
 0.0.0.0 interactsol.com
+0.0.0.0 internationalvocalcoach.com
 0.0.0.0 interoffice.business
 0.0.0.0 intervisaovistorias.com.br
 0.0.0.0 invar.me
@@ -1041,6 +1041,7 @@
 0.0.0.0 orderedami.com
 0.0.0.0 organizer.safeonline.it
 0.0.0.0 origa2up.top
+0.0.0.0 origins-france.fr
 0.0.0.0 origoapp.com
 0.0.0.0 orlcasablanca.com
 0.0.0.0 orsan.gruporhynous.com
@@ -1571,4 +1572,4 @@
 0.0.0.0 zero.ms
 0.0.0.0 zf.gouzapay.cn
 0.0.0.0 ztekkhosting.com
-# Number of entries: 1564
+# Number of entries: 1565

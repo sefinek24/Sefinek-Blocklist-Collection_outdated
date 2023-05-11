@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-11 19:23:39 (UTC)                      #
+# Last updated: 2023-05-11 19:27:29 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -653,7 +653,6 @@ server=/husamekhrawesh.com/
 server=/hynadecor.com/
 server=/ianjesuscr.org/
 server=/ibremp.org.br/
-server=/icvpartners.com/
 server=/idalidcouture.com/
 server=/idamarafreire.com.br/
 server=/idealweddings.co.zw/
@@ -698,6 +697,7 @@ server=/intelair.com.mx/
 server=/intelli-sys.co.zw/
 server=/intencionais.com.br/
 server=/interactsol.com/
+server=/internationalvocalcoach.com/
 server=/interoffice.business/
 server=/intervisaovistorias.com.br/
 server=/invar.me/
@@ -1041,6 +1041,7 @@ server=/ora.ci/
 server=/orderedami.com/
 server=/organizer.safeonline.it/
 server=/origa2up.top/
+server=/origins-france.fr/
 server=/origoapp.com/
 server=/orlcasablanca.com/
 server=/orsan.gruporhynous.com/
@@ -1571,4 +1572,4 @@ server=/zenithcodes.com/
 server=/zero.ms/
 server=/zf.gouzapay.cn/
 server=/ztekkhosting.com/
-# Number of entries: 1564
+# Number of entries: 1565
