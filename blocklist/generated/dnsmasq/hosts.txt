@@ -4639,7 +4639,7 @@
 127.0.0.1 merciless.localstars.com
 127.0.0.1 adserver.merciless.localstars.com
 # [localytics.com]
-127.0.0.1 localytics.com
+ytics.com
 127.0.0.1 53.localytics.com
 127.0.0.1 api.53.localytics.com
 127.0.0.1 manifest.53.localytics.com
@@ -5877,7 +5877,7 @@
 # [owneriq.net]
 127.0.0.1 px.owneriq.net
 # [ownlocal.com]
-127.0.0.1 local.ownlocal.com
+.ownlocal.com
 127.0.0.1 secure.ownlocal.com
 127.0.0.1 origami.secure.ownlocal.com
 127.0.0.1 widget.secure.ownlocal.com
@@ -7791,7 +7791,7 @@
 127.0.0.1 serve.uberads.com
 127.0.0.1 serve-prod1204.uberads.com
 # [uberinternal.com]
-127.0.0.1 local-analytics.uberinternal.com
+-analytics.uberinternal.com
 # [ubimo.com]
 127.0.0.1 reports.ubimo.com
 # [uc.cn]
