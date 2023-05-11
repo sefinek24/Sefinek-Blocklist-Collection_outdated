@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-11 19:39:26 (UTC)                      #
+# Last updated: 2023-05-11 19:43:20 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -1380,7 +1380,6 @@ server=/tomazellapresentes.com.br/
 server=/tonimix.111.com.ec/
 server=/tonydong.com/
 server=/tophatrealtygroup.com/
-server=/topsepatu.com/
 server=/topsy.111.com.ec/
 server=/traderhype.com/
 server=/traneximp.111.com.ec/
@@ -1573,4 +1572,4 @@ server=/zenithcodes.com/
 server=/zero.ms/
 server=/zf.gouzapay.cn/
 server=/ztekkhosting.com/
-# Number of entries: 1566
+# Number of entries: 1565
