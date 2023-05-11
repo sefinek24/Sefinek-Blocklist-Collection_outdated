@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-11 15:30:20 (UTC)                      #
+# Last updated: 2023-05-11 15:39:23 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -310,6 +310,7 @@ server=/crazymoney.app/
 server=/creativebugs.net/
 server=/creativedie.com/
 server=/creativehost.asia/
+server=/creativesmartsolution.com/
 server=/crecerco.com/
 server=/crenloreto.com/
 server=/criandoliberdade.com/
@@ -356,7 +357,6 @@ server=/dental.xiaoxiao.media/
 server=/dentalbraces4me.com/
 server=/designexpertsinc.com/
 server=/despachosotomayor.com/
-server=/destinymc.co.za/
 server=/detail-booking.com.br/
 server=/dev.sebpo.net/
 server=/developersakibur.com/
@@ -385,6 +385,7 @@ server=/dohrmann-projekt.de/
 server=/dominicanhouseofbeauty.com/
 server=/dominiqueimmora.com/
 server=/donkeytourscroatia.com/
+server=/down.pcclear.com/
 server=/down.udashi.com/
 server=/download.caihong.com/
 server=/download.doumaibiji.cn/
@@ -491,7 +492,6 @@ server=/foodtrucknearby.com/
 server=/foohdie.com/
 server=/forkliftsystem.com/
 server=/formar3d.com.br/
-server=/forsalenear.me/
 server=/fran.ac.ug/
 server=/frangulf.ae/
 server=/frangulfadvocates.com/
@@ -735,6 +735,7 @@ server=/k5fun.com/
 server=/kadisse.com/
 server=/kaiessentials.com/
 server=/kalpanacotton.com/
+server=/kamtress.com/
 server=/karary.edu.sd/
 server=/karer.by/
 server=/karimgousa.ug/
@@ -1400,6 +1401,7 @@ server=/velumuriinfra.com/
 server=/vemas.com.mx/
 server=/venomimpex.com/
 server=/ventolinhl.com/
+server=/vesnade3ign.com/
 server=/vfocus.net/
 server=/vialidadesaopa.com.mx/
 server=/victorysanitizer.com/
@@ -1444,7 +1446,6 @@ server=/windcomtechnologies.com/
 server=/winnerswebsite.net/
 server=/winpeforum.com/
 server=/wiseflys.com/
-server=/wisewomanwarrior.com/
 server=/wiztecbd.com/
 server=/wjidigitalmediadirectory.com/
 server=/wooretail.com/
@@ -1532,4 +1533,4 @@ server=/zenithcodes.com/
 server=/zero.ms/
 server=/zf.gouzapay.cn/
 server=/ztekkhosting.com/
-# Number of entries: 1525
+# Number of entries: 1526
