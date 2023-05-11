@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-11 19:27:29 (UTC)                      #
+# Last updated: 2023-05-11 19:34:40 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -800,6 +800,7 @@
 127.0.0.1 labcom.com.mx
 127.0.0.1 lacasitacolumbus.com
 127.0.0.1 lacumbre.com.uy
+127.0.0.1 lalajimatrimonial.com
 127.0.0.1 lameguard.ru
 127.0.0.1 lamilanesa.com.mx
 127.0.0.1 lapakwebsite.com
@@ -1572,4 +1573,4 @@
 127.0.0.1 zero.ms
 127.0.0.1 zf.gouzapay.cn
 127.0.0.1 ztekkhosting.com
-# Number of entries: 1565
+# Number of entries: 1566

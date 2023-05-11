@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-11 19:27:29 (UTC)                      #
+# Last updated: 2023-05-11 19:34:40 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -800,6 +800,7 @@ server=/kymperfetto.com/
 server=/labcom.com.mx/
 server=/lacasitacolumbus.com/
 server=/lacumbre.com.uy/
+server=/lalajimatrimonial.com/
 server=/lameguard.ru/
 server=/lamilanesa.com.mx/
 server=/lapakwebsite.com/
@@ -1572,4 +1573,4 @@ server=/zenithcodes.com/
 server=/zero.ms/
 server=/zf.gouzapay.cn/
 server=/ztekkhosting.com/
-# Number of entries: 1565
+# Number of entries: 1566
