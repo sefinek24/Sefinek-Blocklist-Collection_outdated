@@ -44,7 +44,7 @@ const convert = async (folderPath = path.join(__dirname, '../blocklist/template'
 		const fileContent = await fs.readFile(thisFileName, 'utf8');
 		const replacedFile = fileContent
 			.replaceAll(/^(?:127\.0\.0\.1|0\.0\.0\.0) /gmu, '0.0.0.0 ')
-			.replaceAll(/^#(?: ?127\.0\.0\.1| ?0\.0\.0\.0) /gmu, '# 0.0.0.0 ')
+			.replaceAll(/#(?: ?127\.0\.0\.1| ?0\.0\.0\.0) |:: /gmu, '# 0.0.0.0 ')
 			.replace(/<Release>/gim, '0.0.0.0 before each domain')
 			.replace(/<Version>/gim, date.timestamp.toString())
 			.replace(/<LastUpdate>/gim, `${date.hours}:${date.minutes}:${date.seconds}.${date.milliseconds}, ${date.day}.${date.month}.${date.year} [GMT+2 HH:MM:SS.MS, DD.MM.YYYY]`);

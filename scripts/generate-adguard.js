@@ -50,7 +50,7 @@ const convert = async (folderPath = path.join(__dirname, '../blocklist/template'
 			.replaceAll('#=====', '# =====')
 			.replace(/^# 0\.0\.0\.0 (.*?) (.*)/gmu, '@@||$1^! $2')
 			.replace(/0\.0\.0\.0 (.*?)$/gmu, '||$1^')
-			.replace(/^#/gmu, '!')
+			.replace(/^(?:::|#) /gmu, '! ')
 			.replace(/<Release>/gim, 'AdGuard [adguard.com]')
 			.replace(/<Version>/gim, date.timestamp.toString())
 			.replace(/<LastUpdate>/gim, `${date.hours}:${date.minutes}:${date.seconds}.${date.milliseconds}, ${date.day}.${date.month}.${date.year} [GMT+2 HH:MM:SS.MS, DD.MM.YYYY]`);
