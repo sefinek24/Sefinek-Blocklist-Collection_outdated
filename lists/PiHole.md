@@ -12,7 +12,6 @@
 ```
 https://adaway.org/hosts.txt
 https://big.oisd.nl
-https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/ads/jerryn70.GoodbyeAds.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/ads/TheBlockListProject.AdsList.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/ads/yoyo.AdsTrackersEtc.txt
@@ -22,7 +21,8 @@ https://blocklist.sefinek.net/generated/0.0.0.0/fraud.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/gambling.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/games/league-of-legends.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/games/valorant.txt
-https://blocklist.sefinek.net/generated/0.0.0.0/malicious-sites.txt
+https://blocklist.sefinek.net/generated/0.0.0.0/malicious/main.txt
+https://blocklist.sefinek.net/generated/0.0.0.0/malicious/reported-by-norton.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/phishing.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/porn.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/sites/omegle.txt
@@ -63,7 +63,6 @@ https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
 https://raw.githubusercontent.com/blocklistproject/Lists/master/porn.txt
 https://raw.githubusercontent.com/blocklistproject/Lists/master/youtube.txt
 https://raw.githubusercontent.com/cbuijs/ut1/master/adult/domains.24733
-https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_all.list
 https://raw.githubusercontent.com/craiu/mobiletrackers/master/list.txt
 https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
@@ -78,7 +77,6 @@ https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
-https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt
 https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt
 https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/adguard_host.txt
 https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/adguard_mobile_host.txt
@@ -105,10 +103,6 @@ https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/pornography-hosts
 https://raw.githubusercontent.com/Snota418/Youtube-spam-host-list/main/Crypto%20streams
 https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts
-https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.2o7Net/hosts
-https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Risk/hosts
-https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Spam/hosts
-https://raw.githubusercontent.com/StevenBlack/hosts/master/data/UncheckyAds/hosts
 https://raw.githubusercontent.com/xlimit91/xlimit91-block-list/master/blacklist.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
