@@ -96,23 +96,15 @@ const processDirectory = async (dirPath) => {
 					await fs.writeFile(filePath, fileContents.trim(), 'utf8');
 
 					console.log(
-						`📝 ${fileName}: ${modifiedLines} ${
-							modifiedLines === 1 ? 'line' : 'lines'
-						} modified${
-							convertedDomains > 0
-								? ` and ${convertedDomains} ${
-									convertedDomains === 1 ? 'domain' : 'domains'
-								} converted to lowercase`
-								: ''
+						`📝 ${fileName}: ${modifiedLines} ${modifiedLines === 1 ? 'line' : 'lines'} modified${
+							convertedDomains > 0 ? ` and ${convertedDomains} ${convertedDomains === 1 ? 'domain' : 'domains'} converted to lowercase` : ''
 						}`,
 					);
 				}
 			}),
 		);
 
-		const subDirectories = await fs.readdir(dirPath, {
-			withFileTypes: true,
-		});
+		const subDirectories = await fs.readdir(dirPath, { withFileTypes: true });
 
 		await Promise.all(
 			subDirectories
@@ -120,9 +112,7 @@ const processDirectory = async (dirPath) => {
 				.map((subDir) => processDirectory(path.join(dirPath, subDir.name))),
 		);
 	} catch (err) {
-		console.error(
-			`❌ An error occurred while processing ${dirPath} directory: ${err.message}`,
-		);
+		console.error(`❌ An error occurred while processing ${dirPath} directory: ${err.message}`);
 	}
 };
 
