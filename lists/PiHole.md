@@ -10,6 +10,12 @@
 <br>
 
 ```
+https://blocklist.sefinek.net/generated/0.0.0.0/forks/StevenBlack.hosts.txt
+
+
+
+
+
 https://adaway.org/hosts.txt
 https://big.oisd.nl
 https://blocklist.sefinek.net/generated/0.0.0.0/ads/jerryn70.GoodbyeAds.txt
