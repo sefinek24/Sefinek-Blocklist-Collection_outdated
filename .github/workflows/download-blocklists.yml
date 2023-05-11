@@ -52,6 +52,7 @@ jobs:
           curl https://blocklistproject.github.io/Lists/scam.txt --output blocklist/template/forks/blocklistproject.scam.txt
 
           # ente.dev
+          curl https://ente.dev/api/blocklist/google-amp-hosts --output blocklist/template/forks/ente-dev.google-amp-hosts.txt
           curl https://ente.dev/api/blocklist/tv --output blocklist/template/forks/ente-dev.tv.txt
 
           # gitlab.com
