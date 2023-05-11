@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-11 15:29:04 (UTC)                      #
+# Last updated: 2023-05-11 15:30:20 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -814,6 +814,7 @@ server=/lobenexpeditions.com/
 server=/logic.com.eg/
 server=/logodesignflux.com/
 server=/lojalz14.com.br/
+server=/lojueguito.com/
 server=/lonagroup.com/
 server=/lopespublicidade.com/
 server=/lorem.com.sa/
@@ -1112,6 +1113,7 @@ server=/qualitycaster.com/
 server=/radiantseafood.com/
 server=/radiokairos.com.br/
 server=/rafahayashida.com/
+server=/rafisceferzade.com/
 server=/raksun.in/
 server=/ramactools.net/
 server=/ranojpegu.in/
@@ -1153,7 +1155,6 @@ server=/rollsbeer.com/
 server=/rosewoodlaminates.com/
 server=/rosique.com.br/
 server=/rossandmorrison.com/
-server=/rotc-ams.com/
 server=/rotexfans.com/
 server=/royaltyblackcard.club/
 server=/rubensplima.com/
@@ -1531,4 +1532,4 @@ server=/zenithcodes.com/
 server=/zero.ms/
 server=/zf.gouzapay.cn/
 server=/ztekkhosting.com/
-# Number of entries: 1524
+# Number of entries: 1525

@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-11 15:29:04 (UTC)                      #
+# Last updated: 2023-05-11 15:30:20 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -814,6 +814,7 @@
 0.0.0.0 logic.com.eg
 0.0.0.0 logodesignflux.com
 0.0.0.0 lojalz14.com.br
+0.0.0.0 lojueguito.com
 0.0.0.0 lonagroup.com
 0.0.0.0 lopespublicidade.com
 0.0.0.0 lorem.com.sa
@@ -1112,6 +1113,7 @@
 0.0.0.0 radiantseafood.com
 0.0.0.0 radiokairos.com.br
 0.0.0.0 rafahayashida.com
+0.0.0.0 rafisceferzade.com
 0.0.0.0 raksun.in
 0.0.0.0 ramactools.net
 0.0.0.0 ranojpegu.in
@@ -1153,7 +1155,6 @@
 0.0.0.0 rosewoodlaminates.com
 0.0.0.0 rosique.com.br
 0.0.0.0 rossandmorrison.com
-0.0.0.0 rotc-ams.com
 0.0.0.0 rotexfans.com
 0.0.0.0 royaltyblackcard.club
 0.0.0.0 rubensplima.com
@@ -1531,4 +1532,4 @@
 0.0.0.0 zero.ms
 0.0.0.0 zf.gouzapay.cn
 0.0.0.0 ztekkhosting.com
-# Number of entries: 1524
+# Number of entries: 1525
