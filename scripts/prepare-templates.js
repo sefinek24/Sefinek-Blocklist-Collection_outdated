@@ -21,8 +21,8 @@ const processDirectory = async (dirPath) => {
 					.map((line) => {
 						line = line.trim();
 
-						if (line.includes('127.0.0.1  localhost')) return '0.0.0.0 localhost';
-						if (line.includes('::1  localhost')) return '::1 localhost';
+						if (line.includes('127.0.0.1  localhost')) line = '0.0.0.0 localhost';
+						if (line.includes('::1  localhost')) line = '::1 localhost';
 
 						if (
 							line.includes('127.0.0.1 localhost') ||
@@ -41,7 +41,7 @@ const processDirectory = async (dirPath) => {
 								convertedDomains++;
 								modifiedLines++;
 
-								return modifiedLine;
+								line = modifiedLine;
 							}
 						}
 
@@ -63,23 +63,29 @@ const processDirectory = async (dirPath) => {
 
 								if (modifiedLine !== line) {
 									modifiedLines++;
-									return modifiedLine;
+									line = modifiedLine;
 								}
 							}
 						}
 
-
-						if (line.includes('127.0.0.1 ')) {
+						if (line.includes('127.0.0.1')) {
 							modifiedLines++;
-							return line.replace('127.0.0.1 ', '0.0.0.0 ');
+							line = line.replace('127.0.0.1', '0.0.0.0');
+						}
+
+						if (line === '0.0.0.0') {
+							modifiedLines++;
+							line = line.replace('0.0.0.0', '');
 						}
 
 						return line;
 					})
 					.join('\n');
 
+
+
 				if (modifiedLines !== 0) {
-					await fs.writeFile(filePath, fileContents, 'utf8');
+					await fs.writeFile(filePath, fileContents.trim(), 'utf8');
 
 					console.log(
 						`📝 ${fileName}: ${modifiedLines} ${
