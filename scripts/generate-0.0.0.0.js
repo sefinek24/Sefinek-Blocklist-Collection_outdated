@@ -1,4 +1,4 @@
-const { promises: fs, createReadStream } = require('node:fs');
+const { promises: fs } = require('node:fs');
 const crypto = require('node:crypto');
 const path = require('node:path');
 const date = require('./functions/date.js');
@@ -23,35 +23,27 @@ const convert = async (folderPath = path.join(__dirname, '../blocklist/template'
 
 		const cacheFilePath = path.join(cacheFolder, `${file.name.replace('.txt', '')}.sha256`);
 		let hashFromCacheFile;
+
 		try {
 			hashFromCacheFile = await fs.readFile(cacheFilePath, 'utf8');
 		} catch (err) {
-			console.warn('❌  Cache file not found:', cacheFilePath);
+			console.warn(`❌  Cache file not found: ${cacheFilePath}`);
 		}
 
-		const stream = createReadStream(thisFileName);
-		const hash = crypto.createHash('sha256');
+		const buff = await fs.readFile(thisFileName);
+		const hash = crypto.createHash('sha256').update(buff).digest('hex');
 
-		stream.on('error', (err) => {
-			console.error(`Error reading ${thisFileName}: ${err}`);
-		});
+		if (hash === hashFromCacheFile) {
+			console.log(`⏭️ ${hash} == ${hashFromCacheFile || 'Unknown hash'} / ${file.name} / skipped`);
+			return;
+		}
 
-		stream.pipe(hash).on('error', (err) => {
-			console.error(`Error hashing ${thisFileName}: ${err}`);
-		}).on('finish', async () => {
-			const sha256sum = hash.digest('hex');
-			if (sha256sum === hashFromCacheFile) {
-				return console.log(`⏭️ ${thisFileName} - skipped`);
-			}
-
-			try {
-				await fs.writeFile(cacheFilePath, sha256sum);
-			} catch (err) {
-				console.error(`Error writing cache file ${cacheFilePath}: ${err}`);
-			}
-		});
-
-		console.log(`⏳  File hash: Unknown; Cache: ${hashFromCacheFile || 'Unknown'}; File: ${file.name}`);
+		try {
+			await fs.writeFile(cacheFilePath, hash);
+			console.log(`✅  ${hash} -> ${hashFromCacheFile || 'Unknown hash'} / ${file.name} / hashed`);
+		} catch (err) {
+			console.error(`Error writing cache file ${cacheFilePath}: ${err}`);
+		}
 
 
 
@@ -77,7 +69,7 @@ const convert = async (folderPath = path.join(__dirname, '../blocklist/template'
 		}
 
 		await fs.writeFile(fullNewFile, replacedFile);
-		console.log(`✔️ ${thisFileName}`);
+		console.log(`✔️ ${hashFromCacheFile || file.name} saved in ${thisFileName}`);
 	}));
 
 	try {
