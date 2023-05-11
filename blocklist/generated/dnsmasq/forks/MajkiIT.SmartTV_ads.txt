@@ -90,7 +90,7 @@ server=/az43064.vo.msecnd.net/
 server=/cdn.samsungcloudsolution.net/
 server=/connecttv.pelmorex.com/ # weather app tracking
 server=/coordinator-production-28516768.us-east-1.elb.amazonaws.com/
-
+0.0.0.0
 server=/cpu.samsungelectronics.com/
 server=/d179kwmlpc4o47.cloudfront.net/
 server=/d1jwpcr0q4pcq0.cloudfront.net/

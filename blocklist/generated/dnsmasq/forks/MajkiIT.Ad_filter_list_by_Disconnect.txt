@@ -40,9 +40,9 @@ server=/7search.com/
 server=/980media.com/
 server=/99count.com/
 server=/adsatt.abcnews.starwave.com/
-
+0.0.0.0
 server=/adsatt.go.starwave.com/
-
+0.0.0.0
 server=/a-ads.com/
 server=/a-counter.kiev.ua/
 server=/a.0day.kiev.ua/
@@ -1668,7 +1668,7 @@ server=/ifa.tube8live.com/
 server=/ilbanner.com/
 server=/ilead.itrack.it/
 server=/iliilllio00oo0.321.cn/
-
+0.0.0.0
 server=/iloopmobile.com/
 server=/ilovecheating.com/
 server=/imageads.canoe.ca/
