@@ -25,9 +25,10 @@ https://blocklist.sefinek.net/generated/0.0.0.0/games/valorant.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/malicious-sites.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/phishing.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/porn.txt
+https://blocklist.sefinek.net/generated/0.0.0.0/sites/omegle.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/sites/riotgames.txt
-https://blocklist.sefinek.net/generated/0.0.0.0/social/tiktok.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/social/snapchat.txt
+https://blocklist.sefinek.net/generated/0.0.0.0/social/tiktok.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/useless-websites.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/web-attacks.txt
 https://blocklistproject.github.io/Lists/abuse.txt
@@ -94,7 +95,6 @@ https://raw.githubusercontent.com/mhhakim/pihole-blocklist/master/custom-porn-bl
 https://raw.githubusercontent.com/mhhakim/pihole-blocklist/master/porn.txt
 https://raw.githubusercontent.com/mitchellkrogza/Stop.Google.Analytics.Ghost.Spam.HOWTO/master/output/domains/INACTIVE/list
 https://raw.githubusercontent.com/neodevpro/neodevhost/master/host
-https://raw.githubusercontent.com/nickoppen/pihole-blocklists/master/blocklist-omegle.txt
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
 https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
 https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardApps.txt
