@@ -19,7 +19,6 @@
 # Create an issue at https://github.com/AdAway/adaway.github.io/issues
 #
 server=/localhost/
-
 # [163.com]
 server=/analytics.163.com/
 server=/crash.163.com/
