@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1949
+# Domains: 1950
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -120,7 +120,6 @@
 127.0.0.1 attenstyle.com
 127.0.0.1 audiosg.com.sg
 127.0.0.1 www.audiosg.com.sg
-127.0.0.1 auditorscarf.com
 127.0.0.1 aussiesportfashion.com
 127.0.0.1 www.aussiesportfashion.com
 127.0.0.1 avstars.in
@@ -183,9 +182,6 @@
 127.0.0.1 blastparis.com
 127.0.0.1 www.blastparis.com
 127.0.0.1 blgstoragenew.blob.core.windows.net
-127.0.0.1 blingyy.com
-127.0.0.1 www.blingyy.com
-127.0.0.1 store.blingyy.com
 127.0.0.1 bloomessentialsbrand.com
 127.0.0.1 www.bloomessentialsbrand.com
 127.0.0.1 bogsboot.com
@@ -268,8 +264,7 @@
 127.0.0.1 www.casavec.com
 127.0.0.1 casha.xyz
 127.0.0.1 www.casha.xyz
-127.0.0.1 cashadvancexy.xyz
-127.0.0.1 store.cashadvancexy.xyz
+127.0.0.1 www.cashadvancexy.xyz
 127.0.0.1 castim.info
 127.0.0.1 www.castim.info
 127.0.0.1 store.castim.info
@@ -390,10 +385,12 @@
 127.0.0.1 dailygiftstore.com
 127.0.0.1 www.dailygiftstore.com
 127.0.0.1 store.dailygiftstore.com
+127.0.0.1 danaaman.xyz
+127.0.0.1 www.danaaman.xyz
 127.0.0.1 store.danaaman.xyz
 127.0.0.1 www.danadarurat.net
 127.0.0.1 danainstan.xyz
-127.0.0.1 store.danainstan.xyz
+127.0.0.1 www.danainstan.xyz
 127.0.0.1 danapintar.club
 127.0.0.1 www.danapintar.club
 127.0.0.1 danapro.net
@@ -405,6 +402,7 @@
 127.0.0.1 danylevych.com
 127.0.0.1 www.danylevych.com
 127.0.0.1 daradis.com
+127.0.0.1 www.daradis.com
 127.0.0.1 darliasmaltesepuppies.com
 127.0.0.1 www.darliasmaltesepuppies.com
 127.0.0.1 dashracegear.net
@@ -563,7 +561,7 @@
 127.0.0.1 www.familystore.com
 127.0.0.1 familyteacupschihuahuas.com
 127.0.0.1 www.familyteacupschihuahuas.com
-127.0.0.1 www.famoury.com
+127.0.0.1 famoury.com
 127.0.0.1 store.famoury.com
 127.0.0.1 fancycentral.com
 127.0.0.1 www.fancycentral.com
@@ -652,6 +650,7 @@
 127.0.0.1 gearathena.com
 127.0.0.1 www.gearathena.com
 127.0.0.1 gearclover.com
+127.0.0.1 store.gearclover.com
 127.0.0.1 gearhomies.com
 127.0.0.1 www.gearhomies.com
 127.0.0.1 gearhuman.com
@@ -773,6 +772,7 @@
 127.0.0.1 www.imlb2c.com
 127.0.0.1 infinityto.com
 127.0.0.1 www.infinityto.com
+127.0.0.1 store.infinityto.com
 127.0.0.1 injustice.site
 127.0.0.1 www.injustice.site
 127.0.0.1 store.injustice.site
@@ -810,6 +810,7 @@
 127.0.0.1 www.jakkesnorge.com
 127.0.0.1 januashop.com
 127.0.0.1 www.januashop.com
+127.0.0.1 store.januashop.com
 127.0.0.1 jellyfishstat.live
 127.0.0.1 jellystores.com
 127.0.0.1 www.jellystores.com
@@ -876,6 +877,7 @@
 127.0.0.1 ladamustore.com
 127.0.0.1 www.ladamustore.com
 127.0.0.1 store.ladamustore.com
+127.0.0.1 lakersfanshoponline.com
 127.0.0.1 www.lakersfanshoponline.com
 127.0.0.1 store.lakersfanshoponline.com
 127.0.0.1 lasercutjewelry.net
@@ -980,7 +982,6 @@
 127.0.0.1 lucidtiger.com
 127.0.0.1 www.lucidtiger.com
 127.0.0.1 lucysstyle.com
-127.0.0.1 www.lucysstyle.com
 127.0.0.1 lunapresent.com
 127.0.0.1 www.lunapresent.com
 127.0.0.1 store.lunapresent.com
@@ -1091,6 +1092,7 @@
 127.0.0.1 store.nalzahqp.page.link
 127.0.0.1 nanistores.com
 127.0.0.1 www.nanistores.com
+127.0.0.1 store.nanistores.com
 127.0.0.1 nanoweb3-rarityledgertech.com
 127.0.0.1 www.nanoweb3-rarityledgertech.com
 127.0.0.1 natilove.com
@@ -1128,7 +1130,6 @@
 127.0.0.1 www.nicelegant.com
 127.0.0.1 niche3d.us
 127.0.0.1 www.niche3d.us
-127.0.0.1 nikebutikks.com
 127.0.0.1 www.nikebutikks.com
 127.0.0.1 store.nikebutikks.com
 127.0.0.1 nirvezal.com
@@ -1269,10 +1270,12 @@
 127.0.0.1 www.pickcheaptee.com
 127.0.0.1 pictureoutdoor.com
 127.0.0.1 www.pictureoutdoor.com
+127.0.0.1 pinjamanai001.net
 127.0.0.1 www.pinjamanai001.net
 127.0.0.1 www.pinjamanduit.lol
 127.0.0.1 pinjamanelit.top
 127.0.0.1 www.pinjamanelit.top
+127.0.0.1 pinjamanmurah.space
 127.0.0.1 store.pinjamanmurah.space
 127.0.0.1 pinjamanplus.com
 127.0.0.1 www.pinjamanplus.com
@@ -1416,7 +1419,9 @@
 127.0.0.1 saveeeee.myshopify.com
 127.0.0.1 www.saveeeee.myshopify.com
 127.0.0.1 store.saveeeee.myshopify.com
+127.0.0.1 sayhellorugs.com
 127.0.0.1 www.sayhellorugs.com
+127.0.0.1 store.sayhellorugs.com
 127.0.0.1 scarpaoutlet.com
 127.0.0.1 www.scarpaoutlet.com
 127.0.0.1 sedark.com
@@ -1470,7 +1475,6 @@
 127.0.0.1 www.sigmaoffers.com
 127.0.0.1 signpify.com
 127.0.0.1 www.signpify.com
-127.0.0.1 store.signpify.com
 127.0.0.1 www.silverlanetrading.com
 127.0.0.1 skincheap.com
 127.0.0.1 www.skincheap.com
@@ -1517,8 +1521,6 @@
 127.0.0.1 sportfamily.us
 127.0.0.1 www.sportfamily.us
 127.0.0.1 store.sportfamily.us
-127.0.0.1 sportfirestore.com
-127.0.0.1 www.sportfirestore.com
 127.0.0.1 sportsapparelmarket.com
 127.0.0.1 www.sportsapparelmarket.com
 127.0.0.1 sportsbrooks.com
@@ -1588,7 +1590,6 @@
 127.0.0.1 sugarandpearl.com
 127.0.0.1 www.sugarandpearl.com
 127.0.0.1 sununi.us
-127.0.0.1 www.sununi.us
 127.0.0.1 store.sununi.us
 127.0.0.1 supercutestuff.com
 127.0.0.1 www.supercutestuff.com
@@ -1645,6 +1646,7 @@
 127.0.0.1 www.teezill.com
 127.0.0.1 telemarktalk.com
 127.0.0.1 www.telemarktalk.com
+127.0.0.1 www.tesla-openai.com
 127.0.0.1 store.tesla-openai.com
 127.0.0.1 teslacar.io
 127.0.0.1 teslagive.live
@@ -1664,6 +1666,7 @@
 127.0.0.1 www.thehardcorehabits.com
 127.0.0.1 thekeilas.com
 127.0.0.1 www.thekeilas.com
+127.0.0.1 store.thekeilas.com
 127.0.0.1 themountainus.com
 127.0.0.1 www.themountainus.com
 127.0.0.1 themountainwarehouse.com
@@ -1691,7 +1694,6 @@
 127.0.0.1 tinkleo.com
 127.0.0.1 www.tinkleo.com
 127.0.0.1 tiranaaquapark-eg.com
-127.0.0.1 www.tiranaaquapark-eg.com
 127.0.0.1 store.tiranaaquapark-eg.com
 127.0.0.1 tkp214.com
 127.0.0.1 www.tkp214.com
@@ -1743,8 +1745,6 @@
 127.0.0.1 tulumwellnessacademy.com
 127.0.0.1 www.tulumwellnessacademy.com
 127.0.0.1 www.tunaicair.com
-127.0.0.1 tunairupiah.xyz
-127.0.0.1 www.tunairupiah.xyz
 127.0.0.1 store.tunairupiah.xyz
 127.0.0.1 turnnetwor.com
 127.0.0.1 www.turnnetwor.com
@@ -1827,6 +1827,7 @@
 127.0.0.1 verfun.com
 127.0.0.1 www.verfun.com
 127.0.0.1 store.verfun.com
+127.0.0.1 vetoro.cc
 127.0.0.1 www.vetoro.cc
 127.0.0.1 store.vetoro.cc
 127.0.0.1 viberman.com
