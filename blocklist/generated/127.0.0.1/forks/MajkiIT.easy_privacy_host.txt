@@ -1,4 +1,4 @@
-#202305100303
+#202305120303
 # EasyPrivacy Host filters for Pi hole
 # Collaborators: xxcriticxx, MajkiIT
 # Homepage: https://www.certyficate.it/
@@ -2450,6 +2450,7 @@
 127.0.0.1 ampltd.top.gg
 127.0.0.1 ampltd2.medal.tv
 127.0.0.1 ams-pageview-public.s3.amazonaws.com
+127.0.0.1 ams.lelong.com.my
 127.0.0.1 ams.oraclecloud.com
 127.0.0.1 amusementmorning.com
 127.0.0.1 amusinggirls.com
@@ -7100,6 +7101,7 @@
 127.0.0.1 fcmatch.youtube.com
 127.0.0.1 fcpszk.telestream.net
 127.0.0.1 fculcz.joann.com
+127.0.0.1 fd.bawag.at
 127.0.0.1 fdbs.actonservice.com
 127.0.0.1 fdedcz.helenkirchhofer.ch
 127.0.0.1 fdixsh.platypusshoes.com.au

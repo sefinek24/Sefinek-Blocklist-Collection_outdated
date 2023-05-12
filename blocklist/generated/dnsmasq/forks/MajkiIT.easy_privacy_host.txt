@@ -1,4 +1,4 @@
-#202305100303
+#202305120303
 # EasyPrivacy Host filters for Pi hole
 # Collaborators: xxcriticxx, MajkiIT
 # Homepage: https://www.certyficate.it/
@@ -2450,6 +2450,7 @@ server=/amplifypixel.outbrain.com/
 server=/ampltd.top.gg/
 server=/ampltd2.medal.tv/
 server=/ams-pageview-public.s3.amazonaws.com/
+server=/ams.lelong.com.my/
 server=/ams.oraclecloud.com/
 server=/amusementmorning.com/
 server=/amusinggirls.com/
@@ -7100,6 +7101,7 @@ server=/fcmatch.google.com/
 server=/fcmatch.youtube.com/
 server=/fcpszk.telestream.net/
 server=/fculcz.joann.com/
+server=/fd.bawag.at/
 server=/fdbs.actonservice.com/
 server=/fdedcz.helenkirchhofer.ch/
 server=/fdixsh.platypusshoes.com.au/

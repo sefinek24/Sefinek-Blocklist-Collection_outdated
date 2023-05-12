@@ -1,4 +1,4 @@
-!202305100303
+!202305120303
 ! EasyPrivacy Host filters for Pi hole
 ! Collaborators: xxcriticxx, MajkiIT
 ! Homepage: https://www.certyficate.it/
@@ -2450,6 +2450,7 @@
 ||ampltd.top.gg^
 ||ampltd2.medal.tv^
 ||ams-pageview-public.s3.amazonaws.com^
+||ams.lelong.com.my^
 ||ams.oraclecloud.com^
 ||amusementmorning.com^
 ||amusinggirls.com^
@@ -7100,6 +7101,7 @@
 ||fcmatch.youtube.com^
 ||fcpszk.telestream.net^
 ||fculcz.joann.com^
+||fd.bawag.at^
 ||fdbs.actonservice.com^
 ||fdedcz.helenkirchhofer.ch^
 ||fdixsh.platypusshoes.com.au^
