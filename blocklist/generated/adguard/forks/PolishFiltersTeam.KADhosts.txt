@@ -1,7 +1,7 @@
 ! Title: KADhosts
 ! Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Sat, 13 May 2023, 18:54 UTC+02:00
-! Version: 2023.5.13.8
+! Last modified: Sat, 13 May 2023, 19:58 UTC+02:00
+! Version: 2023.5.13.9
 ! Expires: 2 days
 ! Website: https://kadantiscam.netlify.app/
 ! Based on: https://github.com/FiltersHeroes/KAD
@@ -8632,6 +8632,7 @@
 ||089c6c7af986f74312dda566acf045d9.hospla.co.pl^
 ||89ca1e1a0e62b18b847b33c88f7c70dd.hospla.co.pl^
 ||89ca26c4b168a90656c8d93c2fcd6610.twojedom.pl^
+||89d1a328806711309d625e0de99524c0.wopma.co.pl^
 ||89ddc5e725b73d05f19bedc8a1e7e0b7.krokla.co.pl^
 ||89f40483971adbddf678449b6e51c649.alldom.co.pl^
 ||89winted-paying.906556.xyz^
@@ -30421,6 +30422,7 @@
 ||greenday-13.za.com^
 ||greenday-14.za.com^
 ||greenday-15.za.com^
+||greene.cenacoolo.pl^
 ||greene.zamowienia.nieruchomosci.pl^
 ||greenenegryx1.polbest.monster^
 ||greenenergyegypt.com^
@@ -33502,6 +33504,7 @@
 ||inp0st.387029twojid.beauty^
 ||inp0st.482167plid.mom^
 ||inp0st.645212.xyz^
+||inp0st.2137897.xyz^
 ||inp0st.2343207.xyz^
 ||inp0st.3253114.xyz^
 ||inp0st.3453462.xyz^
@@ -48796,6 +48799,7 @@
 ||olx.kalegomeb.org^
 ||olx.kardjali.site^
 ||olx.kbriba.org^
+||olx.key-pl.pw^
 ||olx.kontospls.casa^
 ||olx.kup-24.pl^
 ||olx.kurier-dostawa365.live^
@@ -59188,6 +59192,7 @@
 ||shopyeti.com^
 ||shopypluz.com^
 ||shorka24.info^
+||short.lasecki.nieruchomosci.pl^
 ||shortalert.ga^
 ||shortbitlls.com^
 ||shoslinua.fun^
@@ -59696,6 +59701,7 @@
 ||sms-info.es^
 ||sms-info.ltd^
 ||sms-info.nl^
+||sms-mobile.store^
 ||sms-safe.xyz^
 ||sms-sell.info^
 ||sms-stats.com^
@@ -71407,6 +71413,7 @@
 ||www.089c6c7af986f74312dda566acf045d9.hospla.co.pl^
 ||www.89ca1e1a0e62b18b847b33c88f7c70dd.hospla.co.pl^
 ||www.89ca26c4b168a90656c8d93c2fcd6610.twojedom.pl^
+||www.89d1a328806711309d625e0de99524c0.wopma.co.pl^
 ||www.89ddc5e725b73d05f19bedc8a1e7e0b7.krokla.co.pl^
 ||www.89f40483971adbddf678449b6e51c649.alldom.co.pl^
 ||www.89winted-paying.906556.xyz^
@@ -93196,6 +93203,7 @@
 ||www.greenday-13.za.com^
 ||www.greenday-14.za.com^
 ||www.greenday-15.za.com^
+||www.greene.cenacoolo.pl^
 ||www.greene.zamowienia.nieruchomosci.pl^
 ||www.greenenegryx1.polbest.monster^
 ||www.greenenergyegypt.com^
@@ -96277,6 +96285,7 @@
 ||www.inp0st.387029twojid.beauty^
 ||www.inp0st.482167plid.mom^
 ||www.inp0st.645212.xyz^
+||www.inp0st.2137897.xyz^
 ||www.inp0st.2343207.xyz^
 ||www.inp0st.3253114.xyz^
 ||www.inp0st.3453462.xyz^
@@ -111572,6 +111581,7 @@
 ||www.olx.kalegomeb.org^
 ||www.olx.kardjali.site^
 ||www.olx.kbriba.org^
+||www.olx.key-pl.pw^
 ||www.olx.kontospls.casa^
 ||www.olx.kup-24.pl^
 ||www.olx.kurier-dostawa365.live^
@@ -121731,6 +121741,7 @@
 ||www.shopyeti.com^
 ||www.shopypluz.com^
 ||www.shorka24.info^
+||www.short.lasecki.nieruchomosci.pl^
 ||www.shortalert.ga^
 ||www.shortbitlls.com^
 ||www.shoslinua.fun^
@@ -122239,6 +122250,7 @@
 ||www.sms-info.es^
 ||www.sms-info.ltd^
 ||www.sms-info.nl^
+||www.sms-mobile.store^
 ||www.sms-safe.xyz^
 ||www.sms-sell.info^
 ||www.sms-stats.com^
