@@ -1,7 +1,7 @@
 ! Title: KADhosts
 ! Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Fri, 12 May 2023, 22:16 UTC+02:00
-! Version: 2023.5.12.3
+! Last modified: Sat, 13 May 2023, 10:19 UTC+02:00
+! Version: 2023.5.13.0
 ! Expires: 2 days
 ! Website: https://kadantiscam.netlify.app/
 ! Based on: https://github.com/FiltersHeroes/KAD
@@ -7325,6 +7325,7 @@
 ||3f906965b22ba4c966208db770775422.dopla.com.pl^
 ||3fazowa-ostrzalka-do-nozy-pl.com^
 ||3ffc38200c63b497333519840f910836.apl.co.pl^
+||3ffee44ff3da884a43fcd50c958ce086.sertrw.pl^
 ||3filmy.com^
 ||3gy6lrs7vr.tajemnica.com.pl^
 ||3ihp0st-go0ds.674354.xyz^
@@ -9584,6 +9585,7 @@
 ||21212shipping.site^
 ||021238c2a8af3f55e508e0899c69dba8.alldom.co.pl^
 ||22465-4807.s3.webspace.re^
+||22646d23c050c73353c50d2054df794d.twojego.pl^
 ||23415-5633.s3.webspace.re^
 ||25787e022452642544f5b2876a915704.hospla.co.pl^
 ||26159-dot-custom-history-301500.appspot.com^
@@ -13528,6 +13530,7 @@
 ||antihistam.pl^
 ||antijobfound.site^
 ||antikryzys.club^
+||antimagemana.site^
 ||antimonylsbuses.com^
 ||antinarrat.info^
 ||antinatura.com^
@@ -14829,6 +14832,7 @@
 ||bafkreiesuuaa4xxauqfglup5azx7ocivltvyl5z6zsurdr6wtdvyhjh5zm.ipfs.nftstorage.link^
 ||bafkreigin5zchgbbrulsnw6hrb67fsjauyuzwh2gkh6bcyjlga473c4zra.ipfs.nftstorage.link^
 ||bafkreiguawlotmmxkfbykjiii7jcwc7hlvhwxctthtsu5w7ppxwmwt4h7y.ipfs.nftstorage.link^
+||bafkreihaqu6jl7xtqdxxr5jux5swurmbtoqe3vp2ywvaxunsbbnmpz67lm.ipfs.nftstorage.link^
 ||bafkreiheeiv73dd2cz72le5s75lx7jrlobsydjp7ylgxw7ho5zo3qnrnba.ipfs.nftstorage.link^
 ||bafybeia2mdxga3rfk66k4yhpykuththjf7ymefycnp75r5px7z65qi7st4.ipfs.dweb.link^
 ||bafybeia2wjieil2kimjnrvtp7unyikkxzsxeyyb5omk577ym5nzrgzqzly.ipfs.dweb.link^
@@ -17736,6 +17740,7 @@
 ||ca-info.store^
 ||ca.cashhs-news.top^
 ||caa886b05bd9ed641ca56685398f0467.alldom.co.pl^
+||caaassh.site^
 ||caadx-upgs.club^
 ||cab31cb537c5208f7f9f2e3f651f5368.ll-pl.co.pl^
 ||cabalisticpredetermined.com^
@@ -18027,6 +18032,7 @@
 ||cassical.com^
 ||cassockartsier.xyz^
 ||cassumunars.info^
+||castaneda.tataras.com.pl^
 ||casteho.site^
 ||castfinveting.cf^
 ||castle-lepton.webnode.es^
@@ -18204,6 +18210,7 @@
 ||ce4c3d3070efbadc4bdb7542ed42aa56.dopla.com.pl^
 ||ce8qqg8swn.tajemnica.com.pl^
 ||ce175c97d3eaada238b9013de7c02766.raflop.co.pl^
+||ce319a18aa8a01bca3db514dd30f6674.twojego.pl^
 ||ce7168201c4.johncornell.com^
 ||ce0321948916c61c02047181523c975a.alldom.co.pl^
 ||ceadresort.pl^
@@ -25803,7 +25810,9 @@
 ||eduukkkacja.site^
 ||edvsr1.webwave.dev^
 ||edwan.pl^
+||edward.barbaru.pl^
 ||edwardkolek.pl^
+||edwards.slwiastore.pl^
 ||edwinnduti.com^
 ||edytaaugustyniak.pl^
 ||edytaglo.pl^
@@ -25823,6 +25832,7 @@
 ||ee.coolplattf.top^
 ||ee.pro1wrld.top^
 ||ee.wertas.xyz^
+||eea25fc2c2ca25c83ec061ba33a672a7.twojego.pl^
 ||eecakesconf.at^
 ||eece1e6266d16619140a1c703ad6d80b.ssl-pl.co.pl^
 ||eedab9940934357f93bfacfc3421719a.al-pl.co.pl^
@@ -25855,6 +25865,7 @@
 ||ef14586c49baaa1798c42fd81008561d.ll-pl.co.pl^
 ||ef544358c4f3b737371d21fd3cf08eec.m-pl.co.pl^
 ||ef8409056380c4c06af590854abafff5.alldom.co.pl^
+||efa663b4c5af320ec18558758b5a7842.twojego.pl^
 ||efa97501b1dffebfc04c867462f743ed.twojedom.pl^
 ||efaktyludziepieniadze.pl^
 ||efb9a8c0ef38c71bdc913ebf9a3a8c65.dopla.com.pl^
@@ -27008,6 +27019,7 @@
 ||f53d4175d98.chefs-kitchen.co.uk^
 ||f61a1280b5e80fcd1e609c0aa0bd6a9a.tinopa.co.pl^
 ||f61ea73a612cf885ed9eda3a4dad51cd.rha.co.pl^
+||f64f81fa869b3177e97b8c8c50f60799.twojego.pl^
 ||f69eb1168f8b8d2c79a8e4fb0801fd60.hospla.co.pl^
 ||f70cde85febb1e2686eb9d2e0d39d112.kklmn.co.pl^
 ||f72d5bcb246.johncornell.com^
@@ -27087,6 +27099,7 @@
 ||fa7b904dc894e8d3aab926214a1a304c.tsl-pl.co.pl^
 ||fa9a8.smilemobile.pt^
 ||fa020ba2233cefe594357af91f8fd620.djodom.co.pl^
+||fa26b6455187c53669e5187d37378da1.twojego.pl^
 ||fa35d4e0d73.johncornell.com^
 ||fa81aa8e53d2f15bec96a508b9ecfaed.alldom.co.pl^
 ||fa95b292884d875ca2911301fdd3cf38.hospla.co.pl^
@@ -29190,6 +29203,7 @@
 ||gaseyhik.online^
 ||gaskaro.xyz^
 ||gaskarten.host^
+||gasplbalt.site^
 ||gasprom-russia.site^
 ||gassensor.com^
 ||gasskow.uno^
@@ -34480,6 +34494,7 @@
 ||inpost-pl.momen-tese-62829.xyz^
 ||inpost-pl.moment-172728.site^
 ||inpost-pl.montres.website^
+||inpost-pl.motionvibe.space^
 ||inpost-pl.msoul.top^
 ||inpost-pl.mt77.xyz^
 ||inpost-pl.my-reset-738292.xyz^
@@ -41880,6 +41895,7 @@
 ||luthercreek.com^
 ||lutlu2x0d.digital^
 ||lutralgugu.space^
+||lutz.patrykza.com.pl^
 ||lutz.zuzastar.pl^
 ||luvrinpott.virrrapdiaheart.cf^
 ||lux0.canpeoplefx.site^
@@ -42319,6 +42335,7 @@
 ||managerlogin-pl-nazwausernew.finnmcgough.com^
 ||managersun.com^
 ||manageurdream.xyz^
+||manavoid.site^
 ||manawara.com.br^
 ||manchero-xyz.preview-domain.com^
 ||mandex-foxminers.com^
@@ -43029,6 +43046,7 @@
 ||me.uni-stock.store^
 ||me.welcme-proftr.site^
 ||meadowi.com^
+||meagan.transprt.info.pl^
 ||meandersba.com^
 ||measwero.uno^
 ||meble-do-oddania.eu^
@@ -53775,6 +53793,7 @@
 ||poczta.wp-firewall.website^
 ||poczta.wp-pl-potwierdz-dostep.site^
 ||poczta.wp-pl.site^
+||pocztacc.cyou^
 ||pocztaglosowa24.com^
 ||pocztahome.com.pl^
 ||pocztainteriapl.weeblysite.com^
@@ -54871,6 +54890,7 @@
 ||posttex.check-user.xyz^
 ||posttex.sever-info.top^
 ||posttex.sever-user.top^
+||posttex.severs-check.top^
 ||posttex.severs-info.top^
 ||posttex.severs-user.top^
 ||posttex.signinuser.icu^
@@ -56192,6 +56212,7 @@
 ||publiczny-calosc.site^
 ||publikacjapowodz.site^
 ||puchary-zdobywaj.eu^
+||puckcoil.site^
 ||pudelek-onet-59022208346.azureedge.net^
 ||pudelek-onet-71862775213.azureedge.net^
 ||pudelek-onet-82162019583.azureedge.net^
@@ -56498,6 +56519,7 @@
 ||quinabahe.ml^
 ||quinfo.life^
 ||quinfo.top^
+||quinofpainscream.site^
 ||quinoneund.pl^
 ||quinounderea.cf^
 ||quinqueradiate.live^
@@ -62452,6 +62474,7 @@
 ||tingawurzpodsou.tk^
 ||tinggendciconsta.cf^
 ||tingzilvayholltertest.gq^
+||tinkerlazer.site^
 ||tinnytxep.online^
 ||tinyetinsandthingsinsidejamalabegnaumakachiukwu.pages.dev^
 ||tinyfilehost.com^
@@ -63315,6 +63338,7 @@
 ||trangister.collectsyourordernow.com^
 ||tranportodere.top^
 ||tranquilboots.ru.net^
+||tranquilstreem.cc^
 ||trans-act.com^
 ||trans-pge.web.app^
 ||transactionbis.club^
@@ -63501,6 +63525,7 @@
 ||trolokas.pl^
 ||tropacoca-cola.com^
 ||tropiciel-ukrytych.eu^
+||tropicsgac.space^
 ||tropienie-przestepcow.eu^
 ||tropimy-przestepce.eu^
 ||tropimy-przestepcow.eu^
@@ -65108,6 +65133,7 @@
 ||vicharlekha.com^
 ||viciworld.com^
 ||victimizing.info^
+||victoria.liswea.opole.pl^
 ||victuallers.info^
 ||vid.crisis-pl.site^
 ||vid.madds.xyz^
@@ -68145,6 +68171,7 @@
 ||voiceimport.com^
 ||voiceunfortunate.info^
 ||voidepbi.tk^
+||voidspiritremnant.site^
 ||voiidform.com^
 ||voilok-ru.ru^
 ||voilsoa.shop^
@@ -71097,6 +71124,7 @@
 ||www.3f906965b22ba4c966208db770775422.dopla.com.pl^
 ||www.3fazowa-ostrzalka-do-nozy-pl.com^
 ||www.3ffc38200c63b497333519840f910836.apl.co.pl^
+||www.3ffee44ff3da884a43fcd50c958ce086.sertrw.pl^
 ||www.3filmy.com^
 ||www.3gy6lrs7vr.tajemnica.com.pl^
 ||www.3ihp0st-go0ds.674354.xyz^
@@ -73356,6 +73384,7 @@
 ||www.21212shipping.site^
 ||www.021238c2a8af3f55e508e0899c69dba8.alldom.co.pl^
 ||www.22465-4807.s3.webspace.re^
+||www.22646d23c050c73353c50d2054df794d.twojego.pl^
 ||www.23415-5633.s3.webspace.re^
 ||www.25787e022452642544f5b2876a915704.hospla.co.pl^
 ||www.26159-dot-custom-history-301500.appspot.com^
@@ -77300,6 +77329,7 @@
 ||www.antihistam.pl^
 ||www.antijobfound.site^
 ||www.antikryzys.club^
+||www.antimagemana.site^
 ||www.antimonylsbuses.com^
 ||www.antinarrat.info^
 ||www.antinatura.com^
@@ -78601,6 +78631,7 @@
 ||www.bafkreiesuuaa4xxauqfglup5azx7ocivltvyl5z6zsurdr6wtdvyhjh5zm.ipfs.nftstorage.link^
 ||www.bafkreigin5zchgbbrulsnw6hrb67fsjauyuzwh2gkh6bcyjlga473c4zra.ipfs.nftstorage.link^
 ||www.bafkreiguawlotmmxkfbykjiii7jcwc7hlvhwxctthtsu5w7ppxwmwt4h7y.ipfs.nftstorage.link^
+||www.bafkreihaqu6jl7xtqdxxr5jux5swurmbtoqe3vp2ywvaxunsbbnmpz67lm.ipfs.nftstorage.link^
 ||www.bafkreiheeiv73dd2cz72le5s75lx7jrlobsydjp7ylgxw7ho5zo3qnrnba.ipfs.nftstorage.link^
 ||www.bafybeia2mdxga3rfk66k4yhpykuththjf7ymefycnp75r5px7z65qi7st4.ipfs.dweb.link^
 ||www.bafybeia2wjieil2kimjnrvtp7unyikkxzsxeyyb5omk577ym5nzrgzqzly.ipfs.dweb.link^
@@ -81508,6 +81539,7 @@
 ||www.ca-info.store^
 ||www.ca.cashhs-news.top^
 ||www.caa886b05bd9ed641ca56685398f0467.alldom.co.pl^
+||www.caaassh.site^
 ||www.caadx-upgs.club^
 ||www.cab31cb537c5208f7f9f2e3f651f5368.ll-pl.co.pl^
 ||www.cabalisticpredetermined.com^
@@ -81799,6 +81831,7 @@
 ||www.cassical.com^
 ||www.cassockartsier.xyz^
 ||www.cassumunars.info^
+||www.castaneda.tataras.com.pl^
 ||www.casteho.site^
 ||www.castfinveting.cf^
 ||www.castle-lepton.webnode.es^
@@ -81976,6 +82009,7 @@
 ||www.ce4c3d3070efbadc4bdb7542ed42aa56.dopla.com.pl^
 ||www.ce8qqg8swn.tajemnica.com.pl^
 ||www.ce175c97d3eaada238b9013de7c02766.raflop.co.pl^
+||www.ce319a18aa8a01bca3db514dd30f6674.twojego.pl^
 ||www.ce7168201c4.johncornell.com^
 ||www.ce0321948916c61c02047181523c975a.alldom.co.pl^
 ||www.ceadresort.pl^
@@ -89575,7 +89609,9 @@
 ||www.eduukkkacja.site^
 ||www.edvsr1.webwave.dev^
 ||www.edwan.pl^
+||www.edward.barbaru.pl^
 ||www.edwardkolek.pl^
+||www.edwards.slwiastore.pl^
 ||www.edwinnduti.com^
 ||www.edytaaugustyniak.pl^
 ||www.edytaglo.pl^
@@ -89595,6 +89631,7 @@
 ||www.ee.coolplattf.top^
 ||www.ee.pro1wrld.top^
 ||www.ee.wertas.xyz^
+||www.eea25fc2c2ca25c83ec061ba33a672a7.twojego.pl^
 ||www.eecakesconf.at^
 ||www.eece1e6266d16619140a1c703ad6d80b.ssl-pl.co.pl^
 ||www.eedab9940934357f93bfacfc3421719a.al-pl.co.pl^
@@ -89627,6 +89664,7 @@
 ||www.ef14586c49baaa1798c42fd81008561d.ll-pl.co.pl^
 ||www.ef544358c4f3b737371d21fd3cf08eec.m-pl.co.pl^
 ||www.ef8409056380c4c06af590854abafff5.alldom.co.pl^
+||www.efa663b4c5af320ec18558758b5a7842.twojego.pl^
 ||www.efa97501b1dffebfc04c867462f743ed.twojedom.pl^
 ||www.efaktyludziepieniadze.pl^
 ||www.efb9a8c0ef38c71bdc913ebf9a3a8c65.dopla.com.pl^
@@ -90780,6 +90818,7 @@
 ||www.f53d4175d98.chefs-kitchen.co.uk^
 ||www.f61a1280b5e80fcd1e609c0aa0bd6a9a.tinopa.co.pl^
 ||www.f61ea73a612cf885ed9eda3a4dad51cd.rha.co.pl^
+||www.f64f81fa869b3177e97b8c8c50f60799.twojego.pl^
 ||www.f69eb1168f8b8d2c79a8e4fb0801fd60.hospla.co.pl^
 ||www.f70cde85febb1e2686eb9d2e0d39d112.kklmn.co.pl^
 ||www.f72d5bcb246.johncornell.com^
@@ -90859,6 +90898,7 @@
 ||www.fa7b904dc894e8d3aab926214a1a304c.tsl-pl.co.pl^
 ||www.fa9a8.smilemobile.pt^
 ||www.fa020ba2233cefe594357af91f8fd620.djodom.co.pl^
+||www.fa26b6455187c53669e5187d37378da1.twojego.pl^
 ||www.fa35d4e0d73.johncornell.com^
 ||www.fa81aa8e53d2f15bec96a508b9ecfaed.alldom.co.pl^
 ||www.fa95b292884d875ca2911301fdd3cf38.hospla.co.pl^
@@ -92962,6 +93002,7 @@
 ||www.gaseyhik.online^
 ||www.gaskaro.xyz^
 ||www.gaskarten.host^
+||www.gasplbalt.site^
 ||www.gasprom-russia.site^
 ||www.gassensor.com^
 ||www.gasskow.uno^
@@ -98252,6 +98293,7 @@
 ||www.inpost-pl.momen-tese-62829.xyz^
 ||www.inpost-pl.moment-172728.site^
 ||www.inpost-pl.montres.website^
+||www.inpost-pl.motionvibe.space^
 ||www.inpost-pl.msoul.top^
 ||www.inpost-pl.mt77.xyz^
 ||www.inpost-pl.my-reset-738292.xyz^
@@ -105652,6 +105694,7 @@
 ||www.luthercreek.com^
 ||www.lutlu2x0d.digital^
 ||www.lutralgugu.space^
+||www.lutz.patrykza.com.pl^
 ||www.lutz.zuzastar.pl^
 ||www.luvrinpott.virrrapdiaheart.cf^
 ||www.lux0.canpeoplefx.site^
@@ -106091,6 +106134,7 @@
 ||www.managerlogin-pl-nazwausernew.finnmcgough.com^
 ||www.managersun.com^
 ||www.manageurdream.xyz^
+||www.manavoid.site^
 ||www.manawara.com.br^
 ||www.manchero-xyz.preview-domain.com^
 ||www.mandex-foxminers.com^
@@ -106801,6 +106845,7 @@
 ||www.me.uni-stock.store^
 ||www.me.welcme-proftr.site^
 ||www.meadowi.com^
+||www.meagan.transprt.info.pl^
 ||www.meandersba.com^
 ||www.measwero.uno^
 ||www.meble-do-oddania.eu^
@@ -117315,6 +117360,7 @@
 ||www.poczta.wp-firewall.website^
 ||www.poczta.wp-pl-potwierdz-dostep.site^
 ||www.poczta.wp-pl.site^
+||www.pocztacc.cyou^
 ||www.pocztaglosowa24.com^
 ||www.pocztahome.com.pl^
 ||www.pocztainteriapl.weeblysite.com^
@@ -118411,6 +118457,7 @@
 ||www.posttex.check-user.xyz^
 ||www.posttex.sever-info.top^
 ||www.posttex.sever-user.top^
+||www.posttex.severs-check.top^
 ||www.posttex.severs-info.top^
 ||www.posttex.severs-user.top^
 ||www.posttex.signinuser.icu^
@@ -119732,6 +119779,7 @@
 ||www.publiczny-calosc.site^
 ||www.publikacjapowodz.site^
 ||www.puchary-zdobywaj.eu^
+||www.puckcoil.site^
 ||www.pudelek-onet-59022208346.azureedge.net^
 ||www.pudelek-onet-71862775213.azureedge.net^
 ||www.pudelek-onet-82162019583.azureedge.net^
@@ -120038,6 +120086,7 @@
 ||www.quinabahe.ml^
 ||www.quinfo.life^
 ||www.quinfo.top^
+||www.quinofpainscream.site^
 ||www.quinoneund.pl^
 ||www.quinounderea.cf^
 ||www.quinqueradiate.live^
@@ -125992,6 +126041,7 @@
 ||www.tingawurzpodsou.tk^
 ||www.tinggendciconsta.cf^
 ||www.tingzilvayholltertest.gq^
+||www.tinkerlazer.site^
 ||www.tinnytxep.online^
 ||www.tinyetinsandthingsinsidejamalabegnaumakachiukwu.pages.dev^
 ||www.tinyfilehost.com^
@@ -126855,6 +126905,7 @@
 ||www.trangister.collectsyourordernow.com^
 ||www.tranportodere.top^
 ||www.tranquilboots.ru.net^
+||www.tranquilstreem.cc^
 ||www.trans-act.com^
 ||www.trans-pge.web.app^
 ||www.transactionbis.club^
@@ -127041,6 +127092,7 @@
 ||www.trolokas.pl^
 ||www.tropacoca-cola.com^
 ||www.tropiciel-ukrytych.eu^
+||www.tropicsgac.space^
 ||www.tropienie-przestepcow.eu^
 ||www.tropimy-przestepce.eu^
 ||www.tropimy-przestepcow.eu^
@@ -128648,6 +128700,7 @@
 ||www.vicharlekha.com^
 ||www.viciworld.com^
 ||www.victimizing.info^
+||www.victoria.liswea.opole.pl^
 ||www.victuallers.info^
 ||www.vid.crisis-pl.site^
 ||www.vid.madds.xyz^
@@ -131685,6 +131738,7 @@
 ||www.voiceimport.com^
 ||www.voiceunfortunate.info^
 ||www.voidepbi.tk^
+||www.voidspiritremnant.site^
 ||www.voiidform.com^
 ||www.voilok-ru.ru^
 ||www.voilsoa.shop^
