@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-14 04:00:44 (UTC)                      #
+# Last updated: 2023-05-14 04:53:09 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -23,7 +23,6 @@
 0.0.0.0 8.365tv.ma
 0.0.0.0 a.angel-tn.idv.tw
 0.0.0.0 abissnet.net
-0.0.0.0 abmaxdigital.com
 0.0.0.0 acarvi.com
 0.0.0.0 acellr.co.uk
 0.0.0.0 acrhitechinfo.com
@@ -67,6 +66,7 @@
 0.0.0.0 api.seeingoholidays.com
 0.0.0.0 apple-service93.ru
 0.0.0.0 apprication.dev
+0.0.0.0 apps.saintsoporte.com
 0.0.0.0 aquapools.in
 0.0.0.0 aristonbentre.com
 0.0.0.0 artcaffedemo.reserveport.com
@@ -125,7 +125,6 @@
 0.0.0.0 camminachetipassa.it
 0.0.0.0 canconsulting.in
 0.0.0.0 cargoconnect.online
-0.0.0.0 casamuseoayerbe.co
 0.0.0.0 caucionalquiler.com.ar
 0.0.0.0 cbob.cuchulain.co.za
 0.0.0.0 cdaonline.com.ar
@@ -150,6 +149,7 @@
 0.0.0.0 cmyk.com.ar
 0.0.0.0 coadymarine.com
 0.0.0.0 cointra.ac.ug
+0.0.0.0 colisumy.com
 0.0.0.0 companella.site
 0.0.0.0 congtykhoancatbetong.com
 0.0.0.0 contadoresayb.com
@@ -185,6 +185,7 @@
 0.0.0.0 davidmcguinness.info
 0.0.0.0 ddlakava.ac.ug
 0.0.0.0 deine-bewerbung.com
+0.0.0.0 deliciassobencomenda.com.br
 0.0.0.0 demirelmarka.com
 0.0.0.0 demo-re-usables.inertiasoft.net
 0.0.0.0 demo.omnitech.co.ug
@@ -201,15 +202,12 @@
 0.0.0.0 divinehustlemedia.com
 0.0.0.0 dl.1003b.56a.com
 0.0.0.0 dl.9xu.com
-0.0.0.0 dlqsclub.com
 0.0.0.0 dohrmann-projekt.de
 0.0.0.0 dominiqueimmora.com
 0.0.0.0 donkeytourscroatia.com
 0.0.0.0 down.pcclear.com
 0.0.0.0 down.udashi.com
-0.0.0.0 download.caihong.com
 0.0.0.0 download.pdf00.cn
-0.0.0.0 downloads.bcweb.org.uk
 0.0.0.0 dreamchasersltd.com
 0.0.0.0 dreamzonemadurai.com
 0.0.0.0 drhanneserasmus.co.za
@@ -244,6 +242,7 @@
 0.0.0.0 etisalatbuyback.com
 0.0.0.0 eurooknamsk.ru
 0.0.0.0 exilum.com
+0.0.0.0 exitoshop.co.zw
 0.0.0.0 expressionsofwood.ca
 0.0.0.0 famesa.com.ar
 0.0.0.0 fantadentalperu.com
@@ -308,7 +307,6 @@
 0.0.0.0 hp.buytoprint.com
 0.0.0.0 hr2019.vrcom7.com
 0.0.0.0 hrfrance.net
-0.0.0.0 hseda.com
 0.0.0.0 htownbars.com
 0.0.0.0 hugersi.com
 0.0.0.0 humanaidbd.org
@@ -374,6 +372,7 @@
 0.0.0.0 kazadesign.com.br
 0.0.0.0 kelaskan.com
 0.0.0.0 kemethuntlaw.com
+0.0.0.0 kevinley.com
 0.0.0.0 kicpl.in
 0.0.0.0 kiengiang24h.com
 0.0.0.0 kilakila.cl
@@ -393,6 +392,7 @@
 0.0.0.0 lashprochampionship.com
 0.0.0.0 lastimaners.ug
 0.0.0.0 lceventos.net
+0.0.0.0 lebetha.co.za
 0.0.0.0 letsggoo.com
 0.0.0.0 level-upcg.com
 0.0.0.0 liberationcall.org
@@ -440,6 +440,7 @@
 0.0.0.0 mdttasarim.com.tr
 0.0.0.0 medcar.com.tn
 0.0.0.0 medicalbillingandtelehealth.com
+0.0.0.0 medicareinc.com
 0.0.0.0 meeweb.com
 0.0.0.0 megapowersystem.com
 0.0.0.0 meiieco.fr
@@ -539,7 +540,6 @@
 0.0.0.0 ppfatahillah.com
 0.0.0.0 pracharbharat.com
 0.0.0.0 prestigehomeautomation.net
-0.0.0.0 primaflor-sby.com
 0.0.0.0 primusth.com
 0.0.0.0 privacy-tools-for-you-453.com
 0.0.0.0 privatehireinsurance.net
@@ -550,7 +550,6 @@
 0.0.0.0 proveedoradeproyectosysoluciones.com
 0.0.0.0 proxmoxfox.xyz
 0.0.0.0 proyectos.vrstudio.cl
-0.0.0.0 psound.hu
 0.0.0.0 punjabdevelopersassociation.com.pk
 0.0.0.0 pyrd5.xyz
 0.0.0.0 qdxamerica.com
@@ -579,6 +578,7 @@
 0.0.0.0 rohtasproduce.com
 0.0.0.0 rollsbeer.com
 0.0.0.0 rotc-ams.com
+0.0.0.0 royaltyblackcard.club
 0.0.0.0 s21servicios.com
 0.0.0.0 saaad.org
 0.0.0.0 saemape.cd
@@ -625,7 +625,6 @@
 0.0.0.0 sjptr.pk
 0.0.0.0 skillum.mx
 0.0.0.0 skyparktravel.com
-0.0.0.0 smartphoodapp.com
 0.0.0.0 smiling.mx
 0.0.0.0 sociallysavvyseo.com
 0.0.0.0 sociopoolindia.com
@@ -700,6 +699,7 @@
 0.0.0.0 usalamatechnology.com
 0.0.0.0 usherskenya.co.ke
 0.0.0.0 utmtechnologies.com
+0.0.0.0 uylab.org
 0.0.0.0 vashovskycorp.com
 0.0.0.0 velumuriinfra.com
 0.0.0.0 ventatravel.com
@@ -737,7 +737,6 @@
 0.0.0.0 www.amazonmall.club
 0.0.0.0 www.arkidecture.com
 0.0.0.0 www.artrsllc.com
-0.0.0.0 www.asterglobal.com
 0.0.0.0 www.bancarioscornelio.com.br
 0.0.0.0 www.bearware.org
 0.0.0.0 www.carusoadvogados.com.br
@@ -746,7 +745,6 @@
 0.0.0.0 www.chemsky.tn
 0.0.0.0 www.cisnc.it
 0.0.0.0 www.clinicamomentum.com.br
-0.0.0.0 www.dacui.online
 0.0.0.0 www.ddtools.top
 0.0.0.0 www.dental.xiaoxiao.media
 0.0.0.0 www.enc-tech.com
@@ -799,4 +797,4 @@
 0.0.0.0 zf.gouzapay.cn
 0.0.0.0 zhaoziliao1668.cn
 0.0.0.0 ztekkhosting.com
-# Number of entries: 792
+# Number of entries: 790
