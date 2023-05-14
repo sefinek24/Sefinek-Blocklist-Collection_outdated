@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-14 18:52:40 (UTC)                      #
+# Last updated: 2023-05-14 19:59:41 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -42,6 +42,7 @@
 127.0.0.1 airhobi.com
 127.0.0.1 airlinesgroupbooking.com
 127.0.0.1 akashfeedcpl.com
+127.0.0.1 akrostools.com
 127.0.0.1 alakheilizwe.org
 127.0.0.1 aldebaran.adm.br
 127.0.0.1 aldojuanpettiti.com.ar
@@ -69,6 +70,7 @@
 127.0.0.1 api.deltastealer.love
 127.0.0.1 api.seeingoholidays.com
 127.0.0.1 apple-service93.ru
+127.0.0.1 apprication.dev
 127.0.0.1 apps.saintsoporte.com
 127.0.0.1 aquapools.in
 127.0.0.1 aristonbentre.com
@@ -76,7 +78,6 @@
 127.0.0.1 artisanalgoldperutech.com
 127.0.0.1 ask6.awt.com.pk
 127.0.0.1 assets.dsztfso.cn
-127.0.0.1 asu.com.vn
 127.0.0.1 athadnw.com
 127.0.0.1 atomm.com.br
 127.0.0.1 axenholidays.com
@@ -121,7 +122,6 @@
 127.0.0.1 brknarikan.com
 127.0.0.1 brucesupplyplumbing.com
 127.0.0.1 bruiserbodies.com
-127.0.0.1 bship.biz
 127.0.0.1 buscascolegios.diit.cl
 127.0.0.1 business-line.com
 127.0.0.1 bz.bbbeioaag.com
@@ -160,13 +160,14 @@
 127.0.0.1 contadoresayb.com
 127.0.0.1 coop-host.com
 127.0.0.1 coorsamexico.mx
-127.0.0.1 coralpac.com
 127.0.0.1 cordisheartinstitute.com
 127.0.0.1 corepilatesnicaragua.com
 127.0.0.1 corpolevesuplementos.com.br
 127.0.0.1 count.mail.163.com.impactmedfoundation.com
 127.0.0.1 countrychristmas.ca
 127.0.0.1 crackload.net
+127.0.0.1 crazymoney.app
+127.0.0.1 creativebugs.net
 127.0.0.1 creativesmartsolution.com
 127.0.0.1 crecerco.com
 127.0.0.1 crenloreto.com
@@ -183,7 +184,6 @@
 127.0.0.1 dating.khokhas.co.za
 127.0.0.1 davesclassics.com.au
 127.0.0.1 daviddunnsons.com
-127.0.0.1 davidmcguinness.info
 127.0.0.1 ddlakava.ac.ug
 127.0.0.1 deine-bewerbung.com
 127.0.0.1 deliciassobencomenda.com.br
@@ -211,6 +211,7 @@
 127.0.0.1 download.caihong.com
 127.0.0.1 download.doumaibiji.cn
 127.0.0.1 download.pdf00.cn
+127.0.0.1 downloads.bcweb.org.uk
 127.0.0.1 dreamchasersltd.com
 127.0.0.1 dreamzonemadurai.com
 127.0.0.1 drhanneserasmus.co.za
@@ -230,6 +231,7 @@
 127.0.0.1 ecomv10.ozonedesk.cloud
 127.0.0.1 edu.pmvanini.rs.gov.br
 127.0.0.1 educajuris.cl
+127.0.0.1 egsso.net
 127.0.0.1 egwis.com
 127.0.0.1 egy.co.in
 127.0.0.1 ekoloji.eleganzaajans.com
@@ -242,6 +244,7 @@
 127.0.0.1 espora.com
 127.0.0.1 esquiudigital.com
 127.0.0.1 etisalatbuyback.com
+127.0.0.1 eurologisticyac.com
 127.0.0.1 eurooknamsk.ru
 127.0.0.1 exilum.com
 127.0.0.1 exitoshop.co.zw
@@ -251,7 +254,6 @@
 127.0.0.1 femerp.com
 127.0.0.1 files5.uludagbilisim.com
 127.0.0.1 firstclassbale.com
-127.0.0.1 firstfood.co
 127.0.0.1 florent-webdev.com
 127.0.0.1 formar3d.com.br
 127.0.0.1 forsalenear.me
@@ -267,7 +269,6 @@
 127.0.0.1 futuretekservices.com
 127.0.0.1 g-work.mx
 127.0.0.1 gabyagozetim.com
-127.0.0.1 gapegape.co.za
 127.0.0.1 gbsports.theapplab.org
 127.0.0.1 gccon.in
 127.0.0.1 gedebey-tvradio.info
@@ -317,6 +318,7 @@
 127.0.0.1 hugersi.com
 127.0.0.1 humanaidbd.org
 127.0.0.1 humpass.ae
+127.0.0.1 hunggiang.vn
 127.0.0.1 ibremp.org.br
 127.0.0.1 icvpartners.com
 127.0.0.1 idalidcouture.com
@@ -340,14 +342,12 @@
 127.0.0.1 innovantksa.com
 127.0.0.1 inspiratour.co.id
 127.0.0.1 instinctux.com
-127.0.0.1 intelli-sys.co.zw
 127.0.0.1 invar.me
 127.0.0.1 iperceptsondemand.com
 127.0.0.1 iprovietnam.com
 127.0.0.1 irte.in
 127.0.0.1 j.xnyidc.top
 127.0.0.1 jaccolima.com
-127.0.0.1 jadinnovations.co.ug
 127.0.0.1 jalebel7abeb.com
 127.0.0.1 jcedu.org
 127.0.0.1 jeetomoney247.com
@@ -355,6 +355,7 @@
 127.0.0.1 ji.ghwiwwgg.com
 127.0.0.1 ji.uiasehgii.com
 127.0.0.1 ji.uiasehgjj.com
+127.0.0.1 jobcity.com
 127.0.0.1 johnalex.com.co
 127.0.0.1 johnleontarakis.com
 127.0.0.1 jointings.org
@@ -390,13 +391,12 @@
 127.0.0.1 kolleruaqua.com
 127.0.0.1 kompas86.com
 127.0.0.1 konseptderi.com
-127.0.0.1 kridhanidecor.com
 127.0.0.1 kustens.com
+127.0.0.1 lalajimatrimonial.com
 127.0.0.1 lameguard.ru
 127.0.0.1 lapakwebsite.com
 127.0.0.1 lara.amiyon.com
 127.0.0.1 lasermobilesounds.co.uk
-127.0.0.1 lashprochampionship.com
 127.0.0.1 lastimaners.ug
 127.0.0.1 lceventos.net
 127.0.0.1 lebetha.co.za
@@ -438,6 +438,7 @@
 127.0.0.1 marquesvogt.com
 127.0.0.1 matajir.ae
 127.0.0.1 matchtranslations.com
+127.0.0.1 mathonsiohs.co.za
 127.0.0.1 maviproducciones.com
 127.0.0.1 maxcodeitsolutions.com
 127.0.0.1 maxximbrasil.com
@@ -449,7 +450,6 @@
 127.0.0.1 medicareinc.com
 127.0.0.1 megapowersystem.com
 127.0.0.1 meiieco.fr
-127.0.0.1 mendezplumbingservicellc.com
 127.0.0.1 menupricelist.today
 127.0.0.1 meonhanong.com
 127.0.0.1 mepstein.com
@@ -480,7 +480,6 @@
 127.0.0.1 nakato.co.za
 127.0.0.1 namthaibinh.net
 127.0.0.1 nanpe.eng.br
-127.0.0.1 natpet.com
 127.0.0.1 nazima.ac.ug
 127.0.0.1 nbbgarden.vn
 127.0.0.1 ncsuppliers.com
@@ -515,7 +514,6 @@
 127.0.0.1 optimalsolutionsonline.com
 127.0.0.1 ora.ci
 127.0.0.1 orangefire.ae
-127.0.0.1 orderedami.com
 127.0.0.1 organizer.safeonline.it
 127.0.0.1 origa2up.top
 127.0.0.1 origins-france.fr
@@ -555,6 +553,7 @@
 127.0.0.1 privacy-tools-for-you-453.com
 127.0.0.1 privatehireinsurance.net
 127.0.0.1 prodimar.mx
+127.0.0.1 project360.hr
 127.0.0.1 propertycare4u.com
 127.0.0.1 protechasia.com
 127.0.0.1 proveedoradeproyectosysoluciones.com
@@ -562,7 +561,6 @@
 127.0.0.1 proyectos.vrstudio.cl
 127.0.0.1 psound.hu
 127.0.0.1 punjabdevelopersassociation.com.pk
-127.0.0.1 pyrd5.xyz
 127.0.0.1 qdxamerica.com
 127.0.0.1 qtimst.com
 127.0.0.1 raksun.in
@@ -573,7 +571,6 @@
 127.0.0.1 rcpay.com.br
 127.0.0.1 records.dennisign.se
 127.0.0.1 redmag-dz.com
-127.0.0.1 regiscoimbra.pt
 127.0.0.1 reifenquick.de
 127.0.0.1 relaxindulge.co.nz
 127.0.0.1 remotaja.com
@@ -584,7 +581,6 @@
 127.0.0.1 retailexpertscloud.com
 127.0.0.1 retrorollamerica.com
 127.0.0.1 richterhi-tech.com
-127.0.0.1 rigorous-statistics.co.za
 127.0.0.1 rigworldservicesltd.com
 127.0.0.1 robosuperscalp31.com
 127.0.0.1 rohtasproduce.com
@@ -670,12 +666,12 @@
 127.0.0.1 t.honker.info
 127.0.0.1 tcbdining.com
 127.0.0.1 techforaap.com
-127.0.0.1 techniguitare.com
 127.0.0.1 techvibeo.com
 127.0.0.1 tecni-soft.com
 127.0.0.1 temptmag.com
 127.0.0.1 tengfeidn.com
 127.0.0.1 test.earborist.com
+127.0.0.1 test.typoten.com
 127.0.0.1 thebikinisociety.com
 127.0.0.1 thedoctorsgym.net
 127.0.0.1 theemirateshills.com
@@ -689,7 +685,6 @@
 127.0.0.1 tiemvangngoctham.com
 127.0.0.1 tobecoaching.co.uk
 127.0.0.1 tonydong.com
-127.0.0.1 topsepatu.com
 127.0.0.1 traderhype.com
 127.0.0.1 transportadoramiranda.com
 127.0.0.1 transtekhnika.by
@@ -795,6 +790,7 @@
 127.0.0.1
 127.0.0.1 www.tvculturaourofino.com.br
 127.0.0.1 www.vaestsolutions.com
+127.0.0.1 www.websound.ru
 127.0.0.1 www.weinsteincounseling.com
 127.0.0.1 www.yb-lawyers.com
 127.0.0.1 www.ysbaojia.com
@@ -813,4 +809,4 @@
 127.0.0.1 zf.gouzapay.cn
 127.0.0.1 zhaoziliao1668.cn
 127.0.0.1 ztekkhosting.com
-# Number of entries: 806
+# Number of entries: 802
