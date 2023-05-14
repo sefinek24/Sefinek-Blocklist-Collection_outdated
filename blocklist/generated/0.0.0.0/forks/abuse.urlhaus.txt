@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-14 09:59:16 (UTC)                      #
+# Last updated: 2023-05-14 10:49:19 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -11,7 +11,6 @@
 0.0.0.0 1ecosolution.it
 0.0.0.0 2023foco.com.br
 0.0.0.0 20thstreetcoc.com
-0.0.0.0 2126892.bazeinfo.com
 0.0.0.0 230.btc-f2pool.top
 0.0.0.0 27astudios.com
 0.0.0.0 2by4constructioninc.com
@@ -58,6 +57,7 @@
 0.0.0.0 amarteargentina.com.ar
 0.0.0.0 americantv.online
 0.0.0.0 amiriauto.com
+0.0.0.0 amorconsulta.com.br
 0.0.0.0 andrewpharma.com
 0.0.0.0 andykimrealty.com
 0.0.0.0 angel.bk.idv.tw
@@ -101,6 +101,7 @@
 0.0.0.0 bimak.hr
 0.0.0.0 bisndt.com
 0.0.0.0 bisnesservis-fk.ru
+0.0.0.0 blast3d.com.br
 0.0.0.0 bluetruckproductions.com
 0.0.0.0 bmg.edu.vn
 0.0.0.0 bocasislandexpress.com
@@ -112,6 +113,7 @@
 0.0.0.0 botnet.legendteam.ga
 0.0.0.0 botnet.nguyennghi.info
 0.0.0.0 bracell.latitude.net.br
+0.0.0.0 brickstonerealty.net
 0.0.0.0 brideofmessiah.com
 0.0.0.0 british-shorthair.es
 0.0.0.0 brknarikan.com
@@ -209,7 +211,6 @@
 0.0.0.0 down.pcclear.com
 0.0.0.0 down.udashi.com
 0.0.0.0 download.caihong.com
-0.0.0.0 download.doumaibiji.cn
 0.0.0.0 download.pdf00.cn
 0.0.0.0 downloads.bcweb.org.uk
 0.0.0.0 dreamchasersltd.com
@@ -234,7 +235,6 @@
 0.0.0.0 egwis.com
 0.0.0.0 egy.co.in
 0.0.0.0 ekoloji.eleganzaajans.com
-0.0.0.0 elvalledetarrazu.com
 0.0.0.0 emaids.co.za
 0.0.0.0 engenhariaengtec.com.br
 0.0.0.0 englishofcourse.com
@@ -244,6 +244,7 @@
 0.0.0.0 espora.com
 0.0.0.0 esquiudigital.com
 0.0.0.0 etisalatbuyback.com
+0.0.0.0 eurologisticyac.com
 0.0.0.0 eurooknamsk.ru
 0.0.0.0 exilum.com
 0.0.0.0 exitoshop.co.zw
@@ -261,18 +262,20 @@
 0.0.0.0 frangulflegal.com
 0.0.0.0 frangulfmedia.com
 0.0.0.0 fransceysse.ac.ug
+0.0.0.0 frenchiescity.com
 0.0.0.0 funatfitsports.com
 0.0.0.0 funletters.net
 0.0.0.0 futuretekservices.com
 0.0.0.0 g-work.mx
+0.0.0.0 gapegape.co.za
 0.0.0.0 gbsports.theapplab.org
 0.0.0.0 gccon.in
 0.0.0.0 gedebey-tvradio.info
-0.0.0.0 gelincikhashas.info
 0.0.0.0 gelincikhashas.org
 0.0.0.0 generatorshubltd.co.uk
 0.0.0.0 georgesnfrem.org
 0.0.0.0 gideonfountain.com
+0.0.0.0 gobesitysurgery.com
 0.0.0.0 gokcevizyon.com
 0.0.0.0 goldrush.ug
 0.0.0.0 gotovacoil.com
@@ -314,12 +317,12 @@
 0.0.0.0 humanaidbd.org
 0.0.0.0 humpass.ae
 0.0.0.0 hunggiang.vn
+0.0.0.0 ibremp.org.br
 0.0.0.0 icvpartners.com
 0.0.0.0 idalidcouture.com
 0.0.0.0 idealweddings.co.zw
 0.0.0.0 ideiasmoveisdecor.com
 0.0.0.0 idrissischool.edu.my
-0.0.0.0 iescm.com.mx
 0.0.0.0 ijrec.pk
 0.0.0.0 ijset.pk
 0.0.0.0 iluxtspl.com
@@ -330,6 +333,7 @@
 0.0.0.0 imrantex.com
 0.0.0.0 incotel.com.pk
 0.0.0.0 indonesias.me
+0.0.0.0 indrasbikaner.com
 0.0.0.0 induspay.pk
 0.0.0.0 innovantksa.com
 0.0.0.0 inseco.cl
@@ -396,14 +400,14 @@
 0.0.0.0 lashprochampionship.com
 0.0.0.0 lastimaners.ug
 0.0.0.0 lceventos.net
-0.0.0.0 lebetha.co.za
 0.0.0.0 letsggoo.com
-0.0.0.0 level-upcg.com
 0.0.0.0 liberationcall.org
+0.0.0.0 library.arihantmbainstitute.ac.in
 0.0.0.0 libriafrica.com
 0.0.0.0 lics.pk
 0.0.0.0 lidermotopecas.com.br
 0.0.0.0 lindnerelektroanlagen.de
+0.0.0.0 linkvilleplayers.org
 0.0.0.0 lisaerp.com
 0.0.0.0 littlemisskenya.com
 0.0.0.0 lmlawcorp.com
@@ -468,6 +472,7 @@
 0.0.0.0 mumgee.co.za
 0.0.0.0 musicaondemand.com
 0.0.0.0 mvinfotech.com
+0.0.0.0 myayurvedashoppe.com
 0.0.0.0 mysura.it
 0.0.0.0 mytheacademy.com
 0.0.0.0 namthaibinh.net
@@ -493,7 +498,6 @@
 0.0.0.0 oazahotel.com.mk
 0.0.0.0 obttech.com.vn
 0.0.0.0 oceancityrentalbyowner.com
-0.0.0.0 odontomacih.com.br
 0.0.0.0 ofertasitaquera.com
 0.0.0.0 ofisitca.com
 0.0.0.0 olugun.co.za
@@ -505,6 +509,7 @@
 0.0.0.0 opesjk.ug
 0.0.0.0 optimalsolutionsonline.com
 0.0.0.0 ora.ci
+0.0.0.0 orangefire.ae
 0.0.0.0 orderedami.com
 0.0.0.0 organizer.safeonline.it
 0.0.0.0 origa2up.top
@@ -547,9 +552,9 @@
 0.0.0.0 project360.hr
 0.0.0.0 propertycare4u.com
 0.0.0.0 protechasia.com
+0.0.0.0 proveedoradeproyectosysoluciones.com
 0.0.0.0 proxmoxfox.xyz
 0.0.0.0 proyectos.vrstudio.cl
-0.0.0.0 punjabdevelopersassociation.com.pk
 0.0.0.0 pyrd5.xyz
 0.0.0.0 qdxamerica.com
 0.0.0.0 qtimst.com
@@ -558,11 +563,11 @@
 0.0.0.0 ranojpegu.in
 0.0.0.0 rapture2.romangrey.net
 0.0.0.0 rasdcom.com
-0.0.0.0 rcpay.com.br
 0.0.0.0 records.dennisign.se
 0.0.0.0 redmag-dz.com
 0.0.0.0 regiscoimbra.pt
 0.0.0.0 reifenquick.de
+0.0.0.0 relaxindulge.co.nz
 0.0.0.0 remotaja.com
 0.0.0.0 renacer.jgorange.com
 0.0.0.0 repairhubpat.com
@@ -570,13 +575,15 @@
 0.0.0.0 respro.id
 0.0.0.0 retailexpertscloud.com
 0.0.0.0 retrorollamerica.com
+0.0.0.0 richterhi-tech.com
 0.0.0.0 rigorous-statistics.co.za
 0.0.0.0 rigworldservicesltd.com
+0.0.0.0 robosuperscalp31.com
 0.0.0.0 rollsbeer.com
 0.0.0.0 rotc-ams.com
-0.0.0.0 s21servicios.com
 0.0.0.0 saaad.org
 0.0.0.0 saemape.cd
+0.0.0.0 safetygear.pk
 0.0.0.0 sainzim.co.za
 0.0.0.0 saloneeats.com
 0.0.0.0 samglobaltrading.com
@@ -590,10 +597,10 @@
 0.0.0.0 scglobal.co.th
 0.0.0.0 schoolofspanish.co.za
 0.0.0.0 scientific.pk
-0.0.0.0 sdpitc.co.in
 0.0.0.0 sealicensing.com
 0.0.0.0 secretmindcontrol.com
 0.0.0.0 security-shade.com
+0.0.0.0 senbiaojita.com
 0.0.0.0 senderolunarejo.com
 0.0.0.0 seniorweekoc.net
 0.0.0.0 sertvs.com
@@ -673,8 +680,6 @@
 0.0.0.0 transportadoramiranda.com
 0.0.0.0 transtekhnika.by
 0.0.0.0 travelwithmanta.co.za
-0.0.0.0 trieutin.com
-0.0.0.0 trinoxidiuvendas.com
 0.0.0.0 triplebbbfoundationrepair.com
 0.0.0.0 twizt.net
 0.0.0.0 ukguk71.ru
@@ -688,6 +693,7 @@
 0.0.0.0 upscale-renergie.com
 0.0.0.0 usalamatechnology.com
 0.0.0.0 usherskenya.co.ke
+0.0.0.0 utmtechnologies.com
 0.0.0.0 uxsingh.com
 0.0.0.0 uylab.org
 0.0.0.0 vashovskycorp.com
@@ -713,6 +719,7 @@
 0.0.0.0 whoisalbertuncle.com
 0.0.0.0 windcomtechnologies.com
 0.0.0.0 wisefemy.com
+0.0.0.0 wisewomanwarrior.com
 0.0.0.0 wjidigitalmediadirectory.com
 0.0.0.0 wooretail.com
 0.0.0.0 wordpreact.com
@@ -742,9 +749,7 @@
 0.0.0.0 www.fixstudio.co.kr
 0.0.0.0 www.garrett.kz
 0.0.0.0 www.globallaborsupply.com
-0.0.0.0 www.hebgb.top
 0.0.0.0 www.hseda.com
-0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.institut-corps-a-ligne.fr
 0.0.0.0 www.janisthaaivf.com
 0.0.0.0 www.joshbystrom.com
@@ -770,6 +775,7 @@
 0.0.0.0 www.tvculturaourofino.com.br
 0.0.0.0 www.vaestsolutions.com
 0.0.0.0 www.websound.ru
+0.0.0.0 www.weinsteincounseling.com
 0.0.0.0 www.yb-lawyers.com
 0.0.0.0 www.ysbaojia.com
 0.0.0.0 wynecare.com
@@ -788,4 +794,4 @@
 0.0.0.0 zf.gouzapay.cn
 0.0.0.0 zhaoziliao1668.cn
 0.0.0.0 ztekkhosting.com
-# Number of entries: 782
+# Number of entries: 788

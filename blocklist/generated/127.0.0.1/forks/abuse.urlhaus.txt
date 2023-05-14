@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-14 09:59:16 (UTC)                      #
+# Last updated: 2023-05-14 10:49:19 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -11,7 +11,6 @@
 127.0.0.1 1ecosolution.it
 127.0.0.1 2023foco.com.br
 127.0.0.1 20thstreetcoc.com
-127.0.0.1 2126892.bazeinfo.com
 127.0.0.1 230.btc-f2pool.top
 127.0.0.1 27astudios.com
 127.0.0.1 2by4constructioninc.com
@@ -58,6 +57,7 @@
 127.0.0.1 amarteargentina.com.ar
 127.0.0.1 americantv.online
 127.0.0.1 amiriauto.com
+127.0.0.1 amorconsulta.com.br
 127.0.0.1 andrewpharma.com
 127.0.0.1 andykimrealty.com
 127.0.0.1 angel.bk.idv.tw
@@ -101,6 +101,7 @@
 127.0.0.1 bimak.hr
 127.0.0.1 bisndt.com
 127.0.0.1 bisnesservis-fk.ru
+127.0.0.1 blast3d.com.br
 127.0.0.1 bluetruckproductions.com
 127.0.0.1 bmg.edu.vn
 127.0.0.1 bocasislandexpress.com
@@ -112,6 +113,7 @@
 127.0.0.1 botnet.legendteam.ga
 127.0.0.1 botnet.nguyennghi.info
 127.0.0.1 bracell.latitude.net.br
+127.0.0.1 brickstonerealty.net
 127.0.0.1 brideofmessiah.com
 127.0.0.1 british-shorthair.es
 127.0.0.1 brknarikan.com
@@ -209,7 +211,6 @@
 127.0.0.1 down.pcclear.com
 127.0.0.1 down.udashi.com
 127.0.0.1 download.caihong.com
-127.0.0.1 download.doumaibiji.cn
 127.0.0.1 download.pdf00.cn
 127.0.0.1 downloads.bcweb.org.uk
 127.0.0.1 dreamchasersltd.com
@@ -234,7 +235,6 @@
 127.0.0.1 egwis.com
 127.0.0.1 egy.co.in
 127.0.0.1 ekoloji.eleganzaajans.com
-127.0.0.1 elvalledetarrazu.com
 127.0.0.1 emaids.co.za
 127.0.0.1 engenhariaengtec.com.br
 127.0.0.1 englishofcourse.com
@@ -244,6 +244,7 @@
 127.0.0.1 espora.com
 127.0.0.1 esquiudigital.com
 127.0.0.1 etisalatbuyback.com
+127.0.0.1 eurologisticyac.com
 127.0.0.1 eurooknamsk.ru
 127.0.0.1 exilum.com
 127.0.0.1 exitoshop.co.zw
@@ -261,18 +262,20 @@
 127.0.0.1 frangulflegal.com
 127.0.0.1 frangulfmedia.com
 127.0.0.1 fransceysse.ac.ug
+127.0.0.1 frenchiescity.com
 127.0.0.1 funatfitsports.com
 127.0.0.1 funletters.net
 127.0.0.1 futuretekservices.com
 127.0.0.1 g-work.mx
+127.0.0.1 gapegape.co.za
 127.0.0.1 gbsports.theapplab.org
 127.0.0.1 gccon.in
 127.0.0.1 gedebey-tvradio.info
-127.0.0.1 gelincikhashas.info
 127.0.0.1 gelincikhashas.org
 127.0.0.1 generatorshubltd.co.uk
 127.0.0.1 georgesnfrem.org
 127.0.0.1 gideonfountain.com
+127.0.0.1 gobesitysurgery.com
 127.0.0.1 gokcevizyon.com
 127.0.0.1 goldrush.ug
 127.0.0.1 gotovacoil.com
@@ -314,12 +317,12 @@
 127.0.0.1 humanaidbd.org
 127.0.0.1 humpass.ae
 127.0.0.1 hunggiang.vn
+127.0.0.1 ibremp.org.br
 127.0.0.1 icvpartners.com
 127.0.0.1 idalidcouture.com
 127.0.0.1 idealweddings.co.zw
 127.0.0.1 ideiasmoveisdecor.com
 127.0.0.1 idrissischool.edu.my
-127.0.0.1 iescm.com.mx
 127.0.0.1 ijrec.pk
 127.0.0.1 ijset.pk
 127.0.0.1 iluxtspl.com
@@ -330,6 +333,7 @@
 127.0.0.1 imrantex.com
 127.0.0.1 incotel.com.pk
 127.0.0.1 indonesias.me
+127.0.0.1 indrasbikaner.com
 127.0.0.1 induspay.pk
 127.0.0.1 innovantksa.com
 127.0.0.1 inseco.cl
@@ -396,14 +400,14 @@
 127.0.0.1 lashprochampionship.com
 127.0.0.1 lastimaners.ug
 127.0.0.1 lceventos.net
-127.0.0.1 lebetha.co.za
 127.0.0.1 letsggoo.com
-127.0.0.1 level-upcg.com
 127.0.0.1 liberationcall.org
+127.0.0.1 library.arihantmbainstitute.ac.in
 127.0.0.1 libriafrica.com
 127.0.0.1 lics.pk
 127.0.0.1 lidermotopecas.com.br
 127.0.0.1 lindnerelektroanlagen.de
+127.0.0.1 linkvilleplayers.org
 127.0.0.1 lisaerp.com
 127.0.0.1 littlemisskenya.com
 127.0.0.1 lmlawcorp.com
@@ -468,6 +472,7 @@
 127.0.0.1 mumgee.co.za
 127.0.0.1 musicaondemand.com
 127.0.0.1 mvinfotech.com
+127.0.0.1 myayurvedashoppe.com
 127.0.0.1 mysura.it
 127.0.0.1 mytheacademy.com
 127.0.0.1 namthaibinh.net
@@ -493,7 +498,6 @@
 127.0.0.1 oazahotel.com.mk
 127.0.0.1 obttech.com.vn
 127.0.0.1 oceancityrentalbyowner.com
-127.0.0.1 odontomacih.com.br
 127.0.0.1 ofertasitaquera.com
 127.0.0.1 ofisitca.com
 127.0.0.1 olugun.co.za
@@ -505,6 +509,7 @@
 127.0.0.1 opesjk.ug
 127.0.0.1 optimalsolutionsonline.com
 127.0.0.1 ora.ci
+127.0.0.1 orangefire.ae
 127.0.0.1 orderedami.com
 127.0.0.1 organizer.safeonline.it
 127.0.0.1 origa2up.top
@@ -547,9 +552,9 @@
 127.0.0.1 project360.hr
 127.0.0.1 propertycare4u.com
 127.0.0.1 protechasia.com
+127.0.0.1 proveedoradeproyectosysoluciones.com
 127.0.0.1 proxmoxfox.xyz
 127.0.0.1 proyectos.vrstudio.cl
-127.0.0.1 punjabdevelopersassociation.com.pk
 127.0.0.1 pyrd5.xyz
 127.0.0.1 qdxamerica.com
 127.0.0.1 qtimst.com
@@ -558,11 +563,11 @@
 127.0.0.1 ranojpegu.in
 127.0.0.1 rapture2.romangrey.net
 127.0.0.1 rasdcom.com
-127.0.0.1 rcpay.com.br
 127.0.0.1 records.dennisign.se
 127.0.0.1 redmag-dz.com
 127.0.0.1 regiscoimbra.pt
 127.0.0.1 reifenquick.de
+127.0.0.1 relaxindulge.co.nz
 127.0.0.1 remotaja.com
 127.0.0.1 renacer.jgorange.com
 127.0.0.1 repairhubpat.com
@@ -570,13 +575,15 @@
 127.0.0.1 respro.id
 127.0.0.1 retailexpertscloud.com
 127.0.0.1 retrorollamerica.com
+127.0.0.1 richterhi-tech.com
 127.0.0.1 rigorous-statistics.co.za
 127.0.0.1 rigworldservicesltd.com
+127.0.0.1 robosuperscalp31.com
 127.0.0.1 rollsbeer.com
 127.0.0.1 rotc-ams.com
-127.0.0.1 s21servicios.com
 127.0.0.1 saaad.org
 127.0.0.1 saemape.cd
+127.0.0.1 safetygear.pk
 127.0.0.1 sainzim.co.za
 127.0.0.1 saloneeats.com
 127.0.0.1 samglobaltrading.com
@@ -590,10 +597,10 @@
 127.0.0.1 scglobal.co.th
 127.0.0.1 schoolofspanish.co.za
 127.0.0.1 scientific.pk
-127.0.0.1 sdpitc.co.in
 127.0.0.1 sealicensing.com
 127.0.0.1 secretmindcontrol.com
 127.0.0.1 security-shade.com
+127.0.0.1 senbiaojita.com
 127.0.0.1 senderolunarejo.com
 127.0.0.1 seniorweekoc.net
 127.0.0.1 sertvs.com
@@ -673,8 +680,6 @@
 127.0.0.1 transportadoramiranda.com
 127.0.0.1 transtekhnika.by
 127.0.0.1 travelwithmanta.co.za
-127.0.0.1 trieutin.com
-127.0.0.1 trinoxidiuvendas.com
 127.0.0.1 triplebbbfoundationrepair.com
 127.0.0.1 twizt.net
 127.0.0.1 ukguk71.ru
@@ -688,6 +693,7 @@
 127.0.0.1 upscale-renergie.com
 127.0.0.1 usalamatechnology.com
 127.0.0.1 usherskenya.co.ke
+127.0.0.1 utmtechnologies.com
 127.0.0.1 uxsingh.com
 127.0.0.1 uylab.org
 127.0.0.1 vashovskycorp.com
@@ -713,6 +719,7 @@
 127.0.0.1 whoisalbertuncle.com
 127.0.0.1 windcomtechnologies.com
 127.0.0.1 wisefemy.com
+127.0.0.1 wisewomanwarrior.com
 127.0.0.1 wjidigitalmediadirectory.com
 127.0.0.1 wooretail.com
 127.0.0.1 wordpreact.com
@@ -742,9 +749,7 @@
 127.0.0.1 www.fixstudio.co.kr
 127.0.0.1 www.garrett.kz
 127.0.0.1 www.globallaborsupply.com
-127.0.0.1 www.hebgb.top
 127.0.0.1 www.hseda.com
-127.0.0.1 www.ingonherbal.com
 127.0.0.1 www.institut-corps-a-ligne.fr
 127.0.0.1 www.janisthaaivf.com
 127.0.0.1 www.joshbystrom.com
@@ -770,6 +775,7 @@
 127.0.0.1 www.tvculturaourofino.com.br
 127.0.0.1 www.vaestsolutions.com
 127.0.0.1 www.websound.ru
+127.0.0.1 www.weinsteincounseling.com
 127.0.0.1 www.yb-lawyers.com
 127.0.0.1 www.ysbaojia.com
 127.0.0.1 wynecare.com
@@ -788,4 +794,4 @@
 127.0.0.1 zf.gouzapay.cn
 127.0.0.1 zhaoziliao1668.cn
 127.0.0.1 ztekkhosting.com
-# Number of entries: 782
+# Number of entries: 788
