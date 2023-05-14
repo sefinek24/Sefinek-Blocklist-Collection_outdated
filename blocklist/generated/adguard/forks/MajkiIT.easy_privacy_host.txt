@@ -1,4 +1,4 @@
-!202305120303
+!202305140303
 ! EasyPrivacy Host filters for Pi hole
 ! Collaborators: xxcriticxx, MajkiIT
 ! Homepage: https://www.certyficate.it/
@@ -4628,6 +4628,7 @@
 ||cinepolis.trailervote.com^
 ||ciqtracking.com^
 ||circlelevel.com^
+||cis.schibsted.com^
 ||ciszhp.finanzfrage.net^
 ||ciszhp.gutefrage.net^
 ||cjcqls.onbuy.com^
@@ -5056,7 +5057,6 @@
 ||connect.senecacollege.ca^
 ||connect.shoprentone.com^
 ||connect.stihl.info^
-||connect.telstrawholesale.com^
 ||connect.telstrawholesale.com.au^
 ||connect.tommyroxmusic.com^
 ||connect.uniti.com^
@@ -11841,6 +11841,7 @@
 ||pvx.xcar.com.cn^
 ||pw.gigazine.net^
 ||pwk.nextinpact.com^
+||px-intl.ucweb.com^
 ||px.derstandard.at^
 ||px.effirst.com^
 ||px.marchex.io^

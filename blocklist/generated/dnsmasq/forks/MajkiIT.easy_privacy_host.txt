@@ -1,4 +1,4 @@
-#202305120303
+#202305140303
 # EasyPrivacy Host filters for Pi hole
 # Collaborators: xxcriticxx, MajkiIT
 # Homepage: https://www.certyficate.it/
@@ -4628,6 +4628,7 @@ server=/cimarketingforms.aig.com/
 server=/cinepolis.trailervote.com/
 server=/ciqtracking.com/
 server=/circlelevel.com/
+server=/cis.schibsted.com/
 server=/ciszhp.finanzfrage.net/
 server=/ciszhp.gutefrage.net/
 server=/cjcqls.onbuy.com/
@@ -5056,7 +5057,6 @@ server=/connect.schoolmessenger.com/
 server=/connect.senecacollege.ca/
 server=/connect.shoprentone.com/
 server=/connect.stihl.info/
-server=/connect.telstrawholesale.com/
 server=/connect.telstrawholesale.com.au/
 server=/connect.tommyroxmusic.com/
 server=/connect.uniti.com/
@@ -11841,6 +11841,7 @@ server=/pvtag.yahoo.co.jp/
 server=/pvx.xcar.com.cn/
 server=/pw.gigazine.net/
 server=/pwk.nextinpact.com/
+server=/px-intl.ucweb.com/
 server=/px.derstandard.at/
 server=/px.effirst.com/
 server=/px.marchex.io/
