@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1956
+# Domains: 1958
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -460,6 +460,7 @@
 127.0.0.1 www.dolomiteoutlet.com
 127.0.0.1 dolystore.com
 127.0.0.1 www.dolystore.com
+127.0.0.1 store.dolystore.com
 127.0.0.1 dompetaman.live
 127.0.0.1 www.dompetaman.live
 127.0.0.1 dompetexcellent.com
@@ -514,6 +515,8 @@
 127.0.0.1 ellezz.com
 127.0.0.1 www.ellezz.com
 127.0.0.1 store.ellezz.com
+127.0.0.1 elontesla23.pro
+127.0.0.1 www.elontesla23.pro
 127.0.0.1 emberio.com
 127.0.0.1 www.emberio.com
 127.0.0.1 store.emberio.com
@@ -686,7 +689,6 @@
 127.0.0.1 gllomall.com
 127.0.0.1 www.gllomall.com
 127.0.0.1 gload.info
-127.0.0.1 www.gload.info
 127.0.0.1 store.gload.info
 127.0.0.1 globaldependableshippers.com
 127.0.0.1 www.globaldependableshippers.com
@@ -821,6 +823,8 @@
 127.0.0.1 www.jfmovingstorage.com
 127.0.0.1 jne-express.my.id
 127.0.0.1 www.jne-express.my.id
+127.0.0.1 join2musk.com
+127.0.0.1 www.join2musk.com
 127.0.0.1 jollyfamilygifts.net
 127.0.0.1 www.jollyfamilygifts.net
 127.0.0.1 jonausa.com
@@ -1650,8 +1654,7 @@
 127.0.0.1 www.teezill.com
 127.0.0.1 telemarktalk.com
 127.0.0.1 www.telemarktalk.com
-127.0.0.1 tesla-openai.com
-127.0.0.1 www.tesla-openai.com
+127.0.0.1 teslabrc.com
 127.0.0.1 teslacar.io
 127.0.0.1 teslagive.live
 127.0.0.1 teslalive23.pro
@@ -1834,6 +1837,7 @@
 127.0.0.1 verfun.com
 127.0.0.1 www.verfun.com
 127.0.0.1 store.verfun.com
+127.0.0.1 vetoro.cc
 127.0.0.1 www.vetoro.cc
 127.0.0.1 store.vetoro.cc
 127.0.0.1 viberman.com
@@ -1960,5 +1964,3 @@
 127.0.0.1 zooger.space
 127.0.0.1 www.zooger.space
 127.0.0.1 store.zooger.space
-127.0.0.1 zuozuoshoe.shop
-127.0.0.1 www.zuozuoshoe.shop
