@@ -1,6 +1,6 @@
 # Title: Lightswitch05's dating-services-extended.txt
-# Released: 2023-05-14T01:05:25+00:00
-# Count: 21905 domains
+# Released: 2023-05-15T01:05:25+00:00
+# Count: 21904 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
@@ -492,6 +492,7 @@ server=/open.feeld.co/
 server=/staging.feeld.co/
 server=/status.feeld.co/
 server=/support.feeld.co/
+server=/test-api.feeld.co/
 server=/uat-api.feeld.co/
 server=/www.feeld.co/
 server=/go3fun.co/
@@ -6465,7 +6466,6 @@ server=/trk.dating.com/
 server=/woman.dating.com/
 server=/www.dating.com/
 server=/dating--dating.com/
-server=/dating-gaym.com/
 server=/dating-heaven.com/
 server=/bbs.dating-heaven.com/
 server=/git.dating-heaven.com/
@@ -19166,7 +19166,6 @@ server=/local.cougarsex.dating/
 server=/male.cougarsex.dating/
 server=/staging.cougarsex.dating/
 server=/country.dating/
-server=/www.country.dating/
 server=/coupdemain.dating/
 server=/www.coupdemain.dating/
 server=/edwardisnotadumbass.covid.dating/

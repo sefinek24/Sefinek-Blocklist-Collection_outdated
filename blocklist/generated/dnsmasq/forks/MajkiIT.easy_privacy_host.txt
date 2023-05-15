@@ -1,4 +1,4 @@
-#202305140303
+#202305150303
 # EasyPrivacy Host filters for Pi hole
 # Collaborators: xxcriticxx, MajkiIT
 # Homepage: https://www.certyficate.it/
@@ -4401,6 +4401,7 @@ server=/c.refun.do/
 server=/c.rhapsody.com/
 server=/c.sibnet.ru/
 server=/c.topya.com/
+server=/c.vrt.be/
 server=/c.wen.ru/
 server=/c.werally.com/
 server=/c.wort-suche.com/
@@ -4867,6 +4868,7 @@ server=/collector-api.99designs.com/
 server=/collector-px0py5pczn.octopart.com/
 server=/collector-videoplayer.5centscdn.net/
 server=/collector.api.video/
+server=/collector.appconsent.io/
 server=/collector.automote.co.nz/
 server=/collector.cint.com/
 server=/collector.clareity.net/
@@ -10533,6 +10535,7 @@ server=/metrics.creit.tech/
 server=/metrics.ctvdigital.net/
 server=/metrics.damart.fr/
 server=/metrics.datapipe.com/
+server=/metrics.doppiocdn.com/
 server=/metrics.doppiocdn.org/
 server=/metrics.drsfostersmith.com/
 server=/metrics.earrieta.dev/
@@ -14484,6 +14487,7 @@ server=/stats.granot.dev/
 server=/stats.graphql-api.com/
 server=/stats.gravitaswins.com/
 server=/stats.greatlakesdesign.co/
+server=/stats.gridmidia.com.br/
 server=/stats.groovetrackers.com/
 server=/stats.gslc.utah.edu/
 server=/stats.gtnetworks.com/
@@ -15401,6 +15405,7 @@ server=/t.utahstateaggies.com/
 server=/t.villanova.com/
 server=/t.voyages-sncf.com/
 server=/t.vrbo.io/
+server=/t.vrt.be/
 server=/t.vucommodores.com/
 server=/t.wayfair.ca/
 server=/t.wayfair.co.uk/

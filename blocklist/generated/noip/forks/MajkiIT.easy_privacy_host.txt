@@ -1,4 +1,4 @@
-#202305140303
+#202305150303
 # EasyPrivacy Host filters for Pi hole
 # Collaborators: xxcriticxx, MajkiIT
 # Homepage: https://www.certyficate.it/
@@ -4401,6 +4401,7 @@ c.refun.do
 c.rhapsody.com
 c.sibnet.ru
 c.topya.com
+c.vrt.be
 c.wen.ru
 c.werally.com
 c.wort-suche.com
@@ -4867,6 +4868,7 @@ collector-api.99designs.com
 collector-px0py5pczn.octopart.com
 collector-videoplayer.5centscdn.net
 collector.api.video
+collector.appconsent.io
 collector.automote.co.nz
 collector.cint.com
 collector.clareity.net
@@ -10533,6 +10535,7 @@ metrics.creit.tech
 metrics.ctvdigital.net
 metrics.damart.fr
 metrics.datapipe.com
+metrics.doppiocdn.com
 metrics.doppiocdn.org
 metrics.drsfostersmith.com
 metrics.earrieta.dev
@@ -14484,6 +14487,7 @@ stats.granot.dev
 stats.graphql-api.com
 stats.gravitaswins.com
 stats.greatlakesdesign.co
+stats.gridmidia.com.br
 stats.groovetrackers.com
 stats.gslc.utah.edu
 stats.gtnetworks.com
@@ -15401,6 +15405,7 @@ t.utahstateaggies.com
 t.villanova.com
 t.voyages-sncf.com
 t.vrbo.io
+t.vrt.be
 t.vucommodores.com
 t.wayfair.ca
 t.wayfair.co.uk

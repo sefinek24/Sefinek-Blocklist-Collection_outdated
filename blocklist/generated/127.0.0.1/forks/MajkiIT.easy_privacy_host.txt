@@ -1,4 +1,4 @@
-#202305140303
+#202305150303
 # EasyPrivacy Host filters for Pi hole
 # Collaborators: xxcriticxx, MajkiIT
 # Homepage: https://www.certyficate.it/
@@ -4401,6 +4401,7 @@
 127.0.0.1 c.rhapsody.com
 127.0.0.1 c.sibnet.ru
 127.0.0.1 c.topya.com
+127.0.0.1 c.vrt.be
 127.0.0.1 c.wen.ru
 127.0.0.1 c.werally.com
 127.0.0.1 c.wort-suche.com
@@ -4867,6 +4868,7 @@
 127.0.0.1 collector-px0py5pczn.octopart.com
 127.0.0.1 collector-videoplayer.5centscdn.net
 127.0.0.1 collector.api.video
+127.0.0.1 collector.appconsent.io
 127.0.0.1 collector.automote.co.nz
 127.0.0.1 collector.cint.com
 127.0.0.1 collector.clareity.net
@@ -10533,6 +10535,7 @@
 127.0.0.1 metrics.ctvdigital.net
 127.0.0.1 metrics.damart.fr
 127.0.0.1 metrics.datapipe.com
+127.0.0.1 metrics.doppiocdn.com
 127.0.0.1 metrics.doppiocdn.org
 127.0.0.1 metrics.drsfostersmith.com
 127.0.0.1 metrics.earrieta.dev
@@ -14484,6 +14487,7 @@
 127.0.0.1 stats.graphql-api.com
 127.0.0.1 stats.gravitaswins.com
 127.0.0.1 stats.greatlakesdesign.co
+127.0.0.1 stats.gridmidia.com.br
 127.0.0.1 stats.groovetrackers.com
 127.0.0.1 stats.gslc.utah.edu
 127.0.0.1 stats.gtnetworks.com
@@ -15401,6 +15405,7 @@
 127.0.0.1 t.villanova.com
 127.0.0.1 t.voyages-sncf.com
 127.0.0.1 t.vrbo.io
+127.0.0.1 t.vrt.be
 127.0.0.1 t.vucommodores.com
 127.0.0.1 t.wayfair.ca
 127.0.0.1 t.wayfair.co.uk
