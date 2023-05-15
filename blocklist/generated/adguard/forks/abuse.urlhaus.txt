@@ -1,11 +1,12 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! abuse.ch URLhaus Host file                                   !
-! Last updated: 2023-05-14 22:58:25 (UTC)                      !
+! Last updated: 2023-05-15 00:25:27 (UTC)                      !
 !                                                              !
 ! Terms Of Use: https://urlhaus.abuse.ch/api/                  !
 ! For questions please contact urlhaus [at] abuse.ch           !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !
+||1008691.com^
 ||1717.1000uc.com^
 ||1ecosolution.it^
 ||20thstreetcoc.com^
@@ -58,7 +59,6 @@
 ||almullaadvocates.com^
 ||amarteargentina.com.ar^
 ||americantv.online^
-||amiriauto.com^
 ||amorconsulta.com.br^
 ||andrewpharma.com^
 ||andykimrealty.com^
@@ -69,13 +69,12 @@
 ||api-ms.cobainaja.id^
 ||api.52kkg.com^
 ||api.deltastealer.love^
-||api.seeingoholidays.com^
 ||apple-service93.ru^
 ||apprication.dev^
 ||apps.saintsoporte.com^
-||aquapools.in^
 ||aristonbentre.com^
 ||artcaffedemo.reserveport.com^
+||artisanalgoldperutech.com^
 ||ask6.awt.com.pk^
 ||assets.dsztfso.cn^
 ||asu.com.vn^
@@ -86,8 +85,6 @@
 ||azmeasurement.com^
 ||b.dowgmeb.com^
 ||bajacoasthiking.com^
-||bajarly.com^
-||balgocburada.com^
 ||balneario.tissotodontologia.com.br^
 ||barrehomes.co.ke^
 ||basic4u.com.tr^
@@ -96,7 +93,6 @@
 ||bbc-s.news^
 ||bearcatpumps.com.cn^
 ||beautifulqueen.com.br^
-||belachennai.com^
 ||bencevendeghaz.hu^
 ||benwellgroup.co.uk^
 ||bethelmbcarvada.org^
@@ -104,7 +100,6 @@
 ||bigs.bikershop.biz^
 ||bikexiner.lotieneconisiore.com^
 ||bimak.hr^
-||bisndt.com^
 ||bisnesservis-fk.ru^
 ||blast3d.com.br^
 ||bluetruckproductions.com^
@@ -131,7 +126,6 @@
 ||cacmaranura.com^
 ||caioaraujo.vip^
 ||camminachetipassa.it^
-||canconsulting.in^
 ||cargoconnect.online^
 ||casamuseoayerbe.co^
 ||caucionalquiler.com.ar^
@@ -141,22 +135,17 @@
 ||cdn.unduhfile.my.id^
 ||celiklergoldtasarim.com^
 ||cemageng.com.br^
-||centrovetluanda.com^
 ||ch1.spacermodem.com^
 ||chakraverty.in^
 ||changelife.vip^
 ||chiptune.com^
 ||chothuexetaitphcm.net^
 ||chuckozeas.com^
-||cipro.mx^
 ||cityoftransformation.com^
 ||citypharmacylv.com^
 ||clickcurvelo.com^
-||clickndpick.com^
 ||clovekwealth.com^
 ||cmyk.com.ar^
-||coadymarine.com^
-||colisumy.com^
 ||companella.site^
 ||congtykhoancatbetong.com^
 ||contadoresayb.com^
@@ -172,7 +161,7 @@
 ||count.mail.163.com.impactmedfoundation.com^
 ||countrychristmas.ca^
 ||crackload.net^
-||creativebugs.net^
+||crazymoney.app^
 ||creativesmartsolution.com^
 ||crecerco.com^
 ||crenloreto.com^
@@ -186,6 +175,7 @@
 ||danaevara.com^
 ||daniellesiruffo.com^
 ||daniil39.ru^
+||dating.khokhas.co.za^
 ||davesclassics.com.au^
 ||daviddunnsons.com^
 ||davidmcguinness.info^
@@ -205,7 +195,6 @@
 ||dichvuphanmem.net^
 ||digitalonline.cl^
 ||digitalsolution360.in^
-||divinehustlemedia.com^
 ||dl.1003b.56a.com^
 ||dl.9xu.com^
 ||dlqsclub.com^
@@ -221,6 +210,7 @@
 ||dreamchasersltd.com^
 ||dreamzonemadurai.com^
 ||drhanneserasmus.co.za^
+||drive.google.com.it-barcelona.com^
 ||droomsoft.com^
 ||drpackirisamy.co.za^
 ||dukaree.com^
@@ -283,6 +273,7 @@
 ||generatorshubltd.co.uk^
 ||georgesnfrem.org^
 ||gideonfountain.com^
+||gobesitysurgery.com^
 ||gokcevizyon.com^
 ||goldrush.ug^
 ||gotovacoil.com^
@@ -290,6 +281,7 @@
 ||greenisco.com^
 ||greenlizard.co.za^
 ||grupolahe.com^
+||grupos.curvelo.click^
 ||gsmobile.es^
 ||gtn.cl^
 ||gtsolutionsusa.com^
@@ -308,6 +300,7 @@
 ||hikersband.sa^
 ||hipotesis.uy^
 ||hitstation.nl^
+||hopeassistance.ae^
 ||hostealo.com^
 ||hostigram.xyz^
 ||hotwaterasap.com^
@@ -318,11 +311,13 @@
 ||hr2019.vrcom7.com^
 ||hrfrance.net^
 ||hseda.com^
+||htownbars.com^
 ||hugersi.com^
 ||humanaidbd.org^
 ||humpass.ae^
 ||hunggiang.vn^
 ||ibremp.org.br^
+||icvpartners.com^
 ||idalidcouture.com^
 ||idealweddings.co.zw^
 ||ideiasmoveisdecor.com^
@@ -343,7 +338,7 @@
 ||innovantksa.com^
 ||inseco.cl^
 ||inspiratour.co.id^
-||intelli-sys.co.zw^
+||instinctux.com^
 ||invar.me^
 ||investcluster.com^
 ||iperceptsondemand.com^
@@ -351,8 +346,6 @@
 ||irte.in^
 ||j.xnyidc.top^
 ||jalebel7abeb.com^
-||jcedu.org^
-||jeetomoney247.com^
 ||jhayesconsulting.com^
 ||ji.ghwiwwff.com^
 ||ji.ghwiwwgg.com^
@@ -371,11 +364,11 @@
 ||jsw.co.id^
 ||jufestlocacoes.com.br^
 ||justplay.asia^
-||jv-one.com^
 ||jyacademy.in^
 ||kaiessentials.com^
 ||kalpanacotton.com^
 ||kamtress.com^
+||karary.edu.sd^
 ||karer.by^
 ||karimgousa.ug^
 ||karimgouss.ug^
@@ -409,7 +402,6 @@
 ||level-upcg.com^
 ||liberationcall.org^
 ||library.arihantmbainstitute.ac.in^
-||libriafrica.com^
 ||lics.pk^
 ||lidermotopecas.com.br^
 ||lindnerelektroanlagen.de^
@@ -420,11 +412,11 @@
 ||lmlawcorp.com^
 ||load2up.top^
 ||lobenexpeditions.com^
+||lojueguito.com^
 ||lopespublicidade.com^
 ||lorem.com.sa^
 ||loscastillos.com.do^
 ||lotemoclubrificantes.com.br^
-||lp.gunlakemhc.com^
 ||ltc.typoten.com^
 ||lucknowiotpark.com^
 ||luckytours-alex.com^
@@ -463,6 +455,7 @@
 ||mepstein.com^
 ||mesoftwares.vip^
 ||mhpa.gov.bt^
+||microsecurityupdate.com^
 ||mindfree.co.za^
 ||mistitis.ug^
 ||mistydeblasiophotography.com^
@@ -477,6 +470,8 @@
 ||mskims.org^
 ||mtsn3kukar.sch.id^
 ||mujibbriyani.in^
+||mulberryhotels.in^
+||mumgee.co.za^
 ||musicaondemand.com^
 ||myayurvedashoppe.com^
 ||myhisense.com^
@@ -494,7 +489,6 @@
 ||newinvestingonline.com^
 ||nhatheptienchebinhduong.com^
 ||nhorangtreem.com^
-||nikkmoleshop.ru^
 ||noithathoanggiatn.com^
 ||noithatxuanchien.com^
 ||notaire-gay-friendly.fr^
@@ -527,6 +521,7 @@
 ||outdoortacklebox.com^
 ||ovajabmedia.com^
 ||ozelmimarsinanmtal.com^
+||p2.d9media.cn^
 ||pablobrothel.com.ar^
 ||pacoffice-eg.com^
 ||pakistancomparison.com^
@@ -538,7 +533,6 @@
 ||pellelucent.co.nz^
 ||petparadise.biz^
 ||pgn-dkppsby.com^
-||physiolink.pk^
 ||piacsaproyectos.com^
 ||pico-eg.org^
 ||pmg-egypt.com^
@@ -555,13 +549,14 @@
 ||primaflor-sby.com^
 ||primusth.com^
 ||privacy-tools-for-you-453.com^
+||privatehireinsurance.net^
 ||prodimar.mx^
 ||project360.hr^
 ||propertycare4u.com^
 ||protechasia.com^
 ||proveedoradeproyectosysoluciones.com^
-||proxmoxfox.xyz^
 ||proyectos.vrstudio.cl^
+||psound.hu^
 ||punjabdevelopersassociation.com.pk^
 ||pyrd5.xyz^
 ||qdxamerica.com^
@@ -590,7 +585,6 @@
 ||rohtasproduce.com^
 ||rollsbeer.com^
 ||rotc-ams.com^
-||s21servicios.com^
 ||saemape.cd^
 ||safetygear.pk^
 ||sainzim.co.za^
@@ -600,13 +594,14 @@
 ||sanubix.vip^
 ||sarl-cec.com^
 ||sashkin.com^
+||sasms.co^
 ||satuatlas.com^
 ||sawabash-sd.com^
 ||scarletespinal.com^
 ||scarterproductionfilms.com^
-||scglobal.co.th^
 ||schoolofspanish.co.za^
 ||scientific.pk^
+||sdpitc.co.in^
 ||sealicensing.com^
 ||secretmindcontrol.com^
 ||security-shade.com^
@@ -622,7 +617,6 @@
 ||shahu66.com^
 ||sheikhrouhani.net^
 ||shipminttracking.net^
-||shipwaysindonesia.com^
 ||shomasoft.ir^
 ||shop.mediasova.ru^
 ||shredsecrets.net^
@@ -632,15 +626,14 @@
 ||sirinatservis.com^
 ||sjme.pk^
 ||skillum.mx^
-||skyparktravel.com^
 ||smartphoodapp.com^
 ||smiling.mx^
 ||sociallysavvyseo.com^
-||sociopoolindia.com^
 ||soft.110route.com^
 ||softs-lab.ru^
 ||softsols.net^
 ||solapurcancer.com^
+||soquipra.cl^
 ||spaceframe.mobi.space-frame.co.za^
 ||specialblue.in^
 ||speedfachadas.com.br^
@@ -650,7 +643,6 @@
 ||src1.minibai.com^
 ||srv-fattureincloud.de^
 ||sshd.run^
-||stackapk.com^
 ||static.cz01.cn^
 ||stayinoceancitymd.com^
 ||stillidea.net^
@@ -662,7 +654,6 @@
 ||suregiggy.com^
 ||sushantbhardwaj.com^
 ||sweepliberia.org^
-||sysmedbi.com.mx^
 ||t.honker.info^
 ||tcbdining.com^
 ||techforaap.com^
@@ -707,19 +698,18 @@
 ||update.cg100iii.com^
 ||upload-wefiles.com^
 ||upscale-renergie.com^
-||usalamatechnology.com^
 ||usherskenya.co.ke^
 ||uxsingh.com^
 ||uylab.org^
 ||vashovskycorp.com^
 ||velumuriinfra.com^
-||ventatravel.com^
 ||vfocus.net^
 ||victorysanitizer.com^
 ||vidaviajesperu.com^
 ||vietroll.vn^
 ||vijayshanti.com^
 ||vipysknik.by^
+||virtualplaya.com^
 ||virtualyourpondfarm.com^
 ||visa-sa.com^
 ||visionpharma.net^
@@ -734,11 +724,9 @@
 ||whatelles.nl^
 ||whoisalbertuncle.com^
 ||windcomtechnologies.com^
-||wisefemy.com^
 ||wisewomanwarrior.com^
 ||wjidigitalmediadirectory.com^
 ||wordpreact.com^
-||workxon.com^
 ||worldheartjunction.org^
 ||wshsoft.company^
 ||www.acompanhantescuritiba.org^
@@ -784,6 +772,7 @@
 ||www.ranjanhealthcare.com^
 ||www.reifenquick.de^
 ||www.reiwo-service.de^
+||www.roofing.galacticleads.com^
 ||www.saf-oil.ru^
 ||www.smpnuruliman.xyz^
 ||www.starcountry.net^
@@ -796,11 +785,13 @@
 ||www.yb-lawyers.com^
 ||www.ysbaojia.com^
 ||wynecare.com^
+||x.233sy.cn^
 ||xmanager.in^
 ||xn----7sbhgfcdscaa3cdd6dq3e3dvf.xn--p1ai^
 ||xt.lykj988.com^
 ||xyktza.nbxyk.net^
 ||yashroadcarriers.com^
+||yeligningroupe.com^
 ||yesdeko.com^
 ||yp.hnggzyjy.cn^
 ||yzkzixun.com^
@@ -809,4 +800,4 @@
 ||zf.gouzapay.cn^
 ||zhaoziliao1668.cn^
 ||ztekkhosting.com^
-! Number of entries: 802
+! Number of entries: 793
