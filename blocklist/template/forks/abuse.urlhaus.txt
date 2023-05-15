@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-15 08:04:33 (UTC)                      #
+# Last updated: 2023-05-15 08:59:09 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -13,7 +13,6 @@
 0.0.0.0 20thstreetcoc.com
 0.0.0.0 2126892.bazeinfo.com
 0.0.0.0 230.btc-f2pool.top
-0.0.0.0 2by4constructioninc.com
 0.0.0.0 31337.hk
 0.0.0.0 33rdderryscouts.com
 0.0.0.0 360.lcy2zzx.pw
@@ -53,6 +52,7 @@
 0.0.0.0 alkebulansankofa.co.za
 0.0.0.0 allcleaner.biramedia.com
 0.0.0.0 alligatorplataformas.com
+0.0.0.0 allotwear.com
 0.0.0.0 almahasouq.com
 0.0.0.0 almullaadvocates.com
 0.0.0.0 amarteargentina.com.ar
@@ -72,6 +72,7 @@
 0.0.0.0 apps.saintsoporte.com
 0.0.0.0 aquapools.in
 0.0.0.0 aristonbentre.com
+0.0.0.0 artcaffedemo.reserveport.com
 0.0.0.0 artisanalgoldperutech.com
 0.0.0.0 ask6.awt.com.pk
 0.0.0.0 assets.dsztfso.cn
@@ -80,7 +81,6 @@
 0.0.0.0 atomm.com.br
 0.0.0.0 axenholidays.com
 0.0.0.0 azconsultants.co.in
-0.0.0.0 azmeasurement.com
 0.0.0.0 b.dowgmeb.com
 0.0.0.0 bajacoasthiking.com
 0.0.0.0 balneario.tissotodontologia.com.br
@@ -89,6 +89,7 @@
 0.0.0.0 bawatingbarter.com
 0.0.0.0 bayyan.magesticflyer.com
 0.0.0.0 bbc-s.news
+0.0.0.0 bearcatpumps.com.cn
 0.0.0.0 beautifulqueen.com.br
 0.0.0.0 bencevendeghaz.hu
 0.0.0.0 bethelmbcarvada.org
@@ -98,6 +99,7 @@
 0.0.0.0 bisnesservis-fk.ru
 0.0.0.0 blast3d.com.br
 0.0.0.0 bmg.edu.vn
+0.0.0.0 bocasislandexpress.com
 0.0.0.0 bontiakhotel.net
 0.0.0.0 bookkeepingagents.com
 0.0.0.0 borntobefree.org.za
@@ -134,6 +136,7 @@
 0.0.0.0 changelife.vip
 0.0.0.0 chiptune.com
 0.0.0.0 chothuexetaitphcm.net
+0.0.0.0 cimadcp.com
 0.0.0.0 cipro.mx
 0.0.0.0 cityoftransformation.com
 0.0.0.0 citypharmacylv.com
@@ -168,6 +171,7 @@
 0.0.0.0 d1.udashi.com
 0.0.0.0 d7.fajridemo.com
 0.0.0.0 dacsandongthapmuoi.vn
+0.0.0.0 danaevara.com
 0.0.0.0 daniellesiruffo.com
 0.0.0.0 daniil39.ru
 0.0.0.0 dating.khokhas.co.za
@@ -179,6 +183,7 @@
 0.0.0.0 demirelmarka.com
 0.0.0.0 demo-re-usables.inertiasoft.net
 0.0.0.0 demo.omnitech.co.ug
+0.0.0.0 demonware.online
 0.0.0.0 dental.xiaoxiao.media
 0.0.0.0 destinymc.co.za
 0.0.0.0 detail-booking.com.br
@@ -189,6 +194,7 @@
 0.0.0.0 digitalgurus.pk
 0.0.0.0 digitalonline.cl
 0.0.0.0 digitalsolution360.in
+0.0.0.0 dl.1003b.56a.com
 0.0.0.0 dl.9xu.com
 0.0.0.0 dlqsclub.com
 0.0.0.0 dohrmann-projekt.de
@@ -234,7 +240,6 @@
 0.0.0.0 eurologisticyac.com
 0.0.0.0 eurooknamsk.ru
 0.0.0.0 exilum.com
-0.0.0.0 exitoshop.co.zw
 0.0.0.0 expressionsofwood.ca
 0.0.0.0 famesa.com.ar
 0.0.0.0 fantadentalperu.com
@@ -259,6 +264,7 @@
 0.0.0.0 gbsports.theapplab.org
 0.0.0.0 gccon.in
 0.0.0.0 gedebey-tvradio.info
+0.0.0.0 gelincikhashas.info
 0.0.0.0 gelincikhashas.org
 0.0.0.0 georgesnfrem.org
 0.0.0.0 gideonfountain.com
@@ -267,7 +273,6 @@
 0.0.0.0 goldrush.ug
 0.0.0.0 gotovacoil.com
 0.0.0.0 gplongxuyen.org
-0.0.0.0 greenisco.com
 0.0.0.0 greenlizard.co.za
 0.0.0.0 grupolahe.com
 0.0.0.0 gsmobile.es
@@ -298,12 +303,11 @@
 0.0.0.0 hrfrance.net
 0.0.0.0 hseda.com
 0.0.0.0 htownbars.com
-0.0.0.0 hugersi.com
 0.0.0.0 humanaidbd.org
 0.0.0.0 humpass.ae
 0.0.0.0 hunggiang.vn
 0.0.0.0 ibremp.org.br
-0.0.0.0 icvpartners.com
+0.0.0.0 idalidcouture.com
 0.0.0.0 idealweddings.co.zw
 0.0.0.0 idrissischool.edu.my
 0.0.0.0 iescm.com.mx
@@ -406,7 +410,6 @@
 0.0.0.0 ltc.typoten.com
 0.0.0.0 lucknowiotpark.com
 0.0.0.0 m1shgan.app
-0.0.0.0 mabest.cl
 0.0.0.0 maccounting.in
 0.0.0.0 macro.nyc
 0.0.0.0 main.cloudfronts.net
@@ -414,13 +417,11 @@
 0.0.0.0 makemymatch.site
 0.0.0.0 makeupuccino.com
 0.0.0.0 maniadepassarmooca.com.br
-0.0.0.0 mansepool.com
 0.0.0.0 maresolja.com
 0.0.0.0 mario-sunjic.com
 0.0.0.0 marksidfgs.ug
 0.0.0.0 marquesvogt.com
 0.0.0.0 matajir.ae
-0.0.0.0 matchtranslations.com
 0.0.0.0 mathonsiohs.co.za
 0.0.0.0 maviproducciones.com
 0.0.0.0 maxcodeitsolutions.com
@@ -460,7 +461,6 @@
 0.0.0.0 mulberryhotels.in
 0.0.0.0 mumgee.co.za
 0.0.0.0 musicaondemand.com
-0.0.0.0 mvinfotech.com
 0.0.0.0 myayurvedashoppe.com
 0.0.0.0 mysura.it
 0.0.0.0 mytheacademy.com
@@ -471,9 +471,11 @@
 0.0.0.0 nazima.ac.ug
 0.0.0.0 nbbgarden.vn
 0.0.0.0 ncsuppliers.com
+0.0.0.0 networkwheels.co.za
 0.0.0.0 new.longboatonline.com
 0.0.0.0 newinvestingonline.com
 0.0.0.0 nhatheptienchebinhduong.com
+0.0.0.0 nhorangtreem.com
 0.0.0.0 noithathoanggiatn.com
 0.0.0.0 noithatxuanchien.com
 0.0.0.0 notaire-gay-friendly.fr
@@ -505,6 +507,7 @@
 0.0.0.0 orlcasablanca.com
 0.0.0.0 orsan.gruporhynous.com
 0.0.0.0 ottawarenovationcompany.com
+0.0.0.0 outdoortacklebox.com
 0.0.0.0 ovajabmedia.com
 0.0.0.0 ozelmimarsinanmtal.com
 0.0.0.0 p2.d9media.cn
@@ -553,11 +556,9 @@
 0.0.0.0 rcpay.com.br
 0.0.0.0 records.dennisign.se
 0.0.0.0 redmag-dz.com
-0.0.0.0 regiscoimbra.pt
 0.0.0.0 reifenquick.de
 0.0.0.0 relaxindulge.co.nz
 0.0.0.0 remotaja.com
-0.0.0.0 renacer.jgorange.com
 0.0.0.0 repairhubpat.com
 0.0.0.0 respekt5567.com
 0.0.0.0 retailexpertscloud.com
@@ -566,13 +567,13 @@
 0.0.0.0 rigorous-statistics.co.za
 0.0.0.0 rigworldservicesltd.com
 0.0.0.0 robosuperscalp31.com
+0.0.0.0 rohtasproduce.com
 0.0.0.0 rollsbeer.com
 0.0.0.0 rotc-ams.com
 0.0.0.0 s21servicios.com
 0.0.0.0 saaad.org
 0.0.0.0 saemape.cd
 0.0.0.0 safetygear.pk
-0.0.0.0 saloneeats.com
 0.0.0.0 samglobaltrading.com
 0.0.0.0 sandonet.es
 0.0.0.0 sanubix.vip
@@ -653,7 +654,6 @@
 0.0.0.0 theemirateshills.com
 0.0.0.0 theeternaljourneys.com
 0.0.0.0 thegioibanghieu.net
-0.0.0.0 thegrand-manhattan.vn
 0.0.0.0 thehometownair.com
 0.0.0.0 thekassia.co.uk
 0.0.0.0 thetulumtakeover.com
@@ -668,6 +668,8 @@
 0.0.0.0 transtekhnika.by
 0.0.0.0 travelwithmanta.co.za
 0.0.0.0 trieutin.com
+0.0.0.0 trinoxidiuvendas.com
+0.0.0.0 twizt.net
 0.0.0.0 ukguk71.ru
 0.0.0.0 unacam.ong.br
 0.0.0.0 unapromo.com
@@ -731,7 +733,6 @@
 0.0.0.0 www.enc-tech.com
 0.0.0.0 www.fixstudio.co.kr
 0.0.0.0 www.garrett.kz
-0.0.0.0 www.globallaborsupply.com
 0.0.0.0 www.hebgb.top
 0.0.0.0 www.hseda.com
 0.0.0.0 www.ingonherbal.com
@@ -752,18 +753,18 @@
 0.0.0.0 www.ranjanhealthcare.com
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.roofing.galacticleads.com
-0.0.0.0 www.saf-oil.ru
 0.0.0.0 www.smpnuruliman.xyz
 0.0.0.0 www.starcountry.net
-0.0.0.0 www.sunglassesninja.com
 0.0.0.0 www.tradeinsights.net
 127.0.0.1
 0.0.0.0 www.tvculturaourofino.com.br
 0.0.0.0 www.vaestsolutions.com
 0.0.0.0 www.websound.ru
+0.0.0.0 www.weinsteincounseling.com
 0.0.0.0 www.yb-lawyers.com
 0.0.0.0 www.ysbaojia.com
 0.0.0.0 wynecare.com
+0.0.0.0 x.233sy.cn
 0.0.0.0 xmanager.in
 0.0.0.0 xn----7sbhgfcdscaa3cdd6dq3e3dvf.xn--p1ai
 0.0.0.0 xt.lykj988.com
@@ -778,4 +779,4 @@
 0.0.0.0 zhaoziliao1668.cn
 0.0.0.0 ztekkhosting.com
 0.0.0.0 zvub.us
-# Number of entries: 771
+# Number of entries: 772
