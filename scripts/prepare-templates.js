@@ -1,5 +1,6 @@
 const fs = require('node:fs/promises');
 const path = require('node:path');
+const patterns = ['[Adblock Plus]', '! Version:', '! Description:', '! Title:', '! Last modified:', '! Expires:', '! Homepage:', '! Syntax:'];
 
 const processDirectory = async (dirPath) => {
 	try {
@@ -31,6 +32,7 @@ const processDirectory = async (dirPath) => {
 						) {
 							return line;
 						}
+
 
 						// Check if domain contains uppercase letters
 						if (line.match(/^(0\.0\.0\.0|127\.0\.0\.1)\s/) && (/[A-Z]/).test(line)) {
@@ -69,11 +71,13 @@ const processDirectory = async (dirPath) => {
 							}
 						}
 
+
 						// 127.0.0.0 -> 0.0.0.0
 						if (line.includes('127.0.0.1')) {
 							modifiedLines++;
 							line = line.replace('127.0.0.1', '0.0.0.0');
 						}
+
 
 						// 0.0.0.0\t -> 0.0.0.0
 						if (line.includes('0.0.0.0\t')) {
@@ -81,11 +85,56 @@ const processDirectory = async (dirPath) => {
 							line = line.replace('0.0.0.0\t', '0.0.0.0 ');
 						}
 
+
 						// 0.0.0.0 -> nothing
-						if (line === '0.0.0.0') {
+						// if (line === '0.0.0.0') {
+						// 	modifiedLines++;
+						// 	line = line.replace('0.0.0.0', '');
+						// }
+
+
+						// 0.0.0.0 ||example.com^ -> 0.0.0.0 example.com
+						if (!(line.startsWith('0.0.0.0') || line.startsWith('127.0.0.1')) && !line.includes('#') && (/\|\||\^/gim).test(line)) {
+							const words = line.split(' ');
+							if (words.length !== 1) return;
+
+							const domain = words[0]
+								.replace(/[|^]/gim, '')
+								.replace(/!/gim, '#')
+								.replace(/[\\[]/gim, '# [');
+
+							line = `0.0.0.0 ${domain}`;
 							modifiedLines++;
-							line = line.replace('0.0.0.0', '');
 						}
+
+						// ! -> #
+						if (patterns.some(pattern => line.startsWith(pattern))) {
+							line = line.replace('!', '#');
+
+							if (line === '[Adblock Plus]') {
+								line = '# [Adblock Plus]';
+							} else if (line === '# Syntax: Adblock Plus Filter List') {
+								line = '# Syntax: 0.0.0.0 <domain>';
+							}
+
+							modifiedLines++;
+						}
+
+
+						// domain -> 0.0.0.0 domain
+						if (!(line.startsWith('0.0.0.0') || line.startsWith('127.0.0.1')) && !line.includes('#')) {
+							const words = line.split(' ');
+							if (words.length === 1 && words[0] !== '') {
+								const domain = words[0];
+
+								const modifiedLine = `0.0.0.0 ${domain}`;
+								if (modifiedLine !== line && modifiedLine.match(/\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}/)) {
+									modifiedLines++;
+									line = modifiedLine;
+								}
+							}
+						}
+
 
 						return line;
 					})
@@ -113,7 +162,7 @@ const processDirectory = async (dirPath) => {
 				.map((subDir) => processDirectory(path.join(dirPath, subDir.name))),
 		);
 	} catch (err) {
-		console.error(`❌ An error occurred while processing ${dirPath} directory: ${err.message}`);
+		console.error(`❌ An error occurred while processing ${dirPath} directory.`, err);
 	}
 };
 
