@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Sat, 06 May 2023 03:55:31 +0100
+# Last converted - Tue, 16 May 2023 15:29:11 +0100
 #
 
 server=/adeventtracker.spotify.com/
@@ -130,6 +130,9 @@ server=/int.vaicore.xyz/
 server=/int.vlancaa.site/
 server=/int.vlancaa.fun/
 server=/tok.vaicore.xyz/
+server=/sia.internet.apps.samsung.com/
+server=/config-api.internet.apps.samsung.com/
+server=/terms.internet.apps.samsung.com/
 server=/r.apkpure.net/
 server=/analytics.zg-api.com/
 server=/creative.bidease.com/
@@ -158,7 +161,6 @@ server=/receiver-metis.infeng.site/
 server=/dt.beyla.site/
 server=/collect.analytics.unity3d.com/
 server=/accscdn.m.taobao.com/
-server=/acs.m.taobao.com/
 server=/apsrgeo.amap.com/
 server=/confe.dc.oppomobile.com/
 server=/conff.dc.oppomobile.com/

@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Sat, 06 May 2023 03:55:31 +0100
+# Last converted - Tue, 16 May 2023 15:29:11 +0100
 #
 
 127.0.0.1 adeventtracker.spotify.com
@@ -130,6 +130,9 @@
 127.0.0.1 int.vlancaa.site
 127.0.0.1 int.vlancaa.fun
 127.0.0.1 tok.vaicore.xyz
+127.0.0.1 sia.internet.apps.samsung.com
+127.0.0.1 config-api.internet.apps.samsung.com
+127.0.0.1 terms.internet.apps.samsung.com
 127.0.0.1 r.apkpure.net
 127.0.0.1 analytics.zg-api.com
 127.0.0.1 creative.bidease.com
@@ -158,7 +161,6 @@
 127.0.0.1 dt.beyla.site
 127.0.0.1 collect.analytics.unity3d.com
 127.0.0.1 accscdn.m.taobao.com
-127.0.0.1 acs.m.taobao.com
 127.0.0.1 apsrgeo.amap.com
 127.0.0.1 confe.dc.oppomobile.com
 127.0.0.1 conff.dc.oppomobile.com
