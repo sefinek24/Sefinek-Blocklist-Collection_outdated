@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1958
+# Domains: 1949
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -181,7 +181,6 @@
 127.0.0.1 store.blackabdo.company.site
 127.0.0.1 blastparis.com
 127.0.0.1 www.blastparis.com
-127.0.0.1 blgstoragenew.blob.core.windows.net
 127.0.0.1 bloomessentialsbrand.com
 127.0.0.1 www.bloomessentialsbrand.com
 127.0.0.1 bogsboot.com
@@ -689,6 +688,7 @@
 127.0.0.1 gllomall.com
 127.0.0.1 www.gllomall.com
 127.0.0.1 gload.info
+127.0.0.1 www.gload.info
 127.0.0.1 store.gload.info
 127.0.0.1 globaldependableshippers.com
 127.0.0.1 www.globaldependableshippers.com
@@ -768,6 +768,9 @@
 127.0.0.1 store.ikiha.com
 127.0.0.1 iklrge.com
 127.0.0.1 www.iklrge.com
+127.0.0.1 ikoee.com
+127.0.0.1 www.ikoee.com
+127.0.0.1 store.ikoee.com
 127.0.0.1 ilpollenza-sorso23.it
 127.0.0.1 www.ilpollenza-sorso23.it
 127.0.0.1 imagemotorcycles.co.nz
@@ -1005,9 +1008,6 @@
 127.0.0.1 www.magnite.shop
 127.0.0.1 majucash.xyz
 127.0.0.1 www.majucash.xyz
-127.0.0.1 makewallperfect.store
-127.0.0.1 www.makewallperfect.store
-127.0.0.1 store.makewallperfect.store
 127.0.0.1 mamapapaclothing.com
 127.0.0.1 www.mamapapaclothing.com
 127.0.0.1 markethops.com
@@ -1107,16 +1107,12 @@
 127.0.0.1 store.natilove.com
 127.0.0.1 nationaladvancegroup.com
 127.0.0.1 www.nationaladvancegroup.com
-127.0.0.1 natistore.us
-127.0.0.1 www.natistore.us
-127.0.0.1 store.natistore.us
 127.0.0.1 nbdiscount.com
 127.0.0.1 www.nbdiscount.com
 127.0.0.1 negotiatefoam.cn
 127.0.0.1 neozor.com
 127.0.0.1 www.neozor.com
 127.0.0.1 netcotto.com
-127.0.0.1 www.netcotto.com
 127.0.0.1 networksfishing.com
 127.0.0.1 www.networksfishing.com
 127.0.0.1 new.bestageoffers22.com
@@ -1463,8 +1459,6 @@
 127.0.0.1 shop.spreadshirt.com
 127.0.0.1 shopjeanswest.com
 127.0.0.1 www.shopjeanswest.com
-127.0.0.1 shopperexpress.shop
-127.0.0.1 www.shopperexpress.shop
 127.0.0.1 shopraidlight.com
 127.0.0.1 www.shopraidlight.com
 127.0.0.1 shopsyracuseonline.com
@@ -1654,6 +1648,8 @@
 127.0.0.1 www.teezill.com
 127.0.0.1 telemarktalk.com
 127.0.0.1 www.telemarktalk.com
+127.0.0.1 tesla-openai.com
+127.0.0.1 www.tesla-openai.com
 127.0.0.1 teslabrc.com
 127.0.0.1 teslacar.io
 127.0.0.1 teslagive.live
@@ -1673,7 +1669,6 @@
 127.0.0.1 www.thehappywood.com
 127.0.0.1 thehardcorehabits.com
 127.0.0.1 www.thehardcorehabits.com
-127.0.0.1 thekeilas.com
 127.0.0.1 www.thekeilas.com
 127.0.0.1 store.thekeilas.com
 127.0.0.1 themountainus.com
@@ -1812,7 +1807,6 @@
 127.0.0.1 www.uscampinghiking.com
 127.0.0.1 uschse04.my03.com
 127.0.0.1 www.uschse04.my03.com
-127.0.0.1 store.uschse04.my03.com
 127.0.0.1 usglacierbay.com
 127.0.0.1 www.usglacierbay.com
 127.0.0.1 usnewoutdoor.com
@@ -1839,7 +1833,6 @@
 127.0.0.1 store.verfun.com
 127.0.0.1 vetoro.cc
 127.0.0.1 www.vetoro.cc
-127.0.0.1 store.vetoro.cc
 127.0.0.1 viberman.com
 127.0.0.1 vicidola.com
 127.0.0.1 www.vicidola.com
@@ -1947,8 +1940,6 @@
 127.0.0.1 www.yyderfreap.shop
 127.0.0.1 zarodress.com
 127.0.0.1 www.zarodress.com
-127.0.0.1 zech-company.com
-127.0.0.1 www.zech-company.com
 127.0.0.1 zedbubble.com
 127.0.0.1 www.zedbubble.com
 127.0.0.1 zeredress.com
