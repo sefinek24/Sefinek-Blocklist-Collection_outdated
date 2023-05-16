@@ -1,6 +1,6 @@
 # Title: AntiPhishingDiscordSteam
 # Description: This list blocks known domains used in the VOIP application Discord by scammers. Adding this list to your Pi-Hole blocklist will prevent those domains from loading.
-# Last modified: Sun, 14 May 2023, 21:15 UTC+02
+# Last modified: Tue, 16 May 2023, 19:49 UTC+02
 # Origin: https://github.com/Dogino/Discord-Phishing-URLs
 
 127.0.0.1 cord.gifts
@@ -721,6 +721,7 @@
 127.0.0.1 bainushe.com
 127.0.0.1 bandit-camp.com
 127.0.0.1 bathtub.pics
+127.0.0.1 battlecup-blast.pro
 127.0.0.1 bayc-event.net
 127.0.0.1 bayc-nft.me
 127.0.0.1 baymack.com
@@ -901,6 +902,7 @@
 127.0.0.1 blast-csgo.cc
 127.0.0.1 blast-csgo.com
 127.0.0.1 blast-tv-giveaway.pro
+127.0.0.1 blastcsgo.com
 127.0.0.1 blasterlegends.com
 127.0.0.1 blasze.com
 127.0.0.1 blasze.tk
@@ -994,6 +996,7 @@
 127.0.0.1 bramtrad.com
 127.0.0.1 brecaptchatest.online
 127.0.0.1 breefingteam.com
+127.0.0.1 bridge-claimings.xyz
 127.0.0.1 bro4.biz
 127.0.0.1 bronsky.kiev
 127.0.0.1 bt96301.asia
@@ -1446,6 +1449,7 @@
 127.0.0.1 connect-vulcan.xyz
 127.0.0.1 connected-hypesquad-events.tk
 127.0.0.1 connecthypesquads.com
+127.0.0.1 connectinventoryaccount.com
 127.0.0.1 connection-discord-hypesquad.com
 127.0.0.1 connectmetamask.com
 127.0.0.1 connects-forms-events-academy.com
@@ -1554,8 +1558,10 @@
 127.0.0.1 cryptosell.space
 127.0.0.1 cryptoslate.blog
 127.0.0.1 cryptoslate.tech
+127.0.0.1 cryptoslate.vercel.app
 127.0.0.1 cryptossmoney.com
 127.0.0.1 cryptostell.com
+127.0.0.1 crytposlate.com
 127.0.0.1 cs-2go.com
 127.0.0.1 cs-2source.com
 127.0.0.1 cs-authx.money
@@ -1597,6 +1603,7 @@
 127.0.0.1 cs2bypass.pro
 127.0.0.1 cs2code.com
 127.0.0.1 cs2ence.com
+127.0.0.1 cs2gets.com
 127.0.0.1 cs2giveaway.online
 127.0.0.1 cs2go-source.com
 127.0.0.1 cs2source.com
@@ -1663,6 +1670,8 @@
 127.0.0.1 csgo-events.com
 127.0.0.1 csgo-fast-cup.ru
 127.0.0.1 csgo-fast.ml
+127.0.0.1 csgo-finals.com
+127.0.0.1 csgo-floats.com
 127.0.0.1 csgo-freeskin.com
 127.0.0.1 csgo-freeskins.com
 127.0.0.1 csgo-fun.duckdns.org
@@ -1775,6 +1784,7 @@
 127.0.0.1 csgo2sources.pro
 127.0.0.1 csgo2steam.com
 127.0.0.1 csgo2test.com
+127.0.0.1 csgo2valve.com
 127.0.0.1 csgo2worid.com
 127.0.0.1 csgo2world.com
 127.0.0.1 csgo2worlds.com
@@ -1795,6 +1805,7 @@
 127.0.0.1 csgobeta.pro
 127.0.0.1 csgobetago.com
 127.0.0.1 csgobid.net
+127.0.0.1 csgoblastseries.com
 127.0.0.1 csgobonus2023.com
 127.0.0.1 csgobuff.ru
 127.0.0.1 csgobuff.trade
@@ -1846,6 +1857,7 @@
 127.0.0.1 csgoleague.ga
 127.0.0.1 csgoleaguepro.ru
 127.0.0.1 csgoleaugue.ru
+127.0.0.1 csgoliquidity.com
 127.0.0.1 csgolivehub.pro
 127.0.0.1 csgolounge.tk
 127.0.0.1 csgomamba.ru
@@ -7537,6 +7549,7 @@
 127.0.0.1 elonshiba.org
 127.0.0.1 elonspacex.whops.xyz
 127.0.0.1 elontake.com
+127.0.0.1 elontesla23.pro
 127.0.0.1 email-gamingevents.gq
 127.0.0.1 email-gamingevents.ml
 127.0.0.1 email-hse-hypesquad.gq
@@ -7852,6 +7865,7 @@
 127.0.0.1 faze-case.ru
 127.0.0.1 faze-cs.com
 127.0.0.1 faze-csgo.com
+127.0.0.1 faze-drop.ru
 127.0.0.1 faze-giveaway.online
 127.0.0.1 faze-giveaway.ru
 127.0.0.1 faze-giveaway.site
@@ -8440,6 +8454,7 @@
 127.0.0.1 fsport-cup.ru
 127.0.0.1 fsport-cyber.ru
 127.0.0.1 fsportcsgo.space
+127.0.0.1 fsportcyber.ru
 127.0.0.1 fsports-tournament.ru
 127.0.0.1 fsteamcommunity.com
 127.0.0.1 ft2025.top
@@ -10742,6 +10757,8 @@
 127.0.0.1 m-ee6.blog
 127.0.0.1 m-ee6.cx
 127.0.0.1 m-ee6.info
+127.0.0.1 m-ee6.online
+127.0.0.1 m-ee6.tech
 127.0.0.1 m-m-ee6.xyz
 127.0.0.1 m.setampowered.com
 127.0.0.1 m416skin.asia
@@ -10770,6 +10787,7 @@
 127.0.0.1 mail-hypesquad.com
 127.0.0.1 mail.discord-nitro-gifts.ru
 127.0.0.1 major-csgo.com
+127.0.0.1 major-twitch.com
 127.0.0.1 majorniitro.ru
 127.0.0.1 majornitroo.ru
 127.0.0.1 makcetcsgo-old.website
@@ -11392,6 +11410,7 @@
 127.0.0.1 movies4discord.com
 127.0.0.1 moviesboys.com
 127.0.0.1 mp801.asia
+127.0.0.1 ms-madeinabyss.com
 127.0.0.1 msgift.io
 127.0.0.1 msteamcommunity.com
 127.0.0.1 mstr-event.net
@@ -11630,8 +11649,10 @@
 127.0.0.1 navi79.ru
 127.0.0.1 navi8.pro
 127.0.0.1 navi8.ru
+127.0.0.1 navi80.com
 127.0.0.1 navi81.com
 127.0.0.1 navi82.com
+127.0.0.1 navi83.com
 127.0.0.1 navi85.com
 127.0.0.1 navi9.com
 127.0.0.1 navi9.ru
@@ -13239,6 +13260,7 @@
 127.0.0.1 robllox.com.de
 127.0.0.1 robllox.com.ng
 127.0.0.1 robllox.com.pl
+127.0.0.1 robllox.com.tr
 127.0.0.1 robllox.shop
 127.0.0.1 robllox.us
 127.0.0.1 robllox.xyz
@@ -13504,6 +13526,7 @@
 127.0.0.1 rolimons.fun
 127.0.0.1 rolimons.org
 127.0.0.1 rolimons.pro
+127.0.0.1 rolimons.xyz
 127.0.0.1 rolimonstatus.com
 127.0.0.1 roll-case.com
 127.0.0.1 roll-faze.pw
@@ -13626,6 +13649,7 @@
 127.0.0.1 rust.facepunchs.com
 127.0.0.1 rust.gift
 127.0.0.1 rust.wf
+127.0.0.1 rust.yt
 127.0.0.1 rust10.com
 127.0.0.1 rust2.pro
 127.0.0.1 rust3.shop
@@ -13640,6 +13664,7 @@
 127.0.0.1 rustcasec.com
 127.0.0.1 rustcoin.website
 127.0.0.1 rustcrate.ru
+127.0.0.1 rustdrop.pro
 127.0.0.1 rustdrops.online
 127.0.0.1 rustdrops.ru
 127.0.0.1 rusteamcomnumily.com
@@ -14310,6 +14335,7 @@
 127.0.0.1 sleamcomnunlty.xyz
 127.0.0.1 sleamcomnunnity.ru
 127.0.0.1 sleamcomrnunity.com
+127.0.0.1 sleamcomrnunity.ru
 127.0.0.1 sleamcomrnunlty.xyz
 127.0.0.1 sleamcomulity.xyz
 127.0.0.1 sleamcomumnity.ru
@@ -14509,6 +14535,7 @@
 127.0.0.1 source2-take.pro
 127.0.0.1 source2.asia
 127.0.0.1 source2.pro
+127.0.0.1 source2023.com
 127.0.0.1 source2023.org
 127.0.0.1 source2access.com
 127.0.0.1 source2beta.com
@@ -14564,6 +14591,8 @@
 127.0.0.1 spacex2.cc
 127.0.0.1 spacex2023.pro
 127.0.0.1 spacex2023event.xyz.arbitrumlab.xyz
+127.0.0.1 spacex23-heavy.com
+127.0.0.1 spacex23-heavy.net
 127.0.0.1 spacex23.live
 127.0.0.1 spacex2live.com
 127.0.0.1 spacexcoins.net
@@ -15101,6 +15130,7 @@
 127.0.0.1 staemcormuunity.ru
 127.0.0.1 staemcornmuinty.me
 127.0.0.1 staemcornmuity.me
+127.0.0.1 staemcornmunily.ru
 127.0.0.1 staemcornmunity.com
 127.0.0.1 staemcornmunity.me
 127.0.0.1 staemcornmunity.online
@@ -16571,6 +16601,7 @@
 127.0.0.1 steamcommuneutiui.com
 127.0.0.1 steamcommuneutiuie.com
 127.0.0.1 steamcommuneutiuy.com
+127.0.0.1 steamcommuneutuei.com
 127.0.0.1 steamcommuneuty.com
 127.0.0.1 steamcommuneuty.ru
 127.0.0.1 steamcommuneyity.ru
@@ -16602,6 +16633,7 @@
 127.0.0.1 steamcommuniiity.com
 127.0.0.1 steamcommuniiity.ru
 127.0.0.1 steamcommuniillty.ru
+127.0.0.1 steamcommuniiltiy.ru
 127.0.0.1 steamcommuniiltly.ru
 127.0.0.1 steamcommuniilty.com
 127.0.0.1 steamcommuniilty.ru
@@ -16643,6 +16675,7 @@
 127.0.0.1 steamcommunikkty.net.ru
 127.0.0.1 steamcommunili.xyz
 127.0.0.1 steamcommunililty.com
+127.0.0.1 steamcommunilitu.ru
 127.0.0.1 steamcommunility.com
 127.0.0.1 steamcommunility.ru
 127.0.0.1 steamcommuniliy.ru
@@ -17420,6 +17453,7 @@
 127.0.0.1 steamcommunityuio.asia
 127.0.0.1 steamcommunityuio.top
 127.0.0.1 steamcommunityuiv.asia
+127.0.0.1 steamcommunityuiv.top
 127.0.0.1 steamcommunityuiw.asia
 127.0.0.1 steamcommunityuiwn.top
 127.0.0.1 steamcommunityuiwv.top
@@ -18295,6 +18329,7 @@
 127.0.0.1 steamcommyniti.com
 127.0.0.1 steamcommyniti.ru
 127.0.0.1 steamcommynitiy.com
+127.0.0.1 steamcommynitlliy.ru
 127.0.0.1 steamcommynitly.com
 127.0.0.1 steamcommynitly.net.ru
 127.0.0.1 steamcommynitly.org.ru
@@ -18411,6 +18446,7 @@
 127.0.0.1 steamcomniunity.ru
 127.0.0.1 steamcomnlty.ru
 127.0.0.1 steamcomnmity.com
+127.0.0.1 steamcomnmity.ru
 127.0.0.1 steamcomnmiunity.ru
 127.0.0.1 steamcomnmmnunity.com
 127.0.0.1 steamcomnmmnunity.ru
@@ -18617,6 +18653,7 @@
 127.0.0.1 steamcomntynity.com
 127.0.0.1 steamcomnuenuity.com
 127.0.0.1 steamcomnuhity.com
+127.0.0.1 steamcomnuilty.ru
 127.0.0.1 steamcomnuinity.com
 127.0.0.1 steamcomnuinity.store
 127.0.0.1 steamcomnuinly.ru
@@ -18636,6 +18673,7 @@
 127.0.0.1 steamcomnulity.me
 127.0.0.1 steamcomnulity.ru
 127.0.0.1 steamcomnullity.online
+127.0.0.1 steamcomnulnty.ru
 127.0.0.1 steamcomnulty.com
 127.0.0.1 steamcomnulty.ru
 127.0.0.1 steamcomnumify.com
@@ -19071,6 +19109,7 @@
 127.0.0.1 steamcomunity.org
 127.0.0.1 steamcomunity.org.ru
 127.0.0.1 steamcomunity.pp.ru
+127.0.0.1 steamcomunity.pro
 127.0.0.1 steamcomunity.ru
 127.0.0.1 steamcomunity.site
 127.0.0.1 steamcomunity.space
@@ -19755,6 +19794,7 @@
 127.0.0.1 steamcornminuty.com
 127.0.0.1 steamcornminytu.ru
 127.0.0.1 steamcornmmunity.com
+127.0.0.1 steamcornmmunity.ru
 127.0.0.1 steamcornmnitu.ru.com
 127.0.0.1 steamcornmnuity.com
 127.0.0.1 steamcornmnunity.ru
@@ -21167,6 +21207,7 @@
 127.0.0.1 steancommunity.eu
 127.0.0.1 steancommunity.host
 127.0.0.1 steancommunity.link
+127.0.0.1 steancommunity.my.to
 127.0.0.1 steancommunity.net.ru
 127.0.0.1 steancommunity.online
 127.0.0.1 steancommunity.pw
@@ -21198,6 +21239,7 @@
 127.0.0.1 steancommunllty.com
 127.0.0.1 steancommunllty.ru
 127.0.0.1 steancommunlly.ru
+127.0.0.1 steancommunlnty.ru
 127.0.0.1 steancommunltey.ru
 127.0.0.1 steancommunlti.com
 127.0.0.1 steancommunlti.site
@@ -21485,6 +21527,7 @@
 127.0.0.1 steancomunitytradeffer.xyz
 127.0.0.1 steancomuniytyli.online
 127.0.0.1 steancomuniytyli.ru
+127.0.0.1 steancomunjty.ru
 127.0.0.1 steancomunniity.ru
 127.0.0.1 steancomunnitty.ru
 127.0.0.1 steancomunnity.com
@@ -21569,10 +21612,12 @@
 127.0.0.1 steanconmunittly.ru
 127.0.0.1 steanconmunity.com
 127.0.0.1 steanconmunity.me
+127.0.0.1 steanconmunity.myvnc.com
 127.0.0.1 steanconmunity.ru
 127.0.0.1 steanconmunity.shop
 127.0.0.1 steanconmunity.site
 127.0.0.1 steanconmunity.xyz
+127.0.0.1 steanconmunjty.ru
 127.0.0.1 steanconmunlity.ru
 127.0.0.1 steanconmunlly.ru
 127.0.0.1 steanconmunltly.ru
@@ -21650,6 +21695,7 @@
 127.0.0.1 steancormunity.ru
 127.0.0.1 steancornminuty.com
 127.0.0.1 steancornmunilty.ru
+127.0.0.1 steancornmunilty.store
 127.0.0.1 steancornmunity.ru
 127.0.0.1 steancornmunity.site
 127.0.0.1 steancornmunlty.online
@@ -21685,6 +21731,7 @@
 127.0.0.1 steancummunuty.com
 127.0.0.1 steancummynity.online
 127.0.0.1 steanecommunlty.site
+127.0.0.1 steangive.pro
 127.0.0.1 steanmcammunlty.net.ru
 127.0.0.1 steanmccmmunity.com
 127.0.0.1 steanmcconmunnity.com
@@ -22773,6 +22820,7 @@
 127.0.0.1 steeamcomunlty.ru.com
 127.0.0.1 steeamcomunnlty.com
 127.0.0.1 steeamcomuunity.com
+127.0.0.1 steeamconmuniity.ru
 127.0.0.1 steeamconmunity.online
 127.0.0.1 steeamconnminuty.ru
 127.0.0.1 steeamconnminuty.store
@@ -22872,6 +22920,7 @@
 127.0.0.1 steemcommunitny.com
 127.0.0.1 steemcommunitry.com
 127.0.0.1 steemcommunitrys.ru
+127.0.0.1 steemcommunitsy.com
 127.0.0.1 steemcommunitu.net.ru
 127.0.0.1 steemcommunity.aiq.ru
 127.0.0.1 steemcommunity.co
@@ -23319,6 +23368,7 @@
 127.0.0.1 stemcomnunyti.ru.com
 127.0.0.1 stemcomnuunity.com
 127.0.0.1 stemcomnuyity.ru
+127.0.0.1 stemcomnynity.com
 127.0.0.1 stemcomnyunitiy.com
 127.0.0.1 stemcomnyunity.com
 127.0.0.1 stemcomrnmunity.com
@@ -23464,6 +23514,7 @@
 127.0.0.1 stemscomnnunnits.com.ru
 127.0.0.1 stemscomnnunnits.ru
 127.0.0.1 stemycommunity.com
+127.0.0.1 sten-give.site
 127.0.0.1 stenamcommunity.com
 127.0.0.1 stencomminity.ru
 127.0.0.1 stencomminity.store
@@ -24687,6 +24738,7 @@
 127.0.0.1 tournamentscsgo.ga
 127.0.0.1 tournamentscsgo.ru
 127.0.0.1 tournamentscsgo.site
+127.0.0.1 tournamentscsgo.space
 127.0.0.1 tournamentscsgo.tk
 127.0.0.1 tournamentsgg.ru
 127.0.0.1 tournamentsgl.ru
@@ -24813,6 +24865,7 @@
 127.0.0.1 twitch-global.com
 127.0.0.1 twitch-katowice.com
 127.0.0.1 twitch-link.com
+127.0.0.1 twitch-major.com
 127.0.0.1 twitch-nude.com
 127.0.0.1 twitch-play.com
 127.0.0.1 twitch-prize.com
@@ -24899,6 +24952,7 @@
 127.0.0.1 twltch-live.com
 127.0.0.1 twltch-loot.com
 127.0.0.1 twltch-ltem.com
+127.0.0.1 twltch-major.com
 127.0.0.1 twltch-play.com
 127.0.0.1 twltch-prime.com
 127.0.0.1 twltch-prize.com
@@ -24982,6 +25036,7 @@
 127.0.0.1 ur-l.me
 127.0.0.1 uralmtk.ru
 127.0.0.1 url-roblox.com
+127.0.0.1 urlshrt1.ru
 127.0.0.1 uroblox.com
 127.0.0.1 urpydrop.com
 127.0.0.1 urtyert.com
@@ -25177,6 +25232,7 @@
 127.0.0.1 vwwv-roblox.ml
 127.0.0.1 w-roblox.com
 127.0.0.1 w3c-validation.live
+127.0.0.1 wa5.ru
 127.0.0.1 wadefamilytree.org
 127.0.0.1 wakulandcaptcha.xyz
 127.0.0.1 walkers-crypto.xyz
