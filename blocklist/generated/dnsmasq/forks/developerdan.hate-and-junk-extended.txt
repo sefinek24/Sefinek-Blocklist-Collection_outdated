@@ -1,6 +1,6 @@
 # Title: Lightswitch05's hate-and-junk-extended.txt
-# Released: 2023-05-08T01:05:25+00:00
-# Count: 1640 domains
+# Released: 2023-05-16T01:05:25+00:00
+# Count: 1642 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/hate-and-junk-extended.txt
@@ -553,6 +553,7 @@ server=/varnish.prisonplanet.com/
 server=/web.prisonplanet.com/
 server=/www.prisonplanet.com/
 server=/projectcamelotportal.com/
+server=/22.projectcamelotportal.com/
 server=/23.projectcamelotportal.com/
 server=/backup1.projectcamelotportal.com/
 server=/beta.projectcamelotportal.com/
@@ -572,6 +573,7 @@ server=/media.projectcamelotportal.com/
 server=/media2.projectcamelotportal.com/
 server=/media3.projectcamelotportal.com/
 server=/members.projectcamelotportal.com/
+server=/new.projectcamelotportal.com/
 server=/pctv.projectcamelotportal.com/
 server=/staging1.projectcamelotportal.com/
 server=/www.projectcamelotportal.com/
