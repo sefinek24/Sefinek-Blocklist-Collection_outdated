@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-16 01:45:23 (UTC)                      #
+# Last updated: 2023-05-16 02:21:22 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -34,7 +34,6 @@
 0.0.0.0 acerogrado.cl
 0.0.0.0 acerttrip.com
 0.0.0.0 acrhitechinfo.com
-0.0.0.0 acuagro.mx
 0.0.0.0 admin.arc-ye.com
 0.0.0.0 admin.byte.in.ua
 0.0.0.0 adorationholidays.com
@@ -70,6 +69,7 @@
 0.0.0.0 aldebaran.adm.br
 0.0.0.0 aldojuanpettiti.com.ar
 0.0.0.0 alemaanwebtv.net
+0.0.0.0 alexmarineengineering.com
 0.0.0.0 alfaisalsweets.com
 0.0.0.0 alfasemesta.com
 0.0.0.0 algomhoria.com
@@ -129,6 +129,7 @@
 0.0.0.0 audreyleroy.com
 0.0.0.0 austriasummerholidays.co.uk
 0.0.0.0 autobom.org
+0.0.0.0 awaisdanish.com
 0.0.0.0 awamia.com
 0.0.0.0 azaleaservices.org
 0.0.0.0 azconsultants.co.in
@@ -327,6 +328,7 @@
 0.0.0.0 different-fonts.com
 0.0.0.0 digitalgurus.pk
 0.0.0.0 digitalonline.cl
+0.0.0.0 digitalsolution360.in
 0.0.0.0 dispastore.com
 0.0.0.0 dl.1003b.56a.com
 0.0.0.0 dl.9xu.com
@@ -337,7 +339,6 @@
 0.0.0.0 donatethesurplus.org
 0.0.0.0 donkeytourscroatia.com
 0.0.0.0 down.pcclear.com
-0.0.0.0 down.udashi.com
 0.0.0.0 download.caihong.com
 0.0.0.0 download.doumaibiji.cn
 0.0.0.0 download.pdf00.cn
@@ -442,6 +443,7 @@
 0.0.0.0 funatfitsports.com
 0.0.0.0 funletters.net
 0.0.0.0 g-work.mx
+0.0.0.0 gabyagozetim.com
 0.0.0.0 gagemanagementtrust.com
 0.0.0.0 galvestongaragedoors.com
 0.0.0.0 gamamanufacturas.com
@@ -481,6 +483,7 @@
 0.0.0.0 globalmanysoft.com
 0.0.0.0 gobesitysurgery.com
 0.0.0.0 gokcevizyon.com
+0.0.0.0 goldenmoviesawards.com
 0.0.0.0 goldrush.ug
 0.0.0.0 gotovacoil.com
 0.0.0.0 gplongxuyen.org
@@ -498,7 +501,6 @@
 0.0.0.0 gulfbridgeint.com
 0.0.0.0 guvencecelik.com
 0.0.0.0 gweccc.com
-0.0.0.0 hackacyber.com
 0.0.0.0 hadrok.com
 0.0.0.0 hakize2.org
 0.0.0.0 halcyonmhgh.com
@@ -552,6 +554,7 @@
 0.0.0.0 iconexglobal.com
 0.0.0.0 iconexusa.com
 0.0.0.0 icupsa.com.mx
+0.0.0.0 icvpartners.com
 0.0.0.0 idalidcouture.com
 0.0.0.0 idealweddings.co.zw
 0.0.0.0 ideegivers.com
@@ -576,8 +579,10 @@
 0.0.0.0 inseco.cl
 0.0.0.0 inspiratour.co.id
 0.0.0.0 instinctux.com
+0.0.0.0 intelli-sys.co.zw
 0.0.0.0 internetandcabletv.net
 0.0.0.0 internetwifibundle.com
+0.0.0.0 intervisaovistorias.com.br
 0.0.0.0 invar.me
 0.0.0.0 invatomarket.com
 0.0.0.0 investcluster.com
@@ -609,7 +614,6 @@
 0.0.0.0 joswiltrader.com
 0.0.0.0 jp.imgjeoighw.com
 0.0.0.0 jpstyles.com
-0.0.0.0 jr-software-web.net
 0.0.0.0 jsaimoveis.net
 0.0.0.0 jsw.co.id
 0.0.0.0 julenlopetegui.com
@@ -688,17 +692,18 @@
 0.0.0.0 linkvilleplayers.org
 0.0.0.0 litetelecom.net.br
 0.0.0.0 littlemisskenya.com
+0.0.0.0 livetrack.in
 0.0.0.0 lmlawcorp.com
 0.0.0.0 load2up.top
 0.0.0.0 lobenexpeditions.com
 0.0.0.0 locallistinguae.com
 0.0.0.0 loginpl777.com
 0.0.0.0 lojalz14.com.br
-0.0.0.0 lojueguito.com
 0.0.0.0 lopespublicidade.com
 0.0.0.0 lorem.com.sa
 0.0.0.0 lotemoclubrificantes.com.br
 0.0.0.0 lovatarium.com
+0.0.0.0 lp.gunlakemhc.com
 0.0.0.0 ltc.typoten.com
 0.0.0.0 ltinsures.com
 0.0.0.0 lucknowiotpark.com
@@ -795,7 +800,6 @@
 0.0.0.0 mumgee.co.za
 0.0.0.0 mundiaandmudhara.com
 0.0.0.0 musicaondemand.com
-0.0.0.0 myayurvedashoppe.com
 0.0.0.0 myerp.svnkarimganj.ac.in
 0.0.0.0 mylearningadvocate.com
 0.0.0.0 mysura.it
@@ -815,6 +819,7 @@
 0.0.0.0 negtransprodriguez.com
 0.0.0.0 neilshairdressers.co.uk
 0.0.0.0 nerdsroot.com
+0.0.0.0 netultra.com.br
 0.0.0.0 networkwheels.co.za
 0.0.0.0 new.longboatonline.com
 0.0.0.0 newinvestingonline.com
@@ -896,6 +901,7 @@
 0.0.0.0 piacsaproyectos.com
 0.0.0.0 pico-eg.org
 0.0.0.0 pipecoasia.com
+0.0.0.0 planetedev.info
 0.0.0.0 plano30k.com
 0.0.0.0 pmg-egypt.com
 0.0.0.0 pn-raha.go.id
@@ -971,6 +977,7 @@
 0.0.0.0 retailexpertscloud.com
 0.0.0.0 retrorollamerica.com
 0.0.0.0 richterhi-tech.com
+0.0.0.0 ride1atv.com
 0.0.0.0 rigorous-statistics.co.za
 0.0.0.0 rigworldservicesltd.com
 0.0.0.0 robo-tics-slp.net
@@ -993,6 +1000,7 @@
 0.0.0.0 sajjadbricks.com
 0.0.0.0 sakthipipesandplumbing.com
 0.0.0.0 saloneeats.com
+0.0.0.0 samglobaltrading.com
 0.0.0.0 sandonet.es
 0.0.0.0 santequilibre-2607.fr
 0.0.0.0 sanubix.vip
@@ -1001,6 +1009,7 @@
 0.0.0.0 sasms.co
 0.0.0.0 satuatlas.com
 0.0.0.0 savoglobal.com
+0.0.0.0 sawabash-sd.com
 0.0.0.0 scarletespinal.com
 0.0.0.0 scarterproductionfilms.com
 0.0.0.0 scglobal.co.th
@@ -1069,11 +1078,11 @@
 0.0.0.0 speedautocarebd.com
 0.0.0.0 speedfachadas.com.br
 0.0.0.0 spices.com.sg
-0.0.0.0 spiritualoutdooradventures.org
 0.0.0.0 spmmedicare.com
 0.0.0.0 sportingstimes.com
 0.0.0.0 spotconinternational.com
 0.0.0.0 squarelabssolutions.com
+0.0.0.0 src1.minibai.com
 0.0.0.0 srikalaivanipackersandmovers.com
 0.0.0.0 srimangadukamatchipackersandmovers.com
 0.0.0.0 srv-fattureincloud.de
@@ -1225,7 +1234,6 @@
 0.0.0.0 visualmed.org
 0.0.0.0 vitoturizm.com.tr
 0.0.0.0 viucons.com
-0.0.0.0 vividled.in
 0.0.0.0 vogue-pharmaceuticals.com
 0.0.0.0 volfilx.com
 0.0.0.0 votre-futur-site.com
@@ -1261,6 +1269,7 @@
 0.0.0.0 www.almoeqatar.com
 0.0.0.0 www.amazonmall.club
 0.0.0.0 www.arkidecture.com
+0.0.0.0 www.artrsllc.com
 0.0.0.0 www.asterglobal.com
 0.0.0.0 www.bancarioscornelio.com.br
 0.0.0.0 www.bearware.org
@@ -1300,6 +1309,7 @@
 0.0.0.0 www.saf-oil.ru
 0.0.0.0 www.smpnuruliman.xyz
 0.0.0.0 www.starcountry.net
+0.0.0.0 www.sunglassesninja.com
 0.0.0.0 www.tradeinsights.net
 127.0.0.1
 0.0.0.0 www.tvculturaourofino.com.br
@@ -1318,7 +1328,6 @@
 0.0.0.0 yusen-logistics.org
 0.0.0.0 yzkzixun.com
 0.0.0.0 zainco.net
-0.0.0.0 zaofisa.net
 0.0.0.0 zedangroup.com
 0.0.0.0 zero.ms
 0.0.0.0 zf.gouzapay.cn
@@ -1328,4 +1337,4 @@
 0.0.0.0 zimcc.com
 0.0.0.0 ztekkhosting.com
 0.0.0.0 zvub.us
-# Number of entries: 1321
+# Number of entries: 1330
