@@ -1,7 +1,7 @@
 const { promises: fs } = require('node:fs');
-const { createHash } = require('node:crypto');
 const path = require('node:path');
 const date = require('./functions/date.js');
+const sha256 = require('./functions/sha256.js');
 
 const convert = async (folderPath = path.join(__dirname, '../blocklist/template')) => {
 	const generatedPath = path.join(__dirname, '../blocklist/generated/noip');
@@ -18,35 +18,8 @@ const convert = async (folderPath = path.join(__dirname, '../blocklist/template'
 		const thisFileName = path.join(folderPath, file.name);
 
 		// Cache
-		const cacheFolder = path.join(__dirname, `../cache/noip/${path.basename(path.dirname(thisFileName)) === 'template' ? '' : path.basename(path.dirname(thisFileName))}`);
-		await fs.mkdir(cacheFolder, { recursive: true });
-
-		const cacheFilePath = path.join(cacheFolder, `${file.name.replace('.txt', '')}.sha256`);
-		let hashFromCacheFile;
-
-		try {
-			hashFromCacheFile = await fs.readFile(cacheFilePath, 'utf8');
-		} catch (err) {
-			console.warn(`❌  Cache file not found: ${cacheFilePath}`);
-		}
-
-		const buff = await fs.readFile(thisFileName);
-		const hash = createHash('sha256').update(buff).digest('hex');
-
-		if (hash === hashFromCacheFile) {
-			console.log(`⏭️ ${hash} == ${hashFromCacheFile || 'Unknown hash'} / ${file.name} / skipped`);
-			return;
-		}
-
-		try {
-			await fs.writeFile(cacheFilePath, hash);
-			console.log(`✅  ${hash} -> ${hashFromCacheFile || 'Unknown hash'} / ${file.name} / hashed`);
-		} catch (err) {
-			console.error(`Error writing cache file ${cacheFilePath}: ${err}`);
-		}
-
-
-
+		const { cacheHash, stop } = await sha256(thisFileName, file);
+		if (stop) return;
 
 		// Content
 		const fileContent = await fs.readFile(thisFileName, 'utf8');
@@ -76,7 +49,7 @@ const convert = async (folderPath = path.join(__dirname, '../blocklist/template'
 		}
 
 		await fs.writeFile(fullNewFile, replacedFile);
-		console.log(`✔️ ${hashFromCacheFile || file.name} saved in ${thisFileName}`);
+		console.log(`✔️ ${cacheHash || file.name} saved in ${thisFileName}`);
 	}));
 
 	try {
