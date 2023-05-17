@@ -48,30 +48,6 @@ const processDirectory = async (dirPath) => {
 						}
 
 
-						if ((line.startsWith('0.0.0.0') || line.startsWith('127.0.0.1')) && !line.includes('#')) {
-							const words = line.split(' ');
-							if (words.length > 2) {
-								const ipAddress = words.shift();
-								const domains = words.join(' ').split(' ');
-
-								let modifiedLine = domains
-									.map((domain) => `${ipAddress} ${domain}`)
-									.join('\n')
-									.trim();
-								if ((/[A-Z]/).test(modifiedLine)) {
-									modifiedLine = modifiedLine.toLowerCase();
-									convertedDomains++;
-									modifiedLines++;
-								}
-
-								if (modifiedLine !== line && modifiedLine.match(/\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}/)) {
-									modifiedLines++;
-									line = modifiedLine;
-								}
-							}
-						}
-
-
 						// 127.0.0.0 -> 0.0.0.0
 						if (line.includes('127.0.0.1')) {
 							modifiedLines++;
@@ -84,13 +60,6 @@ const processDirectory = async (dirPath) => {
 							modifiedLines++;
 							line = line.replace('0.0.0.0\t', '0.0.0.0 ');
 						}
-
-
-						// 0.0.0.0 -> nothing
-						// if (line === '0.0.0.0') {
-						// 	modifiedLines++;
-						// 	line = line.replace('0.0.0.0', '');
-						// }
 
 
 						// 0.0.0.0 ||example.com^ -> 0.0.0.0 example.com
@@ -136,6 +105,37 @@ const processDirectory = async (dirPath) => {
 						}
 
 
+						// 0.0.0.0 example1.com example2.com
+						//               ->
+						// 0.0.0.0 example1.com
+						// 0.0.0.0 example2.com
+						if ((line.startsWith('0.0.0.0') || line.startsWith('127.0.0.1')) && !line.includes('#')) {
+							const words = line.split(' ');
+							if (words.length > 2) {
+								const ipAddress = words.shift();
+								const domains = words.join(' ').split(' ')
+									.filter((domain) => domain.length > 0);
+
+								const modifiedLine = domains
+									.map((domain) => `${ipAddress} ${domain.toLowerCase()}`)
+									.join('\n')
+									.trim();
+
+								if (modifiedLine !== line && modifiedLine.match(/\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}/)) {
+									modifiedLines++;
+									line = modifiedLine;
+								}
+							}
+						}
+
+
+						// 0.0.0.0 -> nothing
+						if (line === '0.0.0.0') {
+							modifiedLines++;
+							line = line.replace('0.0.0.0', '');
+						}
+
+
 						return line;
 					})
 					.join('\n');
@@ -168,7 +168,7 @@ const processDirectory = async (dirPath) => {
 
 const run = async () => {
 	try {
-		console.log('🔍 Searching for .txt files in blocklist/template directory...');
+		console.log('🔍 Searching for .txt files in template directory...');
 
 		const templateDirPath = path.join(__dirname, '..', 'blocklist', 'template');
 		await processDirectory(templateDirPath);

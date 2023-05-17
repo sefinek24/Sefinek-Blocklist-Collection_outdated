@@ -57,7 +57,7 @@ const worker = async () => {
 				const lineNoIP = line.replace('0.0.0.0 ', '');
 				const url = lineNoIP.split('#')[0].trim();
 				if (url.toLowerCase() !== url) {
-					console.error(`[Line ${index + 1}]: Url ${url} must be all lowercase - ${file}`);
+					console.error(`[Line ${index + 1}]: ${url} must be all lowercase - ${file}`);
 					hasError = true;
 				}
 			}
