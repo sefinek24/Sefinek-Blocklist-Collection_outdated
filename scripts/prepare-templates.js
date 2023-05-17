@@ -1,18 +1,18 @@
-const fs = require('node:fs/promises');
-const path = require('node:path');
+const { mkdir, readdir, readFile, writeFile } = require('node:fs/promises');
+const { join } = require('node:path');
 const patterns = ['[Adblock Plus]', '! Version:', '! Description:', '! Title:', '! Last modified:', '! Expires:', '! Homepage:', '! Syntax:'];
 
 const processDirectory = async (dirPath) => {
 	try {
-		await fs.mkdir(dirPath, { recursive: true });
+		await mkdir(dirPath, { recursive: true });
 
-		const fileNames = await fs.readdir(dirPath);
+		const fileNames = await readdir(dirPath);
 		const txtFiles = fileNames.filter((fileName) => fileName.endsWith('.txt'));
 
 		await Promise.all(
 			txtFiles.map(async (fileName) => {
-				const filePath = path.join(dirPath, fileName);
-				let fileContents = await fs.readFile(filePath, 'utf8');
+				const filePath = join(dirPath, fileName);
+				let fileContents = await readFile(filePath, 'utf8');
 
 				let modifiedLines = 0;
 				let convertedDomains = 0;
@@ -143,7 +143,7 @@ const processDirectory = async (dirPath) => {
 
 
 				if (modifiedLines !== 0) {
-					await fs.writeFile(filePath, fileContents.trim(), 'utf8');
+					await writeFile(filePath, fileContents.trim(), 'utf8');
 
 					console.log(
 						`📝 ${fileName}: ${modifiedLines} ${modifiedLines === 1 ? 'line' : 'lines'} modified${
@@ -154,12 +154,12 @@ const processDirectory = async (dirPath) => {
 			}),
 		);
 
-		const subDirectories = await fs.readdir(dirPath, { withFileTypes: true });
+		const subDirectories = await readdir(dirPath, { withFileTypes: true });
 
 		await Promise.all(
 			subDirectories
 				.filter((subDir) => subDir.isDirectory())
-				.map((subDir) => processDirectory(path.join(dirPath, subDir.name))),
+				.map((subDir) => processDirectory(join(dirPath, subDir.name))),
 		);
 	} catch (err) {
 		console.error(`❌ An error occurred while processing ${dirPath} directory.`, err);
@@ -170,7 +170,7 @@ const run = async () => {
 	try {
 		console.log('🔍 Searching for .txt files in template directory...');
 
-		const templateDirPath = path.join(__dirname, '..', 'blocklist', 'template');
+		const templateDirPath = join(__dirname, '..', 'blocklist', 'template');
 		await processDirectory(templateDirPath);
 		console.log(`✔️ The process is completed successfully for ${templateDirPath} directory`);
 	} catch (err) {

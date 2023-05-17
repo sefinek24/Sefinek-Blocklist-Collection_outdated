@@ -1,5 +1,5 @@
 const { promises: fs } = require('node:fs');
-const crypto = require('node:crypto');
+const { createHash } = require('node:crypto');
 const path = require('node:path');
 const date = require('./functions/date.js');
 
@@ -31,7 +31,7 @@ const convert = async (folderPath = path.join(__dirname, '../blocklist/template'
 		}
 
 		const buff = await fs.readFile(thisFileName);
-		const hash = crypto.createHash('sha256').update(buff).digest('hex');
+		const hash = createHash('sha256').update(buff).digest('hex');
 
 		if (hash === hashFromCacheFile) {
 			console.log(`⏭️ ${hash} == ${hashFromCacheFile || 'Unknown hash'} / ${file.name} / skipped`);

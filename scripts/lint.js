@@ -1,17 +1,17 @@
-const fs = require('node:fs').promises;
-const path = require('node:path');
+const { readdir, readFile } = require('node:fs/promises');
+const { resolve, join } = require('node:path');
 
 const worker = async () => {
 	let hasError = false;
 
-	const blockListDir = path.join(__dirname, '..', 'blocklist', 'template');
+	const blockListDir = join(__dirname, '..', 'blocklist', 'template');
 	const files = await getAllTxtFiles(blockListDir);
 
 	async function getAllTxtFiles(dir) {
-		const dirents = await fs.readdir(dir, { withFileTypes: true });
+		const dirents = await readdir(dir, { withFileTypes: true });
 		const filesPromise = await Promise.all(
 			dirents.map(dirent => {
-				const res = path.resolve(dir, dirent.name);
+				const res = resolve(dir, dirent.name);
 
 				return dirent.isDirectory() ? getAllTxtFiles(res) : res;
 			}),
@@ -22,9 +22,9 @@ const worker = async () => {
 	}
 
 	await Promise.all(files.filter((file) => file !== 'everything.txt').map(async file => {
-		const fileContents = await fs.readFile(path.join(file), 'utf8');
+		const fileContents = await readFile(join(file), 'utf8');
 
-		const commentedURLs = fileContents.split('\n').map((line) => {
+		fileContents.split('\n').map((line) => {
 			if (line.startsWith('# 0.0.0.0')) {
 				return line.split(' ')[2].trim();
 			}
