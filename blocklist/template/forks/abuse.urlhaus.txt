@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-17 14:04:08 (UTC)                      #
+# Last updated: 2023-05-17 14:55:35 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -33,6 +33,7 @@
 0.0.0.0 a2zpestcleanbd.com
 0.0.0.0 a4producers.com
 0.0.0.0 aadheena.com
+0.0.0.0 aamroaviation.com
 0.0.0.0 aasraatrust.org
 0.0.0.0 abcsistemas.com
 0.0.0.0 abegtunes.com
@@ -88,7 +89,6 @@
 0.0.0.0 aisecures.com
 0.0.0.0 aiucatrichy.org
 0.0.0.0 akashfeedcpl.com
-0.0.0.0 akira.ozonedesk.cloud
 0.0.0.0 akrostools.com
 0.0.0.0 aktarhome.com
 0.0.0.0 akukawin.com
@@ -499,7 +499,6 @@
 0.0.0.0 coorsamexico.mx
 0.0.0.0 coralpac.com
 0.0.0.0 cordisheartinstitute.com
-0.0.0.0 corepilatesnicaragua.com
 0.0.0.0 corpernaija.com
 0.0.0.0 corpolevesuplementos.com.br
 0.0.0.0 corporacionbel.com
@@ -516,7 +515,6 @@
 0.0.0.0 cqbsouth.com
 0.0.0.0 cqfdpuno.org
 0.0.0.0 crackload.net
-0.0.0.0 crazymoney.app
 0.0.0.0 creatingservice.it
 0.0.0.0 creativeconcretend.com
 0.0.0.0 crecerco.com
@@ -580,7 +578,6 @@
 0.0.0.0 deine-bewerbung.com
 0.0.0.0 dekor-kitchens.co.uk
 0.0.0.0 delcolaw.com
-0.0.0.0 deliciassobencomenda.com.br
 0.0.0.0 delightfulfoxy.com
 0.0.0.0 delwanqatar.com
 0.0.0.0 demirelmarka.com
@@ -594,6 +591,7 @@
 0.0.0.0 dentalsoftplus.com
 0.0.0.0 derofx.com
 0.0.0.0 destinymc.co.za
+0.0.0.0 detail-booking.com.br
 0.0.0.0 detallesbebes.com
 0.0.0.0 dev.sebpo.net
 0.0.0.0 developersadekur.com
@@ -649,6 +647,7 @@
 0.0.0.0 dreamchasersltd.com
 0.0.0.0 dreaminternationaleg.com
 0.0.0.0 dreamzonemadurai.com
+0.0.0.0 drhanneserasmus.co.za
 0.0.0.0 drive.google.com.it-barcelona.com
 0.0.0.0 drkarissathomas.com
 0.0.0.0 drkausar.com
@@ -771,7 +770,6 @@
 0.0.0.0 feedujoli.com
 0.0.0.0 feelbia.com
 0.0.0.0 femerp.com
-0.0.0.0 ferroflot.com
 0.0.0.0 fgpazostransportsac.com
 0.0.0.0 fhc-ea.com
 0.0.0.0 fhrerscheinnetzwerk.de
@@ -916,6 +914,7 @@
 0.0.0.0 gestion-panel.com
 0.0.0.0 gestioncooperativas.com
 0.0.0.0 getaprofessionalwebsite.com
+0.0.0.0 getbuttn.com
 0.0.0.0 getcash2surveys.com
 0.0.0.0 getreallolnews.com
 0.0.0.0 ghaarsay.com
@@ -952,7 +951,6 @@
 0.0.0.0 grandsakurahotel.com
 0.0.0.0 grapemundo.com
 0.0.0.0 graphixcreativity.com
-0.0.0.0 greenisco.com
 0.0.0.0 greenlizard.co.za
 0.0.0.0 greenreset.com
 0.0.0.0 greipmx.com
@@ -1099,6 +1097,7 @@
 0.0.0.0 indonesias.me
 0.0.0.0 indrasbikaner.com
 0.0.0.0 indriflix.com
+0.0.0.0 induspay.pk
 0.0.0.0 infocom-fibre.fr
 0.0.0.0 infoinsect.com
 0.0.0.0 infoslotmedan.com
@@ -1123,6 +1122,7 @@
 0.0.0.0 invatomarket.com
 0.0.0.0 invbor.com
 0.0.0.0 inventionhubs.com
+0.0.0.0 investcluster.com
 0.0.0.0 invexdesigns.com
 0.0.0.0 iot-maker.it
 0.0.0.0 iperceptsondemand.com
@@ -1347,9 +1347,11 @@
 0.0.0.0 luv-local.com
 0.0.0.0 m1shgan.app
 0.0.0.0 maacbhopal.com
+0.0.0.0 mabest.cl
 0.0.0.0 maccounting.in
 0.0.0.0 machupicchufullday.com
 0.0.0.0 macro.nyc
+0.0.0.0 madicon.co.za
 0.0.0.0 madrasatudarularkam.com
 0.0.0.0 maduraipackersandmovers.com
 0.0.0.0 mahamevnawapalugama.com
@@ -1417,9 +1419,9 @@
 0.0.0.0 medstream-ea.com
 0.0.0.0 meelbd.com
 0.0.0.0 meettextiles.com
-0.0.0.0 meeweb.com
 0.0.0.0 megademi.com
 0.0.0.0 megaleaoinformatica.com
+0.0.0.0 megapowersystem.com
 0.0.0.0 meiieco.fr
 0.0.0.0 mel-gaynor.com
 0.0.0.0 melbournerollershutters.net.au
@@ -1431,6 +1433,7 @@
 0.0.0.0 merakisfitoaroma.com
 0.0.0.0 merchbangladesh.com
 0.0.0.0 mercyiwof.org
+0.0.0.0 mesoftwares.vip
 0.0.0.0 metalgatesolutions.com
 0.0.0.0 metasoltechltd.com
 0.0.0.0 mgservicessac.com
@@ -1489,6 +1492,7 @@
 0.0.0.0 msconsultancybd.com
 0.0.0.0 mskims.org
 0.0.0.0 mtitbd.com
+0.0.0.0 mtsn3kukar.sch.id
 0.0.0.0 mujibbriyani.in
 0.0.0.0 mulberryhotels.in
 0.0.0.0 multiversesol.com
@@ -1511,7 +1515,6 @@
 0.0.0.0 mypapertutor.com
 0.0.0.0 mypapertutor.org
 0.0.0.0 myrealmood.com
-0.0.0.0 mysteryefoundation.org
 0.0.0.0 mytheacademy.com
 0.0.0.0 mywellu.com
 0.0.0.0 mzkhero.com
@@ -1525,6 +1528,7 @@
 0.0.0.0 nakshainfra.com
 0.0.0.0 nalabeaute.com
 0.0.0.0 namthaibinh.net
+0.0.0.0 nanpe.eng.br
 0.0.0.0 napala.net.pe
 0.0.0.0 natpet.com
 0.0.0.0 naturalfarmingexpo.com
@@ -1735,6 +1739,7 @@
 0.0.0.0 prestigehomeautomation.net
 0.0.0.0 prestigephone.com
 0.0.0.0 pricelala.com
+0.0.0.0 primaflor-sby.com
 0.0.0.0 primesurgeenergy.com
 0.0.0.0 primusth.com
 0.0.0.0 privacy-tools-for-you-453.com
@@ -1751,6 +1756,7 @@
 0.0.0.0 prototype.siliconvalleyga.com
 0.0.0.0 proveedoradeproyectosysoluciones.com
 0.0.0.0 providenceappraisal.com
+0.0.0.0 proyectos.vrstudio.cl
 0.0.0.0 pryhmshift.com
 0.0.0.0 psrd.org.pk
 0.0.0.0 psychpharmhealth.com
@@ -1898,14 +1904,15 @@
 0.0.0.0 scmsgroup.org
 0.0.0.0 sdpitc.co.in
 0.0.0.0 se2030.org
-0.0.0.0 sealicensing.com
 0.0.0.0 seasidejewelrymall.com
+0.0.0.0 secretmindcontrol.com
 0.0.0.0 securepackers.com
 0.0.0.0 security-shade.com
 0.0.0.0 seedsindia.org
 0.0.0.0 seemaxtours.com
 0.0.0.0 seg-america.com
 0.0.0.0 segusa.net
+0.0.0.0 seibo.mx
 0.0.0.0 selagroagri.com
 0.0.0.0 selalucuan.net
 0.0.0.0 selesahomestaybatumuda.com
@@ -1933,7 +1940,6 @@
 0.0.0.0 shaheralhroub.com
 0.0.0.0 shalamasonry.com
 0.0.0.0 share-hero.com
-0.0.0.0 shayanefaizconst.com
 0.0.0.0 shbdistribution.com
 0.0.0.0 sheikhrouhani.net
 0.0.0.0 shg.ph
@@ -2195,7 +2201,6 @@
 0.0.0.0 thevirtualmars.com
 0.0.0.0 thewirellc.com
 0.0.0.0 theyoungandtheratchet.com
-0.0.0.0 thezheaflix.com
 0.0.0.0 think-freedom.com
 0.0.0.0 thiscss.com
 0.0.0.0 thomasakvo.com
@@ -2421,6 +2426,7 @@
 0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.institut-corps-a-ligne.fr
 0.0.0.0 www.janisthaaivf.com
+0.0.0.0 www.ks.cn
 0.0.0.0 www.lasikofmichigan.com
 0.0.0.0 www.lebuffet.com.tn
 0.0.0.0 www.maxmoney.com
@@ -2467,12 +2473,10 @@
 0.0.0.0 yi-rana.com
 0.0.0.0 yogisetu.org
 0.0.0.0 youthsolidarityfoundation.org
-0.0.0.0 yp.hnggzyjy.cn
 0.0.0.0 yubygroup.com
 0.0.0.0 yusen-logistics.org
 0.0.0.0 yzkzixun.com
 0.0.0.0 zainco.net
-0.0.0.0 zamatours.net
 0.0.0.0 zambianroadsafety.org
 0.0.0.0 zaofisa.net
 0.0.0.0 zcubemart.com
@@ -2489,4 +2493,4 @@
 0.0.0.0 zuflixstar.com
 0.0.0.0 zulfiyya.com
 0.0.0.0 zvub.us
-# Number of entries: 2483
+# Number of entries: 2487
