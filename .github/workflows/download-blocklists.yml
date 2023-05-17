@@ -170,7 +170,7 @@ jobs:
       - name: Run npm install
         run: npm install
 
-      - name: Replace 127.0.0.1 to 0.0.0.0 or just add 0.0.0.0 before domains
+      - name: Prepare templates
         run: node scripts/prepare-templates.js
 
       - name: Remove duplicates
