@@ -2308,6 +2308,7 @@
 0.0.0.0 t.pointandplace.com
 0.0.0.0 t.pswec.com
 0.0.0.0 t.raptorsmartadvisor.com
+0.0.0.0 t.rentcafe.com
 0.0.0.0 t.sharethis.com
 0.0.0.0 t.signalayer.com
 0.0.0.0 t.skimresources.com
@@ -2442,6 +2443,7 @@
 0.0.0.0 tracking.buygoods.com
 0.0.0.0 tracking.cerdmann.com
 0.0.0.0 tracking.chilipiper.com
+0.0.0.0 tracking.dealeranalytics.com
 0.0.0.0 tracking.drum.io
 0.0.0.0 tracking.dsmmadvantage.com
 0.0.0.0 tracking.fanbridge.com
@@ -3217,14 +3219,12 @@
 0.0.0.0 boomerang.dell.com
 0.0.0.0 c.fingerprint.com
 0.0.0.0 c.wort-suche.com
-0.0.0.0 c.x.oanda.com
 0.0.0.0 c.xbox.com
 0.0.0.0 cl.canva.com
 0.0.0.0 clanker-events.squarespace.com
 0.0.0.0 clarice.streema.com
 0.0.0.0 click.nudevista.com
 0.0.0.0 click.sinx.com
-0.0.0.0 click.udimg.com
 0.0.0.0 client-log.box.com
 0.0.0.0 client-metrics.chess.com
 0.0.0.0 clp-mms.cloudpro.co.uk
@@ -3247,7 +3247,6 @@
 0.0.0.0 collector.githubapp.com
 0.0.0.0 collector.megaxh.com
 0.0.0.0 collector.pi.spectrum.net
-0.0.0.0 collector.statowl.com
 0.0.0.0 collector.xhamster.com
 0.0.0.0 collector.xhamster.desi
 0.0.0.0 collector.xhamster2.com
@@ -3272,9 +3271,6 @@
 0.0.0.0 dd.auspost.com.au
 0.0.0.0 dd.nytimes.com
 0.0.0.0 deliver.ptgncdn.com
-0.0.0.0 desa.fkapi.net
-0.0.0.0 desb.fkapi.net
-0.0.0.0 desr.fkapi.net
 0.0.0.0 discover-metrics.cloud.seek.com.au
 0.0.0.0 dp.shoprunner.com
 0.0.0.0 dtag.breadfinancial.com
@@ -3285,7 +3281,6 @@
 0.0.0.0 engagefront.meteomedia.com
 0.0.0.0 engagefront.theweathernetwork.com
 0.0.0.0 engine.traceparts.com
-0.0.0.0 enlightenment.secureshoppingbasket.com
 0.0.0.0 eproof.drudgereport.com
 0.0.0.0 error-collector.ted.com
 0.0.0.0 et.nytimes.com
@@ -3390,6 +3385,7 @@
 0.0.0.0 marketing.alibaba.com
 0.0.0.0 mcc-tags.cisco.com
 0.0.0.0 mcs-va.tiktokv.com
+0.0.0.0 mcs.us.tiktokv.com
 0.0.0.0 metrics.audius.co
 0.0.0.0 metrics.freemake.com
 0.0.0.0 metrics.hackerrank.com
@@ -3403,7 +3399,6 @@
 0.0.0.0 midas.chase.com
 0.0.0.0 mixpanel-proxy.ted.com
 0.0.0.0 mktcs.cloudapps.cisco.com
-0.0.0.0 mms.cnn.com
 0.0.0.0 mon.us.tiktokv.com
 0.0.0.0 monitor.channel4.com
 0.0.0.0 mr.homedepot.ca
@@ -3479,7 +3474,6 @@
 0.0.0.0 s.infogram.com
 0.0.0.0 saa.insideedition.com
 0.0.0.0 search.anonymous.ads.brave.com
-0.0.0.0 servedby.o2.co.uk
 0.0.0.0 shopmetric.rediff.com
 0.0.0.0 sid.nordstrom.com
 0.0.0.0 slipstream.skyscanner.net
@@ -3502,7 +3496,6 @@
 0.0.0.0 stategg.cdngeek.com
 0.0.0.0 stats.aerotime.aero
 0.0.0.0 stats.cardschat.com
-0.0.0.0 stats.clear-media.com
 0.0.0.0 stats.davidickedelivery.com
 0.0.0.0 stats.gateio.ch
 0.0.0.0 stats.hd24.watch
@@ -3510,7 +3503,6 @@
 0.0.0.0 stats.ibtimes.sg
 0.0.0.0 stats.justpaste.it
 0.0.0.0 stats.newsweek.com
-0.0.0.0 stats.pandora.com
 0.0.0.0 stats.paste2.org
 0.0.0.0 stats.pstream.net
 0.0.0.0 stats.sandberg.world
@@ -3581,7 +3573,6 @@
 0.0.0.0 tracker.nbcuas.com
 0.0.0.0 tracker.ranker.com
 0.0.0.0 tracker.shopclues.com
-0.0.0.0 tracker.uprinting.com
 0.0.0.0 tracking.carsales.com.au
 0.0.0.0 tracking.digitalocean.com
 0.0.0.0 tracking.engineering.cloud.seek.com.au
@@ -3600,19 +3591,16 @@
 0.0.0.0 umami.wakarimasen.moe
 0.0.0.0 urs.metacritic.com
 0.0.0.0 user-metrics.onthemarket.com
-0.0.0.0 userfly.com
 0.0.0.0 usmetric.rediff.com
 0.0.0.0 v.adblockultimate.net
 0.0.0.0 views.arabnews.com
 0.0.0.0 visit.theglobeandmail.com
-0.0.0.0 visitors.sourcingmap.com
 0.0.0.0 vortex.hulu.com
 0.0.0.0 w3-reporting.reddit.com
 0.0.0.0 wa.gmx.co.uk
 0.0.0.0 wa.ui-portal.de
 0.0.0.0 wal.wolfram.com
 0.0.0.0 weblog.flyasiana.com
-0.0.0.0 weblog.strawberrynet.com
 0.0.0.0 wstats.e-wok.tv
 0.0.0.0 wtk.db.com
 0.0.0.0 xstats.evoload.io
@@ -18262,6 +18250,7 @@
 0.0.0.0 stat.stars.ru
 0.0.0.0 stats.mos.ru
 0.0.0.0 sync.rambler.ru
+0.0.0.0 top-staging.mail.ru
 0.0.0.0 trk.mail.ru
 0.0.0.0 xapi.ozon.ru
 0.0.0.0 xray.mail.ru
