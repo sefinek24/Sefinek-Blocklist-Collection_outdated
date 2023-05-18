@@ -61,7 +61,6 @@ https://blocklist.sefinek.net/generated/0.0.0.0/forks/firebog.Easylist.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/forks/firebog.Easyprivacy.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/forks/firebog.Prigent-Ads.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/forks/firebog.Prigent-Crypto.txt
-https://blocklist.sefinek.net/generated/0.0.0.0/forks/firebog.RPiList-Phishing.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/forks/firebog.w3kbl.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/forks/frogeye.firstparty-trackers-hosts.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/forks/hole-cert.domains_hosts.txt
@@ -96,7 +95,8 @@ https://blocklist.sefinek.net/generated/0.0.0.0/forks/r-a-y.AdguardApps.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/forks/r-a-y.AdguardMobileAds.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/forks/r-a-y.AdguardMobileSpyware.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/forks/RPiList-Malware.txt
-https://blocklist.sefinek.net/generated/0.0.0.0/forks/RPiList.spam.mails.txt
+https://blocklist.sefinek.net/generated/0.0.0.0/forks/RPiList-Phishing.txt
+https://blocklist.sefinek.net/generated/0.0.0.0/forks/RPiList.Spam-Mails.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/forks/Sinfonietta.pornography-hosts.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/forks/Snota418.Crypto-streams.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/forks/Spam404.main-blacklist.txt
