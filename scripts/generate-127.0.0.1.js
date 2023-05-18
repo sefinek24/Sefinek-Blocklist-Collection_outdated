@@ -18,7 +18,7 @@ const convert = async (folderPath = path.join(__dirname, '../blocklist/template'
 		const thisFileName = path.join(folderPath, file.name);
 
 		// Cache
-		const { cacheHash, stop } = await sha256(thisFileName, file);
+		const { cacheHash, stop } = await sha256(thisFileName, '127.0.0.1', file);
 		if (stop) return;
 
 		// Content
