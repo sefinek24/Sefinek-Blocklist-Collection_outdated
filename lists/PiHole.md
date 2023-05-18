@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>📥 Last list update: 17.05.2023 / DD.MM.YYYY</h1>
+    <h1>📥 Last list update: 18.05.2023 / DD.MM.YYYY</h1>
     <p>
         ⭐ <b>Mark this repository with a star if you find it useful.</b> ⭐
     </p>
@@ -61,7 +61,6 @@ https://blocklist.sefinek.net/generated/0.0.0.0/forks/firebog.Easylist.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/forks/firebog.Easyprivacy.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/forks/firebog.Prigent-Ads.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/forks/firebog.Prigent-Crypto.txt
-https://blocklist.sefinek.net/generated/0.0.0.0/forks/firebog.RPiList-Malware.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/forks/firebog.RPiList-Phishing.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/forks/firebog.w3kbl.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/forks/frogeye.firstparty-trackers-hosts.txt
@@ -96,6 +95,7 @@ https://blocklist.sefinek.net/generated/0.0.0.0/forks/quidsup.notrack-malware.tx
 https://blocklist.sefinek.net/generated/0.0.0.0/forks/r-a-y.AdguardApps.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/forks/r-a-y.AdguardMobileAds.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/forks/r-a-y.AdguardMobileSpyware.txt
+https://blocklist.sefinek.net/generated/0.0.0.0/forks/RPiList-Malware.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/forks/RPiList.spam.mails.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/forks/Sinfonietta.pornography-hosts.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/forks/Snota418.Crypto-streams.txt

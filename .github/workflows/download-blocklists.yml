@@ -98,6 +98,7 @@ jobs:
           curl https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardApps.txt --output blocklist/template/forks/r-a-y.AdguardApps.txt
           curl https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileAds.txt --output blocklist/template/forks/r-a-y.AdguardMobileAds.txt
           curl https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileSpyware.txt --output blocklist/template/forks/r-a-y.AdguardMobileSpyware.txt
+          curl https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/malware --output blocklist/template/forks/RPiList-Malware.txt
           curl https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/spam.mails --output blocklist/template/forks/RPiList.spam.mails.txt
           curl https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/pornography-hosts --output blocklist/template/forks/Sinfonietta.pornography-hosts.txt
           curl https://raw.githubusercontent.com/Snota418/Youtube-spam-host-list/main/Crypto%20streams --output blocklist/template/forks/Snota418.Crypto-streams.txt
@@ -114,7 +115,6 @@ jobs:
           curl https://v.firebog.net/hosts/Easyprivacy.txt --output blocklist/template/forks/firebog.Easyprivacy.txt
           curl https://v.firebog.net/hosts/Prigent-Ads.txt --output blocklist/template/forks/firebog.Prigent-Ads.txt
           curl https://v.firebog.net/hosts/Prigent-Crypto.txt --output blocklist/template/forks/firebog.Prigent-Crypto.txt
-          curl https://v.firebog.net/hosts/RPiList-Malware.txt --output blocklist/template/forks/firebog.RPiList-Malware.txt
           curl https://v.firebog.net/hosts/RPiList-Phishing.txt --output blocklist/template/forks/firebog.RPiList-Phishing.txt
           curl https://v.firebog.net/hosts/static/w3kbl.txt --output blocklist/template/forks/firebog.w3kbl.txt
           curl https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt --output blocklist/template/forks/developerdan.amp-hosts-extended.txt
