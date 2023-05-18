@@ -135,6 +135,12 @@ const processDirectory = async (dirPath) => {
 							line = line.replace('0.0.0.0', '');
 						}
 
+						// 127.0.0.1 -> nothing
+						if (line === '127.0.0.1') {
+							modifiedLines++;
+							line = line.replace('127.0.0.1', '');
+						}
+
 
 						return line;
 					})
