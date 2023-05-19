@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-19 04:51:28 (UTC)                      #
+# Last updated: 2023-05-19 06:04:33 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -29,8 +29,10 @@
 0.0.0.0 a.angel-tn.idv.tw
 0.0.0.0 a4producers.com
 0.0.0.0 aamazehomes.com
+0.0.0.0 aamroaviation.com
 0.0.0.0 abissnet.net
 0.0.0.0 abuylike.com
+0.0.0.0 acarvi.com
 0.0.0.0 acellr.co.uk
 0.0.0.0 aciertofinanciero.com
 0.0.0.0 acontecimientomundial.com
@@ -227,6 +229,7 @@
 0.0.0.0 chothuexetaitphcm.net
 0.0.0.0 chuckozeas.com
 0.0.0.0 chuhevuinhon.com
+0.0.0.0 cimadcp.com
 0.0.0.0 cimbracapital.com
 0.0.0.0 cipro.mx
 0.0.0.0 cityoftransformation.com
@@ -368,6 +371,7 @@
 0.0.0.0 elibact.com
 0.0.0.0 elvalledetarrazu.com
 0.0.0.0 emaids.co.za
+0.0.0.0 engenhariaengtec.com.br
 0.0.0.0 enviprogct.com
 0.0.0.0 er-estate.com
 0.0.0.0 eraport.dfirma.pl
@@ -387,6 +391,7 @@
 0.0.0.0 exilum.com
 0.0.0.0 expopioneros.com
 0.0.0.0 expressionsofwood.ca
+0.0.0.0 f8designstudio.com
 0.0.0.0 famesa.com.ar
 0.0.0.0 fantadentalperu.com
 0.0.0.0 femerp.com
@@ -551,7 +556,6 @@
 0.0.0.0 imrantex.com
 0.0.0.0 incotel.com.pk
 0.0.0.0 indigohomes.com
-0.0.0.0 indonesias.me
 0.0.0.0 indrasbikaner.com
 0.0.0.0 induspay.pk
 0.0.0.0 infoinsect.com
@@ -619,6 +623,7 @@
 0.0.0.0 kingspalaceacademy.com
 0.0.0.0 kinkyplaystore.com
 0.0.0.0 kislatam.com
+0.0.0.0 kivointergrated.com
 0.0.0.0 kkfd.ase6gasdegoo.com
 0.0.0.0 klimabilgisi.com
 0.0.0.0 kmphi.com
@@ -647,6 +652,7 @@
 0.0.0.0 lebapedia.com
 0.0.0.0 lebetha.co.za
 0.0.0.0 lesbonscontacts.fr
+0.0.0.0 letsggoo.com
 0.0.0.0 level-upcg.com
 0.0.0.0 library.arihantmbainstitute.ac.in
 0.0.0.0 lidermotopecas.com.br
@@ -761,6 +767,7 @@
 0.0.0.0 mysura.it
 0.0.0.0 mytheacademy.com
 0.0.0.0 mzkhero.com
+0.0.0.0 nakato.co.za
 0.0.0.0 nakshainfra.com
 0.0.0.0 namthaibinh.net
 0.0.0.0 nanotechspm.com
@@ -833,7 +840,6 @@
 0.0.0.0 oscarmontezuma.com
 0.0.0.0 oshi.at
 0.0.0.0 ottawarenovationcompany.com
-0.0.0.0 outdoortacklebox.com
 0.0.0.0 ovajabmedia.com
 0.0.0.0 overseas-freight.net
 0.0.0.0 ozelmimarsinanmtal.com
@@ -1054,6 +1060,7 @@
 0.0.0.0 spices.com.sg
 0.0.0.0 spinkapuas88.com
 0.0.0.0 spiritualoutdooradventures.org
+0.0.0.0 spit.com.mx
 0.0.0.0 spmmedicare.com
 0.0.0.0 src1.minibai.com
 0.0.0.0 srikalaivanipackersandmovers.com
@@ -1208,6 +1215,7 @@
 0.0.0.0 vogue-pharmaceuticals.com
 0.0.0.0 votre-futur-site.com
 0.0.0.0 voxforem.co.uk
+0.0.0.0 vtope.info
 0.0.0.0 vvusc.com
 0.0.0.0 walkindrivetoday.com
 0.0.0.0 wattan24.com
@@ -1241,10 +1249,10 @@
 0.0.0.0 www.alakarga.com.tr
 0.0.0.0 www.alertsecurities.in
 0.0.0.0 www.almoeqatar.com
-0.0.0.0 www.amazonmall.club
 0.0.0.0 www.arkidecture.com
 0.0.0.0 www.artrsllc.com
 0.0.0.0 www.bancarioscornelio.com.br
+0.0.0.0 www.bearware.org
 0.0.0.0 www.belllaemonella.it
 0.0.0.0 www.carusoadvogados.com.br
 0.0.0.0 www.cesasin.com.ar
@@ -1271,6 +1279,7 @@
 0.0.0.0 www.moninediy.com
 0.0.0.0 www.movidoc.com.br
 0.0.0.0 www.neshuafoods.com
+0.0.0.0 www.nprlogistica.com.br
 0.0.0.0 www.opolis.io
 0.0.0.0 www.palharesinformatica.com.br
 0.0.0.0 www.piaozone.com
@@ -1316,4 +1325,4 @@
 0.0.0.0 zl-partners.com
 0.0.0.0 zuflixstar.com
 0.0.0.0 zulfiyya.com
-# Number of entries: 1310
+# Number of entries: 1319
