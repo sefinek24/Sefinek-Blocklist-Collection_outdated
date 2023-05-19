@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-19 10:54:41 (UTC)                      #
+# Last updated: 2023-05-19 12:04:34 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -138,6 +138,7 @@ server=/batsamco.com/
 server=/bawatingbarter.com/
 server=/bayyan.magesticflyer.com/
 server=/bbc-s.news/
+server=/bearcatpumps.com.cn/
 server=/beautifulqueen.com.br/
 server=/bebessi.com.tr/
 server=/bencevendeghaz.hu/
@@ -294,7 +295,6 @@ server=/denovolaws.com/
 server=/dental.xiaoxiao.media/
 server=/dentalbraces4me.com/
 server=/destinymc.co.za/
-server=/detail-booking.com.br/
 server=/dev.sebpo.net/
 server=/deventerprises.co/
 server=/devises-dz.com/
@@ -566,7 +566,6 @@ server=/instinctux.com/
 server=/intelli-sys.co.zw/
 server=/intervisaovistorias.com.br/
 server=/invar.me/
-server=/investcluster.com/
 server=/iperceptsondemand.com/
 server=/iprovietnam.com/
 server=/irte.in/
@@ -574,6 +573,7 @@ server=/isac.net.in/
 server=/itsssl.com/
 server=/itstoreindia.com/
 server=/itsupportadminguy.info/
+server=/ivibits.com/
 server=/jaccolima.com/
 server=/jacksonkatz.com/
 server=/jadinnovations.co.ug/
@@ -696,6 +696,7 @@ server=/marksidfgs.ug/
 server=/marquesvogt.com/
 server=/marzanocars.com/
 server=/masr-alalmanya.com/
+server=/matajir.ae/
 server=/matchtranslations.com/
 server=/mathonsiohs.co.za/
 server=/maviproducciones.com/
@@ -710,6 +711,7 @@ server=/medicaintl.com/
 server=/medicalbillingandtelehealth.com/
 server=/medicareinc.com/
 server=/meetxgirls.com/
+server=/meeweb.com/
 server=/megapowersystem.com/
 server=/meiieco.fr/
 server=/mena-studies.org/
@@ -855,6 +857,7 @@ server=/parrotbay.net/
 server=/pascasarjana.iainfmpapua.ac.id/
 server=/passtheot.com/
 server=/paste-bin.xyz/
+server=/pathways4success.com/
 server=/patmypets.com/
 server=/pattersonoil.co.uk/
 server=/pcssignal.com/
@@ -873,6 +876,7 @@ server=/pfixs.com/
 server=/pgn-dkppsby.com/
 server=/picc-penang.com/
 server=/pickmedicare.com/
+server=/pico-eg.org/
 server=/pillsenergy.com/
 server=/pink99.com/
 server=/pipclass.com/
@@ -1154,6 +1158,7 @@ server=/treaty4news.com/
 server=/trentosignal.com/
 server=/trieutin.com/
 server=/trinifieds.com/
+server=/trinoxidiuvendas.com/
 server=/triplebbbfoundationrepair.com/
 server=/triplevmusic.com/
 server=/tudien.org.vn/
@@ -1327,4 +1332,4 @@ server=/zhaoziliao1668.cn/
 server=/zl-partners.com/
 server=/zuflixstar.com/
 server=/zulfiyya.com/
-# Number of entries: 1321
+# Number of entries: 1326
