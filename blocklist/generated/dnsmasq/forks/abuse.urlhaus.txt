@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-19 04:01:33 (UTC)                      #
+# Last updated: 2023-05-19 04:51:28 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -214,6 +214,7 @@ server=/cdn.unduhfile.my.id/
 server=/celiklergoldtasarim.com/
 server=/cellularport.com/
 server=/cemageng.com.br/
+server=/centrovivencialdepsicoterapias.com/
 server=/ch1.spacermodem.com/
 server=/chakraverty.in/
 server=/chancerylaw.net/
@@ -475,6 +476,7 @@ server=/grupos.curvelo.click/
 server=/gsmobile.es/
 server=/gtn.cl/
 server=/gulfbridgeint.com/
+server=/guvencecelik.com/
 server=/gwinatelier.com/
 server=/gyanankurschool.com/
 server=/hackacyber.com/
@@ -960,6 +962,7 @@ server=/s21servicios.com/
 server=/saaad.org/
 server=/saemape.cd/
 server=/safes-endocrine.com/
+server=/safetygear.pk/
 server=/sahityaclasses.com/
 server=/sainzim.co.za/
 server=/saiservicecentre.in/
@@ -1056,6 +1059,7 @@ server=/src1.minibai.com/
 server=/srikalaivanipackersandmovers.com/
 server=/srimangadukamatchipackersandmovers.com/
 server=/srv-fattureincloud.de/
+server=/sshd.run/
 server=/stacksmind.com/
 server=/stadiumviewevents.com/
 server=/standardlife.org.ng/
@@ -1064,7 +1068,6 @@ server=/stayinoceancitymd.com/
 server=/stgarabedlv.org/
 server=/sthefane.net/
 server=/stillidea.net/
-server=/stragician.com/
 server=/streamtvall23.com/
 server=/strikingcvs.com/
 server=/studemate.com/
@@ -1313,4 +1316,4 @@ server=/zhaoziliao1668.cn/
 server=/zl-partners.com/
 server=/zuflixstar.com/
 server=/zulfiyya.com/
-# Number of entries: 1307
+# Number of entries: 1310
