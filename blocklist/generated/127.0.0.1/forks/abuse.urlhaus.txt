@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-19 16:59:23 (UTC)                      #
+# Last updated: 2023-05-19 17:58:39 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -97,7 +97,6 @@
 127.0.0.1 api.52kkg.com
 127.0.0.1 api.elwekala.com
 127.0.0.1 api.seeingoholidays.com
-127.0.0.1 apple-service93.ru
 127.0.0.1 apprication.dev
 127.0.0.1 apps.saintsoporte.com
 127.0.0.1 aprendainvestimentos.com
@@ -137,6 +136,7 @@
 127.0.0.1 bawatingbarter.com
 127.0.0.1 bayyan.magesticflyer.com
 127.0.0.1 bbc-s.news
+127.0.0.1 bearcatpumps.com.cn
 127.0.0.1 beautifulqueen.com.br
 127.0.0.1 bebessi.com.tr
 127.0.0.1 bencevendeghaz.hu
@@ -241,6 +241,7 @@
 127.0.0.1 cmyk.com.ar
 127.0.0.1 coachesmarketingcenter.com
 127.0.0.1 coadymarine.com
+127.0.0.1 coiffurepacitto.com
 127.0.0.1 cointra.ac.ug
 127.0.0.1 cointrasur.com
 127.0.0.1 colisumy.com
@@ -288,12 +289,14 @@
 127.0.0.1 dekor-kitchens.co.uk
 127.0.0.1 deliciassobencomenda.com.br
 127.0.0.1 delwanqatar.com
+127.0.0.1 demirelmarka.com
 127.0.0.1 demo-re-usables.inertiasoft.net
 127.0.0.1 demo.omnitech.co.ug
 127.0.0.1 demonware.online
 127.0.0.1 denovolaws.com
 127.0.0.1 dental.xiaoxiao.media
 127.0.0.1 dentalbraces4me.com
+127.0.0.1 derekludlow.com
 127.0.0.1 destinymc.co.za
 127.0.0.1 detail-booking.com.br
 127.0.0.1 dev.sebpo.net
@@ -322,6 +325,7 @@
 127.0.0.1 down.udashi.com
 127.0.0.1 download.caihong.com
 127.0.0.1 download.doumaibiji.cn
+127.0.0.1 download.pdf00.cn
 127.0.0.1 downloads.bcweb.org.uk
 127.0.0.1 dowsa.net
 127.0.0.1 drainsolutionplus.com
@@ -378,6 +382,7 @@
 127.0.0.1 er-estate.com
 127.0.0.1 eraport.dfirma.pl
 127.0.0.1 erkaradyator.com.tr
+127.0.0.1 eschoolbathinda.com
 127.0.0.1 esjpakistan.com
 127.0.0.1 esquiudigital.com
 127.0.0.1 essayever.com
@@ -413,20 +418,17 @@
 127.0.0.1 fondationmms.org
 127.0.0.1 foodfitgym.com
 127.0.0.1 formacioncontinuainap.net
-127.0.0.1 formar3d.com.br
 127.0.0.1 forsalenear.me
 127.0.0.1 forslag.net
 127.0.0.1 foundersdoc.com
 127.0.0.1 fran.ac.ug
 127.0.0.1 frangulf.ae
-127.0.0.1 frangulfadvocates.com
 127.0.0.1 frangulflegal.com
 127.0.0.1 frangulfmedia.com
 127.0.0.1 fransceysse.ac.ug
 127.0.0.1 frbodystyling.com
 127.0.0.1 freebiezz.com
 127.0.0.1 freesiahealth.com
-127.0.0.1 frenchiescity.com
 127.0.0.1 frey2.com
 127.0.0.1 frimysuperfoods.com
 127.0.0.1 funatfitsports.com
@@ -452,6 +454,7 @@
 127.0.0.1 georgesnfrem.org
 127.0.0.1 germanyadmission.com
 127.0.0.1 getaprofessionalwebsite.com
+127.0.0.1 getcash2surveys.com
 127.0.0.1 ghadmoshrek.com
 127.0.0.1 ghosiawood.com
 127.0.0.1 gideonfountain.com
@@ -494,6 +497,7 @@
 127.0.0.1 hausseeblickscheidegg.de
 127.0.0.1 hdfittv.com
 127.0.0.1 healthylivingnow.xyz
+127.0.0.1 heatherrichardsonline.com
 127.0.0.1 heissa-artie.com
 127.0.0.1 helmprecision.com
 127.0.0.1 helptimize.com
@@ -515,7 +519,6 @@
 127.0.0.1 hotelcasablancadurango.com
 127.0.0.1 hotwaterasap.com
 127.0.0.1 houseatthebeachinoc.com
-127.0.0.1 houseboatritz.com
 127.0.0.1 houseofwaterlily.com
 127.0.0.1 houssagynecologue.com
 127.0.0.1 hp.buytoprint.com
@@ -524,7 +527,9 @@
 127.0.0.1 hseda.com
 127.0.0.1 htownbars.com
 127.0.0.1 hugersi.com
+127.0.0.1 humanaidbd.org
 127.0.0.1 humpass.ae
+127.0.0.1 hunggiang.vn
 127.0.0.1 hurghada-fs.com
 127.0.0.1 hypemediang.com
 127.0.0.1 ia-bc.com
@@ -555,7 +560,6 @@
 127.0.0.1 imrantex.com
 127.0.0.1 incotel.com.pk
 127.0.0.1 indigohomes.com
-127.0.0.1 indrasbikaner.com
 127.0.0.1 induspay.pk
 127.0.0.1 infoinsect.com
 127.0.0.1 innoshopz.com
@@ -568,13 +572,13 @@
 127.0.0.1 intervisaovistorias.com.br
 127.0.0.1 invar.me
 127.0.0.1 investcluster.com
+127.0.0.1 iperceptsondemand.com
 127.0.0.1 iprovietnam.com
 127.0.0.1 irte.in
 127.0.0.1 isac.net.in
 127.0.0.1 itsssl.com
 127.0.0.1 itstoreindia.com
 127.0.0.1 itsupportadminguy.info
-127.0.0.1 ivibits.com
 127.0.0.1 jaccolima.com
 127.0.0.1 jacksonkatz.com
 127.0.0.1 jalebel7abeb.com
@@ -701,6 +705,7 @@
 127.0.0.1 masr-alalmanya.com
 127.0.0.1 matajir.ae
 127.0.0.1 matchtranslations.com
+127.0.0.1 mathonsiohs.co.za
 127.0.0.1 maviproducciones.com
 127.0.0.1 maxcodeitsolutions.com
 127.0.0.1 maxximbrasil.com
@@ -991,14 +996,17 @@
 127.0.0.1 sanubix.vip
 127.0.0.1 sarl-cec.com
 127.0.0.1 sashkin.com
+127.0.0.1 sasms.co
 127.0.0.1 satuatlas.com
 127.0.0.1 saudihiking.net
+127.0.0.1 sawabash-sd.com
 127.0.0.1 scarletespinal.com
 127.0.0.1 scarterproductionfilms.com
 127.0.0.1 scglobal.co.th
 127.0.0.1 scientific.pk
 127.0.0.1 scmsgroup.org
 127.0.0.1 sdpitc.co.in
+127.0.0.1 sealicensing.com
 127.0.0.1 secretmindcontrol.com
 127.0.0.1 seedsindia.org
 127.0.0.1 seemaxtours.com
@@ -1014,6 +1022,7 @@
 127.0.0.1 server.easysalepage.in.th
 127.0.0.1 server.toeicswt.co.kr
 127.0.0.1 server1.childrenspiace.us
+127.0.0.1 servicioslogisticosdyc.com
 127.0.0.1 shaheralhroub.com
 127.0.0.1 shahu66.com
 127.0.0.1 shalamasonry.com
@@ -1023,7 +1032,6 @@
 127.0.0.1 shg.ph
 127.0.0.1 shilhaandara.com
 127.0.0.1 shipminttracking.net
-127.0.0.1 shomasoft.ir
 127.0.0.1 shop.mediasova.ru
 127.0.0.1 shotvet.com
 127.0.0.1 shredsecrets.net
@@ -1062,7 +1070,6 @@
 127.0.0.1 spaceframe.mobi.space-frame.co.za
 127.0.0.1 spartancv.co.uk
 127.0.0.1 spartanpapers.co.uk
-127.0.0.1 speedfachadas.com.br
 127.0.0.1 spices.com.sg
 127.0.0.1 spinkapuas88.com
 127.0.0.1 spiritualoutdooradventures.org
@@ -1111,8 +1118,6 @@
 127.0.0.1 taxaide.co.uk
 127.0.0.1 tebiyu.com
 127.0.0.1 techafresh.com
-127.0.0.1 techforaap.com
-127.0.0.1 techniguitare.com
 127.0.0.1 techvibeo.com
 127.0.0.1 tecni-soft.com
 127.0.0.1 telecompunch.com
@@ -1204,7 +1209,6 @@
 127.0.0.1 vietroll.vn
 127.0.0.1 vijayshanti.com
 127.0.0.1 vikasitaconnect.com
-127.0.0.1 vipbeed.com
 127.0.0.1 vipyangin.com
 127.0.0.1 vipysknik.by
 127.0.0.1 virtualdancewithkhady.com
@@ -1230,10 +1234,10 @@
 127.0.0.1 websound.ru
 127.0.0.1 wefoundworld.com
 127.0.0.1 westcoastrides.net
+127.0.0.1 whatelles.nl
 127.0.0.1 wheretobuyelectronics.com
 127.0.0.1 whoisalbertuncle.com
 127.0.0.1 wholesalemartltd.co.uk
-127.0.0.1 windcomtechnologies.com
 127.0.0.1 windowcollections.com
 127.0.0.1 windowsclean.us
 127.0.0.1 winpeforum.com
@@ -1267,12 +1271,12 @@
 127.0.0.1 www.cisnc.it
 127.0.0.1 www.clinicamomentum.com.br
 127.0.0.1 www.conexclean.ro
-127.0.0.1 www.dacui.online
 127.0.0.1 www.ddtools.top
 127.0.0.1 www.dental.xiaoxiao.media
 127.0.0.1 www.enc-tech.com
 127.0.0.1 www.fixstudio.co.kr
 127.0.0.1 www.globallaborsupply.com
+127.0.0.1 www.hebgb.top
 127.0.0.1 www.hseda.com
 127.0.0.1 www.ingonherbal.com
 127.0.0.1 www.institut-corps-a-ligne.fr
@@ -1332,4 +1336,4 @@
 127.0.0.1 zl-partners.com
 127.0.0.1 zuflixstar.com
 127.0.0.1 zulfiyya.com
-# Number of entries: 1326
+# Number of entries: 1330
