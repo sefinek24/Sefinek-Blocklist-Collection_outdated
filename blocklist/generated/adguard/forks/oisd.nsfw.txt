@@ -1,8 +1,8 @@
 ! [Adblock Plus]
-! Version: 202305191210
+! Version: 202305191615
 ! Description: Blocks Shock/Porn/Adult
 ! Title: oisd nsfw
-! Last modified: 2023-05-19T12:10:39+0000
+! Last modified: 2023-05-19T16:15:01+0000
 ! Expires: 1 days (update frequency)
 ! Homepage: https://oisd.nl
 ! Syntax: ||<domain>^
@@ -142067,7 +142067,6 @@
 ||reddit.rest^
 ||redditcuckold.com^
 ||reddithookups.com^
-||redditmedia.com^
 ||redditporn.com^
 ||redditporn.org^
 ||redditporngifs.com^
