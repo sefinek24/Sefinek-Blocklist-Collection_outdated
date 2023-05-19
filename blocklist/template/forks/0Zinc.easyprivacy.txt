@@ -1836,6 +1836,7 @@
 0.0.0.0 csp-collector.appspot.com
 0.0.0.0 csp-reporting.cloudflare.com
 0.0.0.0 csr.onet.pl
+0.0.0.0 ct.capterra.com
 0.0.0.0 ct.corpusapp.com
 0.0.0.0 ct.needlive.com
 0.0.0.0 ct.pinterest.com
@@ -17126,7 +17127,6 @@
 0.0.0.0 get.pintpass.com
 0.0.0.0 get.printtapp.com
 0.0.0.0 get.prismapp.com
-0.0.0.0 get.revolut.com
 0.0.0.0 get.reward.me
 0.0.0.0 get.riyazapp.com
 0.0.0.0 get.roomiapp.com
