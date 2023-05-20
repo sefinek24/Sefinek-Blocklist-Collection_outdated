@@ -1,6 +1,6 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! abuse.ch URLhaus Host file                                   !
-! Last updated: 2023-05-20 04:56:12 (UTC)                      !
+! Last updated: 2023-05-20 06:04:44 (UTC)                      !
 !                                                              !
 ! Terms Of Use: https://urlhaus.abuse.ch/api/                  !
 ! For questions please contact urlhaus [at] abuse.ch           !
@@ -69,6 +69,7 @@
 ||amarteargentina.com.ar^
 ||amazonbirding.com^
 ||americantv.online^
+||amorconsulta.com.br^
 ||andrewpharma.com^
 ||andykimrealty.com^
 ||angel.bk.idv.tw^
@@ -110,7 +111,6 @@
 ||bawatingbarter.com^
 ||bayyan.magesticflyer.com^
 ||bbc-s.news^
-||bearcatpumps.com.cn^
 ||beautifulqueen.com.br^
 ||bebessi.com.tr^
 ||bencevendeghaz.hu^
@@ -152,7 +152,6 @@
 ||brucesupplyplumbing.com^
 ||bruiserbodies.com^
 ||bsdtreeinc.com^
-||bship.biz^
 ||bugscrum.com^
 ||buscascolegios.diit.cl^
 ||business-line.com^
@@ -162,11 +161,13 @@
 ||camminachetipassa.it^
 ||canadianused.com^
 ||canconsulting.in^
+||capitalperurrhh.com^
 ||cargoconnect.online^
 ||carladvogadatributaria.com^
 ||carwashdenham.com^
 ||casamuseoayerbe.co^
 ||cbcmodesto.org^
+||cbob.cuchulain.co.za^
 ||cdaonline.com.ar^
 ||cdn.doxbin.org^
 ||cdn.unduhfile.my.id^
@@ -183,6 +184,7 @@
 ||chuckozeas.com^
 ||cipro.mx^
 ||cityoftransformation.com^
+||citypharmacylv.com^
 ||cloud47options.com^
 ||clovekwealth.com^
 ||cmyk.com.ar^
@@ -191,6 +193,7 @@
 ||companella.site^
 ||congtykhoancatbetong.com^
 ||contadoresayb.com^
+||controlhomecr.com^
 ||coop-host.com^
 ||coorsamexico.mx^
 ||coralpac.com^
@@ -201,6 +204,7 @@
 ||countrychristmas.ca^
 ||crazymoney.app^
 ||creativebugs.net^
+||creativesmartsolution.com^
 ||crecerco.com^
 ||crenloreto.com^
 ||crsn.com.ar^
@@ -209,7 +213,6 @@
 ||d.tocat.co^
 ||d1.udashi.com^
 ||dacsandongthapmuoi.vn^
-||danaevara.com^
 ||dandtpainting.com^
 ||daniellesiruffo.com^
 ||dankory.com^
@@ -240,6 +243,7 @@
 ||dhnconstrucciones.com.ar^
 ||diabeflix.club^
 ||dichvuphanmem.net^
+||digitalonline.cl^
 ||digitalsolution360.in^
 ||dinaseithigal.com^
 ||divine-project.com^
@@ -263,7 +267,6 @@
 ||drhanneserasmus.co.za^
 ||drive.google.com.it-barcelona.com^
 ||drive33.com^
-||droomsoft.com^
 ||drpackirisamy.co.za^
 ||dst.co.tz^
 ||dukaree.com^
@@ -307,7 +310,6 @@
 ||eurooknamsk.ru^
 ||examstospl.com^
 ||exilum.com^
-||exitoshop.co.zw^
 ||expopioneros.com^
 ||expressionsofwood.ca^
 ||f8designstudio.com^
@@ -328,7 +330,6 @@
 ||frangulflegal.com^
 ||frangulfmedia.com^
 ||freebiezz.com^
-||frenchiescity.com^
 ||funatfitsports.com^
 ||funletters.net^
 ||futureadvisorconsultant.com^
@@ -358,7 +359,6 @@
 ||graphixcreativity.com^
 ||greenisco.com^
 ||greenlizard.co.za^
-||greyfordacademy1.com^
 ||growtharbor.com^
 ||grupoexpoinout.com^
 ||grupolahe.com^
@@ -374,7 +374,6 @@
 ||happynights.net^
 ||harleyqueretaro.com^
 ||hausseeblickscheidegg.de^
-||healthylivingnow.xyz^
 ||heatherrichardsonline.com^
 ||heissa-artie.com^
 ||helmprecision.com^
@@ -407,7 +406,6 @@
 ||ianjesuscr.org^
 ||ibremp.org.br^
 ||icupsa.com.mx^
-||icvpartners.com^
 ||idalidcouture.com^
 ||idealweddings.co.zw^
 ||idrissischool.edu.my^
@@ -431,8 +429,8 @@
 ||innoshopz.com^
 ||inspiratour.co.id^
 ||instantfunnellab.com^
-||instinctux.com^
 ||intellectproactive.com^
+||intelli-sys.co.zw^
 ||internationalvocalcoach.com^
 ||intervisaovistorias.com.br^
 ||invar.me^
@@ -447,7 +445,6 @@
 ||jaccolima.com^
 ||jacksonkatz.com^
 ||jadinnovations.co.ug^
-||jalebel7abeb.com^
 ||jaridh.com^
 ||jcedu.org^
 ||jewishquarterly.org^
@@ -469,10 +466,8 @@
 ||jr-software-web.net^
 ||justplay.asia^
 ||jyothyvidyalaya.org^
-||kaiessentials.com^
 ||kaleidoscoperocks.com^
 ||kalpanacotton.com^
-||kamtress.com^
 ||karary.edu.sd^
 ||karer.by^
 ||karimgousa.ug^
@@ -496,7 +491,6 @@
 ||kolleruaqua.com^
 ||kompas86.com^
 ||konseptderi.com^
-||kridhanidecor.com^
 ||kustens.com^
 ||lacasadespain.com^
 ||lalajimatrimonial.com^
@@ -523,12 +517,9 @@
 ||linkvilleplayers.org^
 ||littlemisskenya.com^
 ||livetrack.in^
-||lmlawcorp.com^
-||lobenexpeditions.com^
 ||lojalz14.com.br^
 ||lokhandwalaminerva.com^
 ||lopespublicidade.com^
-||lorem.com.sa^
 ||lotemoclubrificantes.com.br^
 ||lotusmont.com^
 ||lp.gunlakemhc.com^
@@ -542,6 +533,7 @@
 ||maccounting.in^
 ||macro.nyc^
 ||madicon.co.za^
+||maduraipackersandmovers.com^
 ||main.cloudfronts.net^
 ||mainorchile.cl^
 ||makeupuccino.com^
@@ -549,7 +541,6 @@
 ||maniadepassarmooca.com.br^
 ||mansepool.com^
 ||manuelferreirag.com^
-||mario-sunjic.com^
 ||marksidfgs.ug^
 ||marquesvogt.com^
 ||masr-alalmanya.com^
@@ -561,6 +552,7 @@
 ||maxximbrasil.com^
 ||mbgrm.com^
 ||mcapublicschool.com^
+||mcomtechnology.com^
 ||mdttasarim.com.tr^
 ||medcar.com.tn^
 ||medicaintl.com^
@@ -605,12 +597,10 @@
 ||mundiaandmudhara.com^
 ||musicaondemand.com^
 ||mvinfotech.com^
-||myayurvedashoppe.com^
 ||myiclicktv.com^
 ||mysura.it^
 ||mytheacademy.com^
 ||nakato.co.za^
-||namthaibinh.net^
 ||nanpe.eng.br^
 ||natpet.com^
 ||nazima.ac.ug^
@@ -657,7 +647,6 @@
 ||optimalsolutionsonline.com^
 ||ora.ci^
 ||orangefire.ae^
-||orderedami.com^
 ||organizer.safeonline.it^
 ||origins-france.fr^
 ||orlcasablanca.com^
@@ -688,6 +677,7 @@
 ||petparadise.biz^
 ||pfixs.com^
 ||pgn-dkppsby.com^
+||piacsaproyectos.com^
 ||pico-eg.org^
 ||pink99.com^
 ||pipclass.com^
@@ -722,6 +712,7 @@
 ||pryhmshift.com^
 ||publiext.com^
 ||punjabdevelopersassociation.com.pk^
+||pyrd5.xyz^
 ||qassimnews.com^
 ||qaswrahc.com^
 ||qdxamerica.com^
@@ -739,7 +730,6 @@
 ||reebootwellness.com^
 ||regiscoimbra.pt^
 ||reifenquick.de^
-||relaxindulge.co.nz^
 ||remotaja.com^
 ||renacer.jgorange.com^
 ||repairhubpat.com^
@@ -771,17 +761,14 @@
 ||salesoxigen.com^
 ||salmanpoultry.com^
 ||saloneeats.com^
-||samglobaltrading.com^
 ||sandonet.es^
 ||santiagotrader.com^
 ||sanubix.vip^
 ||sashkin.com^
 ||sasms.co^
-||satuatlas.com^
 ||sawabash-sd.com^
 ||scarletespinal.com^
 ||scarterproductionfilms.com^
-||scglobal.co.th^
 ||schoolofspanish.co.za^
 ||scientific.pk^
 ||scmsgroup.org^
@@ -832,7 +819,6 @@
 ||softsols.net^
 ||solapurcancer.com^
 ||soniderosunidos.com^
-||soquipra.cl^
 ||spaceframe.mobi.space-frame.co.za^
 ||spices.com.sg^
 ||spiritualoutdooradventures.org^
@@ -858,6 +844,7 @@
 ||sunpos.in^
 ||superstar.tibolts.co.uk^
 ||sweepliberia.org^
+||sysmedbi.com.mx^
 ||t.honker.info^
 ||talentopportunities.net^
 ||tebiyu.com^
@@ -889,19 +876,16 @@
 ||theyoungandtheratchet.com^
 ||thomasakvo.com^
 ||threerosesbeauty.com^
-||tiemvangngoctham.com^
 ||timamollo.co.za^
 ||tipsfreehealth.com^
 ||tollywoodindustry.com^
 ||tonydong.com^
 ||topsepatu.com^
 ||tovecpharma.com^
-||traderhype.com^
 ||transportadoramiranda.com^
 ||travelwithmanta.co.za^
 ||treaty4news.com^
 ||trentosignal.com^
-||trieutin.com^
 ||trinifieds.com^
 ||trinoxidiuvendas.com^
 ||triplebbbfoundationrepair.com^
@@ -927,6 +911,7 @@
 ||utilimixnatal.com.br^
 ||utmtechnologies.com^
 ||uxsingh.com^
+||uylab.org^
 ||vaikartanapraj.com^
 ||valeinformado.com^
 ||vashovskycorp.com^
@@ -944,11 +929,13 @@
 ||visaexpressbd.com^
 ||visionpharma.net^
 ||vitoturizm.com.tr^
+||vividled.in^
 ||vogue-pharmaceuticals.com^
 ||volainc.co^
 ||votre-futur-site.com^
 ||voxforem.co.uk^
 ||vtope.info^
+||walkindrivetoday.com^
 ||web.geomegasoft.net^
 ||web3solution.com^
 ||webcloner.net^
@@ -1001,7 +988,6 @@
 ||www.janisthaaivf.com^
 ||www.lasikofmichigan.com^
 ||www.lebuffet.com.tn^
-||www.maxmoney.com^
 ||www.mediakomen.com^
 ||www.moninediy.com^
 ||www.neshuafoods.com^
@@ -1010,7 +996,6 @@
 ||www.palharesinformatica.com.br^
 ||www.piaozone.com^
 ||www.reifenquick.de^
-||www.reiwo-service.de^
 ||www.roofing.galacticleads.com^
 ||www.saf-oil.ru^
 ||www.smpnuruliman.xyz^
@@ -1019,12 +1004,15 @@
 ||www.tradeinsights.net^
 ||www.tvculturaourofino.com.br^
 ||www.vaestsolutions.com^
+||www.websound.ru^
 ||www.weinsteincounseling.com^
 ||www.ysbaojia.com^
 ||wynecare.com^
 ||x.233sy.cn^
 ||xmanager.in^
+||xn----7sbhgfcdscaa3cdd6dq3e3dvf.xn--p1ai^
 ||xpia-i.com^
+||xt.lykj988.com^
 ||xyktza.nbxyk.net^
 ||yarrowenterprise.com^
 ||yashroadcarriers.com^
@@ -1042,4 +1030,4 @@
 ||zf.gouzapay.cn^
 ||zhaoziliao1668.cn^
 ||zulfiyya.com^
-! Number of entries: 1036
+! Number of entries: 1024
