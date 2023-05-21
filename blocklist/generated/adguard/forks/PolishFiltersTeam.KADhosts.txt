@@ -1,7 +1,7 @@
 ! Title: KADhosts
 ! Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Sun, 21 May 2023, 19:44 UTC+02:00
-! Version: 2023.5.21.5
+! Last modified: Sun, 21 May 2023, 22:16 UTC+02:00
+! Version: 2023.5.21.6
 ! Expires: 2 days
 ! Website: https://kadantiscam.netlify.app/
 ! Based on: https://github.com/FiltersHeroes/KAD
@@ -9354,6 +9354,7 @@
 ||984ba83bb22.chefs-kitchen.co.uk^
 ||985cd00524954113ff94974c6b24e3ce.krokla.co.pl^
 ||987d222e928eb1df993f82677604958f.djodom.co.pl^
+||987e6e1584d63fc55ceda3f0429faf68.microgro.pl^
 ||989f64768fd3645055434d2578969232.krokla.co.pl^
 ||991bb493aac.chefs-kitchen.co.uk^
 ||997-policja.pl^
@@ -9712,6 +9713,7 @@
 ||7508weryfikacja-praca.ats.co.pl^
 ||7514c8e9accf5d6ea6acbc49aca34cf5.fjao.pl^
 ||7533b12350aaf3107b6e9815a5f414f9.hospla.co.pl^
+||7546b90a71753ecd1a44d6a3b0fc6eef.microgro.pl^
 ||7577f547448b1b11dfe2740838555be8.alldom.co.pl^
 ||7609-kod410855-nastepny.xtls.co.pl^
 ||07615c5c600.chefs-kitchen.co.uk^
@@ -18132,6 +18134,7 @@
 ||c9b1ede0fbd3141f7759298186bf0467.krokla.co.pl^
 ||c9dd8ddddb111f12b961de1f2b97d3bf.dopla.com.pl^
 ||c9e8f47a71254bf636b2b7f5db4306b7.alldom.co.pl^
+||c9f0c13fcca75ed1044ba56dafe08071.microgro.pl^
 ||c11ec7c2122b6db52b00449226ba45e4.sht.co.pl^
 ||c18hox.webwave.dev^
 ||c25fb524-9055-4d33-869b-94cd7d51717e.id.repl.co^
@@ -23564,6 +23567,7 @@
 ||dellver400-ollx.portalpro.life^
 ||dellver408-ollx.tradeblog.icu^
 ||dellver452-ollx.homelife.ink^
+||dellver521-oiix.dungarees.sbs^
 ||dellver609-ollx.marketcentr.link^
 ||dellver665-ollx.storeinfo.ink^
 ||dellver669-ollx.amalgamation.one^
@@ -25910,6 +25914,7 @@
 ||dumfoundered.life^
 ||dumfriesmemorials.com^
 ||dundalk.info^
+||dungarees.sbs^
 ||dungeonadventurequests.com^
 ||dunnites.life^
 ||duocamedicatmort.ga^
@@ -29035,6 +29040,7 @@
 ||firmamobilepl.icu^
 ||firmexpert.club^
 ||firmsone.com^
+||firs.site^
 ||first1business.site^
 ||first-handcalm.com^
 ||firstavenuegroup.com^
@@ -40031,6 +40037,7 @@
 ||kletkovoi-com.preview-domain.com^
 ||klevmor-com.preview-domain.com^
 ||klexcused.pl^
+||klicksspropg.site^
 ||klikijuz.com^
 ||kliknij.website^
 ||klimakampanyalari.com^
@@ -48051,6 +48058,7 @@
 ||o-lx.02322333.xyz^
 ||o-lx.02650000.xyz^
 ||o-lx.3415251.xyz^
+||o-lx.4451517.xyz^
 ||o-lx.4534463.xyz^
 ||o-lx.4811515.xyz^
 ||o-lx.6765531.xyz^
@@ -48890,6 +48898,7 @@
 ||ollx.7885462.xyz^
 ||ollx.7989656.xyz^
 ||ollx.8090916.xyz^
+||ollx.8451517.xyz^
 ||ollx.8678230.xyz^
 ||ollx.8678234.xyz^
 ||ollx.8678236.xyz^
@@ -52501,6 +52510,7 @@
 ||outletpot.com^
 ||outletstream.com^
 ||outlokaccountsetti.wixsite.com^
+||outlook1.19i67.com^
 ||outlook86.wixsite.com^
 ||outlook-accounts.com^
 ||outlookintel.com^
@@ -57834,6 +57844,7 @@
 ||publicystyka.eu^
 ||publiczny-calosc.site^
 ||publikacjapowodz.site^
+||publio-pl.sitey.me^
 ||puchary-zdobywaj.eu^
 ||puckcoil.site^
 ||pudelek-onet-59022208346.azureedge.net^
@@ -60209,6 +60220,7 @@
 ||sequestrar.pl^
 ||sequoiavyx.space^
 ||ser4vice928a-on28a9z3.nowycalgro.co.pl^
+||ser.mypixar-ssl.com^
 ||serbrains.site^
 ||sercepeka.cyou^
 ||sercilin-link.preview-domain.com^
@@ -73771,6 +73783,7 @@
 ||www.984ba83bb22.chefs-kitchen.co.uk^
 ||www.985cd00524954113ff94974c6b24e3ce.krokla.co.pl^
 ||www.987d222e928eb1df993f82677604958f.djodom.co.pl^
+||www.987e6e1584d63fc55ceda3f0429faf68.microgro.pl^
 ||www.989f64768fd3645055434d2578969232.krokla.co.pl^
 ||www.991bb493aac.chefs-kitchen.co.uk^
 ||www.997-policja.pl^
@@ -74129,6 +74142,7 @@
 ||www.7508weryfikacja-praca.ats.co.pl^
 ||www.7514c8e9accf5d6ea6acbc49aca34cf5.fjao.pl^
 ||www.7533b12350aaf3107b6e9815a5f414f9.hospla.co.pl^
+||www.7546b90a71753ecd1a44d6a3b0fc6eef.microgro.pl^
 ||www.7577f547448b1b11dfe2740838555be8.alldom.co.pl^
 ||www.7609-kod410855-nastepny.xtls.co.pl^
 ||www.07615c5c600.chefs-kitchen.co.uk^
@@ -82549,6 +82563,7 @@
 ||www.c9b1ede0fbd3141f7759298186bf0467.krokla.co.pl^
 ||www.c9dd8ddddb111f12b961de1f2b97d3bf.dopla.com.pl^
 ||www.c9e8f47a71254bf636b2b7f5db4306b7.alldom.co.pl^
+||www.c9f0c13fcca75ed1044ba56dafe08071.microgro.pl^
 ||www.c11ec7c2122b6db52b00449226ba45e4.sht.co.pl^
 ||www.c18hox.webwave.dev^
 ||www.c25fb524-9055-4d33-869b-94cd7d51717e.id.repl.co^
@@ -87981,6 +87996,7 @@
 ||www.dellver400-ollx.portalpro.life^
 ||www.dellver408-ollx.tradeblog.icu^
 ||www.dellver452-ollx.homelife.ink^
+||www.dellver521-oiix.dungarees.sbs^
 ||www.dellver609-ollx.marketcentr.link^
 ||www.dellver665-ollx.storeinfo.ink^
 ||www.dellver669-ollx.amalgamation.one^
@@ -90327,6 +90343,7 @@
 ||www.dumfoundered.life^
 ||www.dumfriesmemorials.com^
 ||www.dundalk.info^
+||www.dungarees.sbs^
 ||www.dungeonadventurequests.com^
 ||www.dunnites.life^
 ||www.duocamedicatmort.ga^
@@ -93452,6 +93469,7 @@
 ||www.firmamobilepl.icu^
 ||www.firmexpert.club^
 ||www.firmsone.com^
+||www.firs.site^
 ||www.first1business.site^
 ||www.first-handcalm.com^
 ||www.firstavenuegroup.com^
@@ -104448,6 +104466,7 @@
 ||www.kletkovoi-com.preview-domain.com^
 ||www.klevmor-com.preview-domain.com^
 ||www.klexcused.pl^
+||www.klicksspropg.site^
 ||www.klikijuz.com^
 ||www.kliknij.website^
 ||www.klimakampanyalari.com^
@@ -112469,6 +112488,7 @@
 ||www.o-lx.02322333.xyz^
 ||www.o-lx.02650000.xyz^
 ||www.o-lx.3415251.xyz^
+||www.o-lx.4451517.xyz^
 ||www.o-lx.4534463.xyz^
 ||www.o-lx.4811515.xyz^
 ||www.o-lx.6765531.xyz^
@@ -113308,6 +113328,7 @@
 ||www.ollx.7885462.xyz^
 ||www.ollx.7989656.xyz^
 ||www.ollx.8090916.xyz^
+||www.ollx.8451517.xyz^
 ||www.ollx.8678230.xyz^
 ||www.ollx.8678234.xyz^
 ||www.ollx.8678236.xyz^
@@ -116919,6 +116940,7 @@
 ||www.outletpot.com^
 ||www.outletstream.com^
 ||www.outlokaccountsetti.wixsite.com^
+||www.outlook1.19i67.com^
 ||www.outlook86.wixsite.com^
 ||www.outlook-accounts.com^
 ||www.outlookintel.com^
@@ -122004,6 +122026,7 @@
 ||www.publicystyka.eu^
 ||www.publiczny-calosc.site^
 ||www.publikacjapowodz.site^
+||www.publio-pl.sitey.me^
 ||www.puchary-zdobywaj.eu^
 ||www.puckcoil.site^
 ||www.pudelek-onet-59022208346.azureedge.net^
@@ -124379,6 +124402,7 @@
 ||www.sequestrar.pl^
 ||www.sequoiavyx.space^
 ||www.ser4vice928a-on28a9z3.nowycalgro.co.pl^
+||www.ser.mypixar-ssl.com^
 ||www.serbrains.site^
 ||www.sercepeka.cyou^
 ||www.sercilin-link.preview-domain.com^
