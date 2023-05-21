@@ -1,6 +1,6 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! abuse.ch URLhaus Host file                                   !
-! Last updated: 2023-05-21 16:41:28 (UTC)                      !
+! Last updated: 2023-05-21 18:04:39 (UTC)                      !
 !                                                              !
 ! Terms Of Use: https://urlhaus.abuse.ch/api/                  !
 ! For questions please contact urlhaus [at] abuse.ch           !
@@ -16,6 +16,7 @@
 ||27astudios.com^
 ||2by4constructioninc.com^
 ||31337.hk^
+||33rdderryscouts.com^
 ||360.lcy2zzx.pw^
 ||360down7.miiyun.cn^
 ||3brosstore.com^
@@ -23,7 +24,6 @@
 ||3eshfino.com^
 ||8.365tv.ma^
 ||a.angel-tn.idv.tw^
-||aamroaviation.com^
 ||aaplevidyapith.sgbau.ac.in^
 ||abissnet.net^
 ||abmaxdigital.com^
@@ -76,6 +76,7 @@
 ||asu.com.vn^
 ||athadnw.com^
 ||atomm.com.br^
+||azconsultants.co.in^
 ||azmeasurement.com^
 ||b.dowgmeb.com^
 ||bajacoasthiking.com^
@@ -98,6 +99,7 @@
 ||botnet.catpn.net^
 ||botnet.chipbf.com^
 ||botnet.nguyennghi.info^
+||brickstonerealty.net^
 ||brideofmessiah.com^
 ||british-shorthair.es^
 ||brknarikan.com^
@@ -115,7 +117,6 @@
 ||casamuseoayerbe.co^
 ||cbob.cuchulain.co.za^
 ||cdaonline.com.ar^
-||cdn.doxbin.org^
 ||cdn.unduhfile.my.id^
 ||cemageng.com.br^
 ||ch1.spacermodem.com^
@@ -145,6 +146,7 @@
 ||corpolevesuplementos.com.br^
 ||count.mail.163.com.impactmedfoundation.com^
 ||countrychristmas.ca^
+||crazymoney.app^
 ||creativesmartsolution.com^
 ||crecerco.com^
 ||crenloreto.com^
@@ -152,7 +154,6 @@
 ||cursodeparapsicologia.org^
 ||d.tocat.co^
 ||d1.udashi.com^
-||dacsandongthapmuoi.vn^
 ||danaevara.com^
 ||dandtpainting.com^
 ||daniellesiruffo.com^
@@ -183,15 +184,14 @@
 ||donkeytourscroatia.com^
 ||dop2buid.top^
 ||dop2load.top^
-||down.pcclear.com^
 ||down.udashi.com^
 ||download.caihong.com^
 ||download.doumaibiji.cn^
 ||download.pdf00.cn^
+||downloads.bcweb.org.uk^
 ||dreamchasersltd.com^
 ||drhanneserasmus.co.za^
 ||drive.google.com.it-barcelona.com^
-||droomsoft.com^
 ||drpackirisamy.co.za^
 ||dukaree.com^
 ||dunaujvaros.gorogkatolikus.hu^
@@ -219,7 +219,9 @@
 ||eurooknamsk.ru^
 ||exilum.com^
 ||expopioneros.com^
+||expressionsofwood.ca^
 ||famesa.com.ar^
+||fantadentalperu.com^
 ||femerp.com^
 ||fibroflex.com.br^
 ||files5.uludagbilisim.com^
@@ -228,12 +230,10 @@
 ||formar3d.com.br^
 ||forsalenear.me^
 ||fran.ac.ug^
-||frangulf.ae^
 ||frangulfadvocates.com^
 ||frangulflegal.com^
 ||frangulfmedia.com^
 ||fransceysse.ac.ug^
-||frenchiescity.com^
 ||funatfitsports.com^
 ||funletters.net^
 ||g-work.mx^
@@ -275,11 +275,12 @@
 ||hr2019.vrcom7.com^
 ||hrfrance.net^
 ||hseda.com^
+||htownbars.com^
 ||hugersi.com^
 ||humanaidbd.org^
+||hunggiang.vn^
 ||ibremp.org.br^
 ||icupsa.com.mx^
-||icvpartners.com^
 ||idalidcouture.com^
 ||idealweddings.co.zw^
 ||ideiasmoveisdecor.com^
@@ -295,12 +296,15 @@
 ||incotel.com.pk^
 ||indrasbikaner.com^
 ||induspay.pk^
+||innovantksa.com^
 ||inseco.cl^
 ||inspiratour.co.id^
 ||instinctux.com^
 ||intellectproactive.com^
+||intelli-sys.co.zw^
 ||invar.me^
 ||investcluster.com^
+||irte.in^
 ||ivibits.com^
 ||jaccolima.com^
 ||jadinnovations.co.ug^
@@ -321,8 +325,10 @@
 ||kaiessentials.com^
 ||kalpanacotton.com^
 ||kamtress.com^
+||karer.by^
 ||karimgousa.ug^
 ||karimgouss.ug^
+||karouhat.com^
 ||kazadesign.com.br^
 ||kelaskan.com^
 ||kemethuntlaw.com^
@@ -332,11 +338,13 @@
 ||kilakila.cl^
 ||kimjikuk.luxeone.cn^
 ||kimyen.net^
+||kislatam.com^
 ||kivointergrated.com^
 ||kkfd.ase6gasdegoo.com^
 ||kolleruaqua.com^
 ||kompas86.com^
 ||konseptderi.com^
+||kridhanidecor.com^
 ||kustens.com^
 ||lameguard.ru^
 ||lara.amiyon.com^
@@ -355,8 +363,10 @@
 ||littlemisskenya.com^
 ||livetrack.in^
 ||lmlawcorp.com^
+||lojueguito.com^
 ||lopespublicidade.com^
 ||lorem.com.sa^
+||lp.gunlakemhc.com^
 ||ltc.typoten.com^
 ||luckytours-alex.com^
 ||m1shgan.app^
@@ -375,6 +385,7 @@
 ||marquesvogt.com^
 ||matajir.ae^
 ||matchtranslations.com^
+||mathonsiohs.co.za^
 ||maviproducciones.com^
 ||maxcodeitsolutions.com^
 ||maxximbrasil.com^
@@ -383,6 +394,7 @@
 ||mcomtechnology.com^
 ||mdttasarim.com.tr^
 ||medicalbillingandtelehealth.com^
+||medicareinc.com^
 ||meeweb.com^
 ||megapowersystem.com^
 ||mendezplumbingservicellc.com^
@@ -392,7 +404,6 @@
 ||mesoftwares.vip^
 ||mhpa.gov.bt^
 ||mhypecom.com^
-||microsecurityupdate.com^
 ||mindfree.co.za^
 ||mistitis.ug^
 ||mistydeblasiophotography.com^
@@ -414,10 +425,12 @@
 ||musicaondemand.com^
 ||myayurvedashoppe.com^
 ||mysura.it^
+||mytheacademy.com^
 ||namthaibinh.net^
 ||nanpe.eng.br^
 ||nazima.ac.ug^
 ||ncsuppliers.com^
+||neilshairdressers.co.uk^
 ||neonchemicals.com^
 ||networkwheels.co.za^
 ||new.longboatonline.com^
@@ -425,6 +438,7 @@
 ||nhatheptienchebinhduong.com^
 ||nhorangtreem.com^
 ||noithathoanggiatn.com^
+||noobquan.xyz^
 ||notaire-gay-friendly.fr^
 ||notaria38gdl.com^
 ||nrc-soluciones.com.ar^
@@ -461,7 +475,6 @@
 ||parallel.rockvideos.at^
 ||parkrosegroup.cl^
 ||parrotbay.net^
-||pascasarjana.iainfmpapua.ac.id^
 ||paste-bin.xyz^
 ||pearltransit.org^
 ||pel63.bio^
@@ -480,6 +493,7 @@
 ||ppfatahillah.com^
 ||pracharbharat.com^
 ||prestigehomeautomation.net^
+||primaflor-sby.com^
 ||primusth.com^
 ||privacy-tools-for-you-453.com^
 ||privatehireinsurance.net^
@@ -494,7 +508,9 @@
 ||qmsled.com^
 ||qtimst.com^
 ||ramactools.net^
+||randtrealestate.co^
 ||ranojpegu.in^
+||rapture2.romangrey.net^
 ||rcpay.com.br^
 ||records.dennisign.se^
 ||redmag-dz.com^
@@ -541,17 +557,16 @@
 ||server.easysalepage.in.th^
 ||server.toeicswt.co.kr^
 ||shaheralhroub.com^
-||shahu66.com^
 ||sheikhrouhani.net^
 ||shg.ph^
 ||shipminttracking.net^
 ||shop.mediasova.ru^
 ||shredsecrets.net^
 ||sinergiaconstruccion.com.mx^
+||sipo.ru^
 ||sjme.pk^
 ||sjptr.pk^
 ||skillum.mx^
-||smartphoodapp.com^
 ||sociallysavvyseo.com^
 ||soft.110route.com^
 ||softechtranscriptions.com^
@@ -565,7 +580,6 @@
 ||speedfachadas.com.br^
 ||spices.com.sg^
 ||spiritualoutdooradventures.org^
-||srikalaivanipackersandmovers.com^
 ||srimangadukamatchipackersandmovers.com^
 ||srv-fattureincloud.de^
 ||sshd.run^
@@ -644,6 +658,7 @@
 ||whoisalbertuncle.com^
 ||windcomtechnologies.com^
 ||windowsclean.us^
+||wisewomanwarrior.com^
 ||wjidigitalmediadirectory.com^
 ||wooretail.com^
 ||wshsoft.company^
@@ -679,6 +694,7 @@
 ||www.neshuafoods.com^
 ||www.nprlogistica.com.br^
 ||www.opolis.io^
+||www.palharesinformatica.com.br^
 ||www.piaozone.com^
 ||www.reifenquick.de^
 ||www.reiwo-service.de^
@@ -702,7 +718,6 @@
 ||yp.hnggzyjy.cn^
 ||yzkzixun.com^
 ||zaofisa.net^
-||zero.ms^
 ||zf.gouzapay.cn^
 ||zhaoziliao1668.cn^
-! Number of entries: 699
+! Number of entries: 714
