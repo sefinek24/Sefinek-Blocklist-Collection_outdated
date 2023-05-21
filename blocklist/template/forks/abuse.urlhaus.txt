@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-21 13:59:23 (UTC)                      #
+# Last updated: 2023-05-21 15:04:12 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -26,8 +26,8 @@
 0.0.0.0 a.angel-tn.idv.tw
 0.0.0.0 aamroaviation.com
 0.0.0.0 aaplevidyapith.sgbau.ac.in
+0.0.0.0 abissnet.net
 0.0.0.0 abmaxdigital.com
-0.0.0.0 acarvi.com
 0.0.0.0 acellr.co.uk
 0.0.0.0 acerogrado.cl
 0.0.0.0 acrhitechinfo.com
@@ -41,7 +41,6 @@
 0.0.0.0 airhobi.com
 0.0.0.0 airlinesgroupbooking.com
 0.0.0.0 akashfeedcpl.com
-0.0.0.0 akira.ozonedesk.cloud
 0.0.0.0 alakheilizwe.org
 0.0.0.0 alazharplast.com
 0.0.0.0 aldojuanpettiti.com.ar
@@ -87,7 +86,6 @@
 0.0.0.0 benwellgroup.co.uk
 0.0.0.0 bethelmbcarvada.org
 0.0.0.0 bigmikesupplies.co.za
-0.0.0.0 bigs.bikershop.biz
 0.0.0.0 bimak.hr
 0.0.0.0 bisnesservis-fk.ru
 0.0.0.0 blast3d.com.br
@@ -122,7 +120,6 @@
 0.0.0.0 cdn.unduhfile.my.id
 0.0.0.0 cemageng.com.br
 0.0.0.0 ch1.spacermodem.com
-0.0.0.0 chakraverty.in
 0.0.0.0 changelife.vip
 0.0.0.0 chinibunglowhomestaykalpa.in
 0.0.0.0 chiptune.com
@@ -131,7 +128,6 @@
 0.0.0.0 cipro.mx
 0.0.0.0 cityoftransformation.com
 0.0.0.0 citypharmacylv.com
-0.0.0.0 clovekwealth.com
 0.0.0.0 cmyk.com.ar
 0.0.0.0 coadymarine.com
 0.0.0.0 cointra.ac.ug
@@ -188,9 +184,7 @@
 0.0.0.0 dop2load.top
 0.0.0.0 down.pcclear.com
 0.0.0.0 down.udashi.com
-0.0.0.0 download.caihong.com
 0.0.0.0 download.doumaibiji.cn
-0.0.0.0 download.pdf00.cn
 0.0.0.0 downloads.bcweb.org.uk
 0.0.0.0 dreamchasersltd.com
 0.0.0.0 dreamzonemadurai.com
@@ -200,7 +194,6 @@
 0.0.0.0 drpackirisamy.co.za
 0.0.0.0 dukaree.com
 0.0.0.0 dunaujvaros.gorogkatolikus.hu
-0.0.0.0 e-commerce.saleensuporte.com.br
 0.0.0.0 e-hemsire.net
 0.0.0.0 e-piramide.net
 0.0.0.0 easybrand.vn
@@ -209,11 +202,9 @@
 0.0.0.0 ebfertility.com
 0.0.0.0 eboka.vip
 0.0.0.0 ecomv10.ozonedesk.cloud
-0.0.0.0 edu.pmvanini.rs.gov.br
 0.0.0.0 educajuris.cl
 0.0.0.0 egsso.net
 0.0.0.0 egwis.com
-0.0.0.0 ektasahakaripatpedhi.com
 0.0.0.0 elvalledetarrazu.com
 0.0.0.0 emaids.co.za
 0.0.0.0 engenhariaengtec.com.br
@@ -241,6 +232,7 @@
 0.0.0.0 frangulflegal.com
 0.0.0.0 frangulfmedia.com
 0.0.0.0 fransceysse.ac.ug
+0.0.0.0 frenchiescity.com
 0.0.0.0 funatfitsports.com
 0.0.0.0 funletters.net
 0.0.0.0 g-work.mx
@@ -287,7 +279,6 @@
 0.0.0.0 hugersi.com
 0.0.0.0 humanaidbd.org
 0.0.0.0 humpass.ae
-0.0.0.0 hunggiang.vn
 0.0.0.0 ibremp.org.br
 0.0.0.0 icupsa.com.mx
 0.0.0.0 icvpartners.com
@@ -306,14 +297,11 @@
 0.0.0.0 imrantex.com
 0.0.0.0 incotel.com.pk
 0.0.0.0 indrasbikaner.com
-0.0.0.0 induspay.pk
 0.0.0.0 innovantksa.com
 0.0.0.0 inspiratour.co.id
 0.0.0.0 instinctux.com
 0.0.0.0 intellectproactive.com
-0.0.0.0 intelli-sys.co.zw
 0.0.0.0 invar.me
-0.0.0.0 investcluster.com
 0.0.0.0 iperceptsondemand.com
 0.0.0.0 irte.in
 0.0.0.0 ivibits.com
@@ -333,7 +321,6 @@
 0.0.0.0 jr-software-web.net
 0.0.0.0 jsl.com.ng
 0.0.0.0 justplay.asia
-0.0.0.0 kaiessentials.com
 0.0.0.0 kalpanacotton.com
 0.0.0.0 kamtress.com
 0.0.0.0 karer.by
@@ -348,23 +335,17 @@
 0.0.0.0 kilakila.cl
 0.0.0.0 kimjikuk.luxeone.cn
 0.0.0.0 kimyen.net
-0.0.0.0 kislatam.com
 0.0.0.0 kivointergrated.com
 0.0.0.0 kkfd.ase6gasdegoo.com
 0.0.0.0 kolleruaqua.com
 0.0.0.0 kompas86.com
-0.0.0.0 konseptderi.com
-0.0.0.0 kridhanidecor.com
 0.0.0.0 kustens.com
 0.0.0.0 lalajimatrimonial.com
 0.0.0.0 lameguard.ru
 0.0.0.0 lapakwebsite.com
 0.0.0.0 lara.amiyon.com
-0.0.0.0 lara.com.ar
 0.0.0.0 lasermobilesounds.co.uk
-0.0.0.0 lashprochampionship.com
 0.0.0.0 lastimaners.ug
-0.0.0.0 lceventos.net
 0.0.0.0 lebetha.co.za
 0.0.0.0 level-upcg.com
 0.0.0.0 liberationcall.org
@@ -372,7 +353,6 @@
 0.0.0.0 lidermotopecas.com.br
 0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 linkvilleplayers.org
-0.0.0.0 littlemisskenya.com
 0.0.0.0 livetrack.in
 0.0.0.0 lmlawcorp.com
 0.0.0.0 lobenexpeditions.com
@@ -388,6 +368,7 @@
 0.0.0.0 madicon.co.za
 0.0.0.0 maduraipackersandmovers.com
 0.0.0.0 main.cloudfronts.net
+0.0.0.0 mainorchile.cl
 0.0.0.0 makeupuccino.com
 0.0.0.0 maniadepassarmooca.com.br
 0.0.0.0 mansepool.com
@@ -400,19 +381,19 @@
 0.0.0.0 maviproducciones.com
 0.0.0.0 maxcodeitsolutions.com
 0.0.0.0 maxximbrasil.com
+0.0.0.0 mbgrm.com
 0.0.0.0 mcapublicschool.com
 0.0.0.0 mcomtechnology.com
 0.0.0.0 mdttasarim.com.tr
 0.0.0.0 medicalbillingandtelehealth.com
 0.0.0.0 medicareinc.com
 0.0.0.0 meeweb.com
-0.0.0.0 megapowersystem.com
 0.0.0.0 mendezplumbingservicellc.com
 0.0.0.0 menupricelist.today
 0.0.0.0 meonhanong.com
 0.0.0.0 mepstein.com
 0.0.0.0 mesoftwares.vip
-0.0.0.0 mhypecom.com
+0.0.0.0 mhpa.gov.bt
 0.0.0.0 microsecurityupdate.com
 0.0.0.0 mindfree.co.za
 0.0.0.0 mistitis.ug
@@ -476,8 +457,8 @@
 0.0.0.0 ozelmimarsinanmtal.com
 0.0.0.0 p2.d9media.cn
 0.0.0.0 pablobrothel.com.ar
-0.0.0.0 pacoffice-eg.com
 0.0.0.0 pakistancomparison.com
+0.0.0.0 palharesinformatica.com.br
 0.0.0.0 parallel.rockvideos.at
 0.0.0.0 parkrosegroup.cl
 0.0.0.0 parrotbay.net
@@ -520,7 +501,6 @@
 0.0.0.0 rapture2.romangrey.net
 0.0.0.0 records.dennisign.se
 0.0.0.0 redmag-dz.com
-0.0.0.0 regiscoimbra.pt
 0.0.0.0 reifenquick.de
 0.0.0.0 relaxindulge.co.nz
 0.0.0.0 remotaja.com
@@ -529,6 +509,7 @@
 0.0.0.0 richterhi-tech.com
 0.0.0.0 ridersintl.org
 0.0.0.0 robosuperscalp31.com
+0.0.0.0 rohtasproduce.com
 0.0.0.0 rollsbeer.com
 0.0.0.0 rretoques.cl
 0.0.0.0 s21servicios.com
@@ -536,12 +517,13 @@
 0.0.0.0 saemape.cd
 0.0.0.0 safetygear.pk
 0.0.0.0 sainzim.co.za
-0.0.0.0 saiservicecentre.in
 0.0.0.0 sakthipipesandplumbing.com
 0.0.0.0 saloneeats.com
 0.0.0.0 samglobaltrading.com
 0.0.0.0 sanubix.vip
+0.0.0.0 sarl-cec.com
 0.0.0.0 sashkin.com
+0.0.0.0 sasms.co
 0.0.0.0 satuatlas.com
 0.0.0.0 sawabash-sd.com
 0.0.0.0 scarletespinal.com
@@ -568,7 +550,6 @@
 0.0.0.0 shredsecrets.net
 0.0.0.0 shsplatform.co.uk
 0.0.0.0 sinergiaconstruccion.com.mx
-0.0.0.0 sipo.ru
 0.0.0.0 sjme.pk
 0.0.0.0 sjptr.pk
 0.0.0.0 skillum.mx
@@ -666,7 +647,7 @@
 0.0.0.0 whatelles.nl
 0.0.0.0 whoisalbertuncle.com
 0.0.0.0 windcomtechnologies.com
-0.0.0.0 wisewomanwarrior.com
+0.0.0.0 windowsclean.us
 0.0.0.0 wjidigitalmediadirectory.com
 0.0.0.0 wooretail.com
 0.0.0.0 wshsoft.company
@@ -680,7 +661,6 @@
 0.0.0.0 www.asterglobal.com
 0.0.0.0 www.bearware.org
 0.0.0.0 www.cesasin.com.ar
-0.0.0.0 www.charmingsoftech.com
 0.0.0.0 www.chawkyfrenn.com
 0.0.0.0 www.chemsky.tn
 0.0.0.0 www.cisnc.it
@@ -692,13 +672,11 @@
 0.0.0.0 www.fixstudio.co.kr
 0.0.0.0 www.globallaborsupply.com
 0.0.0.0 www.hebgb.top
-0.0.0.0 www.hseda.com
 0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.institut-corps-a-ligne.fr
 0.0.0.0 www.ks.cn
 0.0.0.0 www.lasikofmichigan.com
 0.0.0.0 www.maxmoney.com
-0.0.0.0 www.mediakomen.com
 0.0.0.0 www.moninediy.com
 0.0.0.0 www.neshuafoods.com
 0.0.0.0 www.nprlogistica.com.br
@@ -729,7 +707,6 @@
 0.0.0.0 yzkzixun.com
 0.0.0.0 zaofisa.net
 0.0.0.0 zero.ms
-0.0.0.0 zexeq.com
 0.0.0.0 zf.gouzapay.cn
 0.0.0.0 zhaoziliao1668.cn
-# Number of entries: 726
+# Number of entries: 703
