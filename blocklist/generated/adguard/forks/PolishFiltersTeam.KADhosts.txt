@@ -1,7 +1,7 @@
 ! Title: KADhosts
 ! Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Sat, 20 May 2023, 22:15 UTC+02:00
-! Version: 2023.5.20.4
+! Last modified: Sun, 21 May 2023, 02:16 UTC+02:00
+! Version: 2023.5.21.0
 ! Expires: 2 days
 ! Website: https://kadantiscam.netlify.app/
 ! Based on: https://github.com/FiltersHeroes/KAD
@@ -7250,6 +7250,7 @@
 ||2c01c675e3281e0fc38fd6aa4cb7ef82.rha.co.pl^
 ||2c2a65f0e11e2b4df4e48d71450ffd35.aluats.pl^
 ||2c3bad5b99f38ee36fa6e4c3fad53321.serswise.pl^
+||2c3d2976378959e1285c272a3eebf7ba.forgro.pl^
 ||2c7fdaff5f6a4f6a19dea309218723b5.hospla.co.pl^
 ||2c9a065859f9c58b2662ca86c9441df9.tsl-pl.co.pl^
 ||02c34e59c0b.chefs-kitchen.co.uk^
@@ -8134,6 +8135,7 @@
 ||9d8151333002dc324e685c1b163ff153.ll-pl.co.pl^
 ||9da5b132da752d5b55daf33762312335.m-pl.co.pl^
 ||9db9bfa759b.chefs-kitchen.co.uk^
+||9db85664b052acfd21f714fa85026699.forgro.pl^
 ||9dd30db18a237aac347df0fc1ce0f140.sht.co.pl^
 ||9dd471bb5813ac25a3fdc7516c937fb0.ll-pl.co.pl^
 ||9e1c796e28ff75f227ba01240dbc2d3e.hospla.co.pl^
@@ -35405,6 +35407,7 @@
 ||inpost-pl.gdes.space^
 ||inpost-pl.gembling-deser-638276.xyz^
 ||inpost-pl.gggg.date^
+||inpost-pl.goesagainst.shop^
 ||inpost-pl.goodspurchase.pw^
 ||inpost-pl.harinama.lol^
 ||inpost-pl.harinezumi.top^
@@ -71596,6 +71599,7 @@
 ||www.2c01c675e3281e0fc38fd6aa4cb7ef82.rha.co.pl^
 ||www.2c2a65f0e11e2b4df4e48d71450ffd35.aluats.pl^
 ||www.2c3bad5b99f38ee36fa6e4c3fad53321.serswise.pl^
+||www.2c3d2976378959e1285c272a3eebf7ba.forgro.pl^
 ||www.2c7fdaff5f6a4f6a19dea309218723b5.hospla.co.pl^
 ||www.2c9a065859f9c58b2662ca86c9441df9.tsl-pl.co.pl^
 ||www.02c34e59c0b.chefs-kitchen.co.uk^
@@ -72480,6 +72484,7 @@
 ||www.9d8151333002dc324e685c1b163ff153.ll-pl.co.pl^
 ||www.9da5b132da752d5b55daf33762312335.m-pl.co.pl^
 ||www.9db9bfa759b.chefs-kitchen.co.uk^
+||www.9db85664b052acfd21f714fa85026699.forgro.pl^
 ||www.9dd30db18a237aac347df0fc1ce0f140.sht.co.pl^
 ||www.9dd471bb5813ac25a3fdc7516c937fb0.ll-pl.co.pl^
 ||www.9e1c796e28ff75f227ba01240dbc2d3e.hospla.co.pl^
@@ -99751,6 +99756,7 @@
 ||www.inpost-pl.gdes.space^
 ||www.inpost-pl.gembling-deser-638276.xyz^
 ||www.inpost-pl.gggg.date^
+||www.inpost-pl.goesagainst.shop^
 ||www.inpost-pl.goodspurchase.pw^
 ||www.inpost-pl.harinama.lol^
 ||www.inpost-pl.harinezumi.top^
