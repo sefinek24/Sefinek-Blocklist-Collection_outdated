@@ -1,4 +1,4 @@
-#202305190303
+#202305210303
 # EasyPrivacy Host filters for Pi hole
 # Collaborators: xxcriticxx, MajkiIT
 # Homepage: https://www.certyficate.it/
@@ -2158,6 +2158,17 @@
 127.0.0.1 ad1.tone.ne.jp
 127.0.0.1 ad7.bigmir.net
 127.0.0.1 ada8.ampleur.jp
+127.0.0.1 adamantsnail.com
+127.0.0.1 adat.borsonline.hu
+127.0.0.1 adat.ingatlanbazar.hu
+127.0.0.1 adat.koponyeg.hu
+127.0.0.1 adat.life.hu
+127.0.0.1 adat.mandiner.hu
+127.0.0.1 adat.mindmegette.hu
+127.0.0.1 adat.origo.hu
+127.0.0.1 adat.travelo.hu
+127.0.0.1 adat.veol.hu
+127.0.0.1 adat.videa.hu
 127.0.0.1 adb-analytics.live-now.com
 127.0.0.1 adbq.bk.mufg.jp
 127.0.0.1 adbsmetrics.ep.hmc.co.kr
@@ -3752,6 +3763,7 @@
 127.0.0.1 awesome.section.io
 127.0.0.1 awesomeagreement.com
 127.0.0.1 awesomeattack.com
+127.0.0.1 awmonitor.com
 127.0.0.1 awowwo.forever21.com
 127.0.0.1 awsexam.quantresear.ch
 127.0.0.1 awst.aviationweek.com
@@ -3873,6 +3885,7 @@
 127.0.0.1 bbybqq.levi.co.id
 127.0.0.1 bbysa.aprica.com
 127.0.0.1 bc.marfeelcache.com
+127.0.0.1 bc.nhk.jp
 127.0.0.1 bc.qunar.com
 127.0.0.1 bc34.wijnvoordeel.nl
 127.0.0.1 bca.aviationweek.com
@@ -7791,6 +7804,7 @@
 127.0.0.1 heap.drop.com
 127.0.0.1 hearinglizards.com
 127.0.0.1 hearob.klix.ba
+127.0.0.1 heartbeat.pmd.444.hu
 127.0.0.1 heavyplayground.com
 127.0.0.1 heb-metrics.heb.com
 127.0.0.1 heb-smetrics.heb.com
@@ -11329,6 +11343,7 @@
 127.0.0.1 pixel.wp.pl
 127.0.0.1 pixel.yabidos.com
 127.0.0.1 pixel.yola.com
+127.0.0.1 pixel2.realclever.com
 127.0.0.1 pixel6.wp.pl
 127.0.0.1 pixels.afcdn.com
 127.0.0.1 pixels.boxberry.ru
@@ -14365,6 +14380,7 @@
 127.0.0.1 stats.new.sublimesecurity.com
 127.0.0.1 stats.newslit.co
 127.0.0.1 stats.newsweek.com
+127.0.0.1 stats.nhk.or.jp
 127.0.0.1 stats.niceshitforbitcoiners.com
 127.0.0.1 stats.nicolabricot.com
 127.0.0.1 stats.nikkei.com

@@ -1,6 +1,6 @@
 # Title: Lightswitch05's dating-services-extended.txt
-# Released: 2023-05-20T01:05:25+00:00
-# Count: 21894 domains
+# Released: 2023-05-21T01:05:26+00:00
+# Count: 21892 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
@@ -20104,6 +20104,7 @@ server=/billing.profiles.dating/
 server=/project.dating/
 server=/www.project.dating/
 server=/puffin.dating/
+server=/drone.dev.pull.dating/
 server=/login.dev.pull.dating/
 server=/monitor.dev.pull.dating/
 server=/appnative.pulse.dating/
@@ -20325,9 +20326,6 @@ server=/www.tamu.dating/
 server=/teamo.dating/
 server=/teaser.dating/
 server=/technicallylegal.dating/
-server=/help.technicallylegal.dating/
-server=/membership.technicallylegal.dating/
-server=/privacy.technicallylegal.dating/
 server=/www.technicallylegal.dating/
 server=/tele.dating/
 server=/www.tele.dating/

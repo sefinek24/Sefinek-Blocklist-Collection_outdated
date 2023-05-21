@@ -1,4 +1,4 @@
-#202305190303
+#202305210303
 # EasyPrivacy Host filters for Pi hole
 # Collaborators: xxcriticxx, MajkiIT
 # Homepage: https://www.certyficate.it/
@@ -2158,6 +2158,17 @@ server=/ad.udition.jp/
 server=/ad1.tone.ne.jp/
 server=/ad7.bigmir.net/
 server=/ada8.ampleur.jp/
+server=/adamantsnail.com/
+server=/adat.borsonline.hu/
+server=/adat.ingatlanbazar.hu/
+server=/adat.koponyeg.hu/
+server=/adat.life.hu/
+server=/adat.mandiner.hu/
+server=/adat.mindmegette.hu/
+server=/adat.origo.hu/
+server=/adat.travelo.hu/
+server=/adat.veol.hu/
+server=/adat.videa.hu/
 server=/adb-analytics.live-now.com/
 server=/adbq.bk.mufg.jp/
 server=/adbsmetrics.ep.hmc.co.kr/
@@ -3752,6 +3763,7 @@ server=/awarealley.com/
 server=/awesome.section.io/
 server=/awesomeagreement.com/
 server=/awesomeattack.com/
+server=/awmonitor.com/
 server=/awowwo.forever21.com/
 server=/awsexam.quantresear.ch/
 server=/awst.aviationweek.com/
@@ -3873,6 +3885,7 @@ server=/bbwqcs.vidaxl.ee/
 server=/bbybqq.levi.co.id/
 server=/bbysa.aprica.com/
 server=/bc.marfeelcache.com/
+server=/bc.nhk.jp/
 server=/bc.qunar.com/
 server=/bc34.wijnvoordeel.nl/
 server=/bca.aviationweek.com/
@@ -7791,6 +7804,7 @@ server=/healthy.spartanburgregional.com/
 server=/heap.drop.com/
 server=/hearinglizards.com/
 server=/hearob.klix.ba/
+server=/heartbeat.pmd.444.hu/
 server=/heavyplayground.com/
 server=/heb-metrics.heb.com/
 server=/heb-smetrics.heb.com/
@@ -11329,6 +11343,7 @@ server=/pixel.wp.com/
 server=/pixel.wp.pl/
 server=/pixel.yabidos.com/
 server=/pixel.yola.com/
+server=/pixel2.realclever.com/
 server=/pixel6.wp.pl/
 server=/pixels.afcdn.com/
 server=/pixels.boxberry.ru/
@@ -14365,6 +14380,7 @@ server=/stats.netbopdev.co.uk/
 server=/stats.new.sublimesecurity.com/
 server=/stats.newslit.co/
 server=/stats.newsweek.com/
+server=/stats.nhk.or.jp/
 server=/stats.niceshitforbitcoiners.com/
 server=/stats.nicolabricot.com/
 server=/stats.nikkei.com/
