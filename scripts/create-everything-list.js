@@ -12,35 +12,35 @@ const parseDomain = line => {
 };
 
 const header = size => {
-	return `## -------------------------------------------------------------------------------------------------------------------------------------------------------
-##
-##      _____   ______   ______   _____   _   _   ______   _  __        ____    _         ____     _____   _  __  _        _____    _____   _______
-##     / ____| |  ____| |  ____| |_   _| | \\ | | |  ____| | |/ /       |  _ \\  | |       / __ \\   / ____| | |/ / | |      |_   _|  / ____| |__   __|
-##    | (___   | |__    | |__      | |   |  \\| | | |__    | ' /        | |_) | | |      | |  | | | |      | ' /  | |        | |   | (___      | |
-##     \\___ \\  |  __|   |  __|     | |   | . \` | |  __|   |  <         |  _ <  | |      | |  | | | |      |  <   | |        | |    \\___ \\     | |
-##     ____) | | |____  | |       _| |_  | |\\  | | |____  | . \\        | |_) | | |____  | |__| | | |____  | . \\  | |____   _| |_   ____) |    | |
-##    |_____/  |______| |_|      |_____| |_| \\_| |______| |_|\\_\\       |____/  |______|  \\____/   \\_____| |_|\\_\\ |______| |_____| |_____/     |_|
-##
-##                          The best collection of blocklists for Pi-hole, AdGuard and uBlock Origin made by https://sefinek.net
-##                                            https://github.com/sefinek24/PiHole-Blocklist-Collection
-##
-## » Title       : Big collection of blocklist
-## » Description : This list contains a collection of everything from https://github.com/sefinek24/PiHole-BlockList-Test/tree/main/blocklist/template
-## » Author      : Sefinek (https://sefinek.net) <contact@sefinek.net>
-## » GitHub      : https://github.com/sefinek24/PiHole-Blocklist-Collection
-## » Release     : Default (with 0.0.0.0)
-## » Domains     : ${size}
-## » Version     : ${date.timestamp}
-## » Last update : ${date.hours}:${date.minutes}:${date.seconds}.${date.milliseconds}, ${date.day}.${date.month}.${date.year} [GMT+2 HH:MM:SS.MS, DD.MM.YYYY]
-##
-## 〢 Warning:
-## By using this file, you acknowledge that the author is not liable for any damages or losses that may arise from its use, although the likelihood of such events is low.
-##
-## 〢 About:
-## This file is part of the Sefinek's Blocklist Collection, maintained by github.com/sefinek24.
-## If you come across any false positives, please create a new Issue or Pull request on GitHub. Thank you!
-##
-## ---------------------------------------------------------------------------------------------------------------------------------------------------\n`;
+	return `# -------------------------------------------------------------------------------------------------------------------------------------------------------
+#
+#       _____   ______   ______   _____   _   _   ______   _  __        ____    _         ____     _____   _  __  _        _____    _____   _______
+#      / ____| |  ____| |  ____| |_   _| | \\ | | |  ____| | |/ /       |  _ \\  | |       / __ \\   / ____| | |/ / | |      |_   _|  / ____| |__   __|
+#     | (___   | |__    | |__      | |   |  \\| | | |__    | ' /        | |_) | | |      | |  | | | |      | ' /  | |        | |   | (___      | |
+#      \\___ \\  |  __|   |  __|     | |   | . \` | |  __|   |  <         |  _ <  | |      | |  | | | |      |  <   | |        | |    \\___ \\     | |
+#      ____) | | |____  | |       _| |_  | |\\  | | |____  | . \\        | |_) | | |____  | |__| | | |____  | . \\  | |____   _| |_   ____) |    | |
+#     |_____/  |______| |_|      |_____| |_| \\_| |______| |_|\\_\\       |____/  |______|  \\____/   \\_____| |_|\\_\\ |______| |_____| |_____/     |_|
+#
+#                                   The best collection of blocklists for Pi-hole and AdGuard - https://sefinke.net
+#                                            https://github.com/sefinek24/PiHole-Blocklist-Collection
+#
+# » Title       : Big collection of blocklist
+# » Description : This list contains a collection of everything from https://github.com/sefinek24/PiHole-BlockList-Test/tree/main/blocklist/template (without apps)
+# » Author      : Sefinek (https://sefinek.net) <contact@sefinek.net>
+# » GitHub      : https://github.com/sefinek24/PiHole-Blocklist-Collection
+# » Release     : Default (with 0.0.0.0)
+# » Domains     : ${size}
+# » Version     : ${date.timestamp}
+# » Last update : ${date.hours}:${date.minutes}:${date.seconds}.${date.milliseconds}, ${date.day}.${date.month}.${date.year} [GMT+2 HH:MM:SS.MS, DD.MM.YYYY]
+#
+# 〢 Warning:
+# By using this file, you acknowledge that the author is not liable for any damages or losses that may arise from its use, although the likelihood of such events is low.
+#
+# 〢 About:
+# This file is part of the Sefinek's Blocklist Collection, maintained by github.com/sefinek24.
+# If you come across any false positives, please create a new Issue or Pull request on GitHub. Thank you!
+#
+# ---------------------------------------------------------------------------------------------------------------------------------------------------\n`;
 };
 
 const worker = async () => {
