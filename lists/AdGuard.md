@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>📥 Last list update: 18.05.2023 / DD.MM.YYYY</h1>
+    <h1>📥 Last list update: 22.05.2023 / DD.MM.YYYY</h1>
     <p>
         ⭐ <b>Mark this repository with a star if you find it useful.</b> ⭐
     </p>
@@ -9,7 +9,11 @@
 </h3>
 <br>
 
+```dotenv
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt
 ```
+
+```dotenv
 https://blocklist.sefinek.net/generated/adguard/ads/jerryn70.GoodbyeAds.txt
 https://blocklist.sefinek.net/generated/adguard/ads/TheBlockListProject.AdsList.txt
 https://blocklist.sefinek.net/generated/adguard/ads/yoyo.AdsTrackersEtc.txt
