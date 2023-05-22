@@ -9,6 +9,6 @@
     <h1>📝 Other lists</h1>
 </div>
 
-- [127.0.0.1](127.0.0.1)
-- [dnsmasq [server=/]](127.0.0.1)
+- [127.0.0.1](127.0.0.1.md)
+- [dnsmasq [server=/]](dnsmasq.md)
 - [No IP [hosts]](noip.md)
