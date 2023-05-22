@@ -36,8 +36,8 @@ jobs:
       - name: Lint
         run: node scripts/lint.js
 
-      - name: Create everything list
-        run: node scripts/create-everything-list.js
+      # - name: Create everything list
+      #  run: node scripts/create-everything-list.js
 
       - name: Generate No IP list
         run: node scripts/generate-noip.js
