@@ -1,4 +1,4 @@
-#202305210303
+#202305220303
 # EasyPrivacy Host filters for Pi hole
 # Collaborators: xxcriticxx, MajkiIT
 # Homepage: https://www.certyficate.it/
@@ -6228,7 +6228,6 @@ server=/ed.large.be/
 server=/ed.large.nl/
 server=/edge.staging.fullstory.com/
 server=/edm.med.hku.hk/
-server=/edmi.nextinpact.com/
 server=/ednqjm.magnanni.com/
 server=/edocs.didgigo.com/
 server=/edomsp.membershop.ee/
@@ -11166,7 +11165,6 @@ server=/paintplantation.com/
 server=/pakdru.altrarunning.com/
 server=/pal-v.actonservice.com/
 server=/paleleaf.com/
-server=/pam.nextinpact.com/
 server=/pamelarandom.com/
 server=/pampopholf.com/
 server=/pan.render.com/
@@ -11682,7 +11680,6 @@ server=/pv.xcar.com.cn/
 server=/pvtag.yahoo.co.jp/
 server=/pvx.xcar.com.cn/
 server=/pw.gigazine.net/
-server=/pwk.nextinpact.com/
 server=/px-intl.ucweb.com/
 server=/px.derstandard.at/
 server=/px.effirst.com/
@@ -11886,8 +11883,6 @@ server=/refytq.camp-fire.jp/
 server=/registrieren.investinontario.com/
 server=/rejhxn.pamono.co.uk/
 server=/rek.www.wp.pl/
-server=/rel.nextinpact.com/
-server=/rel2.nextinpact.com/
 server=/relay.fiverr.com/
 server=/reltrd.peteralexander.com.au/
 server=/rem-track.bild.de/
@@ -15571,6 +15566,7 @@ server=/tk.zenpark.com/
 server=/tkekwv.gracegift.com.tw/
 server=/tkelq.genesys.com/
 server=/tkppvr.freshfarm.it/
+server=/tkrconnector.com/
 server=/tl.tradetracker.net/
 server=/tla.traderlink.com/
 server=/tltpyy.saatchiart.com/
@@ -18277,7 +18273,6 @@ server=/z737.thestar.com/
 server=/za.zdn.vn/
 server=/zagrabiti.viessmann.hr/
 server=/zahlen.olereissmann.de/
-server=/zam.nextinpact.com/
 server=/zaventemdijleland.viessmann.be/
 server=/zbwp6ghm.com/
 server=/zcbsft.thedoublef.com/

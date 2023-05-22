@@ -1,4 +1,4 @@
-#202305210303
+#202305220303
 # EasyPrivacy Host filters for Pi hole
 # Collaborators: xxcriticxx, MajkiIT
 # Homepage: https://www.certyficate.it/
@@ -6228,7 +6228,6 @@
 127.0.0.1 ed.large.nl
 127.0.0.1 edge.staging.fullstory.com
 127.0.0.1 edm.med.hku.hk
-127.0.0.1 edmi.nextinpact.com
 127.0.0.1 ednqjm.magnanni.com
 127.0.0.1 edocs.didgigo.com
 127.0.0.1 edomsp.membershop.ee
@@ -11166,7 +11165,6 @@
 127.0.0.1 pakdru.altrarunning.com
 127.0.0.1 pal-v.actonservice.com
 127.0.0.1 paleleaf.com
-127.0.0.1 pam.nextinpact.com
 127.0.0.1 pamelarandom.com
 127.0.0.1 pampopholf.com
 127.0.0.1 pan.render.com
@@ -11682,7 +11680,6 @@
 127.0.0.1 pvtag.yahoo.co.jp
 127.0.0.1 pvx.xcar.com.cn
 127.0.0.1 pw.gigazine.net
-127.0.0.1 pwk.nextinpact.com
 127.0.0.1 px-intl.ucweb.com
 127.0.0.1 px.derstandard.at
 127.0.0.1 px.effirst.com
@@ -11886,8 +11883,6 @@
 127.0.0.1 registrieren.investinontario.com
 127.0.0.1 rejhxn.pamono.co.uk
 127.0.0.1 rek.www.wp.pl
-127.0.0.1 rel.nextinpact.com
-127.0.0.1 rel2.nextinpact.com
 127.0.0.1 relay.fiverr.com
 127.0.0.1 reltrd.peteralexander.com.au
 127.0.0.1 rem-track.bild.de
@@ -15571,6 +15566,7 @@
 127.0.0.1 tkekwv.gracegift.com.tw
 127.0.0.1 tkelq.genesys.com
 127.0.0.1 tkppvr.freshfarm.it
+127.0.0.1 tkrconnector.com
 127.0.0.1 tl.tradetracker.net
 127.0.0.1 tla.traderlink.com
 127.0.0.1 tltpyy.saatchiart.com
@@ -18277,7 +18273,6 @@
 127.0.0.1 za.zdn.vn
 127.0.0.1 zagrabiti.viessmann.hr
 127.0.0.1 zahlen.olereissmann.de
-127.0.0.1 zam.nextinpact.com
 127.0.0.1 zaventemdijleland.viessmann.be
 127.0.0.1 zbwp6ghm.com
 127.0.0.1 zcbsft.thedoublef.com
