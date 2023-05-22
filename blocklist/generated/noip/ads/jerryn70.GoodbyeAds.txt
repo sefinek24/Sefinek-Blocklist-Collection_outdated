@@ -7,17 +7,16 @@
 #      ____) | | |____  | |       _| |_  | |\  | | |____  | . \        | |_) | | |____  | |__| | | |____  | . \  | |____   _| |_   ____) |    | |
 #     |_____/  |______| |_|      |_____| |_| \_| |______| |_|\_\       |____/  |______|  \____/   \_____| |_|\_\ |______| |_____| |_____/     |_|
 #
-#                                   The best collection of blocklists for Pi-hole and AdGuard - https://sefinke.net
+#                                   The best collection of blocklists for Pi-hole and AdGuard - https://sefinek.net
 #                                            https://github.com/sefinek24/PiHole-Blocklist-Collection
 #
-# » Title       : Block NSFW (Not Safe For Work) websites
-# » Description : This blocklist is designed to prevent access to NSFW (Not Safe For Work) websites, which may contain explicit content not suitable for minors or in certain settings.
-# » Author      : https://github.com/jerryn70/GoodbyeAds
-# » License     : https://github.com/jerryn70/GoodbyeAds/blob/master/LICENSE
-# » Modified by : Sefinek (https://sefinek.net) <contact@sefinek.net>
-# » Release     : No IP (only domains)
-# » Version     : 1684420012508
-# » Last update : 14:26:52.508, 18.05.2023 [GMT+2 HH:MM:SS.MS, DD.MM.YYYY]
+# Title: Block NSFW (Not Safe For Work) websites
+# Description: This blocklist is designed to prevent access to NSFW (Not Safe For Work) websites, which may contain explicit content not suitable for minors or in certain settings.
+# Author: https://github.com/jerryn70 (jerryn70/GoodbyeAds is licensed under the MIT License)
+# Modified by: Sefinek (https://sefinek.net) <contact@sefinek.net>
+# Release: No IP (only domains)
+# Version: 1684750158411
+# Last update: 10:09:18.411, 22.05.2023 [GMT+2 HH:MM:SS.MS, DD.MM.YYYY]
 #
 # 〢 Important:
 # By using this blocklist, you can help protect yourself and others from accidentally accessing inappropriate content.
