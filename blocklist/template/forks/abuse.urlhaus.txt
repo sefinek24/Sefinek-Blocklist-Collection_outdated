@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-23 02:56:22 (UTC)                      #
+# Last updated: 2023-05-23 03:55:15 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -12,7 +12,6 @@
 0.0.0.0 2023foco.com.br
 0.0.0.0 20thstreetcoc.com
 0.0.0.0 2126892.bazeinfo.com
-0.0.0.0 230.btc-f2pool.top
 0.0.0.0 27astudios.com
 0.0.0.0 2by4constructioninc.com
 0.0.0.0 31337.hk
@@ -30,11 +29,13 @@
 0.0.0.0 abbaruna.com
 0.0.0.0 abissnet.net
 0.0.0.0 abmaxdigital.com
+0.0.0.0 acarvi.com
 0.0.0.0 accesoscse.com
 0.0.0.0 accessaccelerator.org
 0.0.0.0 acellr.co.uk
 0.0.0.0 acerogrado.cl
 0.0.0.0 acrhitechinfo.com
+0.0.0.0 adagro.com.br
 0.0.0.0 admin.byte.in.ua
 0.0.0.0 adttowing.com
 0.0.0.0 affiliateweapons.net
@@ -50,6 +51,7 @@
 0.0.0.0 akashfeedcpl.com
 0.0.0.0 akira.ozonedesk.cloud
 0.0.0.0 alakheilizwe.org
+0.0.0.0 alazharplast.com
 0.0.0.0 aldojuanpettiti.com.ar
 0.0.0.0 alejnr.com
 0.0.0.0 alemaanwebtv.net
@@ -78,7 +80,6 @@
 0.0.0.0 aosafrica.co.za
 0.0.0.0 api-ms.cobainaja.id
 0.0.0.0 api.52kkg.com
-0.0.0.0 api.elwekala.com
 0.0.0.0 api.irs.org.in
 0.0.0.0 api.seeingoholidays.com
 0.0.0.0 apkfeeds.com
@@ -183,6 +184,7 @@
 0.0.0.0 cdaonline.com.ar
 0.0.0.0 cdn.doxbin.org
 0.0.0.0 cdn.unduhfile.my.id
+0.0.0.0 celeronperu.com
 0.0.0.0 cellularport.com
 0.0.0.0 cemageng.com.br
 0.0.0.0 centro-cerberus.it
@@ -205,6 +207,7 @@
 0.0.0.0 coadymarine.com
 0.0.0.0 codelinkinfotech.com
 0.0.0.0 coderschoolbd.com
+0.0.0.0 coiffurepacitto.com
 0.0.0.0 cointra.ac.ug
 0.0.0.0 colisumy.com
 0.0.0.0 companella.site
@@ -216,15 +219,13 @@
 0.0.0.0 coorsamexico.mx
 0.0.0.0 coralpac.com
 0.0.0.0 cordisheartinstitute.com
-0.0.0.0 corpernaija.com
 0.0.0.0 corpolevesuplementos.com.br
 0.0.0.0 costaricadestinationwedding.com
 0.0.0.0 count.mail.163.com.impactmedfoundation.com
 0.0.0.0 countrychristmas.ca
 0.0.0.0 cplraipur.com
-0.0.0.0 crazymoney.app
-0.0.0.0 creativebugs.net
 0.0.0.0 creativesmartsolution.com
+0.0.0.0 crecerco.com
 0.0.0.0 crenloreto.com
 0.0.0.0 cruiselinemw.com
 0.0.0.0 crystalcoin.cc
@@ -262,7 +263,9 @@
 0.0.0.0 donkeytourscroatia.com
 0.0.0.0 down.pcclear.com
 0.0.0.0 down.udashi.com
+0.0.0.0 download.caihong.com
 0.0.0.0 download.pdf00.cn
+0.0.0.0 downloads.bcweb.org.uk
 0.0.0.0 drainsolutionplus.com
 0.0.0.0 dramarthadaza.com
 0.0.0.0 drbuthainaalansari.com
@@ -274,7 +277,6 @@
 0.0.0.0 droomsoft.com
 0.0.0.0 drpackirisamy.co.za
 0.0.0.0 drpetertio.com
-0.0.0.0 dst.co.tz
 0.0.0.0 dua-welfare.com
 0.0.0.0 dukaree.com
 0.0.0.0 dunaujvaros.gorogkatolikus.hu
@@ -284,6 +286,7 @@
 0.0.0.0 easybrand.vn
 0.0.0.0 easyrentbyowner.com
 0.0.0.0 easyswipe.net
+0.0.0.0 ebenezercartagena.org
 0.0.0.0 ebfertility.com
 0.0.0.0 eboka.vip
 0.0.0.0 ecomv10.ozonedesk.cloud
@@ -321,6 +324,7 @@
 0.0.0.0 farming4you.com
 0.0.0.0 femerp.com
 0.0.0.0 fernandinapm.com
+0.0.0.0 fibroflex.com.br
 0.0.0.0 files5.uludagbilisim.com
 0.0.0.0 fitochem.com
 0.0.0.0 fivedit.com
@@ -338,10 +342,10 @@
 0.0.0.0 frangulflegal.com
 0.0.0.0 frangulfmedia.com
 0.0.0.0 fransceysse.ac.ug
-0.0.0.0 frenchiescity.com
 0.0.0.0 frey2.com
 0.0.0.0 funatfitsports.com
 0.0.0.0 funletters.net
+0.0.0.0 gapegape.co.za
 0.0.0.0 gawahweekly.com
 0.0.0.0 gbsports.theapplab.org
 0.0.0.0 gccon.in
@@ -371,6 +375,7 @@
 0.0.0.0 greenlizard.co.za
 0.0.0.0 grubcart.com
 0.0.0.0 grupolahe.com
+0.0.0.0 grupos.curvelo.click
 0.0.0.0 gsmobile.es
 0.0.0.0 gtn.cl
 0.0.0.0 gulfroof.com
@@ -393,7 +398,6 @@
 0.0.0.0 homhugs.com
 0.0.0.0 hopeassistance.ae
 0.0.0.0 hosplfar.com
-0.0.0.0 hostealo.com
 0.0.0.0 hostigram.xyz
 0.0.0.0 hostraha.com
 0.0.0.0 hotwaterasap.com
@@ -415,7 +419,6 @@
 0.0.0.0 huthamcaudanang.net
 0.0.0.0 hydronomicsgh.com
 0.0.0.0 ibremp.org.br
-0.0.0.0 icvpartners.com
 0.0.0.0 idalidcouture.com
 0.0.0.0 idealweddings.co.zw
 0.0.0.0 ideiasmoveisdecor.com
@@ -428,6 +431,7 @@
 0.0.0.0 iluxtspl.com
 0.0.0.0 image-thaihometown.com
 0.0.0.0 imanagementpro.com
+0.0.0.0 imbueautoworx.co.za
 0.0.0.0 imihigo-watch.rw
 0.0.0.0 imit.ac.in
 0.0.0.0 imperialbox.net
@@ -435,9 +439,7 @@
 0.0.0.0 imrantex.com
 0.0.0.0 incoglobalm.com
 0.0.0.0 incotel.com.pk
-0.0.0.0 indonesias.me
 0.0.0.0 indrasbikaner.com
-0.0.0.0 induspay.pk
 0.0.0.0 innovantksa.com
 0.0.0.0 inseco.cl
 0.0.0.0 inspiratour.co.id
@@ -454,7 +456,7 @@
 0.0.0.0 ispacecorp.com
 0.0.0.0 jaccolima.com
 0.0.0.0 jacksonkatz.com
-0.0.0.0 jalebel7abeb.com
+0.0.0.0 jadinnovations.co.ug
 0.0.0.0 jandaautotowing.com
 0.0.0.0 jcc-e-systems.com
 0.0.0.0 jcedu.org
@@ -487,8 +489,8 @@
 0.0.0.0 karer.by
 0.0.0.0 karimgousa.ug
 0.0.0.0 karimgouss.ug
-0.0.0.0 karouhat.com
 0.0.0.0 kasilassports.com
+0.0.0.0 kazadesign.com.br
 0.0.0.0 kelaskan.com
 0.0.0.0 kemethuntlaw.com
 0.0.0.0 kenobs.org
@@ -499,24 +501,23 @@
 0.0.0.0 kilakila.cl
 0.0.0.0 kimjikuk.luxeone.cn
 0.0.0.0 kimyen.net
-0.0.0.0 kivointergrated.com
 0.0.0.0 klonopinonlinerx.com
 0.0.0.0 knoxwestern.com
 0.0.0.0 kolleruaqua.com
 0.0.0.0 kompas86.com
 0.0.0.0 konseptderi.com
-0.0.0.0 kotogadang-pusako.com
+0.0.0.0 kridhanidecor.com
 0.0.0.0 kustens.com
 0.0.0.0 kvrautomotive.com
 0.0.0.0 labmedegypt.com
 0.0.0.0 lacaviosafrica.com
 0.0.0.0 lalajimatrimonial.com
 0.0.0.0 lameguard.ru
+0.0.0.0 lapakwebsite.com
 0.0.0.0 lara.amiyon.com
 0.0.0.0 lara.com.ar
 0.0.0.0 lascumbres.com.mx
 0.0.0.0 lasermobilesounds.co.uk
-0.0.0.0 lashprochampionship.com
 0.0.0.0 lastimaners.ug
 0.0.0.0 launchfxm.com
 0.0.0.0 lceventos.net
@@ -550,8 +551,8 @@
 0.0.0.0 lyhourgroup.com
 0.0.0.0 m1shgan.app
 0.0.0.0 ma4salebyowner.com
-0.0.0.0 macayaywaak.cl
 0.0.0.0 maccounting.in
+0.0.0.0 madicon.co.za
 0.0.0.0 madualbarakah.com
 0.0.0.0 maduraipackersandmovers.com
 0.0.0.0 madvitz.com
@@ -564,7 +565,6 @@
 0.0.0.0 marksidfgs.ug
 0.0.0.0 marquesvogt.com
 0.0.0.0 mastertechnologies.net
-0.0.0.0 matajir.ae
 0.0.0.0 matchtranslations.com
 0.0.0.0 mathonsiohs.co.za
 0.0.0.0 mauro-cafe.com
@@ -588,9 +588,11 @@
 0.0.0.0 meonhanong.com
 0.0.0.0 mepstein.com
 0.0.0.0 mesoftwares.vip
+0.0.0.0 mhpa.gov.bt
 0.0.0.0 mhypecom.com
 0.0.0.0 microsecurityupdate.com
 0.0.0.0 midstate-towing.com
+0.0.0.0 mindbodyhealth.la
 0.0.0.0 mindfree.co.za
 0.0.0.0 ministarsme.com
 0.0.0.0 mistitis.ug
@@ -609,6 +611,7 @@
 0.0.0.0 mskims.org
 0.0.0.0 mujibbriyani.in
 0.0.0.0 mulberryhotels.in
+0.0.0.0 mumgee.co.za
 0.0.0.0 mundiaandmudhara.com
 0.0.0.0 musicaondemand.com
 0.0.0.0 mvinfotech.com
@@ -650,7 +653,7 @@
 0.0.0.0 oalshatty.com
 0.0.0.0 oazahotel.com.mk
 0.0.0.0 oceancityrentalbyowner.com
-0.0.0.0 ofertasitaquera.com
+0.0.0.0 odontomacih.com.br
 0.0.0.0 ofisitca.com
 0.0.0.0 olugun.co.za
 0.0.0.0 ong-rafaa.org
@@ -696,7 +699,6 @@
 0.0.0.0 pink99.com
 0.0.0.0 plasticmetal.it
 0.0.0.0 plugvibez.com
-0.0.0.0 pn-raha.go.id
 0.0.0.0 pns.org.pk
 0.0.0.0 pointblanknews.com
 0.0.0.0 pologroundsmusic.com
@@ -704,8 +706,8 @@
 0.0.0.0 position1seo.co.uk
 0.0.0.0 posmicrosystems.com
 0.0.0.0 potolki-razumno.ru
+0.0.0.0 ppfatahillah.com
 0.0.0.0 pranaevents.net
-0.0.0.0 prestigehomeautomation.net
 0.0.0.0 primusth.com
 0.0.0.0 prisanastechin.com
 0.0.0.0 privacy-tools-for-you-453.com
@@ -716,6 +718,7 @@
 0.0.0.0 promostopsy.com
 0.0.0.0 propagandaetrafego.com
 0.0.0.0 propertycare4u.com
+0.0.0.0 protechasia.com
 0.0.0.0 proyectos.vrstudio.cl
 0.0.0.0 pueblomacabeo.com
 0.0.0.0 pulsarcircuits.com
@@ -732,10 +735,10 @@
 0.0.0.0 rapture2.romangrey.net
 0.0.0.0 rbzjewellers.com
 0.0.0.0 records.dennisign.se
-0.0.0.0 redmag-dz.com
 0.0.0.0 reifenquick.de
 0.0.0.0 relaxindulge.co.nz
 0.0.0.0 remotaja.com
+0.0.0.0 repairhubpat.com
 0.0.0.0 restaurantecomeketo.com
 0.0.0.0 retailexpertscloud.com
 0.0.0.0 retrorollamerica.com
@@ -744,6 +747,7 @@
 0.0.0.0 ripasho.com
 0.0.0.0 rjsi.org.pk
 0.0.0.0 robosuperscalp31.com
+0.0.0.0 rohtasproduce.com
 0.0.0.0 rollsbeer.com
 0.0.0.0 roxtermoto.com
 0.0.0.0 royalkidsshop.com
@@ -760,7 +764,6 @@
 0.0.0.0 sammohankendra.com
 0.0.0.0 sankalppediatrictherapy.com
 0.0.0.0 santerreetfils.com
-0.0.0.0 sanubix.vip
 0.0.0.0 sarahfayearts.com
 0.0.0.0 sarasotawindowtint.com
 0.0.0.0 sarl-cec.com
@@ -768,7 +771,6 @@
 0.0.0.0 sasms.co
 0.0.0.0 satuatlas.com
 0.0.0.0 sauangodoy.com
-0.0.0.0 sawabash-sd.com
 0.0.0.0 sawatours.com
 0.0.0.0 sbdcbahamas.com
 0.0.0.0 scaleqa.com
@@ -795,7 +797,9 @@
 0.0.0.0 shahu66.com
 0.0.0.0 sharpservicecenterkarachi.com
 0.0.0.0 sharqiproduction.com
+0.0.0.0 shayanefaizconst.com
 0.0.0.0 sheikhrouhani.net
+0.0.0.0 shg.ph
 0.0.0.0 shipminttracking.net
 0.0.0.0 shop.mediasova.ru
 0.0.0.0 shopolx.com
@@ -804,6 +808,7 @@
 0.0.0.0 siddharulagam.org
 0.0.0.0 silvermaidsdubai.com
 0.0.0.0 simhdtv.com
+0.0.0.0 sipo.ru
 0.0.0.0 sistemasov.com
 0.0.0.0 sjme.pk
 0.0.0.0 sjptr.pk
@@ -831,13 +836,13 @@
 0.0.0.0 srikalaivanipackersandmovers.com
 0.0.0.0 srimangadukamatchipackersandmovers.com
 0.0.0.0 srv-fattureincloud.de
-0.0.0.0 sshd.run
 0.0.0.0 static.cz01.cn
 0.0.0.0 stayinoceancitymd.com
 0.0.0.0 str-tn.com
 0.0.0.0 studiolegaledefenu.it
 0.0.0.0 suakhoaketsattphcm.com
 0.0.0.0 suinter-usa.com
+0.0.0.0 suiteselroble.com
 0.0.0.0 sunpos.in
 0.0.0.0 sunshinestateipl.org
 0.0.0.0 superstar.tibolts.co.uk
@@ -876,13 +881,13 @@
 0.0.0.0 thesustainindiacampaign.com
 0.0.0.0 thetechgear.com
 0.0.0.0 thetulumtakeover.com
+0.0.0.0 theyoungandtheratchet.com
 0.0.0.0 thomasakvo.com
 0.0.0.0 threerosesbeauty.com
 0.0.0.0 thulasipharmacy.com
 0.0.0.0 ti-softwarefactory.com
 0.0.0.0 tiemvangngoctham.com
 0.0.0.0 tipsfreehealth.com
-0.0.0.0 tmglawpalawan.com
 0.0.0.0 tonydong.com
 0.0.0.0 topresumesolution.com
 0.0.0.0 topsepatu.com
@@ -890,6 +895,7 @@
 0.0.0.0 transdead.com
 0.0.0.0 transportadoramiranda.com
 0.0.0.0 travelwithmanta.co.za
+0.0.0.0 trieutin.com
 0.0.0.0 trinoxidiuvendas.com
 0.0.0.0 tusaceitesesenciales.com
 0.0.0.0 twizt.net
@@ -897,20 +903,17 @@
 0.0.0.0 udhayaminn.com
 0.0.0.0 uduakben.com
 0.0.0.0 ue-gov.uk
-0.0.0.0 ukguk71.ru
 0.0.0.0 ultimategamefowls.com
 0.0.0.0 ultimategatewayconstructions.com
 0.0.0.0 unapromo.com
 0.0.0.0 unexploredkonkan.in
 0.0.0.0 unicorpbrunei.com
 0.0.0.0 unigifts.net
-0.0.0.0 unitedec-eg.com
 0.0.0.0 unlockingdreamsfinancial.com
 0.0.0.0 update.cg100iii.com
 0.0.0.0 upload-wefiles.com
 0.0.0.0 urbanfreshgrocers.com
 0.0.0.0 utilimixnatal.com.br
-0.0.0.0 utmtechnologies.com
 0.0.0.0 uxsingh.com
 0.0.0.0 uylab.org
 0.0.0.0 v-onerotate.com
@@ -946,7 +949,6 @@
 0.0.0.0 webs-up.com
 0.0.0.0 websound.ru
 0.0.0.0 welnez.org
-0.0.0.0 whoisalbertuncle.com
 0.0.0.0 windcomtechnologies.com
 0.0.0.0 winnerspaathshala.com
 0.0.0.0 winpopup-express.com
@@ -971,6 +973,7 @@
 0.0.0.0 www.chemsky.tn
 0.0.0.0 www.cisnc.it
 0.0.0.0 www.conexclean.ro
+0.0.0.0 www.dacui.online
 0.0.0.0 www.ddtools.top
 0.0.0.0 www.dental.xiaoxiao.media
 0.0.0.0 www.enc-tech.com
@@ -992,7 +995,6 @@
 0.0.0.0 www.piaozone.com
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.reiwo-service.de
-0.0.0.0 www.roofing.galacticleads.com
 0.0.0.0 www.saf-oil.ru
 0.0.0.0 www.sunglassesninja.com
 0.0.0.0 www.tradeinsights.net
@@ -1015,9 +1017,10 @@
 0.0.0.0 yourhealhealth.com
 0.0.0.0 yp.hnggzyjy.cn
 0.0.0.0 yzkzixun.com
+0.0.0.0 zainco.net
 0.0.0.0 zaofisa.net
 0.0.0.0 zenxglobal.com
 0.0.0.0 zf.gouzapay.cn
 0.0.0.0 zhaoziliao1668.cn
 0.0.0.0 zuluagamarketing.com
-# Number of entries: 1014
+# Number of entries: 1017
