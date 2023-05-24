@@ -1,6 +1,6 @@
 # Title: Lightswitch05's dating-services-extended.txt
-# Released: 2023-05-23T01:05:26+00:00
-# Count: 21885 domains
+# Released: 2023-05-24T01:05:26+00:00
+# Count: 21901 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
@@ -12203,7 +12203,6 @@ server=/www.lovoo.com/
 server=/luckfuck.com/
 server=/ftp.luckfuck.com/
 server=/img.luckfuck.com/
-server=/juggler.luckfuck.com/
 server=/mail.luckfuck.com/
 server=/vps.luckfuck.com/
 server=/www.luckfuck.com/
@@ -13320,6 +13319,15 @@ server=/dc-0893ab474494.mnogochat.com/
 server=/ftp.mnogochat.com/
 server=/imap.mnogochat.com/
 server=/imap2.mnogochat.com/
+server=/love.mnogochat.com/
+server=/comet1.love.mnogochat.com/
+server=/comet2.love.mnogochat.com/
+server=/f1.love.mnogochat.com/
+server=/f2.love.mnogochat.com/
+server=/f3.love.mnogochat.com/
+server=/f4.love.mnogochat.com/
+server=/m.love.mnogochat.com/
+server=/www.love.mnogochat.com/
 server=/lyncaccess.mnogochat.com/
 server=/mail.mnogochat.com/
 server=/mail1.mnogochat.com/
@@ -20101,8 +20109,16 @@ server=/project.dating/
 server=/www.project.dating/
 server=/puffin.dating/
 server=/drone.dev.pull.dating/
+server=/filebrowser.dev.pull.dating/
+server=/ide.dev.pull.dating/
 server=/login.dev.pull.dating/
+server=/minio.dev.pull.dating/
 server=/monitor.dev.pull.dating/
+server=/node-api.dev.pull.dating/
+server=/node-zach.dev.pull.dating/
+server=/swarmpit.dev.pull.dating/
+server=/sync.dev.pull.dating/
+server=/technitium.dev.pull.dating/
 server=/appnative.pulse.dating/
 server=/crfprofile.punk.dating/
 server=/crmprofile.punk.dating/

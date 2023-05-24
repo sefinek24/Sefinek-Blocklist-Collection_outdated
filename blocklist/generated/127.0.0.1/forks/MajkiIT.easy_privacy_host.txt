@@ -1,4 +1,4 @@
-#202305220303
+#202305240303
 # EasyPrivacy Host filters for Pi hole
 # Collaborators: xxcriticxx, MajkiIT
 # Homepage: https://www.certyficate.it/
@@ -11847,6 +11847,7 @@
 127.0.0.1 realm.hearst3pcc.com
 127.0.0.1 realtimely.io
 127.0.0.1 reauthenticator.com
+127.0.0.1 rebelhen.com
 127.0.0.1 rebelsubway.com
 127.0.0.1 receptivebranch.com
 127.0.0.1 receptiveink.com
@@ -13374,6 +13375,7 @@
 127.0.0.1 sortstructure.com
 127.0.0.1 sortsummer.com
 127.0.0.1 sosc.hrs.com
+127.0.0.1 soundstocking.com
 127.0.0.1 sourcepoint-mms.aetv.com
 127.0.0.1 sourcepoint-mms.history.com
 127.0.0.1 sourcepoint-mms.mylifetime.com
