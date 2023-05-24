@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1984
+# Domains: 1979
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -167,6 +167,9 @@ server=/www.beecrave.com/
 server=/benecharm.com/
 server=/www.benecharm.com/
 server=/store.benecharm.com/
+server=/bestmoonshop.com/
+server=/www.bestmoonshop.com/
+server=/store.bestmoonshop.com/
 server=/bigappboi.com/
 server=/www.bigappboi.com/
 server=/bikehotsale.com/
@@ -574,9 +577,6 @@ server=/familystore.com/
 server=/www.familystore.com/
 server=/familyteacupschihuahuas.com/
 server=/www.familyteacupschihuahuas.com/
-server=/famoury.com/
-server=/www.famoury.com/
-server=/store.famoury.com/
 server=/fancycentral.com/
 server=/www.fancycentral.com/
 server=/store.fancycentral.com/
@@ -652,7 +652,6 @@ server=/www.fundcash.id/
 server=/furoshop.com/
 server=/www.furoshop.com/
 server=/store.furoshop.com/
-server=/g1z0.myinstructus.com/
 server=/www.g1z0.myinstructus.com/
 server=/store.g1z0.myinstructus.com/
 server=/gabanmalls.com/
@@ -902,7 +901,6 @@ server=/www.krediteksklusif.com/
 server=/www.kreditmudah.shop/
 server=/kxu.myinstructus.com/
 server=/www.kxu.myinstructus.com/
-server=/store.kxu.myinstructus.com/
 server=/ladamustore.com/
 server=/www.ladamustore.com/
 server=/store.ladamustore.com/
@@ -1663,6 +1661,8 @@ server=/tee24h.com/
 server=/www.tee24h.com/
 server=/teearrow.com/
 server=/www.teearrow.com/
+server=/teechip.online/
+server=/www.teechip.online/
 server=/teefoody.com/
 server=/www.teefoody.com/
 server=/store.teefoody.com/
@@ -1678,8 +1678,6 @@ server=/teezill.com/
 server=/www.teezill.com/
 server=/telemarktalk.com/
 server=/www.telemarktalk.com/
-server=/tesla-openai.com/
-server=/www.tesla-openai.com/
 server=/store.tesla-openai.com/
 server=/teslabrc.com/
 server=/teslacar.io/
@@ -1771,8 +1769,6 @@ server=/www.treverschmelerkris18.myshopify.com/
 server=/store.treverschmelerkris18.myshopify.com/
 server=/tripinpremiumsnacks.com/
 server=/www.tripinpremiumsnacks.com/
-server=/tromselementbygg.no/
-server=/www.tromselementbygg.no/
 server=/tsladouble23.com/
 server=/www.tsladouble23.com/
 server=/tslaget.live/
@@ -1863,7 +1859,6 @@ server=/www.venezuelabaseballjerseys.com/
 server=/verfun.com/
 server=/www.verfun.com/
 server=/store.verfun.com/
-server=/vetoro.cc/
 server=/www.vetoro.cc/
 server=/store.vetoro.cc/
 server=/viberman.com/
