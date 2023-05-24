@@ -1,7 +1,7 @@
 # Various telemetry endpoints (hosts and domains) used by mobile location tracking libraries
 # Contact: mobiletrackers [at] protonmail.ch
 #
-# Version 1.4 - 2023-05-15
+# Version 1.41 - 2023-05-24
 #
 
 # xmodesocial - e65912e897bd9e6f41865a8ab0eb9b15fef4bc0af68eb8217f5360fb1c53f423 - 13.1Trainer_95.19-.apk
@@ -950,3 +950,13 @@
 0.0.0.0 api.odskguo.xyz
 0.0.0.0 gbcf.odskguo.xyz
 0.0.0.0 track.odskguo.xyz
+
+#AhRat - see https://www.welivesecurity.com/2023/05/23/android-app-breaking-bad-legitimate-screen-recording-file-exfiltration/
+0.0.0.0 order.80876dd5.shop
+#AhRat - b2c1517e4b0e0b3286a5cde06310b2277da7333f5ab3c2828f08272e3f85b260 - iRecorder - Screen Recorder_2.0_apkcombo.com.apk
+0.0.0.0 config.unityads.unity3d.com
+0.0.0.0 config.unityads.unitychina.cn
+0.0.0.0 init.supersonicads.com
+0.0.0.0 logs.supersonic.com
+0.0.0.0 outcome-ssp.supersonicads.com
+0.0.0.0 supersonicads.com
