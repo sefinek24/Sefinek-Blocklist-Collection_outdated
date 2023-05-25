@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-25 10:58:12 (UTC)                      #
+# Last updated: 2023-05-25 11:59:24 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -32,7 +32,9 @@
 0.0.0.0 abbottminerals.com
 0.0.0.0 abissnet.net
 0.0.0.0 abmaxdigital.com
+0.0.0.0 aboali1.net
 0.0.0.0 acarvi.com
+0.0.0.0 accessoriesmuseum.com
 0.0.0.0 acellr.co.uk
 0.0.0.0 acnoemporium.com
 0.0.0.0 acrhitechinfo.com
@@ -40,6 +42,7 @@
 0.0.0.0 adagro.com.br
 0.0.0.0 admin.byte.in.ua
 0.0.0.0 adubuildersco.com
+0.0.0.0 africanintegrationfestival.com
 0.0.0.0 africatravelhub.com
 0.0.0.0 afromerchants.co.zw
 0.0.0.0 agemn.co.za
@@ -59,6 +62,7 @@
 0.0.0.0 alemaanwebtv.net
 0.0.0.0 alexmarineengineering.com
 0.0.0.0 alfred-kapsch.com
+0.0.0.0 algomhoria.com
 0.0.0.0 alhindmetal.com
 0.0.0.0 alinac.ca
 0.0.0.0 aljizala.com
@@ -84,6 +88,7 @@
 0.0.0.0 aojelectrical.com
 0.0.0.0 aosafrica.co.za
 0.0.0.0 api.52kkg.com
+0.0.0.0 api.elwekala.com
 0.0.0.0 api.seeingoholidays.com
 0.0.0.0 apple-service93.ru
 0.0.0.0 apprication.dev
@@ -99,6 +104,7 @@
 0.0.0.0 asjulcasa.com
 0.0.0.0 ask6.awt.com.pk
 0.0.0.0 aslamcheval.net
+0.0.0.0 asu.com.vn
 0.0.0.0 athadnw.com
 0.0.0.0 athens4d.com
 0.0.0.0 atomm.com.br
@@ -227,6 +233,7 @@
 0.0.0.0 count.mail.163.com.impactmedfoundation.com
 0.0.0.0 countrychristmas.ca
 0.0.0.0 crazymoney.app
+0.0.0.0 creativebugs.net
 0.0.0.0 creativesmartsolution.com
 0.0.0.0 crenloreto.com
 0.0.0.0 crsn.com.ar
@@ -267,7 +274,6 @@
 0.0.0.0 digitalcode.sa
 0.0.0.0 digitalnetcenters.com
 0.0.0.0 digitalonline.cl
-0.0.0.0 dl.1003b.56a.com
 0.0.0.0 dl.9xu.com
 0.0.0.0 dlqsclub.com
 0.0.0.0 dohrmann-projekt.de
@@ -354,6 +360,7 @@
 0.0.0.0 fawtter.com
 0.0.0.0 felaminestate.com
 0.0.0.0 femerp.com
+0.0.0.0 fidelizza.desarrollojm.com
 0.0.0.0 filechan.org
 0.0.0.0 files5.uludagbilisim.com
 0.0.0.0 flijanoxhak.com
@@ -372,6 +379,7 @@
 0.0.0.0 frangulflegal.com
 0.0.0.0 frangulfmedia.com
 0.0.0.0 fransceysse.ac.ug
+0.0.0.0 frenchiescity.com
 0.0.0.0 frey2.com
 0.0.0.0 fukutex.net
 0.0.0.0 funatfitsports.com
@@ -430,6 +438,7 @@
 0.0.0.0 helmprecision.com
 0.0.0.0 hepplo.com
 0.0.0.0 herchinfitout.com.sg
+0.0.0.0 hergelekitap.com.tr
 0.0.0.0 hgltourafrica.com
 0.0.0.0 hidirfindik.com
 0.0.0.0 higherquantum.com
@@ -482,6 +491,7 @@
 0.0.0.0 indonesias.me
 0.0.0.0 indrasbikaner.com
 0.0.0.0 indumever.com
+0.0.0.0 induspay.pk
 0.0.0.0 inmersionenidiomas.com
 0.0.0.0 innovantksa.com
 0.0.0.0 inseco.cl
@@ -507,6 +517,7 @@
 0.0.0.0 jalebel7abeb.com
 0.0.0.0 jcedu.org
 0.0.0.0 jklc.org
+0.0.0.0 jobcity.com
 0.0.0.0 jobs-sa.net
 0.0.0.0 johnalex.com.co
 0.0.0.0 johnleontarakis.com
@@ -533,6 +544,7 @@
 0.0.0.0 kashmirwatch.com
 0.0.0.0 kasurnews.pk
 0.0.0.0 katramiz.com
+0.0.0.0 kazadesign.com.br
 0.0.0.0 keith-schofield.net
 0.0.0.0 kelaskan.com
 0.0.0.0 kemethuntlaw.com
@@ -553,9 +565,9 @@
 0.0.0.0 lacadenaherrumbrosa.net
 0.0.0.0 lahotte.net
 0.0.0.0 lalajimatrimonial.com
+0.0.0.0 lameguard.ru
 0.0.0.0 lapakwebsite.com
 0.0.0.0 lara.amiyon.com
-0.0.0.0 lara.com.ar
 0.0.0.0 lascumbres.com.mx
 0.0.0.0 lasermobilesounds.co.uk
 0.0.0.0 lashprochampionship.com
@@ -566,6 +578,7 @@
 0.0.0.0 leafsols.com
 0.0.0.0 leanmaestro.com
 0.0.0.0 leanresearcher.com
+0.0.0.0 lebetha.co.za
 0.0.0.0 lesdeuxpalmiers.com
 0.0.0.0 letsggoo.com
 0.0.0.0 level-upcg.com
@@ -601,6 +614,7 @@
 0.0.0.0 mandastowing.com
 0.0.0.0 mansepool.com
 0.0.0.0 maranathahospital.com
+0.0.0.0 mario-sunjic.com
 0.0.0.0 market-mirror.com
 0.0.0.0 marksidfgs.ug
 0.0.0.0 marquesvogt.com
@@ -622,11 +636,11 @@
 0.0.0.0 medicaintl.com
 0.0.0.0 medicalbillingandtelehealth.com
 0.0.0.0 medicareassistanceprogram.com
+0.0.0.0 medicareinc.com
 0.0.0.0 meeweb.com
 0.0.0.0 megapowersystem.com
 0.0.0.0 mehtasachin.com
 0.0.0.0 meiieco.fr
-0.0.0.0 mendezplumbingservicellc.com
 0.0.0.0 menupricelist.today
 0.0.0.0 meonhanong.com
 0.0.0.0 mepstein.com
@@ -647,7 +661,6 @@
 0.0.0.0 mkt.miromi.com.br
 0.0.0.0 mmbcontracting.com
 0.0.0.0 moarkgcc.com
-0.0.0.0 mobyco.pk
 0.0.0.0 modern-city.by
 0.0.0.0 mooc.amnesty.tg
 0.0.0.0 moodle.corplearning.net
@@ -661,6 +674,7 @@
 0.0.0.0 mujibbriyani.in
 0.0.0.0 mulberryhotels.in
 0.0.0.0 mumgee.co.za
+0.0.0.0 mundiaandmudhara.com
 0.0.0.0 musicaondemand.com
 0.0.0.0 mvinfotech.com
 0.0.0.0 myayurvedashoppe.com
@@ -773,7 +787,6 @@
 0.0.0.0 priyankaconstruction.com
 0.0.0.0 prodimar.mx
 0.0.0.0 programmer-riyad.com
-0.0.0.0 project360.hr
 0.0.0.0 propagandaetrafego.com
 0.0.0.0 propertycare4u.com
 0.0.0.0 pros.sa
@@ -839,12 +852,14 @@
 0.0.0.0 saharascientific.com
 0.0.0.0 sahityaclasses.com
 0.0.0.0 saiservicecentre.in
+0.0.0.0 sakthipipesandplumbing.com
 0.0.0.0 saloneeats.com
 0.0.0.0 samasugroup.com
 0.0.0.0 samequalitiesfoundation.org
 0.0.0.0 sandlerandassociates.com
 0.0.0.0 sandonet.es
 0.0.0.0 santerreetfils.com
+0.0.0.0 sanubix.vip
 0.0.0.0 sarl-cec.com
 0.0.0.0 sashkin.com
 0.0.0.0 sasms.co
@@ -1011,6 +1026,7 @@
 0.0.0.0 virtualyourpondfarm.com
 0.0.0.0 visioni2c.com
 0.0.0.0 vitoturizm.com.tr
+0.0.0.0 vividled.in
 0.0.0.0 vogue-pharmaceuticals.com
 0.0.0.0 volainc.co
 0.0.0.0 votre-futur-site.com
@@ -1057,15 +1073,16 @@
 0.0.0.0 www.fixstudio.co.kr
 0.0.0.0 www.globallaborsupply.com
 0.0.0.0 www.hebgb.top
+0.0.0.0 www.hseda.com
 0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.institut-corps-a-ligne.fr
-0.0.0.0 www.janisthaaivf.com
 0.0.0.0 www.ks.cn
 0.0.0.0 www.lasikofmichigan.com
 0.0.0.0 www.lebuffet.com.tn
 0.0.0.0 www.maxmoney.com
 0.0.0.0 www.mediakomen.com
 0.0.0.0 www.moninediy.com
+0.0.0.0 www.movidoc.com.br
 0.0.0.0 www.neshuafoods.com
 0.0.0.0 www.palharesinformatica.com.br
 0.0.0.0 www.piaozone.com
@@ -1075,7 +1092,7 @@
 0.0.0.0 www.saf-oil.ru
 0.0.0.0 www.smpnuruliman.xyz
 0.0.0.0 www.sunglassesninja.com
-0.0.0.0 www.tvculturaourofino.com.br
+0.0.0.0 www.tradeinsights.net
 0.0.0.0 www.vaestsolutions.com
 0.0.0.0 www.websound.ru
 0.0.0.0 www.weinsteincounseling.com
@@ -1088,6 +1105,7 @@
 0.0.0.0 xpressfreightsolutions.com
 0.0.0.0 xrpreward.live
 0.0.0.0 xt.lykj988.com
+0.0.0.0 xyktza.nbxyk.net
 0.0.0.0 yesdeko.com
 0.0.0.0 yorkrefrigerent.md
 0.0.0.0 youknowpeople.com
@@ -1102,4 +1120,4 @@
 0.0.0.0 zf.gouzapay.cn
 0.0.0.0 zhaoziliao1668.cn
 0.0.0.0 zorganicfiji.com
-# Number of entries: 1096
+# Number of entries: 1114
