@@ -1879,6 +1879,8 @@
 127.0.0.1 ec.walkme.com
 127.0.0.1 ecomm.events
 127.0.0.1 ecommstats.s3.amazonaws.com
+127.0.0.1 edge-hls.doppiocdn.com
+127.0.0.1 edge-hls.doppiocdn.org
 127.0.0.1 eel.transistor.fm
 127.0.0.1 ele26126.jscrambler.com
 127.0.0.1 eq.userneeds.com
@@ -18170,6 +18172,8 @@
 127.0.0.1 d-log.bs-asahi.tv
 127.0.0.1 d-log.tv-asahi.co.jp
 127.0.0.1 d.tv-asahi.co.jp
+127.0.0.1 eq-beacon.stream.co.jp
+127.0.0.1 eq-player-log.cdnext.stream.ne.jp
 127.0.0.1 j1.ax.xrea.com
 127.0.0.1 ln.ameba.jp
 127.0.0.1 log-lb.skyperfectv.co.jp
