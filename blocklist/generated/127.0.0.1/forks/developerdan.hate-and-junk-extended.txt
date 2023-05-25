@@ -1,6 +1,6 @@
 # Title: Lightswitch05's hate-and-junk-extended.txt
-# Released: 2023-05-24T01:05:26+00:00
-# Count: 1869 domains
+# Released: 2023-05-25T01:05:26+00:00
+# Count: 1859 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/hate-and-junk-extended.txt
@@ -904,10 +904,6 @@
 127.0.0.1 thefreedomarticles.com
 127.0.0.1 autodiscover.thefreedomarticles.com
 127.0.0.1 www.thefreedomarticles.com
-127.0.0.1 theqanon.com
-127.0.0.1 demo.theqanon.com
-127.0.0.1 magento.theqanon.com
-127.0.0.1 staging.theqanon.com
 127.0.0.1 theqanons.com
 127.0.0.1 www.theqanons.com
 127.0.0.1 thinkqanon.com
@@ -1031,20 +1027,14 @@
 127.0.0.1 adserver.afa.net
 127.0.0.1 dev.adserver.afa.net
 127.0.0.1 afapledge.afa.net
-127.0.0.1 aml.afa.net
-127.0.0.1 apppush.afa.net
-127.0.0.1 bitrix.afa.net
 127.0.0.1 dev.afa.net
 127.0.0.1 donate.afa.net
-127.0.0.1 donateapi.afa.net
-127.0.0.1 donateapitgj.afa.net
 127.0.0.1 email.afa.net
 127.0.0.1 equip.afa.net
 127.0.0.1 ftp.afa.net
 127.0.0.1 ftps.afa.net
 127.0.0.1 give.afa.net
 127.0.0.1 inform.afa.net
-127.0.0.1 journalapi.afa.net
 127.0.0.1 login.afa.net
 127.0.0.1 mediaserver3.afa.net
 127.0.0.1 opalcallers.afa.net
