@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-26 09:54:17 (UTC)                      #
+# Last updated: 2023-05-26 10:59:39 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -30,6 +30,7 @@
 127.0.0.1 acarvi.com
 127.0.0.1 accessoriesmuseum.com
 127.0.0.1 acrhitechinfo.com
+127.0.0.1 adagro.com.br
 127.0.0.1 admin.byte.in.ua
 127.0.0.1 adttowing.com
 127.0.0.1 adubuildersco.com
@@ -55,7 +56,6 @@
 127.0.0.1 algomhoria.com
 127.0.0.1 alinac.ca
 127.0.0.1 aljizala.com
-127.0.0.1 allcleaner.biramedia.com
 127.0.0.1 alligatorplataformas.com
 127.0.0.1 almahasouq.com
 127.0.0.1 almullaadvocates.com
@@ -93,7 +93,6 @@
 127.0.0.1 awlaadelkhouly.com
 127.0.0.1 azconsultants.co.in
 127.0.0.1 azmeasurement.com
-127.0.0.1 b.dowgmeb.com
 127.0.0.1 babord-tribord.com
 127.0.0.1 baecampusconnect.com
 127.0.0.1 balneario.tissotodontologia.com.br
@@ -171,6 +170,7 @@
 127.0.0.1 coadymarine.com
 127.0.0.1 cointra.ac.ug
 127.0.0.1 coldwarpublications.com
+127.0.0.1 colisumy.com
 127.0.0.1 conceptacademia.org
 127.0.0.1 conforfit.com
 127.0.0.1 congtykhoancatbetong.com
@@ -185,6 +185,7 @@
 127.0.0.1 corsyne.com
 127.0.0.1 count.mail.163.com.impactmedfoundation.com
 127.0.0.1 countrychristmas.ca
+127.0.0.1 creativebugs.net
 127.0.0.1 crenloreto.com
 127.0.0.1 crsn.com.ar
 127.0.0.1 crystalcoin.cc
@@ -230,10 +231,10 @@
 127.0.0.1 download.pdf00.cn
 127.0.0.1 downloads.bcweb.org.uk
 127.0.0.1 dreamzonemadurai.com
+127.0.0.1 drhanneserasmus.co.za
 127.0.0.1 drive.google.com.it-barcelona.com
 127.0.0.1 drjosephchemistry.com
 127.0.0.1 droomsoft.com
-127.0.0.1 drpackirisamy.co.za
 127.0.0.1 drtopeade.com
 127.0.0.1 dsquareelectronics.com
 127.0.0.1 dst.co.tz
@@ -275,7 +276,6 @@
 127.0.0.1 evollui.com
 127.0.0.1 exemplarywriters.com
 127.0.0.1 exilum.com
-127.0.0.1 expopioneros.com
 127.0.0.1 expressionsofwood.ca
 127.0.0.1 eyegenmedical.com
 127.0.0.1 f8designstudio.com
@@ -296,7 +296,6 @@
 127.0.0.1 fondoami.com
 127.0.0.1 forestprotection.pk
 127.0.0.1 forexjoustar.com
-127.0.0.1 forsalenear.me
 127.0.0.1 fourelevenpharma.com
 127.0.0.1 fran.ac.ug
 127.0.0.1 frangulf.ae
@@ -328,12 +327,12 @@
 127.0.0.1 ghanasupply.com
 127.0.0.1 glicebeautyandspa.com
 127.0.0.1 gobesitysurgery.com
+127.0.0.1 golden-scalen.com
 127.0.0.1 goldrush.ug
 127.0.0.1 goldwaycrm.com
 127.0.0.1 gomlgaming.dev
 127.0.0.1 gotovacoil.com
 127.0.0.1 gplongxuyen.org
-127.0.0.1 graphixcreativity.com
 127.0.0.1 greenisco.com
 127.0.0.1 greenlinelabs.in
 127.0.0.1 greenlizard.co.za
@@ -357,7 +356,6 @@
 127.0.0.1 hepm.co.uk
 127.0.0.1 hepplo.com
 127.0.0.1 herchinfitout.com.sg
-127.0.0.1 hergelekitap.com.tr
 127.0.0.1 hipotesis.uy
 127.0.0.1 hitstation.nl
 127.0.0.1 hmtdtechvn.com
@@ -385,9 +383,11 @@
 127.0.0.1 icvpartners.com
 127.0.0.1 idalidcouture.com
 127.0.0.1 idealweddings.co.zw
+127.0.0.1 ideiasmoveisdecor.com
 127.0.0.1 idrissischool.edu.my
 127.0.0.1 idrogeolab.it
 127.0.0.1 ignmas.cl
+127.0.0.1 ijbfi.pk
 127.0.0.1 ijrec.pk
 127.0.0.1 ijset.pk
 127.0.0.1 illuminatinwototheworld.org
@@ -403,7 +403,6 @@
 127.0.0.1 imrantex.com
 127.0.0.1 incotel.com.pk
 127.0.0.1 indiajustmarry.com
-127.0.0.1 indonesias.me
 127.0.0.1 indrasbikaner.com
 127.0.0.1 indumever.com
 127.0.0.1 induspay.pk
@@ -425,6 +424,7 @@
 127.0.0.1 itemregistry.co.uk
 127.0.0.1 iwebtravel.com
 127.0.0.1 jaccolima.com
+127.0.0.1 jadinnovations.co.ug
 127.0.0.1 jcedu.org
 127.0.0.1 jeanclaudecelin.com
 127.0.0.1 jhayesconsulting.com
@@ -432,6 +432,7 @@
 127.0.0.1 johnalex.com.co
 127.0.0.1 jointings.org
 127.0.0.1 jojoexports.com
+127.0.0.1 joofagsi.ngo
 127.0.0.1 joswiltrader.com
 127.0.0.1 jp.imgjeoighw.com
 127.0.0.1 jr-software-web.net
@@ -558,10 +559,12 @@
 127.0.0.1 mvinfotech.com
 127.0.0.1 mysura.it
 127.0.0.1 mytheacademy.com
+127.0.0.1 nakato.co.za
 127.0.0.1 nalmaconigeria.com
 127.0.0.1 namthaibinh.net
 127.0.0.1 nanpe.eng.br
 127.0.0.1 natatourism.com
+127.0.0.1 nazima.ac.ug
 127.0.0.1 nbbgarden.vn
 127.0.0.1 ncsuppliers.com
 127.0.0.1 neilshairdressers.co.uk
@@ -604,16 +607,15 @@
 127.0.0.1 orsan.gruporhynous.com
 127.0.0.1 outdoortacklebox.com
 127.0.0.1 ovajabmedia.com
-127.0.0.1 ozelmimarsinanmtal.com
 127.0.0.1 p2.d9media.cn
 127.0.0.1 pablobrothel.com.ar
 127.0.0.1 pacersur.com
 127.0.0.1 pakistancomparison.com
-127.0.0.1 palharesinformatica.com.br
 127.0.0.1 parallel.rockvideos.at
 127.0.0.1 parasoltech.net
 127.0.0.1 parrotbay.net
 127.0.0.1 pascasarjana.iainfmpapua.ac.id
+127.0.0.1 paste-bin.xyz
 127.0.0.1 perakamedia.com
 127.0.0.1 perezlandscapedesigns.com
 127.0.0.1 petparadise.biz
@@ -710,7 +712,6 @@
 127.0.0.1 sealicensing.com
 127.0.0.1 secretmindcontrol.com
 127.0.0.1 sehatcom.com
-127.0.0.1 senbiaojita.com
 127.0.0.1 senderolunarejo.com
 127.0.0.1 seniorweekoc.net
 127.0.0.1 serc.com
@@ -786,13 +787,13 @@
 127.0.0.1 tmglawpalawan.com
 127.0.0.1 toddgunterrestoration.com
 127.0.0.1 toimoi.org
-127.0.0.1 tomazellapresentes.com.br
 127.0.0.1 tonydong.com
 127.0.0.1 top-kuwait.com
 127.0.0.1 topsepatu.com
 127.0.0.1 tovecpharma.com
 127.0.0.1 transportadoramiranda.com
 127.0.0.1 travelwithmanta.co.za
+127.0.0.1 trieutin.com
 127.0.0.1 trinoxidiuvendas.com
 127.0.0.1 triplebbbfoundationrepair.com
 127.0.0.1 triplevmusic.com
@@ -817,7 +818,6 @@
 127.0.0.1 utmtechnologies.com
 127.0.0.1 uxsingh.com
 127.0.0.1 uylab.org
-127.0.0.1 vaikartanapraj.com
 127.0.0.1 valuewholesellers.co.uk
 127.0.0.1 vashovskycorp.com
 127.0.0.1 veley.co
@@ -861,13 +861,16 @@
 127.0.0.1 www.artrsllc.com
 127.0.0.1 www.asterglobal.com
 127.0.0.1 www.bancarioscornelio.com.br
+127.0.0.1 www.bearware.org
 127.0.0.1 www.carusoadvogados.com.br
+127.0.0.1 www.cesasin.com.ar
 127.0.0.1 www.charmingsoftech.com
 127.0.0.1 www.chawkyfrenn.com
 127.0.0.1 www.chemsky.tn
 127.0.0.1 www.chipmania.it
 127.0.0.1 www.cisnc.it
 127.0.0.1 www.clinicamomentum.com.br
+127.0.0.1 www.conexclean.ro
 127.0.0.1 www.dacui.online
 127.0.0.1 www.dental.xiaoxiao.media
 127.0.0.1 www.enc-tech.com
@@ -891,6 +894,7 @@
 127.0.0.1 www.piaozone.com
 127.0.0.1 www.reifenquick.de
 127.0.0.1 www.reiwo-service.de
+127.0.0.1 www.roofing.galacticleads.com
 127.0.0.1 www.saf-oil.ru
 127.0.0.1 www.smpnuruliman.xyz
 127.0.0.1 www.speedone.net.bd
@@ -905,6 +909,7 @@
 127.0.0.1 x.233sy.cn
 127.0.0.1 xmanager.in
 127.0.0.1 xn----7sbhgfcdscaa3cdd6dq3e3dvf.xn--p1ai
+127.0.0.1 xrpreward.live
 127.0.0.1 xt.lykj988.com
 127.0.0.1 xyktza.nbxyk.net
 127.0.0.1 ycnexgroup.com
@@ -918,4 +923,4 @@
 127.0.0.1 zaofisa.net
 127.0.0.1 zf.gouzapay.cn
 127.0.0.1 zhaoziliao1668.cn
-# Number of entries: 912
+# Number of entries: 917
