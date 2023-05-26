@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-26 13:51:34 (UTC)                      #
+# Last updated: 2023-05-26 14:58:35 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -25,6 +25,7 @@
 127.0.0.1 ab-sol.net
 127.0.0.1 abbottminerals.com
 127.0.0.1 abissnet.net
+127.0.0.1 abmaxdigital.com
 127.0.0.1 aboali1.net
 127.0.0.1 acarvi.com
 127.0.0.1 accessoriesmuseum.com
@@ -74,7 +75,6 @@
 127.0.0.1 aosafrica.co.za
 127.0.0.1 api-ms.cobainaja.id
 127.0.0.1 api.52kkg.com
-127.0.0.1 api.elwekala.com
 127.0.0.1 api.seeingoholidays.com
 127.0.0.1 apps.saintsoporte.com
 127.0.0.1 aqrectos.com
@@ -106,7 +106,6 @@
 127.0.0.1 basic4u.com.tr
 127.0.0.1 bawatingbarter.com
 127.0.0.1 bayyan.magesticflyer.com
-127.0.0.1 bbc-s.news
 127.0.0.1 bearcatpumps.com.cn
 127.0.0.1 beautifulqueen.com.br
 127.0.0.1 bebessi.com.tr
@@ -141,7 +140,6 @@
 127.0.0.1 buscascolegios.diit.cl
 127.0.0.1 business-line.com
 127.0.0.1 buygmails.com
-127.0.0.1 bz.bbbeioaag.com
 127.0.0.1 caioaraujo.vip
 127.0.0.1 camminachetipassa.it
 127.0.0.1 canadianused.com
@@ -150,10 +148,12 @@
 127.0.0.1 capstonee.com
 127.0.0.1 cargoconnect.online
 127.0.0.1 carladvogadatributaria.com
+127.0.0.1 casamuseoayerbe.co
 127.0.0.1 caswillow.com
 127.0.0.1 cathyziengs.com
 127.0.0.1 cbob.cuchulain.co.za
 127.0.0.1 cdaonline.com.ar
+127.0.0.1 cdn.doxbin.org
 127.0.0.1 cdn.unduhfile.my.id
 127.0.0.1 celiklergoldtasarim.com
 127.0.0.1 cemageng.com.br
@@ -173,13 +173,13 @@
 127.0.0.1 coadymarine.com
 127.0.0.1 cointra.ac.ug
 127.0.0.1 coldwarpublications.com
-127.0.0.1 colisumy.com
 127.0.0.1 conceptacademia.org
 127.0.0.1 conforfit.com
 127.0.0.1 congtykhoancatbetong.com
 127.0.0.1 controlhomecr.com
 127.0.0.1 coop-host.com
 127.0.0.1 coorsamexico.mx
+127.0.0.1 coralpac.com
 127.0.0.1 cordisheartinstitute.com
 127.0.0.1 corpolevesuplementos.com.br
 127.0.0.1 corpotechgroup.com
@@ -221,7 +221,6 @@
 127.0.0.1 digitalonline.cl
 127.0.0.1 digitalsolution360.in
 127.0.0.1 djgruas.com
-127.0.0.1 dl.1003b.56a.com
 127.0.0.1 dl.9xu.com
 127.0.0.1 dlqsclub.com
 127.0.0.1 dohrmann-projekt.de
@@ -230,7 +229,6 @@
 127.0.0.1 down.udashi.com
 127.0.0.1 download.caihong.com
 127.0.0.1 download.doumaibiji.cn
-127.0.0.1 download.pdf00.cn
 127.0.0.1 downloads.bcweb.org.uk
 127.0.0.1 dreamzonemadurai.com
 127.0.0.1 drhanneserasmus.co.za
@@ -412,7 +410,6 @@
 127.0.0.1 imrantex.com
 127.0.0.1 incotel.com.pk
 127.0.0.1 indiajustmarry.com
-127.0.0.1 indonesias.me
 127.0.0.1 indrasbikaner.com
 127.0.0.1 indumever.com
 127.0.0.1 induspay.pk
@@ -422,7 +419,6 @@
 127.0.0.1 instinctux.com
 127.0.0.1 intellectproactive.com
 127.0.0.1 intelli-sys.co.zw
-127.0.0.1 internationalvocalcoach.com
 127.0.0.1 internetworkmarketers.com
 127.0.0.1 intervisaovistorias.com.br
 127.0.0.1 invar.me
@@ -487,6 +483,7 @@
 127.0.0.1 lascumbres.com.mx
 127.0.0.1 lasermobilesounds.co.uk
 127.0.0.1 lastimaners.ug
+127.0.0.1 lceventos.net
 127.0.0.1 leadsglobalsolutions.com
 127.0.0.1 leanmaestro.com
 127.0.0.1 leanresearcher.com
@@ -501,6 +498,7 @@
 127.0.0.1 lopespublicidade.com
 127.0.0.1 lorem.com.sa
 127.0.0.1 lotemoclubrificantes.com.br
+127.0.0.1 lp.gunlakemhc.com
 127.0.0.1 ltc.typoten.com
 127.0.0.1 luckytours-alex.com
 127.0.0.1 lushimarche.com
@@ -517,7 +515,6 @@
 127.0.0.1 mandastowing.com
 127.0.0.1 mansepool.com
 127.0.0.1 maranathahospital.com
-127.0.0.1 mario-sunjic.com
 127.0.0.1 market-mirror.com
 127.0.0.1 marksidfgs.ug
 127.0.0.1 marquesvogt.com
@@ -559,7 +556,6 @@
 127.0.0.1 mmbcontracting.com
 127.0.0.1 moarkgcc.com
 127.0.0.1 mobyco.pk
-127.0.0.1 modern-city.by
 127.0.0.1 mooc.amnesty.tg
 127.0.0.1 moodle.corplearning.net
 127.0.0.1 moonlightdeli.com
@@ -619,7 +615,6 @@
 127.0.0.1 orsan.gruporhynous.com
 127.0.0.1 outdoortacklebox.com
 127.0.0.1 ovajabmedia.com
-127.0.0.1 ozelmimarsinanmtal.com
 127.0.0.1 p2.d9media.cn
 127.0.0.1 pablobrothel.com.ar
 127.0.0.1 pacersur.com
@@ -686,13 +681,13 @@
 127.0.0.1 regionalfostering.co.uk
 127.0.0.1 regiscoimbra.pt
 127.0.0.1 reifenquick.de
+127.0.0.1 relaxindulge.co.nz
 127.0.0.1 remotaja.com
 127.0.0.1 renacer.jgorange.com
 127.0.0.1 repairhubpat.com
 127.0.0.1 reposebay.com
 127.0.0.1 retailexpertscloud.com
 127.0.0.1 rfindustria.com.br
-127.0.0.1 richterhi-tech.com
 127.0.0.1 riseteducation.com
 127.0.0.1 robosuperscalp31.com
 127.0.0.1 rollsbeer.com
@@ -719,6 +714,7 @@
 127.0.0.1 sawabash-sd.com
 127.0.0.1 sbdcbahamas.com
 127.0.0.1 scarletespinal.com
+127.0.0.1 scarterproductionfilms.com
 127.0.0.1 scgcofres.com
 127.0.0.1 scglobal.co.th
 127.0.0.1 schoolofspanish.co.za
@@ -734,7 +730,7 @@
 127.0.0.1 server.toeicswt.co.kr
 127.0.0.1 servisaludocupacional.pe
 127.0.0.1 shahu66.com
-127.0.0.1 shg.ph
+127.0.0.1 shayanefaizconst.com
 127.0.0.1 shipminttracking.net
 127.0.0.1 shop.mediasova.ru
 127.0.0.1 shourfah.com
@@ -747,6 +743,7 @@
 127.0.0.1 sjptr.pk
 127.0.0.1 skillum.mx
 127.0.0.1 smartphoodapp.com
+127.0.0.1 smeolbd.com
 127.0.0.1 soaresdesigner.com.br
 127.0.0.1 socacic.com
 127.0.0.1 sociallysavvyseo.com
@@ -789,6 +786,7 @@
 127.0.0.1 test.earborist.com
 127.0.0.1 test.typoten.com
 127.0.0.1 thedoctorsgym.net
+127.0.0.1 theemirateshills.com
 127.0.0.1 thegioibanghieu.net
 127.0.0.1 thegrand-manhattan.vn
 127.0.0.1 theheadsoccerunblocked.com
@@ -809,8 +807,8 @@
 127.0.0.1 tovecpharma.com
 127.0.0.1 transportadoramiranda.com
 127.0.0.1 travelwithmanta.co.za
-127.0.0.1 trieutin.com
 127.0.0.1 trinoxidiuvendas.com
+127.0.0.1 triplebbbfoundationrepair.com
 127.0.0.1 triplevmusic.com
 127.0.0.1 tscomputers.net.pe
 127.0.0.1 tusaceitesesenciales.com
@@ -837,6 +835,7 @@
 127.0.0.1 valuewholesellers.co.uk
 127.0.0.1 vashovskycorp.com
 127.0.0.1 veley.co
+127.0.0.1 velumuriinfra.com
 127.0.0.1 vesnade3ign.com
 127.0.0.1 vfocus.net
 127.0.0.1 vidaviajesperu.com
@@ -850,7 +849,6 @@
 127.0.0.1 vividled.in
 127.0.0.1 vogue-pharmaceuticals.com
 127.0.0.1 votre-futur-site.com
-127.0.0.1 vtope.info
 127.0.0.1 vuelosfantastico.com
 127.0.0.1 wahdaniyyadatahub.com
 127.0.0.1 walkindrivetoday.com
@@ -876,12 +874,12 @@
 127.0.0.1 www.artrsllc.com
 127.0.0.1 www.asterglobal.com
 127.0.0.1 www.bancarioscornelio.com.br
-127.0.0.1 www.bearware.org
 127.0.0.1 www.carusoadvogados.com.br
 127.0.0.1 www.cesasin.com.ar
 127.0.0.1 www.charmingsoftech.com
 127.0.0.1 www.chawkyfrenn.com
 127.0.0.1 www.chemsky.tn
+127.0.0.1 www.chipmania.it
 127.0.0.1 www.clinicamomentum.com.br
 127.0.0.1 www.conexclean.ro
 127.0.0.1 www.dacui.online
@@ -896,8 +894,6 @@
 127.0.0.1 www.janisthaaivf.com
 127.0.0.1 www.ks.cn
 127.0.0.1 www.lasikofmichigan.com
-127.0.0.1 www.lebuffet.com.tn
-127.0.0.1 www.maxmoney.com
 127.0.0.1 www.mediakomen.com
 127.0.0.1 www.movidoc.com.br
 127.0.0.1 www.neshuafoods.com
@@ -937,4 +933,4 @@
 127.0.0.1 zaofisa.net
 127.0.0.1 zf.gouzapay.cn
 127.0.0.1 zhaoziliao1668.cn
-# Number of entries: 931
+# Number of entries: 927
