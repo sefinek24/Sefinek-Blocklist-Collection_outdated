@@ -1,6 +1,6 @@
 # Title: Lightswitch05's dating-services-extended.txt
-# Released: 2023-05-24T01:05:26+00:00
-# Count: 21901 domains
+# Released: 2023-05-26T01:05:26+00:00
+# Count: 21922 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
@@ -496,6 +496,7 @@
 127.0.0.1 uat-api.feeld.co
 127.0.0.1 www.feeld.co
 127.0.0.1 go3fun.co
+127.0.0.1 al.go3fun.co
 127.0.0.1 banalysis.go3fun.co
 127.0.0.1 bdata.go3fun.co
 127.0.0.1 km.go3fun.co
@@ -9088,6 +9089,7 @@
 127.0.0.1 turn-toronto.faceflow.com
 127.0.0.1 www.faceflow.com
 127.0.0.1 farmersdatingapp.com
+127.0.0.1 al.farmersdatingapp.com
 127.0.0.1 banalysis.farmersdatingapp.com
 127.0.0.1 bdata.farmersdatingapp.com
 127.0.0.1 home.farmersdatingapp.com
@@ -10256,6 +10258,7 @@
 127.0.0.1 chat.gleeden.com
 127.0.0.1 chaterbox.gleeden.com
 127.0.0.1 chl8270.gleeden.com
+127.0.0.1 link.communication.gleeden.com
 127.0.0.1 cw09web018.gleeden.com
 127.0.0.1 danang.gleeden.com
 127.0.0.1 dataorigin.gleeden.com
@@ -10521,6 +10524,7 @@
 127.0.0.1 wassup.grindr.com
 127.0.0.1 web.grindr.com
 127.0.0.1 dev.web.grindr.com
+127.0.0.1 web-stage.grindr.com
 127.0.0.1 web-waf.grindr.com
 127.0.0.1 web-waf1.grindr.com
 127.0.0.1 web-waf2.grindr.com
@@ -11521,6 +11525,7 @@
 127.0.0.1 mail.juicytalks.com
 127.0.0.1 www.juicytalks.com
 127.0.0.1 justbewild.com
+127.0.0.1 al.justbewild.com
 127.0.0.1 antispam.justbewild.com
 127.0.0.1 authsmtp.justbewild.com
 127.0.0.1 b69007009b.justbewild.com
@@ -17287,6 +17292,7 @@
 127.0.0.1 e.tawkify.com
 127.0.0.1 connect.e.tawkify.com
 127.0.0.1 email.tawkify.com
+127.0.0.1 connect.events.tawkify.com
 127.0.0.1 ftp.tawkify.com
 127.0.0.1 gate.tawkify.com
 127.0.0.1 go.tawkify.com
@@ -17344,6 +17350,7 @@
 127.0.0.1 ns.tawkify.com
 127.0.0.1 ns2.tawkify.com
 127.0.0.1 one.tawkify.com
+127.0.0.1 connect.ops.tawkify.com
 127.0.0.1 out.tawkify.com
 127.0.0.1 po.tawkify.com
 127.0.0.1 pop.tawkify.com
@@ -18153,6 +18160,7 @@
 127.0.0.1 email.victoriamilan.com
 127.0.0.1 es.victoriamilan.com
 127.0.0.1 fi.victoriamilan.com
+127.0.0.1 go.victoriamilan.com
 127.0.0.1 m.victoriamilan.com
 127.0.0.1 mail.victoriamilan.com
 127.0.0.1 mail2.victoriamilan.com
@@ -18777,6 +18785,8 @@
 127.0.0.1 gitlab.24hours.dating
 127.0.0.1 2redbeans.dating
 127.0.0.1 2tango.dating
+127.0.0.1 3652.dating
+127.0.0.1 www.3652.dating
 127.0.0.1 4.dating
 127.0.0.1 420.dating
 127.0.0.1 dan.420.dating
@@ -19073,7 +19083,9 @@
 127.0.0.1 boo.dating
 127.0.0.1 images.beta.boo.dating
 127.0.0.1 joinbeta.boo.dating
+127.0.0.1 joindev.boo.dating
 127.0.0.1 images.prod.boo.dating
+127.0.0.1 signup.boo.dating
 127.0.0.1 soulverse.boo.dating
 127.0.0.1 webrtc.boo.dating
 127.0.0.1 www.boo.dating
@@ -19097,11 +19109,14 @@
 127.0.0.1 brook.dating
 127.0.0.1 bump.dating
 127.0.0.1 bumpy.dating
+127.0.0.1 api-dev.bumpy.dating
 127.0.0.1 api-v1.bumpy.dating
 127.0.0.1 api-v2.bumpy.dating
 127.0.0.1 api-v3.bumpy.dating
 127.0.0.1 cdn.bumpy.dating
 127.0.0.1 crm.bumpy.dating
+127.0.0.1 crm-dev.bumpy.dating
+127.0.0.1 fly-dev.bumpy.dating
 127.0.0.1 fly-v1.bumpy.dating
 127.0.0.1 fly-v2.bumpy.dating
 127.0.0.1 maintenance.bumpy.dating
@@ -19322,6 +19337,7 @@
 127.0.0.1 my.djspeed.dating
 127.0.0.1 prod.djspeed.dating
 127.0.0.1 projects.djspeed.dating
+127.0.0.1 www.djspeed.dating
 127.0.0.1 dna.dating
 127.0.0.1 www.dna.dating
 127.0.0.1 dog.dating
@@ -19476,6 +19492,7 @@
 127.0.0.1 mail.gamer.dating
 127.0.0.1 gaudi.dating
 127.0.0.1 api.gaudi.dating
+127.0.0.1 gay-pride-shop.gaudi.dating
 127.0.0.1 staging.gaudi.dating
 127.0.0.1 stagingapi.gaudi.dating
 127.0.0.1 stagingapi1.gaudi.dating
@@ -19667,6 +19684,7 @@
 127.0.0.1 job.dating
 127.0.0.1 jobspeed.dating
 127.0.0.1 app.jobspeed.dating
+127.0.0.1 qr.d.jobspeed.dating
 127.0.0.1 demo.jobspeed.dating
 127.0.0.1 qr.dus.jobspeed.dating
 127.0.0.1 qr.jobspeed.dating
@@ -19778,7 +19796,9 @@
 127.0.0.1 admin-app-test.maple.dating
 127.0.0.1 dev.api.maple.dating
 127.0.0.1 test.api.maple.dating
+127.0.0.1 minio.maple.dating
 127.0.0.1 portainer.maple.dating
+127.0.0.1 s3.maple.dating
 127.0.0.1 www.maple.dating
 127.0.0.1 marriedbutlooking.dating
 127.0.0.1 match-maker.dating
@@ -19944,6 +19964,7 @@
 127.0.0.1 you.are.not.dating
 127.0.0.1 they.should.be.enjoying.their.childhoods.not.dating
 127.0.0.1 am.i.not.dating
+127.0.0.1 he.is.not.dating
 127.0.0.1 she.is.not.dating
 127.0.0.1 if.m.not.dating
 127.0.0.1 marriage.not.dating
