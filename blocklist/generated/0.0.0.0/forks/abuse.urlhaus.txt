@@ -1,13 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-27 04:54:33 (UTC)                      #
+# Last updated: 2023-05-27 05:54:20 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
 0.0.0.0 1008691.com
-0.0.0.0 1717.1000uc.com
 0.0.0.0 1ecosolution.it
 0.0.0.0 2023foco.com.br
 0.0.0.0 20thstreetcoc.com
@@ -29,7 +28,6 @@
 0.0.0.0 acarvi.com
 0.0.0.0 accessoriesmuseum.com
 0.0.0.0 acellr.co.uk
-0.0.0.0 acerogrado.cl
 0.0.0.0 acrhitechinfo.com
 0.0.0.0 adagro.com.br
 0.0.0.0 admin.byte.in.ua
@@ -54,7 +52,6 @@
 0.0.0.0 algomhoria.com
 0.0.0.0 alinac.ca
 0.0.0.0 aljizala.com
-0.0.0.0 allcleaner.biramedia.com
 0.0.0.0 alligatorplataformas.com
 0.0.0.0 almahasouq.com
 0.0.0.0 almullaadvocates.com
@@ -67,7 +64,6 @@
 0.0.0.0 antacobinhduong.com
 0.0.0.0 antoinettegabriel.com
 0.0.0.0 anydeskremote.shop
-0.0.0.0 aosafrica.co.za
 0.0.0.0 api-ms.cobainaja.id
 0.0.0.0 api.52kkg.com
 0.0.0.0 api.elwekala.com
@@ -94,7 +90,7 @@
 0.0.0.0 barrehomes.co.ke
 0.0.0.0 basic4u.com.tr
 0.0.0.0 bawatingbarter.com
-0.0.0.0 bayyan.magesticflyer.com
+0.0.0.0 bbc-s.news
 0.0.0.0 beautifulqueen.com.br
 0.0.0.0 bebessi.com.tr
 0.0.0.0 belachennai.com
@@ -222,6 +218,7 @@
 0.0.0.0 drive.google.com.it-barcelona.com
 0.0.0.0 drjosephchemistry.com
 0.0.0.0 droomsoft.com
+0.0.0.0 drpackirisamy.co.za
 0.0.0.0 drtopeade.com
 0.0.0.0 dst.co.tz
 0.0.0.0 dukaree.com
@@ -354,23 +351,21 @@
 0.0.0.0 ijrec.pk
 0.0.0.0 ijset.pk
 0.0.0.0 ilonamaska.info
-0.0.0.0 iluminareodonto.com.br
 0.0.0.0 iluxtspl.com
 0.0.0.0 image-thaihometown.com
 0.0.0.0 imbueautoworx.co.za
 0.0.0.0 imihigo-watch.rw
-0.0.0.0 imit.ac.in
 0.0.0.0 imobiliariadigitalimoveis.com
 0.0.0.0 imrantex.com
 0.0.0.0 incotel.com.pk
 0.0.0.0 indrasbikaner.com
 0.0.0.0 induspay.pk
 0.0.0.0 innovachem-jo.com
+0.0.0.0 inseco.cl
 0.0.0.0 insourcecod.co.uk
 0.0.0.0 inspiratour.co.id
 0.0.0.0 instinctux.com
 0.0.0.0 intellectproactive.com
-0.0.0.0 intelli-sys.co.zw
 0.0.0.0 intervisaovistorias.com.br
 0.0.0.0 invar.me
 0.0.0.0 iperceptsondemand.com
@@ -411,7 +406,6 @@
 0.0.0.0 kimjikuk.luxeone.cn
 0.0.0.0 kimyen.net
 0.0.0.0 kivointergrated.com
-0.0.0.0 kmphi.com
 0.0.0.0 kompas86.com
 0.0.0.0 kotogadang-pusako.com
 0.0.0.0 kujme.com
@@ -442,6 +436,7 @@
 0.0.0.0 ltc.typoten.com
 0.0.0.0 luckytours-alex.com
 0.0.0.0 lushimarche.com
+0.0.0.0 mabest.cl
 0.0.0.0 macayaywaak.cl
 0.0.0.0 macro.nyc
 0.0.0.0 madicon.co.za
@@ -471,6 +466,7 @@
 0.0.0.0 menupricelist.today
 0.0.0.0 meonhanong.com
 0.0.0.0 mepstein.com
+0.0.0.0 mesoftwares.vip
 0.0.0.0 mhpa.gov.bt
 0.0.0.0 mhypecom.com
 0.0.0.0 microsecurityupdate.com
@@ -487,12 +483,12 @@
 0.0.0.0 mobyco.pk
 0.0.0.0 mooc.amnesty.tg
 0.0.0.0 moodle.corplearning.net
-0.0.0.0 moonsteel.rw
 0.0.0.0 mortalflix.com
 0.0.0.0 mrketiando.com.br
 0.0.0.0 msaedtech.com
 0.0.0.0 mujibbriyani.in
 0.0.0.0 mumgee.co.za
+0.0.0.0 mundiaandmudhara.com
 0.0.0.0 musicaondemand.com
 0.0.0.0 mvinfotech.com
 0.0.0.0 mysura.it
@@ -527,7 +523,6 @@
 0.0.0.0 olugun.co.za
 0.0.0.0 onestopsilkscreeners.ca
 0.0.0.0 ong-rafaa.org
-0.0.0.0 onlinedcus.com
 0.0.0.0 onppe.dz
 0.0.0.0 openar.me
 0.0.0.0 opencart.notebookparcalari.com
@@ -536,7 +531,6 @@
 0.0.0.0 orcirrus.com
 0.0.0.0 orderedami.com
 0.0.0.0 organizer.safeonline.it
-0.0.0.0 origins-france.fr
 0.0.0.0 orlcasablanca.com
 0.0.0.0 orsan.gruporhynous.com
 0.0.0.0 outdoortacklebox.com
@@ -550,6 +544,7 @@
 0.0.0.0 parallel.rockvideos.at
 0.0.0.0 parkrosegroup.cl
 0.0.0.0 parrotbay.net
+0.0.0.0 pascasarjana.iainfmpapua.ac.id
 0.0.0.0 paste-bin.xyz
 0.0.0.0 perezlandscapedesigns.com
 0.0.0.0 petparadise.biz
@@ -647,7 +642,6 @@
 0.0.0.0 server.toeicswt.co.kr
 0.0.0.0 servisaludocupacional.pe
 0.0.0.0 shahu66.com
-0.0.0.0 shayanefaizconst.com
 0.0.0.0 shg.ph
 0.0.0.0 shipminttracking.net
 0.0.0.0 shop.mediasova.ru
@@ -716,7 +710,6 @@
 0.0.0.0 tovecpharma.com
 0.0.0.0 transportadoramiranda.com
 0.0.0.0 travelwithmanta.co.za
-0.0.0.0 trieutin.com
 0.0.0.0 trinoxidiuvendas.com
 0.0.0.0 triplebbbfoundationrepair.com
 0.0.0.0 triplevmusic.com
@@ -764,7 +757,6 @@
 0.0.0.0 whoisalbertuncle.com
 0.0.0.0 windcomtechnologies.com
 0.0.0.0 wisewomanwarrior.com
-0.0.0.0 wjidigitalmediadirectory.com
 0.0.0.0 wonderpillars.co.in
 0.0.0.0 wshsoft.company
 0.0.0.0 www.acompanhantescuritiba.org
@@ -780,10 +772,10 @@
 0.0.0.0 www.cesasin.com.ar
 0.0.0.0 www.charmingsoftech.com
 0.0.0.0 www.chawkyfrenn.com
-0.0.0.0 www.chemsky.tn
 0.0.0.0 www.chipmania.it
 0.0.0.0 www.clinicamomentum.com.br
 0.0.0.0 www.conexclean.ro
+0.0.0.0 www.dacui.online
 0.0.0.0 www.dental.xiaoxiao.media
 0.0.0.0 www.enc-tech.com
 0.0.0.0 www.fixstudio.co.kr
@@ -798,7 +790,6 @@
 0.0.0.0 www.lebuffet.com.tn
 0.0.0.0 www.maxmoney.com
 0.0.0.0 www.mediakomen.com
-0.0.0.0 www.moninediy.com
 0.0.0.0 www.movidoc.com.br
 0.0.0.0 www.neshuafoods.com
 0.0.0.0 www.nprlogistica.com.br
@@ -828,10 +819,11 @@
 0.0.0.0 yesdeko.com
 0.0.0.0 yorkrefrigerent.md
 0.0.0.0 yp.hnggzyjy.cn
+0.0.0.0 yzkzixun.com
 0.0.0.0 zainco.net
 0.0.0.0 zamzamtradingbd.com
 0.0.0.0 zaofisa.net
 0.0.0.0 zf.gouzapay.cn
 0.0.0.0 zhaoziliao1668.cn
 0.0.0.0 zpec.ru
-# Number of entries: 828
+# Number of entries: 820
