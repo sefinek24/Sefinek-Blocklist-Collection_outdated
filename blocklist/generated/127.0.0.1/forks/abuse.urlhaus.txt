@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-27 02:09:28 (UTC)                      #
+# Last updated: 2023-05-27 02:52:04 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -42,9 +42,11 @@
 127.0.0.1 aiosubng.com
 127.0.0.1 airhobi.com
 127.0.0.1 akhtarweb.com
+127.0.0.1 akira.ozonedesk.cloud
 127.0.0.1 alakheilizwe.org
 127.0.0.1 alazharplast.com
 127.0.0.1 aldebaran.adm.br
+127.0.0.1 aldojuanpettiti.com.ar
 127.0.0.1 alemaanwebtv.net
 127.0.0.1 alfanarpalacehotel.com
 127.0.0.1 alghreef.com
@@ -65,9 +67,9 @@
 127.0.0.1 antoinettegabriel.com
 127.0.0.1 anydeskremote.shop
 127.0.0.1 api-ms.cobainaja.id
-127.0.0.1 api.52kkg.com
 127.0.0.1 api.elwekala.com
 127.0.0.1 api.seeingoholidays.com
+127.0.0.1 apps.saintsoporte.com
 127.0.0.1 aquapools.in
 127.0.0.1 aquarealtyservices.com
 127.0.0.1 aristonbentre.com
@@ -79,7 +81,9 @@
 127.0.0.1 as2kdigital.com
 127.0.0.1 ask6.awt.com.pk
 127.0.0.1 asu.com.vn
+127.0.0.1 athadnw.com
 127.0.0.1 atomm.com.br
+127.0.0.1 awaisdanish.com
 127.0.0.1 awlaadelkhouly.com
 127.0.0.1 azconsultants.co.in
 127.0.0.1 azmeasurement.com
@@ -91,6 +95,7 @@
 127.0.0.1 bawatingbarter.com
 127.0.0.1 bayyan.magesticflyer.com
 127.0.0.1 bbc-s.news
+127.0.0.1 bearcatpumps.com.cn
 127.0.0.1 beautifulqueen.com.br
 127.0.0.1 bebessi.com.tr
 127.0.0.1 belachennai.com
@@ -98,7 +103,6 @@
 127.0.0.1 bethelmbcarvada.org
 127.0.0.1 biddyaniketonhighschool.com
 127.0.0.1 bigmikesupplies.co.za
-127.0.0.1 bigs.bikershop.biz
 127.0.0.1 bimak.hr
 127.0.0.1 bisnesservis-fk.ru
 127.0.0.1 bitkiselgida.com
@@ -124,13 +128,13 @@
 127.0.0.1 camminachetipassa.it
 127.0.0.1 canadianused.com
 127.0.0.1 canconsulting.in
-127.0.0.1 capitalperurrhh.com
 127.0.0.1 capstonee.com
 127.0.0.1 cargoconnect.online
 127.0.0.1 carladvogadatributaria.com
 127.0.0.1 casamuseoayerbe.co
 127.0.0.1 cbob.cuchulain.co.za
 127.0.0.1 cdaonline.com.ar
+127.0.0.1 cdn.doxbin.org
 127.0.0.1 cdn.unduhfile.my.id
 127.0.0.1 celeronperu.com
 127.0.0.1 celiklergoldtasarim.com
@@ -178,7 +182,6 @@
 127.0.0.1 daniil39.ru
 127.0.0.1 dasp.org.pk
 127.0.0.1 dating.khokhas.co.za
-127.0.0.1 davidmcguinness.info
 127.0.0.1 dbaccess.com
 127.0.0.1 ddlakava.ac.ug
 127.0.0.1 deine-bewerbung.com
@@ -189,7 +192,6 @@
 127.0.0.1 demonware.online
 127.0.0.1 dental.xiaoxiao.media
 127.0.0.1 derekludlow.com
-127.0.0.1 destinymc.co.za
 127.0.0.1 detail-booking.com.br
 127.0.0.1 deventerprises.co
 127.0.0.1 devises-dz.com
@@ -203,7 +205,6 @@
 127.0.0.1 dohrmann-projekt.de
 127.0.0.1 dominiqueimmora.com
 127.0.0.1 down.udashi.com
-127.0.0.1 download.caihong.com
 127.0.0.1 download.doumaibiji.cn
 127.0.0.1 downloads.bcweb.org.uk
 127.0.0.1 dreamzonemadurai.com
@@ -246,7 +247,6 @@
 127.0.0.1 exemplarywriters.com
 127.0.0.1 exilum.com
 127.0.0.1 expopioneros.com
-127.0.0.1 expressionsofwood.ca
 127.0.0.1 f8designstudio.com
 127.0.0.1 famesa.com.ar
 127.0.0.1 famigliacosmica.com
@@ -294,6 +294,7 @@
 127.0.0.1 grupolahe.com
 127.0.0.1 grupos.curvelo.click
 127.0.0.1 gsmobile.es
+127.0.0.1 gtn.cl
 127.0.0.1 guidemyjob.com
 127.0.0.1 guthealthexperts.info
 127.0.0.1 guthealthsolutions.info
@@ -330,6 +331,7 @@
 127.0.0.1 hunggiang.vn
 127.0.0.1 hydronomicsgh.com
 127.0.0.1 ibremp.org.br
+127.0.0.1 icvpartners.com
 127.0.0.1 idalidcouture.com
 127.0.0.1 idealweddings.co.zw
 127.0.0.1 idrissischool.edu.my
@@ -353,8 +355,10 @@
 127.0.0.1 innovachem-jo.com
 127.0.0.1 inseco.cl
 127.0.0.1 insourcecod.co.uk
+127.0.0.1 inspiratour.co.id
 127.0.0.1 instinctux.com
 127.0.0.1 intellectproactive.com
+127.0.0.1 intelli-sys.co.zw
 127.0.0.1 intervisaovistorias.com.br
 127.0.0.1 invar.me
 127.0.0.1 iperceptsondemand.com
@@ -389,12 +393,12 @@
 127.0.0.1 kelaskan.com
 127.0.0.1 kemethuntlaw.com
 127.0.0.1 kenobs.org
-127.0.0.1 kevinley.com
 127.0.0.1 kiengiang24h.com
 127.0.0.1 kilakila.cl
 127.0.0.1 kimjikuk.luxeone.cn
 127.0.0.1 kimyen.net
 127.0.0.1 kivointergrated.com
+127.0.0.1 kmphi.com
 127.0.0.1 kompas86.com
 127.0.0.1 konseptderi.com
 127.0.0.1 kotogadang-pusako.com
@@ -403,7 +407,6 @@
 127.0.0.1 lapakwebsite.com
 127.0.0.1 lara.amiyon.com
 127.0.0.1 lara.com.ar
-127.0.0.1 lascumbres.com.mx
 127.0.0.1 lasermobilesounds.co.uk
 127.0.0.1 lastimaners.ug
 127.0.0.1 lceventos.net
@@ -453,12 +456,12 @@
 127.0.0.1 menupricelist.today
 127.0.0.1 meonhanong.com
 127.0.0.1 mepstein.com
-127.0.0.1 mesoftwares.vip
 127.0.0.1 mhpa.gov.bt
 127.0.0.1 mhypecom.com
 127.0.0.1 microsecurityupdate.com
 127.0.0.1 midcareerguide.com
 127.0.0.1 milanojackets.com
+127.0.0.1 milleniuninformatica.com.br
 127.0.0.1 mindbodyhealth.la
 127.0.0.1 mindfree.co.za
 127.0.0.1 mistitis.ug
@@ -467,6 +470,7 @@
 127.0.0.1 mmbcontracting.com
 127.0.0.1 moarkgcc.com
 127.0.0.1 mobyco.pk
+127.0.0.1 modern-city.by
 127.0.0.1 mooc.amnesty.tg
 127.0.0.1 moodle.corplearning.net
 127.0.0.1 moonsteel.rw
@@ -475,11 +479,11 @@
 127.0.0.1 msaedtech.com
 127.0.0.1 mujibbriyani.in
 127.0.0.1 mumgee.co.za
-127.0.0.1 mundiaandmudhara.com
 127.0.0.1 musicaondemand.com
 127.0.0.1 mvinfotech.com
 127.0.0.1 mysura.it
 127.0.0.1 mytheacademy.com
+127.0.0.1 nakato.co.za
 127.0.0.1 nalmaconigeria.com
 127.0.0.1 namthaibinh.net
 127.0.0.1 nanpe.eng.br
@@ -544,6 +548,7 @@
 127.0.0.1 pink99.com
 127.0.0.1 planetedev.info
 127.0.0.1 pn-raha.go.id
+127.0.0.1 ponizinny.nl
 127.0.0.1 pooramkuries.com
 127.0.0.1 pornotop.site
 127.0.0.1 posmicrosystems.com
@@ -568,6 +573,7 @@
 127.0.0.1 pryhmshift.com
 127.0.0.1 punjabdevelopersassociation.com.pk
 127.0.0.1 pyrd5.xyz
+127.0.0.1 qassimnews.com
 127.0.0.1 qaswrahc.com
 127.0.0.1 qmsled.com
 127.0.0.1 qtimst.com
@@ -613,6 +619,7 @@
 127.0.0.1 scgcofres.com
 127.0.0.1 scglobal.co.th
 127.0.0.1 schoolofspanish.co.za
+127.0.0.1 scientific.pk
 127.0.0.1 sealicensing.com
 127.0.0.1 secretmindcontrol.com
 127.0.0.1 sehatcom.com
@@ -646,7 +653,6 @@
 127.0.0.1 speedfachadas.com.br
 127.0.0.1 speedwell.com.bd
 127.0.0.1 speedycabng.com
-127.0.0.1 spices.com.sg
 127.0.0.1 spiritualoutdooradventures.org
 127.0.0.1 src1.minibai.com
 127.0.0.1 srikalaivanipackersandmovers.com
@@ -684,13 +690,14 @@
 127.0.0.1 tiemvangngoctham.com
 127.0.0.1 tmglawpalawan.com
 127.0.0.1 toddgunterrestoration.com
-127.0.0.1 tomazellapresentes.com.br
 127.0.0.1 tonydong.com
 127.0.0.1 top-kuwait.com
+127.0.0.1 topsepatu.com
 127.0.0.1 tovecpharma.com
 127.0.0.1 transportadoramiranda.com
 127.0.0.1 travelwithmanta.co.za
 127.0.0.1 trieutin.com
+127.0.0.1 trinoxidiuvendas.com
 127.0.0.1 triplebbbfoundationrepair.com
 127.0.0.1 triplevmusic.com
 127.0.0.1 tscomputers.net.pe
@@ -715,7 +722,6 @@
 127.0.0.1 vashovskycorp.com
 127.0.0.1 veley.co
 127.0.0.1 velumuriinfra.com
-127.0.0.1 vesnade3ign.com
 127.0.0.1 vfocus.net
 127.0.0.1 vidaviajesperu.com
 127.0.0.1 vietroll.vn
@@ -726,6 +732,7 @@
 127.0.0.1 vividled.in
 127.0.0.1 vogue-pharmaceuticals.com
 127.0.0.1 votre-futur-site.com
+127.0.0.1 vtope.info
 127.0.0.1 vuelosfantastico.com
 127.0.0.1 wahdaniyyadatahub.com
 127.0.0.1 walkindrivetoday.com
@@ -755,9 +762,9 @@
 127.0.0.1 www.charmingsoftech.com
 127.0.0.1 www.chawkyfrenn.com
 127.0.0.1 www.chemsky.tn
-127.0.0.1 www.chipmania.it
 127.0.0.1 www.clinicamomentum.com.br
 127.0.0.1 www.conexclean.ro
+127.0.0.1 www.dacui.online
 127.0.0.1 www.dental.xiaoxiao.media
 127.0.0.1 www.fixstudio.co.kr
 127.0.0.1 www.globallaborsupply.com
@@ -807,4 +814,4 @@
 127.0.0.1 zf.gouzapay.cn
 127.0.0.1 zhaoziliao1668.cn
 127.0.0.1 zpec.ru
-# Number of entries: 801
+# Number of entries: 808
