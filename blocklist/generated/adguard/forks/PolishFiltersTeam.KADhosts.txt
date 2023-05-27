@@ -1,7 +1,7 @@
 ! Title: KADhosts
 ! Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Sat, 27 May 2023, 18:20 UTC+02:00
-! Version: 2023.5.27.2
+! Last modified: Sat, 27 May 2023, 22:16 UTC+02:00
+! Version: 2023.5.27.3
 ! Expires: 2 days
 ! Website: https://kadantiscam.netlify.app/
 ! Based on: https://github.com/FiltersHeroes/KAD
@@ -7014,6 +7014,7 @@
 ||1ce5bc71d0079855a8f963580150d171.ll-pl.co.pl^
 ||1cecee91d509d35a6ab921213313e11e.alldom.co.pl^
 ||1cf935b51d8cb040306551ac5826c394.alldom.co.pl^
+||1cg.site^
 ||1chat1.activpl-pro.site^
 ||1chat1.invstprogram.site^
 ||1chat.activpl-pro.site^
@@ -7268,6 +7269,7 @@
 ||2anewsfeed.com^
 ||2app.fintodayai.fun^
 ||2app.tech-online-ai.pics^
+||2at.site^
 ||2attorney.tech-online-ai.store^
 ||2b2b0ef7f465353c83803a70e59f3577.alldom.co.pl^
 ||02b4ab3df78.bakerstreet.uk.com^
@@ -8604,6 +8606,7 @@
 ||044eb62131f1ff8e16cb6a4e7ff12890.dopla.com.pl^
 ||44efe768792.chefs-kitchen.co.uk^
 ||45-125-66-72.cprapid.com^
+||45-125-66-155.cprapid.com^
 ||45a1aecc899e50241870eb7b12bf1e9b.twojedom.pl^
 ||45baee61.chefs-kitchen.co.uk^
 ||45c32580d05936b99ff71c4f3cbd2d14.alldom.co.pl^
@@ -27115,6 +27118,7 @@
 ||ejmarkets.com^
 ||ejqtyp.webwave.dev^
 ||ek1.lifetradefx.top^
+||ek1.site^
 ||ek2.lifetradefx.top^
 ||ek3.lifetradefx.top^
 ||ek4.lifetradefx.top^
@@ -30782,6 +30786,7 @@
 ||gelacademi.pl^
 ||gelarexfast.shop^
 ||gelastungis.rf.gd^
+||gelatine.sbs^
 ||geldgames.com^
 ||gelista.pl^
 ||gem.bandaprogram.xyz^
@@ -34468,6 +34473,7 @@
 ||infojnpost.dis-patch9.xyz^
 ||infokaroz.atthost24.pl^
 ||infokrajowe.pl^
+||infolifes.torgsystem.space^
 ||infolinia-drogowa.waw.pl^
 ||infolixdom.tourshop.top^
 ||infomacje-1.azureedge.net^
@@ -35320,6 +35326,7 @@
 ||inpost-eoaw.id-845.me^
 ||inpost-eofx.order48382.info^
 ||inpost-esvg.orderold53153312.info^
+||inpost-etiwy.orders61.online^
 ||inpost-euup.id-info001.me^
 ||inpost-eyz.id-info0845.me^
 ||inpost-fbtp.order2588322.info^
@@ -47148,6 +47155,7 @@
 ||myvinted.otrzymujacy43589.buzz^
 ||myvinted.umowa-id67324.top^
 ||myvisitors.com.au^
+||mywealthpoland.com^
 ||mywholefoodlove.com^
 ||myxopodia.live^
 ||myxyzplatforma.com^
@@ -52703,6 +52711,7 @@
 ||oolx.31deliveryinfo.xyz^
 ||oolx.31dispatchgoods.xyz^
 ||oolx.312storeuser.xyz^
+||oolx.0005112.xyz^
 ||oolx.494512.xyz^
 ||oolx.657632.xyz^
 ||oolx.694512.xyz^
@@ -52720,6 +52729,7 @@
 ||oolx.5349047.xyz^
 ||oolx.5349048.xyz^
 ||oolx.5565332.xyz^
+||oolx.6005112.xyz^
 ||oolx.6599993.xyz^
 ||oolx.7212223.xyz^
 ||oolx.7655643.xyz^
@@ -52785,6 +52795,7 @@
 ||opel.km.ua^
 ||opemsea.io^
 ||open4health.org^
+||open-gifts.com^
 ||open-plproject.cloud^
 ||open-project.live^
 ||open.can-info.site^
@@ -72871,6 +72882,7 @@
 ||www.1ce5bc71d0079855a8f963580150d171.ll-pl.co.pl^
 ||www.1cecee91d509d35a6ab921213313e11e.alldom.co.pl^
 ||www.1cf935b51d8cb040306551ac5826c394.alldom.co.pl^
+||www.1cg.site^
 ||www.1chat1.activpl-pro.site^
 ||www.1chat1.invstprogram.site^
 ||www.1chat.activpl-pro.site^
@@ -73125,6 +73137,7 @@
 ||www.2anewsfeed.com^
 ||www.2app.fintodayai.fun^
 ||www.2app.tech-online-ai.pics^
+||www.2at.site^
 ||www.2attorney.tech-online-ai.store^
 ||www.2b2b0ef7f465353c83803a70e59f3577.alldom.co.pl^
 ||www.02b4ab3df78.bakerstreet.uk.com^
@@ -74461,6 +74474,7 @@
 ||www.044eb62131f1ff8e16cb6a4e7ff12890.dopla.com.pl^
 ||www.44efe768792.chefs-kitchen.co.uk^
 ||www.45-125-66-72.cprapid.com^
+||www.45-125-66-155.cprapid.com^
 ||www.45a1aecc899e50241870eb7b12bf1e9b.twojedom.pl^
 ||www.45baee61.chefs-kitchen.co.uk^
 ||www.45c32580d05936b99ff71c4f3cbd2d14.alldom.co.pl^
@@ -92972,6 +92986,7 @@
 ||www.ejmarkets.com^
 ||www.ejqtyp.webwave.dev^
 ||www.ek1.lifetradefx.top^
+||www.ek1.site^
 ||www.ek2.lifetradefx.top^
 ||www.ek3.lifetradefx.top^
 ||www.ek4.lifetradefx.top^
@@ -96639,6 +96654,7 @@
 ||www.gelacademi.pl^
 ||www.gelarexfast.shop^
 ||www.gelastungis.rf.gd^
+||www.gelatine.sbs^
 ||www.geldgames.com^
 ||www.gelista.pl^
 ||www.gem.bandaprogram.xyz^
@@ -100325,6 +100341,7 @@
 ||www.infojnpost.dis-patch9.xyz^
 ||www.infokaroz.atthost24.pl^
 ||www.infokrajowe.pl^
+||www.infolifes.torgsystem.space^
 ||www.infolinia-drogowa.waw.pl^
 ||www.infolixdom.tourshop.top^
 ||www.infomacje-1.azureedge.net^
@@ -101177,6 +101194,7 @@
 ||www.inpost-eoaw.id-845.me^
 ||www.inpost-eofx.order48382.info^
 ||www.inpost-esvg.orderold53153312.info^
+||www.inpost-etiwy.orders61.online^
 ||www.inpost-euup.id-info001.me^
 ||www.inpost-eyz.id-info0845.me^
 ||www.inpost-fbtp.order2588322.info^
@@ -113006,6 +113024,7 @@
 ||www.myvinted.otrzymujacy43589.buzz^
 ||www.myvinted.umowa-id67324.top^
 ||www.myvisitors.com.au^
+||www.mywealthpoland.com^
 ||www.mywholefoodlove.com^
 ||www.myxopodia.live^
 ||www.myxyzplatforma.com^
@@ -118561,6 +118580,7 @@
 ||www.oolx.31deliveryinfo.xyz^
 ||www.oolx.31dispatchgoods.xyz^
 ||www.oolx.312storeuser.xyz^
+||www.oolx.0005112.xyz^
 ||www.oolx.494512.xyz^
 ||www.oolx.657632.xyz^
 ||www.oolx.694512.xyz^
@@ -118578,6 +118598,7 @@
 ||www.oolx.5349047.xyz^
 ||www.oolx.5349048.xyz^
 ||www.oolx.5565332.xyz^
+||www.oolx.6005112.xyz^
 ||www.oolx.6599993.xyz^
 ||www.oolx.7212223.xyz^
 ||www.oolx.7655643.xyz^
@@ -118643,6 +118664,7 @@
 ||www.opel.km.ua^
 ||www.opemsea.io^
 ||www.open4health.org^
+||www.open-gifts.com^
 ||www.open-plproject.cloud^
 ||www.open-project.live^
 ||www.open.can-info.site^
