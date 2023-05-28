@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 24MAY23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 28MAY23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which may contain mistakes in how it is parsed
 # Please bring any such issues up at https://github.com/WaLLy3K/wally3k.github.io/issues
@@ -3878,6 +3878,7 @@
 127.0.0.1 beacon.dropbox.com
 127.0.0.1 beacon.errorception.com
 127.0.0.1 beacon.flow.io
+127.0.0.1 beacon.klm.com
 127.0.0.1 beacon.qq.com
 127.0.0.1 beacon.riskified.com
 127.0.0.1 beacon.samsclub.com
@@ -6663,9 +6664,11 @@
 127.0.0.1 eproof.drudgereport.com
 127.0.0.1 epro.sogou.com
 127.0.0.1 epwa.europarl.europa.eu
+127.0.0.1 eq-beacon.stream.co.jp
 127.0.0.1 eqclicks.movember.com
 127.0.0.1 eqingl.ivet.bg
 127.0.0.1 eqkwat.histoiredor.com
+127.0.0.1 eq-player-log.cdnext.stream.ne.jp
 127.0.0.1 eq.userneeds.com
 127.0.0.1 eqy.link
 127.0.0.1 erb.tremblant.ca
@@ -7054,7 +7057,6 @@
 127.0.0.1 fly.caljetelite.com
 127.0.0.1 flznib.weblio.jp
 127.0.0.1 fmbankva.actonservice.com
-127.0.0.1 fme.safe.com
 127.0.0.1 fmqidg.letras.com
 127.0.0.1 fmqidg.letras.mus.br
 127.0.0.1 fmqidg.ouvirmusica.com.br
@@ -8932,7 +8934,6 @@
 127.0.0.1 lawyers.rigbycooke.com.au
 127.0.0.1 l.azarlive.com
 127.0.0.1 lb.billing01.email-allstate.com
-127.0.0.1 l.bfmtv.com
 127.0.0.1 lbgfqn.onward.co.jp
 127.0.0.1 l.bigbasket.com
 127.0.0.1 l.biglion.ru
@@ -8994,10 +8995,8 @@
 127.0.0.1 level.badlandgame.com
 127.0.0.1 lexvek.gap.ae
 127.0.0.1 lfercl.tcb-beauty.net
-127.0.0.1 l.franceculture.fr
 127.0.0.1 lfxdqs.mamasandpapas.ae
 127.0.0.1 lgbdxo.azazie.com
-127.0.0.1 l.gentside.com
 127.0.0.1 lgm.averydennison.com
 127.0.0.1 lgzkzp.bauhaus.at
 127.0.0.1 lhasalimited.actonservice.com
@@ -10093,7 +10092,6 @@
 127.0.0.1 marketing.zwei.com
 127.0.0.1 market-keyade.macif.fr
 127.0.0.1 marketreports.autovistagroup.com
-127.0.0.1 mark.isbank.com.tr
 127.0.0.1 marriedbelief.com
 127.0.0.1 marshinsurance.actonservice.com
 127.0.0.1 marsupial.roleup.com

@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 24MAY23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 28MAY23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which may contain mistakes in how it is parsed
 # Please bring any such issues up at https://github.com/WaLLy3K/wally3k.github.io/issues
@@ -3878,6 +3878,7 @@
 0.0.0.0 beacon.dropbox.com
 0.0.0.0 beacon.errorception.com
 0.0.0.0 beacon.flow.io
+0.0.0.0 beacon.klm.com
 0.0.0.0 beacon.qq.com
 0.0.0.0 beacon.riskified.com
 0.0.0.0 beacon.samsclub.com
@@ -6663,9 +6664,11 @@
 0.0.0.0 eproof.drudgereport.com
 0.0.0.0 epro.sogou.com
 0.0.0.0 epwa.europarl.europa.eu
+0.0.0.0 eq-beacon.stream.co.jp
 0.0.0.0 eqclicks.movember.com
 0.0.0.0 eqingl.ivet.bg
 0.0.0.0 eqkwat.histoiredor.com
+0.0.0.0 eq-player-log.cdnext.stream.ne.jp
 0.0.0.0 eq.userneeds.com
 0.0.0.0 eqy.link
 0.0.0.0 erb.tremblant.ca
@@ -7054,7 +7057,6 @@
 0.0.0.0 fly.caljetelite.com
 0.0.0.0 flznib.weblio.jp
 0.0.0.0 fmbankva.actonservice.com
-0.0.0.0 fme.safe.com
 0.0.0.0 fmqidg.letras.com
 0.0.0.0 fmqidg.letras.mus.br
 0.0.0.0 fmqidg.ouvirmusica.com.br
@@ -8932,7 +8934,6 @@
 0.0.0.0 lawyers.rigbycooke.com.au
 0.0.0.0 l.azarlive.com
 0.0.0.0 lb.billing01.email-allstate.com
-0.0.0.0 l.bfmtv.com
 0.0.0.0 lbgfqn.onward.co.jp
 0.0.0.0 l.bigbasket.com
 0.0.0.0 l.biglion.ru
@@ -8994,10 +8995,8 @@
 0.0.0.0 level.badlandgame.com
 0.0.0.0 lexvek.gap.ae
 0.0.0.0 lfercl.tcb-beauty.net
-0.0.0.0 l.franceculture.fr
 0.0.0.0 lfxdqs.mamasandpapas.ae
 0.0.0.0 lgbdxo.azazie.com
-0.0.0.0 l.gentside.com
 0.0.0.0 lgm.averydennison.com
 0.0.0.0 lgzkzp.bauhaus.at
 0.0.0.0 lhasalimited.actonservice.com
@@ -10093,7 +10092,6 @@
 0.0.0.0 marketing.zwei.com
 0.0.0.0 market-keyade.macif.fr
 0.0.0.0 marketreports.autovistagroup.com
-0.0.0.0 mark.isbank.com.tr
 0.0.0.0 marriedbelief.com
 0.0.0.0 marshinsurance.actonservice.com
 0.0.0.0 marsupial.roleup.com

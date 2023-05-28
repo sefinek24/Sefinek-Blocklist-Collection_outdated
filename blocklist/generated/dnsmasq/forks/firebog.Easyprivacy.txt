@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 24MAY23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# Updated 28MAY23 from https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which may contain mistakes in how it is parsed
 # Please bring any such issues up at https://github.com/WaLLy3K/wally3k.github.io/issues
@@ -3878,6 +3878,7 @@ server=/beaconcdn.qq.com/
 server=/beacon.dropbox.com/
 server=/beacon.errorception.com/
 server=/beacon.flow.io/
+server=/beacon.klm.com/
 server=/beacon.qq.com/
 server=/beacon.riskified.com/
 server=/beacon.samsclub.com/
@@ -6663,9 +6664,11 @@ server=/ep.regis.edu/
 server=/eproof.drudgereport.com/
 server=/epro.sogou.com/
 server=/epwa.europarl.europa.eu/
+server=/eq-beacon.stream.co.jp/
 server=/eqclicks.movember.com/
 server=/eqingl.ivet.bg/
 server=/eqkwat.histoiredor.com/
+server=/eq-player-log.cdnext.stream.ne.jp/
 server=/eq.userneeds.com/
 server=/eqy.link/
 server=/erb.tremblant.ca/
@@ -7054,7 +7057,6 @@ server=/fltuyy.philippemodel.com/
 server=/fly.caljetelite.com/
 server=/flznib.weblio.jp/
 server=/fmbankva.actonservice.com/
-server=/fme.safe.com/
 server=/fmqidg.letras.com/
 server=/fmqidg.letras.mus.br/
 server=/fmqidg.ouvirmusica.com.br/
@@ -8932,7 +8934,6 @@ server=/laurel.rovicorp.com/
 server=/lawyers.rigbycooke.com.au/
 server=/l.azarlive.com/
 server=/lb.billing01.email-allstate.com/
-server=/l.bfmtv.com/
 server=/lbgfqn.onward.co.jp/
 server=/l.bigbasket.com/
 server=/l.biglion.ru/
@@ -8994,10 +8995,8 @@ server=/lettucelimit.com/
 server=/level.badlandgame.com/
 server=/lexvek.gap.ae/
 server=/lfercl.tcb-beauty.net/
-server=/l.franceculture.fr/
 server=/lfxdqs.mamasandpapas.ae/
 server=/lgbdxo.azazie.com/
-server=/l.gentside.com/
 server=/lgm.averydennison.com/
 server=/lgzkzp.bauhaus.at/
 server=/lhasalimited.actonservice.com/
@@ -10093,7 +10092,6 @@ server=/marketing.yostlabs.com/
 server=/marketing.zwei.com/
 server=/market-keyade.macif.fr/
 server=/marketreports.autovistagroup.com/
-server=/mark.isbank.com.tr/
 server=/marriedbelief.com/
 server=/marshinsurance.actonservice.com/
 server=/marsupial.roleup.com/
