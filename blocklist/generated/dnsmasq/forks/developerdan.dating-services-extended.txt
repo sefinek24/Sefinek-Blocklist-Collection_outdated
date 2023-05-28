@@ -1,6 +1,6 @@
 # Title: Lightswitch05's dating-services-extended.txt
-# Released: 2023-05-26T01:05:26+00:00
-# Count: 21922 domains
+# Released: 2023-05-28T01:05:26+00:00
+# Count: 21920 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
@@ -3225,7 +3225,6 @@ server=/best-hookup.com/
 server=/mail.best-hookup.com/
 server=/www.best-hookup.com/
 server=/bestsugardaddywebsites.com/
-server=/mail.bestsugardaddywebsites.com/
 server=/www.bestsugardaddywebsites.com/
 server=/bestsugardating.com/
 server=/www.bestsugardating.com/
@@ -4207,6 +4206,8 @@ server=/app2.c-date.com/
 server=/au.c-date.com/
 server=/cmail.c-date.com/
 server=/es.c-date.com/
+server=/test.es.c-date.com/
+server=/unstable.es.c-date.com/
 server=/ext.c-date.com/
 server=/mail.c-date.com/
 server=/mail01.c-date.com/
@@ -10379,7 +10380,6 @@ server=/botrank-staging.gotinder.com/
 server=/botrank2.gotinder.com/
 server=/cerebro.gotinder.com/
 server=/chapo.gotinder.com/
-server=/confluence.gotinder.com/
 server=/data.gotinder.com/
 server=/datarequests.gotinder.com/
 server=/dynamic-config.gotinder.com/
@@ -10390,7 +10390,6 @@ server=/imageupload.gotinder.com/
 server=/imageupload-cloudfront.gotinder.com/
 server=/inboxcrm-ssl.gotinder.com/
 server=/insendio-videos.gotinder.com/
-server=/jira.gotinder.com/
 server=/keepalive.gotinder.com/
 server=/lego.gotinder.com/
 server=/marketing-images.gotinder.com/
@@ -20089,7 +20088,6 @@ server=/paul.dating/
 server=/www.paul.dating/
 server=/bucket.pavo.dating/
 server=/pc.dating/
-server=/facebook.pc.dating/
 server=/fb.pc.dating/
 server=/instagram.pc.dating/
 server=/tinder.pc.dating/

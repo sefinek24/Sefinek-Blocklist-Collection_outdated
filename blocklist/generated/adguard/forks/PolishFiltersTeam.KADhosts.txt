@@ -1,7 +1,7 @@
 ! Title: KADhosts
 ! Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Sat, 27 May 2023, 22:16 UTC+02:00
-! Version: 2023.5.27.3
+! Last modified: Sun, 28 May 2023, 02:16 UTC+02:00
+! Version: 2023.5.28.0
 ! Expires: 2 days
 ! Website: https://kadantiscam.netlify.app/
 ! Based on: https://github.com/FiltersHeroes/KAD
@@ -26120,6 +26120,7 @@
 ||dracenabr.com^
 ||dragborninvesting.pro^
 ||dragomir.mrugalla.pl^
+||dragonge.ml^
 ||draizapp.com^
 ||drakemacario.com^
 ||drakesdowntowngym.com^
@@ -50830,9 +50831,11 @@
 ||olx.168423plid.xyz^
 ||olx.204851.xyz^
 ||olx.0232653.xyz^
+||olx.249556.xyz^
 ||olx.252333.xyz^
 ||olx.304851.xyz^
 ||olx.310548.xyz^
+||olx.349556.xyz^
 ||olx.553230.xyz^
 ||olx.652333.xyz^
 ||olx.0811515.xyz^
@@ -68441,6 +68444,7 @@
 ||video.af8w.xyz^
 ||video.d2us8.sbs^
 ||video.g46y6.bio^
+||video.gkojt2.bio^
 ||video.hu4y.lat^
 ||video.j06tr.bio^
 ||video.j983o.lat^
@@ -72172,6 +72176,7 @@
 ||wv2v.com^
 ||wvw-apple.com^
 ||ww6v.com^
+||ww16.rpn.com.pl^
 ||ww.fondblagorus.xyz^
 ||ww.infoplnew.site^
 ||ww.limitnes.com^
@@ -91988,6 +91993,7 @@
 ||www.dracenabr.com^
 ||www.dragborninvesting.pro^
 ||www.dragomir.mrugalla.pl^
+||www.dragonge.ml^
 ||www.draizapp.com^
 ||www.drakemacario.com^
 ||www.drakesdowntowngym.com^
@@ -116699,9 +116705,11 @@
 ||www.olx.168423plid.xyz^
 ||www.olx.204851.xyz^
 ||www.olx.0232653.xyz^
+||www.olx.249556.xyz^
 ||www.olx.252333.xyz^
 ||www.olx.304851.xyz^
 ||www.olx.310548.xyz^
+||www.olx.349556.xyz^
 ||www.olx.553230.xyz^
 ||www.olx.652333.xyz^
 ||www.olx.0811515.xyz^
@@ -134062,6 +134070,7 @@
 ||www.video.af8w.xyz^
 ||www.video.d2us8.sbs^
 ||www.video.g46y6.bio^
+||www.video.gkojt2.bio^
 ||www.video.hu4y.lat^
 ||www.video.j06tr.bio^
 ||www.video.j983o.lat^
@@ -137793,6 +137802,7 @@
 ||www.wv2v.com^
 ||www.wvw-apple.com^
 ||www.ww6v.com^
+||www.ww16.rpn.com.pl^
 ||www.ww.fondblagorus.xyz^
 ||www.ww.infoplnew.site^
 ||www.ww.limitnes.com^
