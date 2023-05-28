@@ -1,7 +1,7 @@
 ! Title: KADhosts
 ! Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Sun, 28 May 2023, 14:28 UTC+02:00
-! Version: 2023.5.28.2
+! Last modified: Sun, 28 May 2023, 15:28 UTC+02:00
+! Version: 2023.5.28.3
 ! Expires: 2 days
 ! Website: https://kadantiscam.netlify.app/
 ! Based on: https://github.com/FiltersHeroes/KAD
@@ -31404,6 +31404,7 @@
 ||gobigelow.com^
 ||gobiznes-online.cloud^
 ||gobiznesonline.cloud^
+||gobletpants.info^
 ||goblznes-online.cloud^
 ||goblznesonline.cloud^
 ||goblznesplanetonline.cloud^
@@ -37483,6 +37484,7 @@
 ||inpost.45456431.xyz^
 ||inpost.46663332.xyz^
 ||inpost.51451212.xyz^
+||inpost.52325122.xyz^
 ||inpost.54151542.xyz^
 ||inpost.56663332.xyz^
 ||inpost.58512215.xyz^
@@ -39315,6 +39317,7 @@
 ||jafegames.com^
 ||jafruitflush.pl^
 ||jag.prosystemorgo.com^
+||jagergroup.ru^
 ||jaggerstylehub.com^
 ||jaglupi.pl^
 ||jagoda.waw.pl^
@@ -49864,6 +49867,7 @@
 ||ollx.3332420.xyz^
 ||ollx.3451517.xyz^
 ||ollx.4323751.xyz^
+||ollx.4595323.xyz^
 ||ollx.4846955.xyz^
 ||ollx.5334437.xyz^
 ||ollx.5484888.xyz^
@@ -56893,6 +56897,7 @@
 ||polska-lnpost.payment6321617.xyz^
 ||polska-lnpost.payment9270184.xyz^
 ||polska-login.cyou^
+||polska-login.site^
 ||polska-loginuser.cyou^
 ||polska-lop.icu^
 ||polska-lts.site^
@@ -59139,6 +59144,7 @@
 ||qdb.globprstar.online^
 ||qe2gla.webwave.dev^
 ||qe.gaznf.xyz^
+||qeeartwo.space^
 ||qeoirudhsjrg.site^
 ||qepjfdlgq.digital^
 ||qes.comfirty.top^
@@ -72174,6 +72180,7 @@
 ||wszystko-problem.eu^
 ||wta.plneobk.site^
 ||wtab.plsitegov.site^
+||wtach.club^
 ||wtc1.molods.xyz^
 ||wtlrjth.cn^
 ||wtor.teconkilotr.site^
@@ -97297,6 +97304,7 @@
 ||www.gobigelow.com^
 ||www.gobiznes-online.cloud^
 ||www.gobiznesonline.cloud^
+||www.gobletpants.info^
 ||www.goblznes-online.cloud^
 ||www.goblznesonline.cloud^
 ||www.goblznesplanetonline.cloud^
@@ -103376,6 +103384,7 @@
 ||www.inpost.45456431.xyz^
 ||www.inpost.46663332.xyz^
 ||www.inpost.51451212.xyz^
+||www.inpost.52325122.xyz^
 ||www.inpost.54151542.xyz^
 ||www.inpost.56663332.xyz^
 ||www.inpost.58512215.xyz^
@@ -105208,6 +105217,7 @@
 ||www.jafegames.com^
 ||www.jafruitflush.pl^
 ||www.jag.prosystemorgo.com^
+||www.jagergroup.ru^
 ||www.jaggerstylehub.com^
 ||www.jaglupi.pl^
 ||www.jagoda.waw.pl^
@@ -115758,6 +115768,7 @@
 ||www.ollx.3332420.xyz^
 ||www.ollx.3451517.xyz^
 ||www.ollx.4323751.xyz^
+||www.ollx.4595323.xyz^
 ||www.ollx.4846955.xyz^
 ||www.ollx.5334437.xyz^
 ||www.ollx.5484888.xyz^
@@ -122539,6 +122550,7 @@
 ||www.polska-lnpost.payment6321617.xyz^
 ||www.polska-lnpost.payment9270184.xyz^
 ||www.polska-login.cyou^
+||www.polska-login.site^
 ||www.polska-loginuser.cyou^
 ||www.polska-lop.icu^
 ||www.polska-lts.site^
@@ -124785,6 +124797,7 @@
 ||www.qdb.globprstar.online^
 ||www.qe2gla.webwave.dev^
 ||www.qe.gaznf.xyz^
+||www.qeeartwo.space^
 ||www.qeoirudhsjrg.site^
 ||www.qepjfdlgq.digital^
 ||www.qes.comfirty.top^
@@ -137820,6 +137833,7 @@
 ||www.wszystko-problem.eu^
 ||www.wta.plneobk.site^
 ||www.wtab.plsitegov.site^
+||www.wtach.club^
 ||www.wtc1.molods.xyz^
 ||www.wtlrjth.cn^
 ||www.wtor.teconkilotr.site^
