@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-28 02:19:37 (UTC)                      #
+# Last updated: 2023-05-28 02:50:24 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -10,7 +10,6 @@ server=/1008691.com/
 server=/1717.1000uc.com/
 server=/1ecosolution.it/
 server=/2023foco.com.br/
-server=/20thstreetcoc.com/
 server=/2126892.bazeinfo.com/
 server=/230.btc-f2pool.top/
 server=/2384-84023b3fb84f.wptiger.fr/
@@ -57,6 +56,7 @@ server=/angel.bk.idv.tw/
 server=/antacobinhduong.com/
 server=/anydeskremote.shop/
 server=/aosafrica.co.za/
+server=/api-ms.cobainaja.id/
 server=/api.52kkg.com/
 server=/api.elwekala.com/
 server=/api.seeingoholidays.com/
@@ -101,6 +101,7 @@ server=/brknarikan.com/
 server=/bruiserbodies.com/
 server=/buscascolegios.diit.cl/
 server=/business-line.com/
+server=/bz.bbbeioaag.com/
 server=/caioaraujo.vip/
 server=/camminachetipassa.it/
 server=/canconsulting.in/
@@ -131,6 +132,7 @@ server=/congtykhoancatbetong.com/
 server=/controlhomecr.com/
 server=/coop-host.com/
 server=/coorsamexico.mx/
+server=/coralpac.com/
 server=/cordisheartinstitute.com/
 server=/corpolevesuplementos.com.br/
 server=/corpotechgroup.com/
@@ -215,6 +217,7 @@ server=/famesa.com.ar/
 server=/famigliacosmica.com/
 server=/fantadentalperu.com/
 server=/files5.uludagbilisim.com/
+server=/florent-webdev.com/
 server=/forestprotection.pk/
 server=/forsalenear.me/
 server=/fran.ac.ug/
@@ -315,7 +318,6 @@ server=/karapinarhaber.com.tr/
 server=/karer.by/
 server=/karimgousa.ug/
 server=/karimgouss.ug/
-server=/kasurnews.pk/
 server=/kazadesign.com.br/
 server=/kelaskan.com/
 server=/kemethuntlaw.com/
@@ -383,6 +385,7 @@ server=/microsecurityupdate.com/
 server=/mindbodyhealth.la/
 server=/mindfree.co.za/
 server=/mistitis.ug/
+server=/mistydeblasiophotography.com/
 server=/mkblaboratoire.com/
 server=/mmbcontracting.com/
 server=/moarkgcc.com/
@@ -403,7 +406,6 @@ server=/nazima.ac.ug/
 server=/nbbgarden.vn/
 server=/ncsuppliers.com/
 server=/neilshairdressers.co.uk/
-server=/neta.co.th/
 server=/networkwheels.co.za/
 server=/newinvestingonline.com/
 server=/nhatheptienchebinhduong.com/
@@ -528,7 +530,6 @@ server=/sirinatpetrol.com/
 server=/sirinatservis.com/
 server=/sjme.pk/
 server=/sjptr.pk/
-server=/skillum.mx/
 server=/slpbridge.com/
 server=/smartphoodapp.com/
 server=/sociallysavvyseo.com/
@@ -666,6 +667,7 @@ server=/www.tvculturaourofino.com.br/
 server=/www.vaestsolutions.com/
 server=/www.websound.ru/
 server=/www.weinsteincounseling.com/
+server=/www.ysbaojia.com/
 server=/wynecare.com/
 server=/x.233sy.cn/
 server=/xmanager.in/
@@ -682,4 +684,4 @@ server=/zaofisa.net/
 server=/zf.gouzapay.cn/
 server=/zhaoziliao1668.cn/
 server=/zpec.ru/
-# Number of entries: 676
+# Number of entries: 678
