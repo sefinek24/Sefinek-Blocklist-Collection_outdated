@@ -1,12 +1,13 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-29 14:54:36 (UTC)                      #
+# Last updated: 2023-05-29 15:59:11 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
 127.0.0.1 1717.1000uc.com
+127.0.0.1 1ecosolution.it
 127.0.0.1 2023foco.com.br
 127.0.0.1 20thstreetcoc.com
 127.0.0.1 2126892.bazeinfo.com
@@ -14,7 +15,6 @@
 127.0.0.1 2384-84023b3fb84f.wptiger.fr
 127.0.0.1 33rdderryscouts.com
 127.0.0.1 360.lcy2zzx.pw
-127.0.0.1 360down7.miiyun.cn
 127.0.0.1 3da2animation.com
 127.0.0.1 8.365tv.ma
 127.0.0.1 a.angel-tn.idv.tw
@@ -40,7 +40,6 @@
 127.0.0.1 alinac.ca
 127.0.0.1 allcleaner.biramedia.com
 127.0.0.1 alligatorplataformas.com
-127.0.0.1 almahasouq.com
 127.0.0.1 almullaadvocates.com
 127.0.0.1 alphafold4u.com
 127.0.0.1 amarteargentina.com.ar
@@ -56,20 +55,21 @@
 127.0.0.1 api.elwekala.com
 127.0.0.1 api.seeingoholidays.com
 127.0.0.1 apps.saintsoporte.com
+127.0.0.1 aquapools.in
 127.0.0.1 aristonbentre.com
-127.0.0.1 artisanalgoldperutech.com
 127.0.0.1 ask6.awt.com.pk
 127.0.0.1 asu.com.vn
 127.0.0.1 athadnw.com
 127.0.0.1 atomm.com.br
+127.0.0.1 azconsultants.co.in
 127.0.0.1 azmeasurement.com
+127.0.0.1 b.dowgmeb.com
 127.0.0.1 balneario.tissotodontologia.com.br
 127.0.0.1 barrehomes.co.ke
 127.0.0.1 basic4u.com.tr
 127.0.0.1 bawatingbarter.com
 127.0.0.1 bayyan.magesticflyer.com
 127.0.0.1 bbc-s.news
-127.0.0.1 bearcatpumps.com.cn
 127.0.0.1 beautifulqueen.com.br
 127.0.0.1 beeflopy.com
 127.0.0.1 beelowers.com
@@ -78,6 +78,7 @@
 127.0.0.1 bethelmbcarvada.org
 127.0.0.1 bigmikesupplies.co.za
 127.0.0.1 bigs.bikershop.biz
+127.0.0.1 bimak.hr
 127.0.0.1 bisnesservis-fk.ru
 127.0.0.1 bitkiselgida.com
 127.0.0.1 blast3d.com.br
@@ -119,6 +120,7 @@
 127.0.0.1 cnom.sante.gov.ml
 127.0.0.1 coadymarine.com
 127.0.0.1 cointra.ac.ug
+127.0.0.1 colisumy.com
 127.0.0.1 congtykhoancatbetong.com
 127.0.0.1 controlhomecr.com
 127.0.0.1 coop-host.com
@@ -126,7 +128,6 @@
 127.0.0.1 coralpac.com
 127.0.0.1 cordisheartinstitute.com
 127.0.0.1 corpolevesuplementos.com.br
-127.0.0.1 corpotechgroup.com
 127.0.0.1 corsyne.com
 127.0.0.1 count.mail.163.com.impactmedfoundation.com
 127.0.0.1 countrychristmas.ca
@@ -165,16 +166,17 @@
 127.0.0.1 down.pcclear.com
 127.0.0.1 down.udashi.com
 127.0.0.1 download.caihong.com
+127.0.0.1 download.doumaibiji.cn
 127.0.0.1 download.pdf00.cn
 127.0.0.1 downloads.bcweb.org.uk
 127.0.0.1 dreamzonemadurai.com
 127.0.0.1 drhanneserasmus.co.za
+127.0.0.1 drive.google.com.it-barcelona.com
 127.0.0.1 droomsoft.com
 127.0.0.1 drpackirisamy.co.za
 127.0.0.1 dukaree.com
 127.0.0.1 dunaujvaros.gorogkatolikus.hu
 127.0.0.1 dutulongxuyen.com
-127.0.0.1 e-commerce.saleensuporte.com.br
 127.0.0.1 e-hemsire.net
 127.0.0.1 easylinkacademy.com
 127.0.0.1 easyrentbyowner.com
@@ -204,6 +206,7 @@
 127.0.0.1 fantadentalperu.com
 127.0.0.1 files5.uludagbilisim.com
 127.0.0.1 florent-webdev.com
+127.0.0.1 forestprotection.pk
 127.0.0.1 forsalenear.me
 127.0.0.1 fran.ac.ug
 127.0.0.1 frangulf.ae
@@ -212,6 +215,7 @@
 127.0.0.1 fransceysse.ac.ug
 127.0.0.1 funatfitsports.com
 127.0.0.1 funletters.net
+127.0.0.1 g-work.mx
 127.0.0.1 gabyagozetim.com
 127.0.0.1 gapegape.co.za
 127.0.0.1 gbsports.theapplab.org
@@ -312,8 +316,6 @@
 127.0.0.1 kimjikuk.luxeone.cn
 127.0.0.1 kimyen.net
 127.0.0.1 kivointergrated.com
-127.0.0.1 kompas86.com
-127.0.0.1 konseptderi.com
 127.0.0.1 kustens.com
 127.0.0.1 lameguard.ru
 127.0.0.1 lara.amiyon.com
@@ -336,6 +338,7 @@
 127.0.0.1 lotemoclubrificantes.com.br
 127.0.0.1 lp.gunlakemhc.com
 127.0.0.1 ltc.typoten.com
+127.0.0.1 mabest.cl
 127.0.0.1 macayaywaak.cl
 127.0.0.1 macro.nyc
 127.0.0.1 madicon.co.za
@@ -408,7 +411,6 @@
 127.0.0.1 olugun.co.za
 127.0.0.1 ong-rafaa.org
 127.0.0.1 onlinedcus.com
-127.0.0.1 onppe.dz
 127.0.0.1 openar.me
 127.0.0.1 opencart.notebookparcalari.com
 127.0.0.1 opesjk.ug
@@ -418,8 +420,10 @@
 127.0.0.1 origins-france.fr
 127.0.0.1 orlcasablanca.com
 127.0.0.1 orsan.gruporhynous.com
+127.0.0.1 outdoortacklebox.com
 127.0.0.1 ovajabmedia.com
 127.0.0.1 ozelmimarsinanmtal.com
+127.0.0.1 p2.d9media.cn
 127.0.0.1 pablobrothel.com.ar
 127.0.0.1 pakistancomparison.com
 127.0.0.1 palharesinformatica.com.br
@@ -448,7 +452,6 @@
 127.0.0.1 protechasia.com
 127.0.0.1 proveedoradeproyectosysoluciones.com
 127.0.0.1 proyectos.vrstudio.cl
-127.0.0.1 punjabdevelopersassociation.com.pk
 127.0.0.1 pyrd5.xyz
 127.0.0.1 qmsled.com
 127.0.0.1 quizbn.com
@@ -483,7 +486,6 @@
 127.0.0.1 sanubix.vip
 127.0.0.1 sasms.co
 127.0.0.1 sawabash-sd.com
-127.0.0.1 scarletespinal.com
 127.0.0.1 scarterproductionfilms.com
 127.0.0.1 scglobal.co.th
 127.0.0.1 schoolofspanish.co.za
@@ -495,7 +497,6 @@
 127.0.0.1 sertvs.com
 127.0.0.1 server.easysalepage.in.th
 127.0.0.1 server.toeicswt.co.kr
-127.0.0.1 servisaludocupacional.pe
 127.0.0.1 shahu66.com
 127.0.0.1 shg.ph
 127.0.0.1 shipminttracking.net
@@ -503,13 +504,13 @@
 127.0.0.1 shsplatform.co.uk
 127.0.0.1 sipo.ru
 127.0.0.1 sirinatservis.com
-127.0.0.1 sjme.pk
 127.0.0.1 slpbridge.com
 127.0.0.1 smartphoodapp.com
 127.0.0.1 sociallysavvyseo.com
 127.0.0.1 soft.110route.com
 127.0.0.1 softs-lab.ru
 127.0.0.1 solapurcancer.com
+127.0.0.1 soquipra.cl
 127.0.0.1 spaceframe.mobi.space-frame.co.za
 127.0.0.1 speedfachadas.com.br
 127.0.0.1 speedwell.com.bd
@@ -524,6 +525,7 @@
 127.0.0.1 stayinoceancitymd.com
 127.0.0.1 suakhoaketsattphcm.com
 127.0.0.1 superstar.tibolts.co.uk
+127.0.0.1 support.clz.kr
 127.0.0.1 sysmedbi.com.mx
 127.0.0.1 t.honker.info
 127.0.0.1 t23e7v6uz8idz87ehugwq.skyrage.de
@@ -537,9 +539,11 @@
 127.0.0.1 thedoctorsgym.net
 127.0.0.1 theemirateshills.com
 127.0.0.1 thegioibanghieu.net
+127.0.0.1 thegrand-manhattan.vn
 127.0.0.1 thehometownair.com
 127.0.0.1 thekassia.co.uk
 127.0.0.1 thetulumtakeover.com
+127.0.0.1 thomasakvo.com
 127.0.0.1 threerosesbeauty.com
 127.0.0.1 tiemvangngoctham.com
 127.0.0.1 tmglawpalawan.com
@@ -562,7 +566,6 @@
 127.0.0.1 upload-wefiles.com
 127.0.0.1 utmtechnologies.com
 127.0.0.1 uxsingh.com
-127.0.0.1 uylab.org
 127.0.0.1 vashovskycorp.com
 127.0.0.1 velumuriinfra.com
 127.0.0.1 vfocus.net
@@ -585,7 +588,6 @@
 127.0.0.1 whoisalbertuncle.com
 127.0.0.1 wisewomanwarrior.com
 127.0.0.1 wjidigitalmediadirectory.com
-127.0.0.1 wonderpillars.co.in
 127.0.0.1 www.acompanhantescuritiba.org
 127.0.0.1 www.agies.org
 127.0.0.1 www.alertsecurities.in
@@ -594,6 +596,7 @@
 127.0.0.1 www.arkidecture.com
 127.0.0.1 www.artrsllc.com
 127.0.0.1 www.asterglobal.com
+127.0.0.1 www.bancarioscornelio.com.br
 127.0.0.1 www.bearware.org
 127.0.0.1 www.carusoadvogados.com.br
 127.0.0.1 www.cesasin.com.ar
@@ -608,6 +611,7 @@
 127.0.0.1 www.globallaborsupply.com
 127.0.0.1 www.hebgb.top
 127.0.0.1 www.hseda.com
+127.0.0.1 www.ingonherbal.com
 127.0.0.1 www.institut-corps-a-ligne.fr
 127.0.0.1 www.janisthaaivf.com
 127.0.0.1 www.ks.cn
@@ -646,4 +650,4 @@
 127.0.0.1 zaofisa.net
 127.0.0.1 zf.gouzapay.cn
 127.0.0.1 zhaoziliao1668.cn
-# Number of entries: 640
+# Number of entries: 644
