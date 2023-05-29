@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-29 11:57:39 (UTC)                      #
+# Last updated: 2023-05-29 12:56:29 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -23,7 +23,6 @@
 0.0.0.0 abbottminerals.com
 0.0.0.0 abissnet.net
 0.0.0.0 abmaxdigital.com
-0.0.0.0 acarvi.com
 0.0.0.0 acellr.co.uk
 0.0.0.0 acerogrado.cl
 0.0.0.0 acrhitechinfo.com
@@ -69,23 +68,19 @@
 0.0.0.0 atomm.com.br
 0.0.0.0 azconsultants.co.in
 0.0.0.0 azmeasurement.com
-0.0.0.0 b.dowgmeb.com
 0.0.0.0 balneario.tissotodontologia.com.br
 0.0.0.0 barrehomes.co.ke
 0.0.0.0 basic4u.com.tr
 0.0.0.0 bawatingbarter.com
 0.0.0.0 bayyan.magesticflyer.com
 0.0.0.0 bbc-s.news
-0.0.0.0 bearcatpumps.com.cn
 0.0.0.0 beautifulqueen.com.br
 0.0.0.0 beeflopy.com
 0.0.0.0 beelowers.com
 0.0.0.0 bencevendeghaz.hu
 0.0.0.0 benwellgroup.co.uk
-0.0.0.0 bethelmbcarvada.org
 0.0.0.0 bigmikesupplies.co.za
 0.0.0.0 bigs.bikershop.biz
-0.0.0.0 bimak.hr
 0.0.0.0 bisnesservis-fk.ru
 0.0.0.0 bitkiselgida.com
 0.0.0.0 blast3d.com.br
@@ -128,6 +123,7 @@
 0.0.0.0 coadymarine.com
 0.0.0.0 cointra.ac.ug
 0.0.0.0 congtykhoancatbetong.com
+0.0.0.0 controlhomecr.com
 0.0.0.0 coop-host.com
 0.0.0.0 coorsamexico.mx
 0.0.0.0 coralpac.com
@@ -170,8 +166,8 @@
 0.0.0.0 dohrmann-projekt.de
 0.0.0.0 dominiqueimmora.com
 0.0.0.0 down.pcclear.com
+0.0.0.0 down.udashi.com
 0.0.0.0 download.caihong.com
-0.0.0.0 download.doumaibiji.cn
 0.0.0.0 download.pdf00.cn
 0.0.0.0 downloads.bcweb.org.uk
 0.0.0.0 dreamzonemadurai.com
@@ -214,6 +210,7 @@
 0.0.0.0 florent-webdev.com
 0.0.0.0 forestprotection.pk
 0.0.0.0 forsalenear.me
+0.0.0.0 fran.ac.ug
 0.0.0.0 frangulf.ae
 0.0.0.0 frangulfadvocates.com
 0.0.0.0 frangulflegal.com
@@ -221,7 +218,6 @@
 0.0.0.0 fransceysse.ac.ug
 0.0.0.0 funatfitsports.com
 0.0.0.0 funletters.net
-0.0.0.0 g-work.mx
 0.0.0.0 gabyagozetim.com
 0.0.0.0 gapegape.co.za
 0.0.0.0 gbsports.theapplab.org
@@ -273,7 +269,6 @@
 0.0.0.0 idealweddings.co.zw
 0.0.0.0 ideiasmoveisdecor.com
 0.0.0.0 idrissischool.edu.my
-0.0.0.0 ijbfi.pk
 0.0.0.0 ijrec.pk
 0.0.0.0 ijset.pk
 0.0.0.0 ilonamaska.info
@@ -297,6 +292,7 @@
 0.0.0.0 iprovietnam.com
 0.0.0.0 jaccolima.com
 0.0.0.0 jcedu.org
+0.0.0.0 jhayesconsulting.com
 0.0.0.0 ji.ase6gasdegkk.com
 0.0.0.0 ji.jahhaega2pp.com
 0.0.0.0 jobcity.com
@@ -358,7 +354,6 @@
 0.0.0.0 marksidfgs.ug
 0.0.0.0 marquesvogt.com
 0.0.0.0 matajir.ae
-0.0.0.0 matchtranslations.com
 0.0.0.0 maviproducciones.com
 0.0.0.0 maxximbrasil.com
 0.0.0.0 mbgrm.com
@@ -372,10 +367,11 @@
 0.0.0.0 menupricelist.today
 0.0.0.0 meonhanong.com
 0.0.0.0 mepstein.com
+0.0.0.0 mesoftwares.vip
 0.0.0.0 mhpa.gov.bt
 0.0.0.0 mhypecom.com
+0.0.0.0 microsecurityupdate.com
 0.0.0.0 mindfree.co.za
-0.0.0.0 mistitis.ug
 0.0.0.0 mistydeblasiophotography.com
 0.0.0.0 mkblaboratoire.com
 0.0.0.0 mmbcontracting.com
@@ -384,6 +380,7 @@
 0.0.0.0 modern-city.by
 0.0.0.0 mooc.amnesty.tg
 0.0.0.0 moodle.corplearning.net
+0.0.0.0 moonsteel.rw
 0.0.0.0 mujibbriyani.in
 0.0.0.0 mumgee.co.za
 0.0.0.0 mundiaandmudhara.com
@@ -423,17 +420,18 @@
 0.0.0.0 orderedami.com
 0.0.0.0 organizer.safeonline.it
 0.0.0.0 origins-france.fr
+0.0.0.0 orlcasablanca.com
 0.0.0.0 orsan.gruporhynous.com
 0.0.0.0 outdoortacklebox.com
 0.0.0.0 ovajabmedia.com
 0.0.0.0 ozelmimarsinanmtal.com
-0.0.0.0 p2.d9media.cn
 0.0.0.0 pablobrothel.com.ar
 0.0.0.0 pakistancomparison.com
 0.0.0.0 palharesinformatica.com.br
 0.0.0.0 parallel.rockvideos.at
 0.0.0.0 parkrosegroup.cl
 0.0.0.0 parrotbay.net
+0.0.0.0 pascasarjana.iainfmpapua.ac.id
 0.0.0.0 paste-bin.xyz
 0.0.0.0 petparadise.biz
 0.0.0.0 pgn-dkppsby.com
@@ -454,7 +452,6 @@
 0.0.0.0 propagandaetrafego.com
 0.0.0.0 propertycare4u.com
 0.0.0.0 protechasia.com
-0.0.0.0 proveedoradeproyectosysoluciones.com
 0.0.0.0 proyectos.vrstudio.cl
 0.0.0.0 punjabdevelopersassociation.com.pk
 0.0.0.0 pyrd5.xyz
@@ -471,7 +468,6 @@
 0.0.0.0 relaxindulge.co.nz
 0.0.0.0 remotaja.com
 0.0.0.0 renacer.jgorange.com
-0.0.0.0 repairhubpat.com
 0.0.0.0 respekt5568.com
 0.0.0.0 retailexpertscloud.com
 0.0.0.0 richterhi-tech.com
@@ -482,7 +478,6 @@
 0.0.0.0 s21servicios.com
 0.0.0.0 saaad.org
 0.0.0.0 saemape.cd
-0.0.0.0 safetygear.pk
 0.0.0.0 saiservicecentre.in
 0.0.0.0 sakthipipesandplumbing.com
 0.0.0.0 saloneeats.com
@@ -528,7 +523,6 @@
 0.0.0.0 speedycabng.com
 0.0.0.0 spices.com.sg
 0.0.0.0 spiritualoutdooradventures.org
-0.0.0.0 src1.minibai.com
 0.0.0.0 srikalaivanipackersandmovers.com
 0.0.0.0 srv-fattureincloud.de
 0.0.0.0 sshd.run
@@ -550,10 +544,9 @@
 0.0.0.0 thedoctorsgym.net
 0.0.0.0 theemirateshills.com
 0.0.0.0 thegioibanghieu.net
-0.0.0.0 thegrand-manhattan.vn
 0.0.0.0 thehometownair.com
+0.0.0.0 thekassia.co.uk
 0.0.0.0 thetulumtakeover.com
-0.0.0.0 thomasakvo.com
 0.0.0.0 threerosesbeauty.com
 0.0.0.0 tiemvangngoctham.com
 0.0.0.0 tmglawpalawan.com
@@ -561,10 +554,10 @@
 0.0.0.0 topsepatu.com
 0.0.0.0 transportadoramiranda.com
 0.0.0.0 travelwithmanta.co.za
+0.0.0.0 trieutin.com
 0.0.0.0 trinoxidiuvendas.com
 0.0.0.0 triplebbbfoundationrepair.com
 0.0.0.0 tusaceitesesenciales.com
-0.0.0.0 twizt.net
 0.0.0.0 udhayaminn.com
 0.0.0.0 ukguk71.ru
 0.0.0.0 unacam.ong.br
@@ -573,7 +566,6 @@
 0.0.0.0 unigifts.net
 0.0.0.0 unlockingdreamsfinancial.com
 0.0.0.0 update.cg100iii.com
-0.0.0.0 upload-wefiles.com
 0.0.0.0 utmtechnologies.com
 0.0.0.0 uxsingh.com
 0.0.0.0 uylab.org
@@ -615,6 +607,7 @@
 0.0.0.0 www.charmingsoftech.com
 0.0.0.0 www.chawkyfrenn.com
 0.0.0.0 www.chemsky.tn
+0.0.0.0 www.chipmania.it
 0.0.0.0 www.clinicamomentum.com.br
 0.0.0.0 www.dacui.online
 0.0.0.0 www.dental.xiaoxiao.media
@@ -656,10 +649,11 @@
 0.0.0.0 xrpreward.live
 0.0.0.0 xt.lykj988.com
 0.0.0.0 xyktza.nbxyk.net
+0.0.0.0 ycnexgroup.com
 0.0.0.0 yesdeko.com
 0.0.0.0 yp.hnggzyjy.cn
 0.0.0.0 yzkzixun.com
 0.0.0.0 zaofisa.net
 0.0.0.0 zf.gouzapay.cn
 0.0.0.0 zhaoziliao1668.cn
-# Number of entries: 656
+# Number of entries: 650
