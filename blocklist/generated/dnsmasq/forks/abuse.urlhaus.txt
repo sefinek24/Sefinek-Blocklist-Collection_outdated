@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-29 03:52:16 (UTC)                      #
+# Last updated: 2023-05-29 04:53:42 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -55,6 +55,7 @@ server=/angel.bk.idv.tw/
 server=/antacobinhduong.com/
 server=/aosafrica.co.za/
 server=/api-ms.cobainaja.id/
+server=/api.52kkg.com/
 server=/api.elwekala.com/
 server=/api.seeingoholidays.com/
 server=/apps.saintsoporte.com/
@@ -341,6 +342,7 @@ server=/lopespublicidade.com/
 server=/lorem.com.sa/
 server=/lotemoclubrificantes.com.br/
 server=/lp.gunlakemhc.com/
+server=/ltc.typoten.com/
 server=/mabest.cl/
 server=/macayaywaak.cl/
 server=/macro.nyc/
@@ -417,7 +419,6 @@ server=/ora.ci/
 server=/orderedami.com/
 server=/organizer.safeonline.it/
 server=/origins-france.fr/
-server=/orlcasablanca.com/
 server=/orsan.gruporhynous.com/
 server=/outdoortacklebox.com/
 server=/ovajabmedia.com/
@@ -448,6 +449,7 @@ server=/propagandaetrafego.com/
 server=/protechasia.com/
 server=/protic.web.id/
 server=/proveedoradeproyectosysoluciones.com/
+server=/proyectos.vrstudio.cl/
 server=/pyrd5.xyz/
 server=/qmsled.com/
 server=/quizbn.com/
@@ -573,7 +575,6 @@ server=/vaikartanapraj.com/
 server=/vashovskycorp.com/
 server=/velumuriinfra.com/
 server=/vfocus.net/
-server=/vidaviajesperu.com/
 server=/vietroll.vn/
 server=/vijayshanti.com/
 server=/vipysknik.by/
@@ -658,4 +659,4 @@ server=/yzkzixun.com/
 server=/zaofisa.net/
 server=/zf.gouzapay.cn/
 server=/zhaoziliao1668.cn/
-# Number of entries: 652
+# Number of entries: 653

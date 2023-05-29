@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-29 03:52:16 (UTC)                      #
+# Last updated: 2023-05-29 04:53:42 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -55,6 +55,7 @@
 127.0.0.1 antacobinhduong.com
 127.0.0.1 aosafrica.co.za
 127.0.0.1 api-ms.cobainaja.id
+127.0.0.1 api.52kkg.com
 127.0.0.1 api.elwekala.com
 127.0.0.1 api.seeingoholidays.com
 127.0.0.1 apps.saintsoporte.com
@@ -341,6 +342,7 @@
 127.0.0.1 lorem.com.sa
 127.0.0.1 lotemoclubrificantes.com.br
 127.0.0.1 lp.gunlakemhc.com
+127.0.0.1 ltc.typoten.com
 127.0.0.1 mabest.cl
 127.0.0.1 macayaywaak.cl
 127.0.0.1 macro.nyc
@@ -417,7 +419,6 @@
 127.0.0.1 orderedami.com
 127.0.0.1 organizer.safeonline.it
 127.0.0.1 origins-france.fr
-127.0.0.1 orlcasablanca.com
 127.0.0.1 orsan.gruporhynous.com
 127.0.0.1 outdoortacklebox.com
 127.0.0.1 ovajabmedia.com
@@ -448,6 +449,7 @@
 127.0.0.1 protechasia.com
 127.0.0.1 protic.web.id
 127.0.0.1 proveedoradeproyectosysoluciones.com
+127.0.0.1 proyectos.vrstudio.cl
 127.0.0.1 pyrd5.xyz
 127.0.0.1 qmsled.com
 127.0.0.1 quizbn.com
@@ -573,7 +575,6 @@
 127.0.0.1 vashovskycorp.com
 127.0.0.1 velumuriinfra.com
 127.0.0.1 vfocus.net
-127.0.0.1 vidaviajesperu.com
 127.0.0.1 vietroll.vn
 127.0.0.1 vijayshanti.com
 127.0.0.1 vipysknik.by
@@ -658,4 +659,4 @@
 127.0.0.1 zaofisa.net
 127.0.0.1 zf.gouzapay.cn
 127.0.0.1 zhaoziliao1668.cn
-# Number of entries: 652
+# Number of entries: 653

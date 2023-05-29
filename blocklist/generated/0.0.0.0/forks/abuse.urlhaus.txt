@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-29 03:52:16 (UTC)                      #
+# Last updated: 2023-05-29 04:53:42 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -55,6 +55,7 @@
 0.0.0.0 antacobinhduong.com
 0.0.0.0 aosafrica.co.za
 0.0.0.0 api-ms.cobainaja.id
+0.0.0.0 api.52kkg.com
 0.0.0.0 api.elwekala.com
 0.0.0.0 api.seeingoholidays.com
 0.0.0.0 apps.saintsoporte.com
@@ -341,6 +342,7 @@
 0.0.0.0 lorem.com.sa
 0.0.0.0 lotemoclubrificantes.com.br
 0.0.0.0 lp.gunlakemhc.com
+0.0.0.0 ltc.typoten.com
 0.0.0.0 mabest.cl
 0.0.0.0 macayaywaak.cl
 0.0.0.0 macro.nyc
@@ -417,7 +419,6 @@
 0.0.0.0 orderedami.com
 0.0.0.0 organizer.safeonline.it
 0.0.0.0 origins-france.fr
-0.0.0.0 orlcasablanca.com
 0.0.0.0 orsan.gruporhynous.com
 0.0.0.0 outdoortacklebox.com
 0.0.0.0 ovajabmedia.com
@@ -448,6 +449,7 @@
 0.0.0.0 protechasia.com
 0.0.0.0 protic.web.id
 0.0.0.0 proveedoradeproyectosysoluciones.com
+0.0.0.0 proyectos.vrstudio.cl
 0.0.0.0 pyrd5.xyz
 0.0.0.0 qmsled.com
 0.0.0.0 quizbn.com
@@ -573,7 +575,6 @@
 0.0.0.0 vashovskycorp.com
 0.0.0.0 velumuriinfra.com
 0.0.0.0 vfocus.net
-0.0.0.0 vidaviajesperu.com
 0.0.0.0 vietroll.vn
 0.0.0.0 vijayshanti.com
 0.0.0.0 vipysknik.by
@@ -658,4 +659,4 @@
 0.0.0.0 zaofisa.net
 0.0.0.0 zf.gouzapay.cn
 0.0.0.0 zhaoziliao1668.cn
-# Number of entries: 652
+# Number of entries: 653
