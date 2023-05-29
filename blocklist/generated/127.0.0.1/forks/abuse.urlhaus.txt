@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-29 17:53:23 (UTC)                      #
+# Last updated: 2023-05-29 18:51:34 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -8,6 +8,7 @@
 #
 127.0.0.1 1717.1000uc.com
 127.0.0.1 1ecosolution.it
+127.0.0.1 2023foco.com.br
 127.0.0.1 20thstreetcoc.com
 127.0.0.1 2126892.bazeinfo.com
 127.0.0.1 230.btc-f2pool.top
@@ -27,6 +28,7 @@
 127.0.0.1 admin.byte.in.ua
 127.0.0.1 afromerchants.co.zw
 127.0.0.1 agemn.co.za
+127.0.0.1 aggarwalsamajtrinagar.com
 127.0.0.1 aiosubng.com
 127.0.0.1 airhobi.com
 127.0.0.1 alakheilizwe.org
@@ -51,13 +53,14 @@
 127.0.0.1 aosafrica.co.za
 127.0.0.1 api-ms.cobainaja.id
 127.0.0.1 api.52kkg.com
-127.0.0.1 api.elwekala.com
 127.0.0.1 api.seeingoholidays.com
 127.0.0.1 apps.saintsoporte.com
 127.0.0.1 aquapools.in
 127.0.0.1 aristonbentre.com
+127.0.0.1 artcaffedemo.reserveport.com
 127.0.0.1 artisanalgoldperutech.com
 127.0.0.1 ask6.awt.com.pk
+127.0.0.1 asu.com.vn
 127.0.0.1 athadnw.com
 127.0.0.1 atomm.com.br
 127.0.0.1 azconsultants.co.in
@@ -79,7 +82,6 @@
 127.0.0.1 bimak.hr
 127.0.0.1 bisnesservis-fk.ru
 127.0.0.1 bitkiselgida.com
-127.0.0.1 blast3d.com.br
 127.0.0.1 blitzz.com.ar
 127.0.0.1 bmg.edu.vn
 127.0.0.1 bocasislandexpress.com
@@ -87,6 +89,7 @@
 127.0.0.1 bookkeepingagents.com
 127.0.0.1 borntobefree.org.za
 127.0.0.1 bracell.latitude.net.br
+127.0.0.1 brideofmessiah.com
 127.0.0.1 british-shorthair.es
 127.0.0.1 brknarikan.com
 127.0.0.1 bruiserbodies.com
@@ -96,6 +99,7 @@
 127.0.0.1 caioaraujo.vip
 127.0.0.1 camminachetipassa.it
 127.0.0.1 canconsulting.in
+127.0.0.1 cargoconnect.online
 127.0.0.1 casamuseoayerbe.co
 127.0.0.1 cbob.cuchulain.co.za
 127.0.0.1 cdaonline.com.ar
@@ -103,7 +107,6 @@
 127.0.0.1 cdn.unduhfile.my.id
 127.0.0.1 celeronperu.com
 127.0.0.1 celiklergoldtasarim.com
-127.0.0.1 cemageng.com.br
 127.0.0.1 ch1.spacermodem.com
 127.0.0.1 changelife.vip
 127.0.0.1 chiptune.com
@@ -131,10 +134,10 @@
 127.0.0.1 crsn.com.ar
 127.0.0.1 crystalcoin.cc
 127.0.0.1 cursodeparapsicologia.org
-127.0.0.1 d.tocat.co
 127.0.0.1 d1.udashi.com
 127.0.0.1 dacsandongthapmuoi.vn
 127.0.0.1 danaevara.com
+127.0.0.1 daniellesiruffo.com
 127.0.0.1 dating.khokhas.co.za
 127.0.0.1 davidmcguinness.info
 127.0.0.1 ddlakava.ac.ug
@@ -170,6 +173,7 @@
 127.0.0.1 dukaree.com
 127.0.0.1 dunaujvaros.gorogkatolikus.hu
 127.0.0.1 dutulongxuyen.com
+127.0.0.1 e-commerce.saleensuporte.com.br
 127.0.0.1 e-hemsire.net
 127.0.0.1 easylinkacademy.com
 127.0.0.1 easyrentbyowner.com
@@ -204,6 +208,7 @@
 127.0.0.1 frangulf.ae
 127.0.0.1 frangulfadvocates.com
 127.0.0.1 frangulflegal.com
+127.0.0.1 frangulfmedia.com
 127.0.0.1 fransceysse.ac.ug
 127.0.0.1 funatfitsports.com
 127.0.0.1 funletters.net
@@ -262,14 +267,13 @@
 127.0.0.1 ijrec.pk
 127.0.0.1 ijset.pk
 127.0.0.1 ilonamaska.info
+127.0.0.1 iluxtspl.com
 127.0.0.1 image-thaihometown.com
 127.0.0.1 imbueautoworx.co.za
 127.0.0.1 imihigo-watch.rw
 127.0.0.1 imit.ac.in
 127.0.0.1 imrantex.com
 127.0.0.1 incotel.com.pk
-127.0.0.1 indonesias.me
-127.0.0.1 indrasbikaner.com
 127.0.0.1 induspay.pk
 127.0.0.1 inspiratour.co.id
 127.0.0.1 instinctux.com
@@ -303,7 +307,6 @@
 127.0.0.1 kelaskan.com
 127.0.0.1 kevinley.com
 127.0.0.1 kiengiang24h.com
-127.0.0.1 kilakila.cl
 127.0.0.1 kimjikuk.luxeone.cn
 127.0.0.1 kimyen.net
 127.0.0.1 kivointergrated.com
@@ -396,6 +399,7 @@
 127.0.0.1 noobquan.xyz
 127.0.0.1 notaire-gay-friendly.fr
 127.0.0.1 novak-home.com
+127.0.0.1 nrc-soluciones.com.ar
 127.0.0.1 nstim.co.rs
 127.0.0.1 nzara.co
 127.0.0.1 oalshatty.com
@@ -456,7 +460,6 @@
 127.0.0.1 re-corre.com
 127.0.0.1 records.dennisign.se
 127.0.0.1 redmag-dz.com
-127.0.0.1 regiscoimbra.pt
 127.0.0.1 reifenquick.de
 127.0.0.1 relaxindulge.co.nz
 127.0.0.1 remotaja.com
@@ -470,6 +473,7 @@
 127.0.0.1 ronaldlitt.top
 127.0.0.1 rretoques.cl
 127.0.0.1 s21servicios.com
+127.0.0.1 saaad.org
 127.0.0.1 saemape.cd
 127.0.0.1 safetygear.pk
 127.0.0.1 saiservicecentre.in
@@ -478,6 +482,7 @@
 127.0.0.1 samglobaltrading.com
 127.0.0.1 sandonet.es
 127.0.0.1 sanubix.vip
+127.0.0.1 sasms.co
 127.0.0.1 sawabash-sd.com
 127.0.0.1 scarletespinal.com
 127.0.0.1 scarterproductionfilms.com
@@ -505,6 +510,7 @@
 127.0.0.1 smartphoodapp.com
 127.0.0.1 smeolbd.com
 127.0.0.1 sociallysavvyseo.com
+127.0.0.1 soft.110route.com
 127.0.0.1 softs-lab.ru
 127.0.0.1 solapurcancer.com
 127.0.0.1 soquipra.cl
@@ -570,17 +576,15 @@
 127.0.0.1 vidaviajesperu.com
 127.0.0.1 vietroll.vn
 127.0.0.1 vijayshanti.com
+127.0.0.1 vipysknik.by
 127.0.0.1 virtualplaya.com
 127.0.0.1 vitoturizm.com.tr
-127.0.0.1 vividled.in
 127.0.0.1 vogue-pharmaceuticals.com
 127.0.0.1 votre-futur-site.com
 127.0.0.1 vtope.info
-127.0.0.1 waqaskhan.pk
 127.0.0.1 web.geomegasoft.net
 127.0.0.1 webs-up.com
 127.0.0.1 websound.ru
-127.0.0.1 whatelles.nl
 127.0.0.1 whoisalbertuncle.com
 127.0.0.1 windcomtechnologies.com
 127.0.0.1 wisewomanwarrior.com
@@ -591,9 +595,9 @@
 127.0.0.1 www.agies.org
 127.0.0.1 www.alertsecurities.in
 127.0.0.1 www.almoeqatar.com
+127.0.0.1 www.amazonmall.club
 127.0.0.1 www.arkidecture.com
 127.0.0.1 www.artrsllc.com
-127.0.0.1 www.asterglobal.com
 127.0.0.1 www.bancarioscornelio.com.br
 127.0.0.1 www.bearware.org
 127.0.0.1 www.carusoadvogados.com.br
@@ -634,17 +638,16 @@
 127.0.0.1 www.websound.ru
 127.0.0.1 www.weinsteincounseling.com
 127.0.0.1 www.ysbaojia.com
-127.0.0.1 wynecare.com
 127.0.0.1 x.233sy.cn
 127.0.0.1 xmanager.in
-127.0.0.1 xn----7sbhgfcdscaa3cdd6dq3e3dvf.xn--p1ai
 127.0.0.1 xrpreward.live
 127.0.0.1 xt.lykj988.com
 127.0.0.1 xyktza.nbxyk.net
+127.0.0.1 ycnexgroup.com
 127.0.0.1 yesdeko.com
 127.0.0.1 yp.hnggzyjy.cn
 127.0.0.1 yzkzixun.com
 127.0.0.1 zaofisa.net
 127.0.0.1 zf.gouzapay.cn
 127.0.0.1 zhaoziliao1668.cn
-# Number of entries: 641
+# Number of entries: 644
