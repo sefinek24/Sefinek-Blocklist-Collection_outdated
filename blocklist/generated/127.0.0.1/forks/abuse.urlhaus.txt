@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-29 04:53:42 (UTC)                      #
+# Last updated: 2023-05-29 05:57:18 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -19,8 +19,6 @@
 127.0.0.1 360down7.miiyun.cn
 127.0.0.1 3da2animation.com
 127.0.0.1 8.365tv.ma
-127.0.0.1 9ten.in
-127.0.0.1 a.angel-tn.idv.tw
 127.0.0.1 abbottminerals.com
 127.0.0.1 abissnet.net
 127.0.0.1 abmaxdigital.com
@@ -37,7 +35,6 @@
 127.0.0.1 alakheilizwe.org
 127.0.0.1 alazharplast.com
 127.0.0.1 aldebaran.adm.br
-127.0.0.1 aldojuanpettiti.com.ar
 127.0.0.1 alemaanwebtv.net
 127.0.0.1 alexmarineengineering.com
 127.0.0.1 algomhoria.com
@@ -76,6 +73,7 @@
 127.0.0.1 bawatingbarter.com
 127.0.0.1 bayyan.magesticflyer.com
 127.0.0.1 bbc-s.news
+127.0.0.1 bearcatpumps.com.cn
 127.0.0.1 beautifulqueen.com.br
 127.0.0.1 beeflopy.com
 127.0.0.1 beelowers.com
@@ -103,12 +101,14 @@
 127.0.0.1 business-line.com
 127.0.0.1 bz.bbbeioaag.com
 127.0.0.1 caioaraujo.vip
+127.0.0.1 camminachetipassa.it
 127.0.0.1 canconsulting.in
 127.0.0.1 cargoconnect.online
 127.0.0.1 casamuseoayerbe.co
 127.0.0.1 cbob.cuchulain.co.za
 127.0.0.1 cdaonline.com.ar
 127.0.0.1 cdn.doxbin.org
+127.0.0.1 cdn.unduhfile.my.id
 127.0.0.1 celeronperu.com
 127.0.0.1 celiklergoldtasarim.com
 127.0.0.1 cemageng.com.br
@@ -116,7 +116,6 @@
 127.0.0.1 changelife.vip
 127.0.0.1 chiptune.com
 127.0.0.1 chothuexetaitphcm.net
-127.0.0.1 chuckozeas.com
 127.0.0.1 cimadcp.com
 127.0.0.1 cipro.mx
 127.0.0.1 citypharmacylv.com
@@ -124,6 +123,7 @@
 127.0.0.1 cnom.sante.gov.ml
 127.0.0.1 coadymarine.com
 127.0.0.1 cointra.ac.ug
+127.0.0.1 colisumy.com
 127.0.0.1 congtykhoancatbetong.com
 127.0.0.1 controlhomecr.com
 127.0.0.1 coop-host.com
@@ -169,9 +169,9 @@
 127.0.0.1 dlqsclub.com
 127.0.0.1 dohrmann-projekt.de
 127.0.0.1 dominiqueimmora.com
-127.0.0.1 down.pcclear.com
 127.0.0.1 down.udashi.com
 127.0.0.1 download.caihong.com
+127.0.0.1 download.doumaibiji.cn
 127.0.0.1 download.pdf00.cn
 127.0.0.1 downloads.bcweb.org.uk
 127.0.0.1 drhanneserasmus.co.za
@@ -253,7 +253,6 @@
 127.0.0.1 hopeassistance.ae
 127.0.0.1 hostealo.com
 127.0.0.1 hostigram.xyz
-127.0.0.1 hotwaterasap.com
 127.0.0.1 houseatthebeachinoc.com
 127.0.0.1 houseboatritz.com
 127.0.0.1 houssagynecologue.com
@@ -306,6 +305,7 @@
 127.0.0.1 jr-software-web.net
 127.0.0.1 jsl.com.ng
 127.0.0.1 justplay.asia
+127.0.0.1 kamtress.com
 127.0.0.1 karapinarhaber.com.tr
 127.0.0.1 karer.by
 127.0.0.1 karimgousa.ug
@@ -321,7 +321,6 @@
 127.0.0.1 kivointergrated.com
 127.0.0.1 kompas86.com
 127.0.0.1 konseptderi.com
-127.0.0.1 kustens.com
 127.0.0.1 lameguard.ru
 127.0.0.1 lara.amiyon.com
 127.0.0.1 lara.com.ar
@@ -329,8 +328,6 @@
 127.0.0.1 lastimaners.ug
 127.0.0.1 lceventos.net
 127.0.0.1 leanmaestro.com
-127.0.0.1 leanresearcher.com
-127.0.0.1 lebetha.co.za
 127.0.0.1 letsggoo.com
 127.0.0.1 library.arihantmbainstitute.ac.in
 127.0.0.1 lidermotopecas.com.br
@@ -341,11 +338,11 @@
 127.0.0.1 lopespublicidade.com
 127.0.0.1 lorem.com.sa
 127.0.0.1 lotemoclubrificantes.com.br
-127.0.0.1 lp.gunlakemhc.com
 127.0.0.1 ltc.typoten.com
 127.0.0.1 mabest.cl
 127.0.0.1 macayaywaak.cl
 127.0.0.1 macro.nyc
+127.0.0.1 madicon.co.za
 127.0.0.1 maduraipackersandmovers.com
 127.0.0.1 main.cloudfronts.net
 127.0.0.1 mainorchile.cl
@@ -379,9 +376,7 @@
 127.0.0.1 mistydeblasiophotography.com
 127.0.0.1 mkblaboratoire.com
 127.0.0.1 mmbcontracting.com
-127.0.0.1 moarkgcc.com
 127.0.0.1 mobyco.pk
-127.0.0.1 modern-city.by
 127.0.0.1 mooc.amnesty.tg
 127.0.0.1 moodle.corplearning.net
 127.0.0.1 moonsteel.rw
@@ -390,12 +385,13 @@
 127.0.0.1 musicaondemand.com
 127.0.0.1 mvinfotech.com
 127.0.0.1 mysura.it
+127.0.0.1 mytheacademy.com
 127.0.0.1 namthaibinh.net
 127.0.0.1 nanpe.eng.br
 127.0.0.1 nbbgarden.vn
 127.0.0.1 ncsuppliers.com
 127.0.0.1 neilshairdressers.co.uk
-127.0.0.1 networkwheels.co.za
+127.0.0.1 neta.co.th
 127.0.0.1 newinvestingonline.com
 127.0.0.1 nhatheptienchebinhduong.com
 127.0.0.1 nhorangtreem.com
@@ -406,9 +402,11 @@
 127.0.0.1 novak-home.com
 127.0.0.1 nrc-soluciones.com.ar
 127.0.0.1 nstim.co.rs
+127.0.0.1 nzara.co
 127.0.0.1 oalshatty.com
 127.0.0.1 oazahotel.com.mk
 127.0.0.1 oceancityrentalbyowner.com
+127.0.0.1 olugun.co.za
 127.0.0.1 ong-rafaa.org
 127.0.0.1 onlinedcus.com
 127.0.0.1 onppe.dz
@@ -423,10 +421,12 @@
 127.0.0.1 outdoortacklebox.com
 127.0.0.1 ovajabmedia.com
 127.0.0.1 ozelmimarsinanmtal.com
+127.0.0.1 p2.d9media.cn
 127.0.0.1 pablobrothel.com.ar
 127.0.0.1 pakistancomparison.com
 127.0.0.1 palharesinformatica.com.br
 127.0.0.1 parallel.rockvideos.at
+127.0.0.1 parkrosegroup.cl
 127.0.0.1 parrotbay.net
 127.0.0.1 pascasarjana.iainfmpapua.ac.id
 127.0.0.1 paste-bin.xyz
@@ -435,12 +435,12 @@
 127.0.0.1 pink99.com
 127.0.0.1 pn-raha.go.id
 127.0.0.1 pns.org.pk
-127.0.0.1 ponizinny.nl
 127.0.0.1 pooramkuries.com
 127.0.0.1 posmicrosystems.com
 127.0.0.1 potolki-razumno.ru
 127.0.0.1 ppfatahillah.com
 127.0.0.1 prestigehomeautomation.net
+127.0.0.1 primaflor-sby.com
 127.0.0.1 primusth.com
 127.0.0.1 privatehireinsurance.net
 127.0.0.1 priyankaconstruction.com
@@ -450,6 +450,7 @@
 127.0.0.1 protic.web.id
 127.0.0.1 proveedoradeproyectosysoluciones.com
 127.0.0.1 proyectos.vrstudio.cl
+127.0.0.1 punjabdevelopersassociation.com.pk
 127.0.0.1 pyrd5.xyz
 127.0.0.1 qmsled.com
 127.0.0.1 quizbn.com
@@ -542,8 +543,6 @@
 127.0.0.1 test.typoten.com
 127.0.0.1 thedoctorsgym.net
 127.0.0.1 theemirateshills.com
-127.0.0.1 thegioibanghieu.net
-127.0.0.1 thegrand-manhattan.vn
 127.0.0.1 thehometownair.com
 127.0.0.1 thekassia.co.uk
 127.0.0.1 thetulumtakeover.com
@@ -555,7 +554,6 @@
 127.0.0.1 topsepatu.com
 127.0.0.1 transportadoramiranda.com
 127.0.0.1 travelwithmanta.co.za
-127.0.0.1 trieutin.com
 127.0.0.1 triplebbbfoundationrepair.com
 127.0.0.1 tusaceitesesenciales.com
 127.0.0.1 twizt.net
@@ -584,7 +582,6 @@
 127.0.0.1 vogue-pharmaceuticals.com
 127.0.0.1 votre-futur-site.com
 127.0.0.1 vtope.info
-127.0.0.1 walkindrivetoday.com
 127.0.0.1 web.geomegasoft.net
 127.0.0.1 webs-up.com
 127.0.0.1 websound.ru
@@ -593,6 +590,7 @@
 127.0.0.1 windcomtechnologies.com
 127.0.0.1 wisewomanwarrior.com
 127.0.0.1 wjidigitalmediadirectory.com
+127.0.0.1 wonderpillars.co.in
 127.0.0.1 wshsoft.company
 127.0.0.1 www.acompanhantescuritiba.org
 127.0.0.1 www.agies.org
@@ -616,7 +614,6 @@
 127.0.0.1 www.dental.xiaoxiao.media
 127.0.0.1 www.enc-tech.com
 127.0.0.1 www.fixstudio.co.kr
-127.0.0.1 www.globallaborsupply.com
 127.0.0.1 www.hebgb.top
 127.0.0.1 www.hseda.com
 127.0.0.1 www.ingonherbal.com
@@ -625,7 +622,6 @@
 127.0.0.1 www.ks.cn
 127.0.0.1 www.lasikofmichigan.com
 127.0.0.1 www.lebuffet.com.tn
-127.0.0.1 www.maxmoney.com
 127.0.0.1 www.mediakomen.com
 127.0.0.1 www.moninediy.com
 127.0.0.1 www.neshuafoods.com
@@ -638,6 +634,7 @@
 127.0.0.1 www.roofing.galacticleads.com
 127.0.0.1 www.smpnuruliman.xyz
 127.0.0.1 www.starcountry.net
+127.0.0.1 www.sunglassesninja.com
 127.0.0.1 www.tradeinsights.net
 127.0.0.1 www.tvculturaourofino.com.br
 127.0.0.1 www.vaestsolutions.com
@@ -659,4 +656,4 @@
 127.0.0.1 zaofisa.net
 127.0.0.1 zf.gouzapay.cn
 127.0.0.1 zhaoziliao1668.cn
-# Number of entries: 653
+# Number of entries: 650
