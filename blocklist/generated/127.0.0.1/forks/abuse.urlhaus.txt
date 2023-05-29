@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-29 07:59:17 (UTC)                      #
+# Last updated: 2023-05-29 08:54:21 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -65,6 +65,7 @@
 127.0.0.1 atomm.com.br
 127.0.0.1 azconsultants.co.in
 127.0.0.1 azmeasurement.com
+127.0.0.1 b.dowgmeb.com
 127.0.0.1 balneario.tissotodontologia.com.br
 127.0.0.1 barrehomes.co.ke
 127.0.0.1 basic4u.com.tr
@@ -186,7 +187,6 @@
 127.0.0.1 educajuris.cl
 127.0.0.1 egsso.net
 127.0.0.1 egwis.com
-127.0.0.1 ekoloji.eleganzaajans.com
 127.0.0.1 elnhvac.com
 127.0.0.1 elvalledetarrazu.com
 127.0.0.1 emaids.co.za
@@ -235,7 +235,6 @@
 127.0.0.1 gtn.cl
 127.0.0.1 guvencecelik.com
 127.0.0.1 hallmapping.com
-127.0.0.1 happynights.net
 127.0.0.1 hapvidaplanos.com.br
 127.0.0.1 harleyqueretaro.com
 127.0.0.1 hausseeblickscheidegg.de
@@ -246,6 +245,7 @@
 127.0.0.1 hipotesis.uy
 127.0.0.1 hitstation.nl
 127.0.0.1 hopeassistance.ae
+127.0.0.1 hostealo.com
 127.0.0.1 hostigram.xyz
 127.0.0.1 hotwaterasap.com
 127.0.0.1 houseatthebeachinoc.com
@@ -442,7 +442,6 @@
 127.0.0.1 potolki-razumno.ru
 127.0.0.1 ppfatahillah.com
 127.0.0.1 prestigehomeautomation.net
-127.0.0.1 primaflor-sby.com
 127.0.0.1 primusth.com
 127.0.0.1 privatehireinsurance.net
 127.0.0.1 priyankaconstruction.com
@@ -463,6 +462,7 @@
 127.0.0.1 re-corre.com
 127.0.0.1 records.dennisign.se
 127.0.0.1 redmag-dz.com
+127.0.0.1 regiscoimbra.pt
 127.0.0.1 reifenquick.de
 127.0.0.1 relaxindulge.co.nz
 127.0.0.1 remotaja.com
@@ -484,7 +484,6 @@
 127.0.0.1 saloneeats.com
 127.0.0.1 samglobaltrading.com
 127.0.0.1 sandonet.es
-127.0.0.1 sanubix.vip
 127.0.0.1 sasms.co
 127.0.0.1 sawabash-sd.com
 127.0.0.1 scarletespinal.com
@@ -539,7 +538,6 @@
 127.0.0.1 techvibeo.com
 127.0.0.1 tecni-soft.com
 127.0.0.1 temptmag.com
-127.0.0.1 tengfeidn.com
 127.0.0.1 test.earborist.com
 127.0.0.1 test.typoten.com
 127.0.0.1 thedoctorsgym.net
@@ -586,6 +584,7 @@
 127.0.0.1 vogue-pharmaceuticals.com
 127.0.0.1 votre-futur-site.com
 127.0.0.1 vtope.info
+127.0.0.1 walkindrivetoday.com
 127.0.0.1 waqaskhan.pk
 127.0.0.1 web.geomegasoft.net
 127.0.0.1 webs-up.com
@@ -661,4 +660,4 @@
 127.0.0.1 zaofisa.net
 127.0.0.1 zf.gouzapay.cn
 127.0.0.1 zhaoziliao1668.cn
-# Number of entries: 655
+# Number of entries: 654
