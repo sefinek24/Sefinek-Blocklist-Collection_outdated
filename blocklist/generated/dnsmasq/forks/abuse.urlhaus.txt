@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-29 02:13:11 (UTC)                      #
+# Last updated: 2023-05-29 02:54:21 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -158,7 +158,6 @@ server=/demo.omnitech.co.ug/
 server=/demonware.online/
 server=/dental.xiaoxiao.media/
 server=/derekludlow.com/
-server=/destinymc.co.za/
 server=/detail-booking.com.br/
 server=/deventerprises.co/
 server=/devises-dz.com/
@@ -281,7 +280,6 @@ server=/imihigo-watch.rw/
 server=/imit.ac.in/
 server=/imrantex.com/
 server=/incotel.com.pk/
-server=/indonesias.me/
 server=/indrasbikaner.com/
 server=/induspay.pk/
 server=/inseco.cl/
@@ -409,7 +407,6 @@ server=/nzara.co/
 server=/oalshatty.com/
 server=/oazahotel.com.mk/
 server=/oceancityrentalbyowner.com/
-server=/olugun.co.za/
 server=/ong-rafaa.org/
 server=/onlinedcus.com/
 server=/onppe.dz/
@@ -451,8 +448,8 @@ server=/priyankaconstruction.com/
 server=/prodimar.mx/
 server=/propagandaetrafego.com/
 server=/protechasia.com/
+server=/protic.web.id/
 server=/proveedoradeproyectosysoluciones.com/
-server=/proyectos.vrstudio.cl/
 server=/punjabdevelopersassociation.com.pk/
 server=/pyrd5.xyz/
 server=/qmsled.com/
@@ -463,7 +460,6 @@ server=/rcpay.com.br/
 server=/re-corre.com/
 server=/records.dennisign.se/
 server=/redmag-dz.com/
-server=/regiscoimbra.pt/
 server=/reifenquick.de/
 server=/relaxindulge.co.nz/
 server=/remotaja.com/
@@ -564,6 +560,7 @@ server=/trinoxidiuvendas.com/
 server=/triplebbbfoundationrepair.com/
 server=/tusaceitesesenciales.com/
 server=/twizt.net/
+server=/udhayaminn.com/
 server=/ukguk71.ru/
 server=/unacam.ong.br/
 server=/unapromo.com/
@@ -608,9 +605,9 @@ server=/www.bancarioscornelio.com.br/
 server=/www.bearware.org/
 server=/www.carusoadvogados.com.br/
 server=/www.cesasin.com.ar/
-server=/www.charmingsoftech.com/
 server=/www.chawkyfrenn.com/
 server=/www.chemsky.tn/
+server=/www.chipmania.it/
 server=/www.clinicamomentum.com.br/
 server=/www.conexclean.ro/
 server=/www.dacui.online/
@@ -658,4 +655,4 @@ server=/yzkzixun.com/
 server=/zaofisa.net/
 server=/zf.gouzapay.cn/
 server=/zhaoziliao1668.cn/
-# Number of entries: 652
+# Number of entries: 649
