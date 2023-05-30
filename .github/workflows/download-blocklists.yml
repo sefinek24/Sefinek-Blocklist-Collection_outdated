@@ -123,6 +123,7 @@ jobs:
           curl https://www.github.developerdan.com/hosts/lists/hate-and-junk-extended.txt --output blocklist/template/forks/developerdan.hate-and-junk-extended.txt
           curl https://www.stopforumspam.com/downloads/toxic_domains_whole.txt --output blocklist/template/forks/stopforumspam.toxic_domains_whole.txt
           curl https://zerodot1.gitlab.io/CoinBlockerLists/hosts --output blocklist/template/forks/zerodot1.CoinBlockerLists.txt
+          curl https://raw.githubusercontent.com/DandelionSprout/adfilt/master/GameConsoleAdblockList.txt
 
       - name: Use Node.js
         uses: actions/setup-node@v3
