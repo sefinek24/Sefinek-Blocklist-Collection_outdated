@@ -1,5 +1,5 @@
 # Scam Blocklist by DurableNapkin
-# Domains: 1989
+# Domains: 1993
 # -
 # Source: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # Home: https://github.com/durablenapkin/scamblocklist
@@ -78,6 +78,7 @@
 127.0.0.1 alltestbanksolutions.com
 127.0.0.1 www.alltestbanksolutions.com
 127.0.0.1 store.alltestbanksolutions.com
+127.0.0.1 alohazing.com
 127.0.0.1 www.alohazing.com
 127.0.0.1 altruetech.com
 127.0.0.1 www.altruetech.com
@@ -492,6 +493,7 @@
 127.0.0.1 dreamgreenshoe.com
 127.0.0.1 www.dreamgreenshoe.com
 127.0.0.1 dreamstee.com
+127.0.0.1 www.dreamstee.com
 127.0.0.1 store.dreamstee.com
 127.0.0.1 dreamstees.com
 127.0.0.1 duckydecor.store
@@ -531,6 +533,8 @@
 127.0.0.1 www.elitestrustonline.biz
 127.0.0.1 elitestrustonline.com
 127.0.0.1 www.elitestrustonline.com
+127.0.0.1 elonmix.org
+127.0.0.1 www.elonmix.org
 127.0.0.1 elonspace.org
 127.0.0.1 elontesla23.pro
 127.0.0.1 www.elontesla23.pro
@@ -673,9 +677,6 @@
 127.0.0.1 www.gearanime.com
 127.0.0.1 gearathena.com
 127.0.0.1 www.gearathena.com
-127.0.0.1 gearclover.com
-127.0.0.1 www.gearclover.com
-127.0.0.1 store.gearclover.com
 127.0.0.1 gearhomies.com
 127.0.0.1 www.gearhomies.com
 127.0.0.1 gearhuman.com
@@ -854,8 +855,6 @@
 127.0.0.1 store.jfmovingstorage.com
 127.0.0.1 jne-express.my.id
 127.0.0.1 www.jne-express.my.id
-127.0.0.1 join2musk.com
-127.0.0.1 www.join2musk.com
 127.0.0.1 jollyfamilygifts.net
 127.0.0.1 www.jollyfamilygifts.net
 127.0.0.1 jonausa.com
@@ -1100,7 +1099,9 @@
 127.0.0.1 musk-aigpt.com
 127.0.0.1 www.musk-aigpt.com
 127.0.0.1 muskai.net
+127.0.0.1 muskbot.io
 127.0.0.1 muskbtc.io
+127.0.0.1 musklink.org
 127.0.0.1 muthaafoundation.org
 127.0.0.1 www.muthaafoundation.org
 127.0.0.1 mybestautologin567.com
@@ -1253,6 +1254,8 @@
 127.0.0.1 www.outdoorwintersports.com
 127.0.0.1 outlet-alfresco.com
 127.0.0.1 www.outlet-alfresco.com
+127.0.0.1 owlala.com
+127.0.0.1 www.owlala.com
 127.0.0.1 paintitblackfurniture.com
 127.0.0.1 www.paintitblackfurniture.com
 127.0.0.1 pairmate.se
@@ -1469,7 +1472,6 @@
 127.0.0.1 www.sellfox.com
 127.0.0.1 sentees.com
 127.0.0.1 www.sentees.com
-127.0.0.1 store.sentees.com
 127.0.0.1 serengetidiscount.com
 127.0.0.1 www.serengetidiscount.com
 127.0.0.1 shapeden.com
@@ -1689,6 +1691,8 @@
 127.0.0.1 www.teezill.com
 127.0.0.1 telemarktalk.com
 127.0.0.1 www.telemarktalk.com
+127.0.0.1 tesla-openai.com
+127.0.0.1 www.tesla-openai.com
 127.0.0.1 teslabrc.com
 127.0.0.1 teslacar.io
 127.0.0.1 teslagive.live
@@ -1844,6 +1848,7 @@
 127.0.0.1 www.uscampinghiking.com
 127.0.0.1 uschse04.my03.com
 127.0.0.1 www.uschse04.my03.com
+127.0.0.1 store.uschse04.my03.com
 127.0.0.1 usglacierbay.com
 127.0.0.1 www.usglacierbay.com
 127.0.0.1 usnewoutdoor.com
@@ -1939,7 +1944,6 @@
 127.0.0.1 x2-promo.net
 127.0.0.1 www.x2-promo.net
 127.0.0.1 xajzfwgs.com
-127.0.0.1 www.xajzfwgs.com
 127.0.0.1 xrp-give.pro
 127.0.0.1 www.xrp-give.pro
 127.0.0.1 xunlei.it
