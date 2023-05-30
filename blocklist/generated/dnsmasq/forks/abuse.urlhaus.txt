@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-30 07:56:34 (UTC)                      #
+# Last updated: 2023-05-30 08:51:22 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -8,7 +8,6 @@
 #
 server=/1717.1000uc.com/
 server=/1ecosolution.it/
-server=/2023foco.com.br/
 server=/20thstreetcoc.com/
 server=/2126892.bazeinfo.com/
 server=/230.btc-f2pool.top/
@@ -21,7 +20,6 @@ server=/8.365tv.ma/
 server=/a.angel-tn.idv.tw/
 server=/abbottminerals.com/
 server=/abissnet.net/
-server=/abmaxdigital.com/
 server=/acarvi.com/
 server=/acellr.co.uk/
 server=/acerogrado.cl/
@@ -115,7 +113,6 @@ server=/cipro.mx/
 server=/clovekwealth.com/
 server=/cnom.sante.gov.ml/
 server=/coadymarine.com/
-server=/congtykhoancatbetong.com/
 server=/controlhomecr.com/
 server=/coop-host.com/
 server=/coralpac.com/
@@ -177,7 +174,6 @@ server=/easylinkacademy.com/
 server=/easyrentbyowner.com/
 server=/ebenezercartagena.org/
 server=/ebfertility.com/
-server=/eboka.vip/
 server=/ecofarmcafe.com/
 server=/edu.pmvanini.rs.gov.br/
 server=/educajuris.cl/
@@ -224,6 +220,7 @@ server=/gomlgaming.dev/
 server=/gotovacoil.com/
 server=/gouzidla.com/
 server=/gplongxuyen.org/
+server=/greenisco.com/
 server=/greenlizard.co.za/
 server=/grupolahe.com/
 server=/grupos.curvelo.click/
@@ -329,6 +326,7 @@ server=/linkvilleplayers.org/
 server=/littlemisskenya.com/
 server=/livetrack.in/
 server=/lopespublicidade.com/
+server=/lorem.com.sa/
 server=/lotemoclubrificantes.com.br/
 server=/lp.gunlakemhc.com/
 server=/ltc.typoten.com/
@@ -396,6 +394,7 @@ server=/notaire-gay-friendly.fr/
 server=/novak-home.com/
 server=/nrc-soluciones.com.ar/
 server=/nstim.co.rs/
+server=/oalshatty.com/
 server=/oazahotel.com.mk/
 server=/oceancityrentalbyowner.com/
 server=/olugun.co.za/
@@ -486,18 +485,15 @@ server=/schoolofspanish.co.za/
 server=/scientific.pk/
 server=/sealicensing.com/
 server=/secretmindcontrol.com/
-server=/senbiaojita.com/
 server=/senderolunarejo.com/
 server=/seniorweekoc.net/
 server=/sertvs.com/
 server=/server.easysalepage.in.th/
-server=/server.toeicswt.co.kr/
 server=/servisaludocupacional.pe/
 server=/shahu66.com/
 server=/shg.ph/
 server=/shop.mediasova.ru/
 server=/shsplatform.co.uk/
-server=/sipo.ru/
 server=/sirinatservis.com/
 server=/sjptr.pk/
 server=/slpbridge.com/
@@ -535,6 +531,7 @@ server=/thebigfishmac.com/
 server=/thedoctorsgym.net/
 server=/theemirateshills.com/
 server=/thegioibanghieu.net/
+server=/thegrand-manhattan.vn/
 server=/thehometownair.com/
 server=/thekassia.co.uk/
 server=/theloder.top/
@@ -658,4 +655,4 @@ server=/yzkzixun.com/
 server=/zaofisa.net/
 server=/zf.gouzapay.cn/
 server=/zhaoziliao1668.cn/
-# Number of entries: 652
+# Number of entries: 649

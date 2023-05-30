@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-30 07:56:34 (UTC)                      #
+# Last updated: 2023-05-30 08:51:22 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -8,7 +8,6 @@
 #
 127.0.0.1 1717.1000uc.com
 127.0.0.1 1ecosolution.it
-127.0.0.1 2023foco.com.br
 127.0.0.1 20thstreetcoc.com
 127.0.0.1 2126892.bazeinfo.com
 127.0.0.1 230.btc-f2pool.top
@@ -21,7 +20,6 @@
 127.0.0.1 a.angel-tn.idv.tw
 127.0.0.1 abbottminerals.com
 127.0.0.1 abissnet.net
-127.0.0.1 abmaxdigital.com
 127.0.0.1 acarvi.com
 127.0.0.1 acellr.co.uk
 127.0.0.1 acerogrado.cl
@@ -115,7 +113,6 @@
 127.0.0.1 clovekwealth.com
 127.0.0.1 cnom.sante.gov.ml
 127.0.0.1 coadymarine.com
-127.0.0.1 congtykhoancatbetong.com
 127.0.0.1 controlhomecr.com
 127.0.0.1 coop-host.com
 127.0.0.1 coralpac.com
@@ -177,7 +174,6 @@
 127.0.0.1 easyrentbyowner.com
 127.0.0.1 ebenezercartagena.org
 127.0.0.1 ebfertility.com
-127.0.0.1 eboka.vip
 127.0.0.1 ecofarmcafe.com
 127.0.0.1 edu.pmvanini.rs.gov.br
 127.0.0.1 educajuris.cl
@@ -224,6 +220,7 @@
 127.0.0.1 gotovacoil.com
 127.0.0.1 gouzidla.com
 127.0.0.1 gplongxuyen.org
+127.0.0.1 greenisco.com
 127.0.0.1 greenlizard.co.za
 127.0.0.1 grupolahe.com
 127.0.0.1 grupos.curvelo.click
@@ -329,6 +326,7 @@
 127.0.0.1 littlemisskenya.com
 127.0.0.1 livetrack.in
 127.0.0.1 lopespublicidade.com
+127.0.0.1 lorem.com.sa
 127.0.0.1 lotemoclubrificantes.com.br
 127.0.0.1 lp.gunlakemhc.com
 127.0.0.1 ltc.typoten.com
@@ -396,6 +394,7 @@
 127.0.0.1 novak-home.com
 127.0.0.1 nrc-soluciones.com.ar
 127.0.0.1 nstim.co.rs
+127.0.0.1 oalshatty.com
 127.0.0.1 oazahotel.com.mk
 127.0.0.1 oceancityrentalbyowner.com
 127.0.0.1 olugun.co.za
@@ -486,18 +485,15 @@
 127.0.0.1 scientific.pk
 127.0.0.1 sealicensing.com
 127.0.0.1 secretmindcontrol.com
-127.0.0.1 senbiaojita.com
 127.0.0.1 senderolunarejo.com
 127.0.0.1 seniorweekoc.net
 127.0.0.1 sertvs.com
 127.0.0.1 server.easysalepage.in.th
-127.0.0.1 server.toeicswt.co.kr
 127.0.0.1 servisaludocupacional.pe
 127.0.0.1 shahu66.com
 127.0.0.1 shg.ph
 127.0.0.1 shop.mediasova.ru
 127.0.0.1 shsplatform.co.uk
-127.0.0.1 sipo.ru
 127.0.0.1 sirinatservis.com
 127.0.0.1 sjptr.pk
 127.0.0.1 slpbridge.com
@@ -535,6 +531,7 @@
 127.0.0.1 thedoctorsgym.net
 127.0.0.1 theemirateshills.com
 127.0.0.1 thegioibanghieu.net
+127.0.0.1 thegrand-manhattan.vn
 127.0.0.1 thehometownair.com
 127.0.0.1 thekassia.co.uk
 127.0.0.1 theloder.top
@@ -658,4 +655,4 @@
 127.0.0.1 zaofisa.net
 127.0.0.1 zf.gouzapay.cn
 127.0.0.1 zhaoziliao1668.cn
-# Number of entries: 652
+# Number of entries: 649
