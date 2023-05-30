@@ -1,14 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-30 10:51:17 (UTC)                      #
+# Last updated: 2023-05-30 11:53:25 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
-0.0.0.0 1717.1000uc.com
 0.0.0.0 1ecosolution.it
-0.0.0.0 2023foco.com.br
 0.0.0.0 20thstreetcoc.com
 0.0.0.0 230.btc-f2pool.top
 0.0.0.0 2384-84023b3fb84f.wptiger.fr
@@ -16,7 +14,6 @@
 0.0.0.0 360.lcy2zzx.pw
 0.0.0.0 360down7.miiyun.cn
 0.0.0.0 3da2animation.com
-0.0.0.0 8.365tv.ma
 0.0.0.0 a.angel-tn.idv.tw
 0.0.0.0 abbottminerals.com
 0.0.0.0 abissnet.net
@@ -63,12 +60,14 @@
 0.0.0.0 athadnw.com
 0.0.0.0 atomm.com.br
 0.0.0.0 azconsultants.co.in
+0.0.0.0 azmeasurement.com
 0.0.0.0 balneario.tissotodontologia.com.br
 0.0.0.0 barrehomes.co.ke
 0.0.0.0 basic4u.com.tr
 0.0.0.0 bawatingbarter.com
 0.0.0.0 bayyan.magesticflyer.com
 0.0.0.0 bbc-s.news
+0.0.0.0 bearcatpumps.com.cn
 0.0.0.0 beelowers.com
 0.0.0.0 bencevendeghaz.hu
 0.0.0.0 benwellgroup.co.uk
@@ -202,6 +201,7 @@
 0.0.0.0 files5.uludagbilisim.com
 0.0.0.0 florent-webdev.com
 0.0.0.0 forsalenear.me
+0.0.0.0 fran.ac.ug
 0.0.0.0 frangulf.ae
 0.0.0.0 frangulfadvocates.com
 0.0.0.0 frangulflegal.com
@@ -269,7 +269,6 @@
 0.0.0.0 incotel.com.pk
 0.0.0.0 indonesias.me
 0.0.0.0 indrasbikaner.com
-0.0.0.0 induspay.pk
 0.0.0.0 inseco.cl
 0.0.0.0 inspiratour.co.id
 0.0.0.0 intellectproactive.com
@@ -287,16 +286,15 @@
 0.0.0.0 joofagsi.ngo
 0.0.0.0 joswiltrader.com
 0.0.0.0 jp.imgjeoighw.com
-0.0.0.0 jr-software-web.net
 0.0.0.0 jsl.com.ng
 0.0.0.0 juliereyesrealtorteam.site
 0.0.0.0 justplay.asia
 0.0.0.0 kalpanacotton.com
-0.0.0.0 karapinarhaber.com.tr
 0.0.0.0 karer.by
 0.0.0.0 karimgousa.ug
 0.0.0.0 karimgouss.ug
 0.0.0.0 kasurnews.pk
+0.0.0.0 kazadesign.com.br
 0.0.0.0 kelaskan.com
 0.0.0.0 kevinley.com
 0.0.0.0 kiengiang24h.com
@@ -308,6 +306,7 @@
 0.0.0.0 konseptderi.com
 0.0.0.0 kustens.com
 0.0.0.0 lameguard.ru
+0.0.0.0 lara.amiyon.com
 0.0.0.0 lara.com.ar
 0.0.0.0 lasermobilesounds.co.uk
 0.0.0.0 lastimaners.ug
@@ -388,7 +387,6 @@
 0.0.0.0 notaire-gay-friendly.fr
 0.0.0.0 novak-home.com
 0.0.0.0 nrc-soluciones.com.ar
-0.0.0.0 nstim.co.rs
 0.0.0.0 nzara.co
 0.0.0.0 oalshatty.com
 0.0.0.0 oazahotel.com.mk
@@ -396,7 +394,6 @@
 0.0.0.0 olugun.co.za
 0.0.0.0 ong-rafaa.org
 0.0.0.0 onlinedcus.com
-0.0.0.0 onppe.dz
 0.0.0.0 openar.me
 0.0.0.0 opencart.notebookparcalari.com
 0.0.0.0 ora.ci
@@ -411,7 +408,6 @@
 0.0.0.0 p2.d9media.cn
 0.0.0.0 pablobrothel.com.ar
 0.0.0.0 pakistancomparison.com
-0.0.0.0 palharesinformatica.com.br
 0.0.0.0 parallel.rockvideos.at
 0.0.0.0 parkrosegroup.cl
 0.0.0.0 parrotbay.net
@@ -437,6 +433,7 @@
 0.0.0.0 proveedoradeproyectosysoluciones.com
 0.0.0.0 proyectos.vrstudio.cl
 0.0.0.0 publisherget.top
+0.0.0.0 punjabdevelopersassociation.com.pk
 0.0.0.0 pyrd5.xyz
 0.0.0.0 qmsled.com
 0.0.0.0 quizbn.com
@@ -468,7 +465,6 @@
 0.0.0.0 saloneeats.com
 0.0.0.0 samglobaltrading.com
 0.0.0.0 sandonet.es
-0.0.0.0 sanubix.vip
 0.0.0.0 sasms.co
 0.0.0.0 sawabash-sd.com
 0.0.0.0 scarletespinal.com
@@ -476,6 +472,7 @@
 0.0.0.0 scglobal.co.th
 0.0.0.0 schoolofspanish.co.za
 0.0.0.0 scientific.pk
+0.0.0.0 sealicensing.com
 0.0.0.0 secretmindcontrol.com
 0.0.0.0 senbiaojita.com
 0.0.0.0 senderolunarejo.com
@@ -499,7 +496,6 @@
 0.0.0.0 softs-lab.ru
 0.0.0.0 solapurcancer.com
 0.0.0.0 soquipra.cl
-0.0.0.0 spaceframe.mobi.space-frame.co.za
 0.0.0.0 speedfachadas.com.br
 0.0.0.0 speedwell.com.bd
 0.0.0.0 speedycabng.com
@@ -644,4 +640,4 @@
 0.0.0.0 zaofisa.net
 0.0.0.0 zf.gouzapay.cn
 0.0.0.0 zhaoziliao1668.cn
-# Number of entries: 638
+# Number of entries: 634
