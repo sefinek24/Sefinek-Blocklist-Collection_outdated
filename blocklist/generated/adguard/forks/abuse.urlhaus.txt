@@ -1,6 +1,6 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! abuse.ch URLhaus Host file                                   !
-! Last updated: 2023-05-30 08:51:22 (UTC)                      !
+! Last updated: 2023-05-30 09:59:09 (UTC)                      !
 !                                                              !
 ! Terms Of Use: https://urlhaus.abuse.ch/api/                  !
 ! For questions please contact urlhaus [at] abuse.ch           !
@@ -8,6 +8,7 @@
 !
 ||1717.1000uc.com^
 ||1ecosolution.it^
+||2023foco.com.br^
 ||20thstreetcoc.com^
 ||2126892.bazeinfo.com^
 ||230.btc-f2pool.top^
@@ -47,8 +48,8 @@
 ||andrewpharma.com^
 ||angel.bk.idv.tw^
 ||antacobinhduong.com^
-||anydeskremote.shop^
 ||aosafrica.co.za^
+||api-ms.cobainaja.id^
 ||api.52kkg.com^
 ||api.elwekala.com^
 ||api.seeingoholidays.com^
@@ -70,7 +71,6 @@
 ||bayyan.magesticflyer.com^
 ||bbc-s.news^
 ||bearcatpumps.com.cn^
-||beautifulqueen.com.br^
 ||beelowers.com^
 ||bencevendeghaz.hu^
 ||benwellgroup.co.uk^
@@ -80,6 +80,7 @@
 ||bimak.hr^
 ||bisnesservis-fk.ru^
 ||bitkiselgida.com^
+||blast3d.com.br^
 ||blitzz.com.ar^
 ||blocexpert.eu^
 ||bmg.edu.vn^
@@ -91,6 +92,7 @@
 ||brideofmessiah.com^
 ||british-shorthair.es^
 ||brknarikan.com^
+||bruiserbodies.com^
 ||buscascolegios.diit.cl^
 ||business-line.com^
 ||bz.bbbeioaag.com^
@@ -107,12 +109,15 @@
 ||cemageng.com.br^
 ||changelife.vip^
 ||chiptune.com^
+||chothuexetaitphcm.net^
 ||chuckozeas.com^
 ||cimadcp.com^
 ||cipro.mx^
 ||clovekwealth.com^
 ||cnom.sante.gov.ml^
 ||coadymarine.com^
+||cointra.ac.ug^
+||congtykhoancatbetong.com^
 ||controlhomecr.com^
 ||coop-host.com^
 ||coralpac.com^
@@ -133,6 +138,7 @@
 ||danaevara.com^
 ||daniellesiruffo.com^
 ||daniil39.ru^
+||dating.khokhas.co.za^
 ||davidmcguinness.info^
 ||ddlakava.ac.ug^
 ||deine-bewerbung.com^
@@ -150,7 +156,6 @@
 ||dhnconstrucciones.com.ar^
 ||dichvuphanmem.net^
 ||digitalonline.cl^
-||dl.1003b.56a.com^
 ||dl.9xu.com^
 ||dlqsclub.com^
 ||dohrmann-projekt.de^
@@ -198,7 +203,6 @@
 ||florent-webdev.com^
 ||forestprotection.pk^
 ||forsalenear.me^
-||fran.ac.ug^
 ||frangulf.ae^
 ||frangulfadvocates.com^
 ||frangulflegal.com^
@@ -275,7 +279,6 @@
 ||inspiratour.co.id^
 ||instinctux.com^
 ||intellectproactive.com^
-||intelli-sys.co.zw^
 ||invar.me^
 ||iperceptsondemand.com^
 ||iprovietnam.com^
@@ -300,7 +303,6 @@
 ||karimgousa.ug^
 ||karimgouss.ug^
 ||kasurnews.pk^
-||kazadesign.com.br^
 ||kelaskan.com^
 ||kevinley.com^
 ||kiengiang24h.com^
@@ -403,10 +405,10 @@
 ||onppe.dz^
 ||openar.me^
 ||opencart.notebookparcalari.com^
-||opesjk.ug^
 ||ora.ci^
 ||orderedami.com^
 ||organizer.safeonline.it^
+||origins-france.fr^
 ||orlcasablanca.com^
 ||orsan.gruporhynous.com^
 ||outdoortacklebox.com^
@@ -416,7 +418,6 @@
 ||pablobrothel.com.ar^
 ||pakistancomparison.com^
 ||palharesinformatica.com.br^
-||parallel.rockvideos.at^
 ||parkrosegroup.cl^
 ||parrotbay.net^
 ||pascasarjana.iainfmpapua.ac.id^
@@ -494,6 +495,7 @@
 ||shg.ph^
 ||shop.mediasova.ru^
 ||shsplatform.co.uk^
+||sipo.ru^
 ||sirinatservis.com^
 ||sjptr.pk^
 ||slpbridge.com^
@@ -545,11 +547,9 @@
 ||topvaluationfirms.com^
 ||transportadoramiranda.com^
 ||travelwithmanta.co.za^
-||trieutin.com^
 ||trinoxidiuvendas.com^
 ||triplebbbfoundationrepair.com^
 ||tusaceitesesenciales.com^
-||twizt.net^
 ||udhayaminn.com^
 ||ukguk71.ru^
 ||unacam.ong.br^
@@ -647,7 +647,6 @@
 ||xn----7sbhgfcdscaa3cdd6dq3e3dvf.xn--p1ai^
 ||xrpreward.live^
 ||xt.lykj988.com^
-||xyktza.nbxyk.net^
 ||ycnexgroup.com^
 ||yesdeko.com^
 ||yp.hnggzyjy.cn^
@@ -655,4 +654,4 @@
 ||zaofisa.net^
 ||zf.gouzapay.cn^
 ||zhaoziliao1668.cn^
-! Number of entries: 649
+! Number of entries: 648
