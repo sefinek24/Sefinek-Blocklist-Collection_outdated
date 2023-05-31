@@ -22,6 +22,14 @@ The blocklists were modified to improve their effectiveness and to ensure they d
    - **Removed:**
    The `arc.msn.com` domain has been removed from the list as it is necessary to receive benefits from Xbox Game Pass.
 
+
+### DandelionSprout/adfilt
+1. https://raw.githubusercontent.com/DandelionSprout/adfilt/master/GameConsoleAdblockList.txt
+   - **Modified version:** https://blocklist.sefinek.net/generated/0.0.0.0/ads/DandelionSprout.GameConsoleAdblockList.txt
+   - **Added:** No additional domains have been added to this blocklist. A warning for `arc.msn.com` explaining why it was removed and how you can add it have been added.
+   - **Removed:**
+   The `arc.msn.com` domain has been removed from the list as it is necessary to receive benefits from Xbox Game Pass. Bounties for ads have been also removed, see original list for bounty infomation. 
+
 <!--
 ### jerryn70/GoodbyeAds
 - **Modified version:** https://github.com/sefinek24/PiHole-Blocklist-Collection/blob/main/blocklist/GoodbyeAds.txt
