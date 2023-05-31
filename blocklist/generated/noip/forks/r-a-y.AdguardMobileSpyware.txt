@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Mon, 22 May 2023 13:51:17 +0100
+# Last converted - Wed, 31 May 2023 02:39:17 +0100
 #
 
 adeventtracker.spotify.com
@@ -131,6 +131,9 @@ int.vaicore.xyz
 int.vlancaa.site
 int.vlancaa.fun
 tok.vaicore.xyz
+logservice1.dbankcloud.cn
+open.oneplus.net
+analytics-api.samsunghealthcn.com
 log.espn.com
 sia.internet.apps.samsung.com
 config-api.internet.apps.samsung.com
@@ -173,6 +176,7 @@ moa-upload-online.coloros.com
 stat-in.dc.oppomobile.com
 prod-analytics.royal.drmgms.com
 trckr.contextualadv.com
+logservice1.hicloud.com
 logservice.hicloud.com
 logger.growstarry.com
 beacon-api.aliyuncs.com
