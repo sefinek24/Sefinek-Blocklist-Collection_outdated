@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-05-31 06:52:40 (UTC)                      #
+# Last updated: 2023-05-31 07:59:06 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -51,7 +51,6 @@
 0.0.0.0 africanintegrationfestival.com
 0.0.0.0 africanyouthconference.com
 0.0.0.0 africatravelhub.com
-0.0.0.0 afromerchants.co.zw
 0.0.0.0 agemn.co.za
 0.0.0.0 agenciaglamour.com
 0.0.0.0 agenciahotlead.com
@@ -82,6 +81,7 @@
 0.0.0.0 allysave.com
 0.0.0.0 almullaadvocates.com
 0.0.0.0 aloxcast.com
+0.0.0.0 alphafold4u.com
 0.0.0.0 alplimpieza.com
 0.0.0.0 altaknyia.com
 0.0.0.0 alzheimeraprendeyactua.org
@@ -101,6 +101,8 @@
 0.0.0.0 andrewpharma.com
 0.0.0.0 angel.bk.idv.tw
 0.0.0.0 antacobinhduong.com
+0.0.0.0 anydeskremote.shop
+0.0.0.0 aosafrica.co.za
 0.0.0.0 apcoorsac.com
 0.0.0.0 api.52kkg.com
 0.0.0.0 api.elwekala.com
@@ -114,6 +116,7 @@
 0.0.0.0 artcaffedemo.reserveport.com
 0.0.0.0 artesurface.com
 0.0.0.0 articlesmonster.com
+0.0.0.0 artisanalgoldperutech.com
 0.0.0.0 artisticheights.com
 0.0.0.0 arwafarmasi.com
 0.0.0.0 asiapacifichotelbd.com
@@ -164,11 +167,9 @@
 0.0.0.0 bholamart.com
 0.0.0.0 bibianos.com
 0.0.0.0 bigbrotherstek.com
-0.0.0.0 bigmikesupplies.co.za
 0.0.0.0 bigs.bikershop.biz
 0.0.0.0 bigstateelectricians.com
 0.0.0.0 billsteller.com
-0.0.0.0 bimak.hr
 0.0.0.0 binjusaria.com
 0.0.0.0 biodevjo.com
 0.0.0.0 biohuertos.com
@@ -186,6 +187,7 @@
 0.0.0.0 bluffyn.com
 0.0.0.0 bmg.edu.vn
 0.0.0.0 bmicg.com
+0.0.0.0 bocasislandexpress.com
 0.0.0.0 bodastuyyo.com
 0.0.0.0 bomberosibarra.com
 0.0.0.0 bonesolution.org
@@ -242,6 +244,8 @@
 0.0.0.0 chiptune.com
 0.0.0.0 chothuexetaitphcm.net
 0.0.0.0 chuckozeas.com
+0.0.0.0 cimadcp.com
+0.0.0.0 cipro.mx
 0.0.0.0 cirugiabogota.com
 0.0.0.0 citypharmacylv.com
 0.0.0.0 classipie.com
@@ -267,7 +271,6 @@
 0.0.0.0 consorcioadn.com
 0.0.0.0 construccionesrmg.com
 0.0.0.0 contonisiempreganas.com
-0.0.0.0 controlhomecr.com
 0.0.0.0 coop-host.com
 0.0.0.0 copadegypt.com
 0.0.0.0 coralpac.com
@@ -430,6 +433,7 @@
 0.0.0.0 firstfilmsfirst.com
 0.0.0.0 firstvirginiahomes.com
 0.0.0.0 fitnessclubblueprint.com
+0.0.0.0 florent-webdev.com
 0.0.0.0 floreriapison.com
 0.0.0.0 florockindia.com
 0.0.0.0 florpinnata.ga
@@ -443,7 +447,6 @@
 0.0.0.0 fran.ac.ug
 0.0.0.0 frangulf.ae
 0.0.0.0 frangulfadvocates.com
-0.0.0.0 frangulflegal.com
 0.0.0.0 frangulfmedia.com
 0.0.0.0 fransceysse.ac.ug
 0.0.0.0 frey2.com
@@ -457,6 +460,7 @@
 0.0.0.0 gaiaauto.it
 0.0.0.0 gailseverini.com
 0.0.0.0 gameoclick.com
+0.0.0.0 gapegape.co.za
 0.0.0.0 garagedoorrepairlincolnri.com
 0.0.0.0 gastrors.com
 0.0.0.0 gbsports.theapplab.org
@@ -476,6 +480,7 @@
 0.0.0.0 globuscertifications.com
 0.0.0.0 glocalqa.com
 0.0.0.0 gloverxplog.com
+0.0.0.0 gobesitysurgery.com
 0.0.0.0 goldrush.ug
 0.0.0.0 golfviewhotelsuites.com
 0.0.0.0 gomlgaming.dev
@@ -509,7 +514,6 @@
 0.0.0.0 hapvidaplanos.com.br
 0.0.0.0 harleyqueretaro.com
 0.0.0.0 haussbrasil.com
-0.0.0.0 hausseeblickscheidegg.de
 0.0.0.0 hcsasia.co.th
 0.0.0.0 healthylivingnow.xyz
 0.0.0.0 hearingclinic.com.pk
@@ -573,9 +577,7 @@
 0.0.0.0 iluxtspl.com
 0.0.0.0 image-thaihometown.com
 0.0.0.0 imihigo-watch.rw
-0.0.0.0 imit.ac.in
 0.0.0.0 imrancoaching.com
-0.0.0.0 imrantex.com
 0.0.0.0 inboundmagic.net
 0.0.0.0 incotel.com.pk
 0.0.0.0 indonesias.me
@@ -636,7 +638,6 @@
 0.0.0.0 karimgousa.ug
 0.0.0.0 karimgouss.ug
 0.0.0.0 karwish.com
-0.0.0.0 kasurnews.pk
 0.0.0.0 kelaskan.com
 0.0.0.0 kenlace.com
 0.0.0.0 kevinley.com
@@ -686,12 +687,10 @@
 0.0.0.0 liberianqueencosmetic.com
 0.0.0.0 library.arihantmbainstitute.ac.in
 0.0.0.0 libriafrica.com
-0.0.0.0 lidermotopecas.com.br
 0.0.0.0 lifeofmatt.net
 0.0.0.0 limelightempire.org
 0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 liniriben.com
-0.0.0.0 linkvilleplayers.org
 0.0.0.0 littlemisskenya.com
 0.0.0.0 livetrack.in
 0.0.0.0 lnbmx.com
@@ -741,6 +740,7 @@
 0.0.0.0 mbertoni.org.py
 0.0.0.0 mbgrm.com
 0.0.0.0 mbhadvisory.com
+0.0.0.0 mcapublicschool.com
 0.0.0.0 mcconstructiondesign.com
 0.0.0.0 mcwellservices.com
 0.0.0.0 mdttasarim.com.tr
@@ -786,7 +786,6 @@
 0.0.0.0 moneyconsensus.com
 0.0.0.0 monsoonempress.com
 0.0.0.0 monticellorealtors.com
-0.0.0.0 mooc.amnesty.tg
 0.0.0.0 moodle.corplearning.net
 0.0.0.0 moonsteel.rw
 0.0.0.0 mosantosupply.com
@@ -799,6 +798,7 @@
 0.0.0.0 muslimfinance.co.uk
 0.0.0.0 mutaowellnessspalv.com
 0.0.0.0 mutqun.com
+0.0.0.0 mvinfotech.com
 0.0.0.0 myayurvedashoppe.com
 0.0.0.0 mycellmobile.com
 0.0.0.0 mych0ices.com
@@ -868,7 +868,6 @@
 0.0.0.0 ora.ci
 0.0.0.0 orderedami.com
 0.0.0.0 organizer.safeonline.it
-0.0.0.0 origins-france.fr
 0.0.0.0 orlcasablanca.com
 0.0.0.0 orsan.gruporhynous.com
 0.0.0.0 ortopediawong.com
@@ -876,6 +875,7 @@
 0.0.0.0 osiea.org
 0.0.0.0 osttbrokerage.com
 0.0.0.0 osttinc.com
+0.0.0.0 outdoortacklebox.com
 0.0.0.0 outjackets.com
 0.0.0.0 outletmodafirmata.com
 0.0.0.0 ovajabmedia.com
@@ -905,6 +905,7 @@
 0.0.0.0 perakamedia.com
 0.0.0.0 perfectair-egypt.com
 0.0.0.0 perspective-canada.com
+0.0.0.0 petcentercanoas.com.br
 0.0.0.0 petparadise.biz
 0.0.0.0 pfmonline.org
 0.0.0.0 pfppersonalfinancialplanning.com
@@ -943,7 +944,6 @@
 0.0.0.0 prosekarchitects.com
 0.0.0.0 prosoftitservices.com
 0.0.0.0 protechasia.com
-0.0.0.0 proveedoradeproyectosysoluciones.com
 0.0.0.0 proyectos.vrstudio.cl
 0.0.0.0 psychpharmhealth.com
 0.0.0.0 publisherget.top
@@ -986,6 +986,7 @@
 0.0.0.0 rglobalproperties.com
 0.0.0.0 rgloha.com
 0.0.0.0 rhemagospelchurch.org
+0.0.0.0 richterhi-tech.com
 0.0.0.0 risinghopegirlseducation.com
 0.0.0.0 rite-tags.com
 0.0.0.0 riterexile.com
@@ -1009,25 +1010,20 @@
 0.0.0.0 sahityaclasses.com
 0.0.0.0 sahwalaws.com
 0.0.0.0 saiservicecentre.in
-0.0.0.0 sakthipipesandplumbing.com
 0.0.0.0 salesoxigen.com
 0.0.0.0 saloneeats.com
 0.0.0.0 samaafm.com
 0.0.0.0 samasugroup.com
-0.0.0.0 samglobaltrading.com
 0.0.0.0 sandonet.es
 0.0.0.0 sankofatheatreco.org
 0.0.0.0 sanubix.vip
 0.0.0.0 sanwichexpress.com
 0.0.0.0 sarkwebstudio.com
-0.0.0.0 sasms.co
 0.0.0.0 savegreenearth.com
 0.0.0.0 savory.com.bd
-0.0.0.0 sawabash-sd.com
 0.0.0.0 sbfoodlogistics.com
 0.0.0.0 scaffoldom.com
 0.0.0.0 scarletespinal.com
-0.0.0.0 scarterproductionfilms.com
 0.0.0.0 scglobal.co.th
 0.0.0.0 schoolofspanish.co.za
 0.0.0.0 scientific.pk
@@ -1192,7 +1188,6 @@
 0.0.0.0 theuaemart.com
 0.0.0.0 thextra2.com
 0.0.0.0 thfinsgroup.com
-0.0.0.0 thomasakvo.com
 0.0.0.0 threerosesbeauty.com
 0.0.0.0 thulasipharmacy.com
 0.0.0.0 tiemvangngoctham.com
@@ -1295,6 +1290,7 @@
 0.0.0.0 whataburgermenus.com
 0.0.0.0 whatelles.nl
 0.0.0.0 whoisalbertuncle.com
+0.0.0.0 widowget.top
 0.0.0.0 wileyscholars.com
 0.0.0.0 windcomtechnologies.com
 0.0.0.0 windsonstaffing.com
@@ -1318,7 +1314,6 @@
 0.0.0.0 www.bearware.org
 0.0.0.0 www.carusoadvogados.com.br
 0.0.0.0 www.cesasin.com.ar
-0.0.0.0 www.charmingsoftech.com
 0.0.0.0 www.chawkyfrenn.com
 0.0.0.0 www.chemsky.tn
 0.0.0.0 www.clinicamomentum.com.br
@@ -1343,6 +1338,7 @@
 0.0.0.0 www.nprlogistica.com.br
 0.0.0.0 www.opolis.io
 0.0.0.0 www.palharesinformatica.com.br
+0.0.0.0 www.piaozone.com
 0.0.0.0 www.reifenquick.de
 0.0.0.0 www.reiwo-service.de
 0.0.0.0 www.roofing.galacticleads.com
@@ -1381,4 +1377,4 @@
 0.0.0.0 zins-vergleich.net
 0.0.0.0 zizicom.site
 0.0.0.0 zulfiyya.com
-# Number of entries: 1375
+# Number of entries: 1371
