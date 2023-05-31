@@ -1,4 +1,4 @@
-!202305290303
+!202305310303
 ! EasyPrivacy Host filters for Pi hole
 ! Collaborators: xxcriticxx, MajkiIT
 ! Homepage: https://www.certyficate.it/
@@ -4049,6 +4049,7 @@
 ||blog.trinityconsultants.com^
 ||blotburn.com^
 ||bluekai.com^
+||blueoyster.click^
 ||blushingbeast.com^
 ||blushingboundary.com^
 ||blushingbread.com^
@@ -5243,6 +5244,7 @@
 ||crm.childrens.com^
 ||crm.velocify.com^
 ||crocetta.viessmann.it^
+||crookedcreature.com^
 ||crossees.com^
 ||crowdedmass.com^
 ||crrm.onjoyri.de^
@@ -7071,8 +7073,6 @@
 ||fog.pixual.co^
 ||foodland.birdzi.com^
 ||foodpackaging.kpfilms.com^
-||forecast.huffingtonpost.fr^
-||forecast.lemonde.fr^
 ||forecasttiger.com^
 ||foregoingfowl.com^
 ||foretellfifth.com^
@@ -15064,6 +15064,7 @@
 ||t.rituxan.com^
 ||t.rolltide.com^
 ||t.scarletknights.com^
+||t.screeb.app^
 ||t.seesaa.net^
 ||t.selectyourtickets.com^
 ||t.seminoles.com^

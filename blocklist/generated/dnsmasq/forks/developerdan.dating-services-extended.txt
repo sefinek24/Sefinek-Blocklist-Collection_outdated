@@ -1,6 +1,6 @@
 # Title: Lightswitch05's dating-services-extended.txt
-# Released: 2023-05-30T01:05:25+00:00
-# Count: 21911 domains
+# Released: 2023-05-31T01:05:25+00:00
+# Count: 21925 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
@@ -1076,14 +1076,29 @@ server=/mfspp.adultwork.com/
 server=/mfstest.adultwork.com/
 server=/mobiles.adultwork.com/
 server=/www.mobiles.adultwork.com/
+server=/monitoring.adultwork.com/
 server=/moviesnas.adultwork.com/
 server=/my.adultwork.com/
 server=/myclipstore.adultwork.com/
 server=/mygroup.adultwork.com/
+server=/mytube.adultwork.com/
 server=/pagerefer.adultwork.com/
 server=/payments.adultwork.com/
 server=/phonechat.adultwork.com/
 server=/platform.adultwork.com/
+server=/pp-cdn1.adultwork.com/
+server=/pp-img.adultwork.com/
+server=/pp-payments.adultwork.com/
+server=/pp-platform.adultwork.com/
+server=/pp-ty1.adultwork.com/
+server=/pp-ty1cap.adultwork.com/
+server=/pp-ty2.adultwork.com/
+server=/pp-ty2cap.adultwork.com/
+server=/pp-ty3.adultwork.com/
+server=/pp-ty3cap.adultwork.com/
+server=/pp-typ.adultwork.com/
+server=/pp-webapi.adultwork.com/
+server=/pp-webapp.adultwork.com/
 server=/preprod.adultwork.com/
 server=/proxy.adultwork.com/
 server=/refer.adultwork.com/
@@ -2315,7 +2330,6 @@ server=/hc1covid19.bbpeoplemeet.com/
 server=/help.bbpeoplemeet.com/
 server=/host14quarantine.bbpeoplemeet.com/
 server=/lps.bbpeoplemeet.com/
-server=/mail1.bbpeoplemeet.com/
 server=/majorasmask3d.bbpeoplemeet.com/
 server=/www.majorasmask3d.bbpeoplemeet.com/
 server=/maskan.bbpeoplemeet.com/
@@ -3361,8 +3375,6 @@ server=/smtp.blackdatingforfree.com/
 server=/webmail.blackdatingforfree.com/
 server=/www.blackdatingforfree.com/
 server=/blackpeoplemeet.com/
-server=/0.blackpeoplemeet.com/
-server=/01.blackpeoplemeet.com/
 server=/199distancelearn.blackpeoplemeet.com/
 server=/alidhatmascara.blackpeoplemeet.com/
 server=/personals.aol.blackpeoplemeet.com/
@@ -14279,7 +14291,6 @@ server=/mail.ourtime.com/
 server=/mail01.ourtime.com/
 server=/maskatesta.ourtime.com/
 server=/mobi.ourtime.com/
-server=/narvik-gw3.ourtime.com/
 server=/new-aoi-virus.ourtime.com/
 server=/ostopcovid19.ourtime.com/
 server=/phx1ssamavappquarantinelb.ourtime.com/
@@ -18024,6 +18035,7 @@ server=/katalog.tsescorts.com/
 server=/login.tsescorts.com/
 server=/loja.tsescorts.com/
 server=/m.tsescorts.com/
+server=/m1.tsescorts.com/
 server=/mail2.tsescorts.com/
 server=/mail4.tsescorts.com/
 server=/mailbox.tsescorts.com/
@@ -19226,6 +19238,8 @@ server=/rest.seduflirt.fr.stg.cys.dating/
 server=/singlekiwis.co.nz.stg.cys.dating/
 server=/s-klub.pl.stg.cys.dating/
 server=/rest.s-klub.pl.stg.cys.dating/
+server=/hotdates18.se.stg.cys.dating/
+server=/www.hotdates18.se.stg.cys.dating/
 server=/ci-teasersystem.teasersystem-dev.cys.dating/
 server=/ci-translations-api.translations-api-dev.cys.dating/
 server=/dev.dancing.dating/

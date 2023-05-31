@@ -1,6 +1,6 @@
 # Title: Lightswitch05's dating-services-extended.txt
-# Released: 2023-05-30T01:05:25+00:00
-# Count: 21911 domains
+# Released: 2023-05-31T01:05:25+00:00
+# Count: 21925 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
@@ -1076,14 +1076,29 @@
 127.0.0.1 mfstest.adultwork.com
 127.0.0.1 mobiles.adultwork.com
 127.0.0.1 www.mobiles.adultwork.com
+127.0.0.1 monitoring.adultwork.com
 127.0.0.1 moviesnas.adultwork.com
 127.0.0.1 my.adultwork.com
 127.0.0.1 myclipstore.adultwork.com
 127.0.0.1 mygroup.adultwork.com
+127.0.0.1 mytube.adultwork.com
 127.0.0.1 pagerefer.adultwork.com
 127.0.0.1 payments.adultwork.com
 127.0.0.1 phonechat.adultwork.com
 127.0.0.1 platform.adultwork.com
+127.0.0.1 pp-cdn1.adultwork.com
+127.0.0.1 pp-img.adultwork.com
+127.0.0.1 pp-payments.adultwork.com
+127.0.0.1 pp-platform.adultwork.com
+127.0.0.1 pp-ty1.adultwork.com
+127.0.0.1 pp-ty1cap.adultwork.com
+127.0.0.1 pp-ty2.adultwork.com
+127.0.0.1 pp-ty2cap.adultwork.com
+127.0.0.1 pp-ty3.adultwork.com
+127.0.0.1 pp-ty3cap.adultwork.com
+127.0.0.1 pp-typ.adultwork.com
+127.0.0.1 pp-webapi.adultwork.com
+127.0.0.1 pp-webapp.adultwork.com
 127.0.0.1 preprod.adultwork.com
 127.0.0.1 proxy.adultwork.com
 127.0.0.1 refer.adultwork.com
@@ -2315,7 +2330,6 @@
 127.0.0.1 help.bbpeoplemeet.com
 127.0.0.1 host14quarantine.bbpeoplemeet.com
 127.0.0.1 lps.bbpeoplemeet.com
-127.0.0.1 mail1.bbpeoplemeet.com
 127.0.0.1 majorasmask3d.bbpeoplemeet.com
 127.0.0.1 www.majorasmask3d.bbpeoplemeet.com
 127.0.0.1 maskan.bbpeoplemeet.com
@@ -3361,8 +3375,6 @@
 127.0.0.1 webmail.blackdatingforfree.com
 127.0.0.1 www.blackdatingforfree.com
 127.0.0.1 blackpeoplemeet.com
-127.0.0.1 0.blackpeoplemeet.com
-127.0.0.1 01.blackpeoplemeet.com
 127.0.0.1 199distancelearn.blackpeoplemeet.com
 127.0.0.1 alidhatmascara.blackpeoplemeet.com
 127.0.0.1 personals.aol.blackpeoplemeet.com
@@ -14279,7 +14291,6 @@
 127.0.0.1 mail01.ourtime.com
 127.0.0.1 maskatesta.ourtime.com
 127.0.0.1 mobi.ourtime.com
-127.0.0.1 narvik-gw3.ourtime.com
 127.0.0.1 new-aoi-virus.ourtime.com
 127.0.0.1 ostopcovid19.ourtime.com
 127.0.0.1 phx1ssamavappquarantinelb.ourtime.com
@@ -18024,6 +18035,7 @@
 127.0.0.1 login.tsescorts.com
 127.0.0.1 loja.tsescorts.com
 127.0.0.1 m.tsescorts.com
+127.0.0.1 m1.tsescorts.com
 127.0.0.1 mail2.tsescorts.com
 127.0.0.1 mail4.tsescorts.com
 127.0.0.1 mailbox.tsescorts.com
@@ -19226,6 +19238,8 @@
 127.0.0.1 singlekiwis.co.nz.stg.cys.dating
 127.0.0.1 s-klub.pl.stg.cys.dating
 127.0.0.1 rest.s-klub.pl.stg.cys.dating
+127.0.0.1 hotdates18.se.stg.cys.dating
+127.0.0.1 www.hotdates18.se.stg.cys.dating
 127.0.0.1 ci-teasersystem.teasersystem-dev.cys.dating
 127.0.0.1 ci-translations-api.translations-api-dev.cys.dating
 127.0.0.1 dev.dancing.dating
