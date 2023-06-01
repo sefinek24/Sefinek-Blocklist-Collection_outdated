@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-06-01 21:54:26 (UTC)                      #
+# Last updated: 2023-06-01 22:55:21 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -48,6 +48,7 @@
 127.0.0.1 acdpk.org
 127.0.0.1 acellr.co.uk
 127.0.0.1 acoesentreamigos.com
+127.0.0.1 acrhitechinfo.com
 127.0.0.1 activesupportandcare.org.ng
 127.0.0.1 acutweb.com
 127.0.0.1 adagro.com.br
@@ -119,6 +120,7 @@
 127.0.0.1 antacobinhduong.com
 127.0.0.1 antoinettegabriel.com
 127.0.0.1 anydeskremote.shop
+127.0.0.1 aosafrica.co.za
 127.0.0.1 apcoorsac.com
 127.0.0.1 api-ms.cobainaja.id
 127.0.0.1 api.52kkg.com
@@ -141,6 +143,7 @@
 127.0.0.1 aslamcheval.net
 127.0.0.1 assigear.com
 127.0.0.1 assignmentmentor.co.uk
+127.0.0.1 asu.com.vn
 127.0.0.1 asystem3.com
 127.0.0.1 athadnw.com
 127.0.0.1 atomm.com.br
@@ -154,7 +157,6 @@
 127.0.0.1 axoten.com
 127.0.0.1 azaleaservices.org
 127.0.0.1 azmeasurement.com
-127.0.0.1 b.dowgmeb.com
 127.0.0.1 babyvaley.com
 127.0.0.1 baecampusconnect.com
 127.0.0.1 bagopack.com
@@ -179,7 +181,6 @@
 127.0.0.1 bdconsulting-cm.com
 127.0.0.1 bdprimenews.com
 127.0.0.1 beachwood.ug
-127.0.0.1 bearcatpumps.com.cn
 127.0.0.1 beautifulqueen.com.br
 127.0.0.1 beauty-house-ye.com
 127.0.0.1 bebessi.com.tr
@@ -298,7 +299,6 @@
 127.0.0.1 codesurf.it
 127.0.0.1 cognicen.com
 127.0.0.1 cohortcapitals.com
-127.0.0.1 coiffurepacitto.com
 127.0.0.1 cointra.ac.ug
 127.0.0.1 colisumy.com
 127.0.0.1 collistore.it
@@ -395,6 +395,8 @@
 127.0.0.1 down.udashi.com
 127.0.0.1 downchatgpt.xyz
 127.0.0.1 download.caihong.com
+127.0.0.1 download.doumaibiji.cn
+127.0.0.1 download.pdf00.cn
 127.0.0.1 dowsa.net
 127.0.0.1 drhanneserasmus.co.za
 127.0.0.1 drillaltd.co.uk
@@ -448,7 +450,6 @@
 127.0.0.1 elitedasvendasonline.com
 127.0.0.1 elmenawytrans.com
 127.0.0.1 elsultanstid.com
-127.0.0.1 elvalledetarrazu.com
 127.0.0.1 emaids.co.za
 127.0.0.1 emmanuelgroup.org
 127.0.0.1 emoghenekparobo.com
@@ -579,6 +580,7 @@
 127.0.0.1 gsmobile.es
 127.0.0.1 gsscorporationltd.com
 127.0.0.1 gtechdesigns.net
+127.0.0.1 gtn.cl
 127.0.0.1 guavaprosolutions.com
 127.0.0.1 guestwithmike.com
 127.0.0.1 guillesa.com
@@ -624,13 +626,11 @@
 127.0.0.1 hotdelivery.com
 127.0.0.1 hotflicks.org
 127.0.0.1 hotrecruiter.com
-127.0.0.1 houseatthebeachinoc.com
 127.0.0.1 houseofiron.org
 127.0.0.1 houseownerhub.com
 127.0.0.1 houssagynecologue.com
 127.0.0.1 howtoplungeatoilet.com
 127.0.0.1 hp.buytoprint.com
-127.0.0.1 hr2019.vrcom7.com
 127.0.0.1 hradviceonline.com
 127.0.0.1 hrfrance.net
 127.0.0.1 hseda.com
@@ -666,7 +666,6 @@
 127.0.0.1 incotel.com.pk
 127.0.0.1 indianrobostore.com
 127.0.0.1 indolian.com
-127.0.0.1 indonesias.me
 127.0.0.1 indrasbikaner.com
 127.0.0.1 infigroupsindia.com
 127.0.0.1 infobach.com
@@ -751,7 +750,6 @@
 127.0.0.1 krieshnaweb.com
 127.0.0.1 krystal-beauty.com
 127.0.0.1 kujme.com
-127.0.0.1 kustens.com
 127.0.0.1 kuvhal.com
 127.0.0.1 lacasitacolumbus.com
 127.0.0.1 ladiesonlytravel.com
@@ -790,7 +788,6 @@
 127.0.0.1 lindnerelektroanlagen.de
 127.0.0.1 liniriben.com
 127.0.0.1 linkvilleplayers.org
-127.0.0.1 livetrack.in
 127.0.0.1 lnbmx.com
 127.0.0.1 lobanov-design.com
 127.0.0.1 logidsac.com
@@ -800,6 +797,7 @@
 127.0.0.1 lorem.com.sa
 127.0.0.1 lotemoclubrificantes.com.br
 127.0.0.1 loveturnerconcepts.com
+127.0.0.1 ltc.typoten.com
 127.0.0.1 lugardehistorias.com.br
 127.0.0.1 lyhourgroup.com
 127.0.0.1 lyxtimme.com
@@ -827,7 +825,6 @@
 127.0.0.1 maragiaexpress.com
 127.0.0.1 marasmllc.com
 127.0.0.1 mario-klemz.de
-127.0.0.1 mario-sunjic.com
 127.0.0.1 market-mirror.com
 127.0.0.1 marksidfgs.ug
 127.0.0.1 marquesvogt.com
@@ -858,6 +855,7 @@
 127.0.0.1 mena-studies.org
 127.0.0.1 mendezplumbingservicellc.com
 127.0.0.1 mentortpa.com
+127.0.0.1 meonhanong.com
 127.0.0.1 mepstein.com
 127.0.0.1 merasta.org
 127.0.0.1 mesoftwares.vip
@@ -887,7 +885,6 @@
 127.0.0.1 mkblaboratoire.com
 127.0.0.1 mmcentertainments.net
 127.0.0.1 mmhhf.com
-127.0.0.1 moarkgcc.com
 127.0.0.1 modern-city.by
 127.0.0.1 modernurogyn.com
 127.0.0.1 moneyconsensus.com
@@ -926,13 +923,13 @@
 127.0.0.1 ndttrainingcoimbatore.com
 127.0.0.1 neethikathir.com
 127.0.0.1 neraglon.com
-127.0.0.1 networkwheels.co.za
 127.0.0.1 newbeginningsshc.com
 127.0.0.1 newheightspharma.com
 127.0.0.1 newinvestingonline.com
 127.0.0.1 newsvks.com
 127.0.0.1 next-vapors.com
 127.0.0.1 nhatheptienchebinhduong.com
+127.0.0.1 nhorangtreem.com
 127.0.0.1 nienkz.nl
 127.0.0.1 ninetofab.com
 127.0.0.1 niyamajungleresort.com
@@ -986,8 +983,8 @@
 127.0.0.1 opescinofilia.it
 127.0.0.1 opesjk.ug
 127.0.0.1 ora.ci
-127.0.0.1 orderedami.com
 127.0.0.1 organizer.safeonline.it
+127.0.0.1 origins-france.fr
 127.0.0.1 orlcasablanca.com
 127.0.0.1 orsan.gruporhynous.com
 127.0.0.1 ortopediawong.com
@@ -1003,6 +1000,7 @@
 127.0.0.1 ozelmimarsinanmtal.com
 127.0.0.1 ozla1a.shop
 127.0.0.1 ozvita.club
+127.0.0.1 p2.d9media.cn
 127.0.0.1 pablobrothel.com.ar
 127.0.0.1 pacersur.com
 127.0.0.1 pakistancomparison.com
@@ -1036,7 +1034,6 @@
 127.0.0.1 pgn-dkppsby.com
 127.0.0.1 picc-penang.com
 127.0.0.1 pillsenergy.com
-127.0.0.1 pink99.com
 127.0.0.1 pinturasguillen.com
 127.0.0.1 piopler.com
 127.0.0.1 pipclass.com
@@ -1136,6 +1133,7 @@
 127.0.0.1 rotexfans.com
 127.0.0.1 royalgarmentepz.com
 127.0.0.1 rpwallet.uk
+127.0.0.1 rretoques.cl
 127.0.0.1 rsgroupcapital.com
 127.0.0.1 rtpkejora.com
 127.0.0.1 rubensplima.com
@@ -1171,9 +1169,7 @@
 127.0.0.1 sdk-global.com
 127.0.0.1 sdsolutionseg.com
 127.0.0.1 sealfoxasphaltfl.com
-127.0.0.1 sealicensing.com
 127.0.0.1 seatpoint.com
-127.0.0.1 secretmindcontrol.com
 127.0.0.1 securesoftwaredesing.com
 127.0.0.1 seedsindia.org
 127.0.0.1 seekthenature.com
@@ -1246,6 +1242,7 @@
 127.0.0.1 src1.minibai.com
 127.0.0.1 srivarispices.com
 127.0.0.1 srv-fattureincloud.de
+127.0.0.1 sshd.run
 127.0.0.1 stablewin32.app
 127.0.0.1 staf04.it
 127.0.0.1 standoutuk.com
@@ -1381,7 +1378,6 @@
 127.0.0.1 travelwithmanta.co.za
 127.0.0.1 travomega.com
 127.0.0.1 treskaro.com
-127.0.0.1 trieutin.com
 127.0.0.1 trucknow.com
 127.0.0.1 truemethroughhim.com
 127.0.0.1 trustmedksa.com
@@ -1457,6 +1453,7 @@
 127.0.0.1 vkcluster.com
 127.0.0.1 vladimirmesic.com
 127.0.0.1 votre-futur-site.com
+127.0.0.1 vpn.sclad.team
 127.0.0.1 vtutrade.com
 127.0.0.1 vvusc.com
 127.0.0.1 wadaanfoundation.org
@@ -1497,6 +1494,7 @@
 127.0.0.1 wshsoft.company
 127.0.0.1 www.acompanhantescuritiba.org
 127.0.0.1 www.agies.org
+127.0.0.1 www.alertsecurities.in
 127.0.0.1 www.amazonmall.club
 127.0.0.1 www.arkidecture.com
 127.0.0.1 www.artrsllc.com
@@ -1508,15 +1506,19 @@
 127.0.0.1 www.charmingsoftech.com
 127.0.0.1 www.chawkyfrenn.com
 127.0.0.1 www.chemsky.tn
+127.0.0.1 www.chipmania.it
 127.0.0.1 www.clinicamomentum.com.br
 127.0.0.1 www.dacui.online
 127.0.0.1 www.dental.xiaoxiao.media
+127.0.0.1 www.enc-tech.com
 127.0.0.1 www.fixstudio.co.kr
 127.0.0.1 www.globallaborsupply.com
+127.0.0.1 www.hebgb.top
 127.0.0.1 www.hseda.com
 127.0.0.1 www.ingonherbal.com
 127.0.0.1 www.institut-corps-a-ligne.fr
 127.0.0.1 www.janisthaaivf.com
+127.0.0.1 www.ks.cn
 127.0.0.1 www.lasikofmichigan.com
 127.0.0.1 www.lebuffet.com.tn
 127.0.0.1 www.maxmoney.com
@@ -1530,7 +1532,6 @@
 127.0.0.1 www.reifenquick.de
 127.0.0.1 www.reiwo-service.de
 127.0.0.1 www.roofing.galacticleads.com
-127.0.0.1 www.saf-oil.ru
 127.0.0.1 www.smpnuruliman.xyz
 127.0.0.1 www.snappyshop.it
 127.0.0.1 www.starcountry.net
@@ -1550,7 +1551,6 @@
 127.0.0.1 xmanager.in
 127.0.0.1 xn----7sbhgfcdscaa3cdd6dq3e3dvf.xn--p1ai
 127.0.0.1 xrpreward.live
-127.0.0.1 xt.lykj988.com
 127.0.0.1 xyktza.nbxyk.net
 127.0.0.1 yarrowenterprise.com
 127.0.0.1 yawi.org.ng
@@ -1566,6 +1566,7 @@
 127.0.0.1 zankmarket.com
 127.0.0.1 zaofisa.net
 127.0.0.1 zedprotection.com
+127.0.0.1 zexeq.com
 127.0.0.1 zf.gouzapay.cn
 127.0.0.1 zhaoziliao1668.cn
 127.0.0.1 zindaghi.com
@@ -1573,4 +1574,4 @@
 127.0.0.1 zizicom.site
 127.0.0.1 zmqnbags.com
 127.0.0.1 zulfiyya.com
-# Number of entries: 1567
+# Number of entries: 1568
