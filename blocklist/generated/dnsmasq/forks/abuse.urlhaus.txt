@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-06-01 14:56:45 (UTC)                      #
+# Last updated: 2023-06-01 15:53:34 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -761,7 +761,6 @@ server=/livetrack.in/
 server=/lnbmx.com/
 server=/lobanov-design.com/
 server=/logidsac.com/
-server=/logistic-pro.net/
 server=/logotextilllc.com/
 server=/lokhandwalaminerva.com/
 server=/lopespublicidade.com/
@@ -863,6 +862,7 @@ server=/monticellorealtors.com/
 server=/moodle.corplearning.net/
 server=/mosantosupply.com/
 server=/movimentoadoratori.it/
+server=/mrketiando.com.br/
 server=/mszjapan.com/
 server=/mtnpalmsmanorafh.com/
 server=/mudahkaya.com/
@@ -1358,6 +1358,7 @@ server=/unimarkme.com/
 server=/uniquefragrances.com/
 server=/unitedec-eg.com/
 server=/universaldigitalsolution.com/
+server=/unlockingdreamsfinancial.com/
 server=/unp.mx/
 server=/upark-inc.com/
 server=/update.cg100iii.com/
@@ -1482,6 +1483,7 @@ server=/www.smpnuruliman.xyz/
 server=/www.snappyshop.it/
 server=/www.starcountry.net/
 server=/www.sunglassesninja.com/
+server=/www.tradeinsights.net/
 server=/www.tvculturaourofino.com.br/
 server=/www.vaestsolutions.com/
 server=/www.vivaedeixeviver.org.br/
@@ -1505,7 +1507,6 @@ server=/yeichner.com/
 server=/yesdeko.com/
 server=/ymmlyrecipes.com/
 server=/yourwebhouse.com/
-server=/yp.hnggzyjy.cn/
 server=/yzkzixun.com/
 server=/zainco.net/
 server=/zambianroadsafety.org/
@@ -1521,4 +1522,4 @@ server=/zins-vergleich.net/
 server=/zizicom.site/
 server=/zmqnbags.com/
 server=/zulfiyya.com/
-# Number of entries: 1515
+# Number of entries: 1516
