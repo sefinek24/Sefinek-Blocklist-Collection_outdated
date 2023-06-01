@@ -1,6 +1,6 @@
 # Title: Lightswitch05's dating-services-extended.txt
-# Released: 2023-05-31T01:05:25+00:00
-# Count: 21925 domains
+# Released: 2023-06-01T01:05:25+00:00
+# Count: 21914 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
 # Source: https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
@@ -2331,7 +2331,6 @@ server=/help.bbpeoplemeet.com/
 server=/host14quarantine.bbpeoplemeet.com/
 server=/lps.bbpeoplemeet.com/
 server=/majorasmask3d.bbpeoplemeet.com/
-server=/www.majorasmask3d.bbpeoplemeet.com/
 server=/maskan.bbpeoplemeet.com/
 server=/maskerade-rwd.bbpeoplemeet.com/
 server=/maskolis.bbpeoplemeet.com/
@@ -11641,16 +11640,6 @@ server=/pop.kitkatranch.com/
 server=/smtp.kitkatranch.com/
 server=/webmail.kitkatranch.com/
 server=/www.kitkatranch.com/
-server=/knoutchat.com/
-server=/cache-02.knoutchat.com/
-server=/dbs-02.knoutchat.com/
-server=/front-02.knoutchat.com/
-server=/mail.knoutchat.com/
-server=/photos-01.knoutchat.com/
-server=/photos-02.knoutchat.com/
-server=/queue-02.knoutchat.com/
-server=/search-02.knoutchat.com/
-server=/www.knoutchat.com/
 server=/koreancupid.com/
 server=/api.koreancupid.com/
 server=/cdn.koreancupid.com/
@@ -18799,7 +18788,6 @@ server=/dan.420.dating/
 server=/51.dating/
 server=/admin.51.dating/
 server=/apps.51.dating/
-server=/autodiscover.51.dating/
 server=/cms.51.dating/
 server=/hostmaster.51.dating/
 server=/mail.51.dating/
@@ -19388,6 +19376,8 @@ server=/poc.routes.eden.dating/
 server=/registry.routes.eden.dating/
 server=/registrydevops.routes.eden.dating/
 server=/ehsan.dating/
+server=/ekko.dating/
+server=/www.ekko.dating/
 server=/elo.dating/
 server=/www.elo.dating/
 server=/autodiscover.email.dating/
@@ -19629,7 +19619,6 @@ server=/static1.hott.dating/
 server=/static2.hott.dating/
 server=/hotties.dating/
 server=/htx.dating/
-server=/dan.htx.dating/
 server=/huk.dating/
 server=/hydra.dating/
 server=/blog.hydra.dating/
