@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-06-02 19:52:23 (UTC)                      #
+# Last updated: 2023-06-02 20:50:41 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -182,6 +182,7 @@
 0.0.0.0 botnet.catpn.net
 0.0.0.0 bracell.latitude.net.br
 0.0.0.0 bricsafricaconsulting.com
+0.0.0.0 brideofmessiah.com
 0.0.0.0 british-shorthair.es
 0.0.0.0 brknarikan.com
 0.0.0.0 broadmaxshop.com
@@ -226,7 +227,6 @@
 0.0.0.0 cipro.mx
 0.0.0.0 ciptarapoto.com
 0.0.0.0 cityoftransformation.com
-0.0.0.0 citypharmacylv.com
 0.0.0.0 civilwarhomestead.com
 0.0.0.0 clovekwealth.com
 0.0.0.0 clubmarketingdeafiliados.com
@@ -297,6 +297,7 @@
 0.0.0.0 detail-booking.com.br
 0.0.0.0 devacademy22.com
 0.0.0.0 devises-dz.com
+0.0.0.0 dh.net.br
 0.0.0.0 dhnconstrucciones.com.ar
 0.0.0.0 dichvuphanmem.net
 0.0.0.0 digitallnet.net
@@ -325,6 +326,7 @@
 0.0.0.0 dst.co.tz
 0.0.0.0 duarteytejada.com
 0.0.0.0 dukaree.com
+0.0.0.0 dutulongxuyen.com
 0.0.0.0 e-commerce.saleensuporte.com.br
 0.0.0.0 e-hemsire.net
 0.0.0.0 e-moio.com
@@ -359,7 +361,6 @@
 0.0.0.0 elitedasvendasonline.com
 0.0.0.0 elpyldry.info
 0.0.0.0 elvalledetarrazu.com
-0.0.0.0 emaids.co.za
 0.0.0.0 enterpriseresearch.ac.uk
 0.0.0.0 epicmpls.com
 0.0.0.0 eraport.dfirma.pl
@@ -400,6 +401,7 @@
 0.0.0.0 fis-capital.com
 0.0.0.0 fitnessclubblueprint.com
 0.0.0.0 flooringnorthshore.com
+0.0.0.0 florent-webdev.com
 0.0.0.0 floreriapison.com
 0.0.0.0 floresdemaio.com
 0.0.0.0 florpinnata.ga
@@ -512,8 +514,6 @@
 0.0.0.0 imrancoaching.com
 0.0.0.0 incotel.com.pk
 0.0.0.0 indianrobostore.com
-0.0.0.0 indolian.com
-0.0.0.0 indonesias.me
 0.0.0.0 indrasbikaner.com
 0.0.0.0 infigroupsindia.com
 0.0.0.0 infobach.com
@@ -560,7 +560,6 @@
 0.0.0.0 justplay.asia
 0.0.0.0 k-ninn.com
 0.0.0.0 kandnsrecipecenter.com
-0.0.0.0 karapinarhaber.com.tr
 0.0.0.0 kardeslerboncukhediyelik.com
 0.0.0.0 karer.by
 0.0.0.0 karimgousa.ug
@@ -607,7 +606,6 @@
 0.0.0.0 library.arihantmbainstitute.ac.in
 0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 linkajobs.com
-0.0.0.0 linkvilleplayers.org
 0.0.0.0 live.fxcrm.net
 0.0.0.0 livetrack.in
 0.0.0.0 lnbmx.com
@@ -616,6 +614,7 @@
 0.0.0.0 lopespublicidade.com
 0.0.0.0 lorem.com.sa
 0.0.0.0 lotemoclubrificantes.com.br
+0.0.0.0 ltc.typoten.com
 0.0.0.0 lyhourgroup.com
 0.0.0.0 lyxtimme.com
 0.0.0.0 ma4salebyowner.com
@@ -636,7 +635,6 @@
 0.0.0.0 mapla.com.mx
 0.0.0.0 maplehcr.com
 0.0.0.0 maragiaexpress.com
-0.0.0.0 mario-sunjic.com
 0.0.0.0 marksidfgs.ug
 0.0.0.0 marquesvogt.com
 0.0.0.0 masol.fr
@@ -663,6 +661,7 @@
 0.0.0.0 mentortpa.com
 0.0.0.0 meonhanong.com
 0.0.0.0 mepstein.com
+0.0.0.0 mesoftwares.vip
 0.0.0.0 metalurgistas.com
 0.0.0.0 mexicoautomatico.com
 0.0.0.0 mfscomunicacao.com.br
@@ -673,6 +672,7 @@
 0.0.0.0 millatuibrahimkano.com
 0.0.0.0 milleniuninformatica.com.br
 0.0.0.0 mindfree.co.za
+0.0.0.0 mistitis.ug
 0.0.0.0 mistydeblasiophotography.com
 0.0.0.0 mkblaboratoire.com
 0.0.0.0 mmhhf.com
@@ -690,6 +690,7 @@
 0.0.0.0 muslimfinance.co.uk
 0.0.0.0 mutqun.com
 0.0.0.0 mysura.it
+0.0.0.0 mytheacademy.com
 0.0.0.0 nafeescables.com
 0.0.0.0 naijamp3tv.com
 0.0.0.0 namthaibinh.net
@@ -750,8 +751,8 @@
 0.0.0.0 openviewmarketing.com
 0.0.0.0 opesjk.ug
 0.0.0.0 ora.ci
+0.0.0.0 orderedami.com
 0.0.0.0 organizer.safeonline.it
-0.0.0.0 origins-france.fr
 0.0.0.0 orlaterole.com
 0.0.0.0 orlcasablanca.com
 0.0.0.0 orsan.gruporhynous.com
@@ -764,9 +765,9 @@
 0.0.0.0 outdoortacklebox.com
 0.0.0.0 outletmodafirmata.com
 0.0.0.0 ovajabmedia.com
-0.0.0.0 ozelmimarsinanmtal.com
 0.0.0.0 ozla1a.shop
 0.0.0.0 ozvita.club
+0.0.0.0 p2.d9media.cn
 0.0.0.0 pablobrothel.com.ar
 0.0.0.0 pakistancomparison.com
 0.0.0.0 palharesinformatica.com.br
@@ -805,7 +806,6 @@
 0.0.0.0 portmapp.com
 0.0.0.0 posmicrosystems.com
 0.0.0.0 potolki-razumno.ru
-0.0.0.0 ppfatahillah.com
 0.0.0.0 prasinosimports.com
 0.0.0.0 prestigehomeautomation.net
 0.0.0.0 primaflor-sby.com
@@ -821,6 +821,7 @@
 0.0.0.0 publicidad-banquetes.com
 0.0.0.0 publisherget.top
 0.0.0.0 pueblomacabeo.com
+0.0.0.0 punjabdevelopersassociation.com.pk
 0.0.0.0 purohitpipes.com
 0.0.0.0 pyrd5.xyz
 0.0.0.0 qadirpharmaceuticals.com
@@ -847,6 +848,7 @@
 0.0.0.0 refrisul.com
 0.0.0.0 reifenquick.de
 0.0.0.0 relacionamentoadois.net
+0.0.0.0 relaxindulge.co.nz
 0.0.0.0 religionobserver.com
 0.0.0.0 remotaja.com
 0.0.0.0 renacer.jgorange.com
@@ -868,6 +870,7 @@
 0.0.0.0 royalbeirutkw.com
 0.0.0.0 royalgarmentepz.com
 0.0.0.0 rpwallet.uk
+0.0.0.0 rretoques.cl
 0.0.0.0 rsgroupcapital.com
 0.0.0.0 rtpkejora.com
 0.0.0.0 rzbpo.com.br
@@ -911,7 +914,6 @@
 0.0.0.0 sercitec.com
 0.0.0.0 sertvs.com
 0.0.0.0 server.easysalepage.in.th
-0.0.0.0 server.toeicswt.co.kr
 0.0.0.0 server1.childrenspiace.us
 0.0.0.0 servisaludocupacional.pe
 0.0.0.0 shahu66.com
@@ -1050,6 +1052,7 @@
 0.0.0.0 travelwithmanta.co.za
 0.0.0.0 treadlefish.net
 0.0.0.0 treeweb.it
+0.0.0.0 trieutin.com
 0.0.0.0 trucknow.com
 0.0.0.0 trustmeemily.com
 0.0.0.0 tudien.org.vn
@@ -1072,6 +1075,7 @@
 0.0.0.0 uniquefragrances.com
 0.0.0.0 unitedec-eg.com
 0.0.0.0 universaldigitalsolution.com
+0.0.0.0 unlockingdreamsfinancial.com
 0.0.0.0 update.cg100iii.com
 0.0.0.0 upplysningavancez.com
 0.0.0.0 urjalab.org
@@ -1079,7 +1083,6 @@
 0.0.0.0 user1681259423012.requestly.dev
 0.0.0.0 user1681261126533.requestly.dev
 0.0.0.0 utkalautomobiles.com
-0.0.0.0 uxsingh.com
 0.0.0.0 uylab.org
 0.0.0.0 vainavitechnologies.com
 0.0.0.0 vaishnaoigroup.com
@@ -1143,9 +1146,9 @@
 0.0.0.0 www.bearware.org
 0.0.0.0 www.carusoadvogados.com.br
 0.0.0.0 www.cesasin.com.ar
+0.0.0.0 www.charmingsoftech.com
 0.0.0.0 www.chawkyfrenn.com
 0.0.0.0 www.chemsky.tn
-0.0.0.0 www.chipmania.it
 0.0.0.0 www.clinicamomentum.com.br
 0.0.0.0 www.dacui.online
 0.0.0.0 www.dental.xiaoxiao.media
@@ -1159,7 +1162,6 @@
 0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.institut-corps-a-ligne.fr
 0.0.0.0 www.janisthaaivf.com
-0.0.0.0 www.ks.cn
 0.0.0.0 www.lasikofmichigan.com
 0.0.0.0 www.lebuffet.com.tn
 0.0.0.0 www.maxmoney.com
@@ -1168,16 +1170,14 @@
 0.0.0.0 www.movidoc.com.br
 0.0.0.0 www.neshuafoods.com
 0.0.0.0 www.nprlogistica.com.br
+0.0.0.0 www.opolis.io
 0.0.0.0 www.piaozone.com
 0.0.0.0 www.reifenquick.de
-0.0.0.0 www.reiwo-service.de
-0.0.0.0 www.roofing.galacticleads.com
 0.0.0.0 www.saf-oil.ru
 0.0.0.0 www.smpnuruliman.xyz
 0.0.0.0 www.snappyshop.it
 0.0.0.0 www.starcountry.net
 0.0.0.0 www.sunglassesninja.com
-0.0.0.0 www.tradeinsights.net
 0.0.0.0 www.tvculturaourofino.com.br
 0.0.0.0 www.vaestsolutions.com
 0.0.0.0 www.vivaedeixeviver.org.br
