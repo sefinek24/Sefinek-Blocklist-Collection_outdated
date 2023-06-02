@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-06-02 05:51:20 (UTC)                      #
+# Last updated: 2023-06-02 06:51:33 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -86,6 +86,7 @@
 0.0.0.0 angelakelleyphotography.com
 0.0.0.0 antacobinhduong.com
 0.0.0.0 antoinettegabriel.com
+0.0.0.0 aosafrica.co.za
 0.0.0.0 api-ms.cobainaja.id
 0.0.0.0 api.52kkg.com
 0.0.0.0 api.seeingoholidays.com
@@ -102,6 +103,7 @@
 0.0.0.0 assignmentmentor.co.uk
 0.0.0.0 assurancebtp.net
 0.0.0.0 assurancetp.com
+0.0.0.0 asu.com.vn
 0.0.0.0 asystem3.com
 0.0.0.0 athadnw.com
 0.0.0.0 atomm.com.br
@@ -133,6 +135,7 @@
 0.0.0.0 beauty-house-ye.com
 0.0.0.0 bebessi.com.tr
 0.0.0.0 bencevendeghaz.hu
+0.0.0.0 benwellgroup.co.uk
 0.0.0.0 besteducationlearn.com
 0.0.0.0 bethelmbcarvada.org
 0.0.0.0 bibianos.com
@@ -173,6 +176,7 @@
 0.0.0.0 canadianused.com
 0.0.0.0 canconsulting.in
 0.0.0.0 capitalperurrhh.com
+0.0.0.0 cargoconnect.online
 0.0.0.0 caribobeachresort.com
 0.0.0.0 casadabateria.com
 0.0.0.0 casamuseoayerbe.co
@@ -183,7 +187,6 @@
 0.0.0.0 cdn.unduhfile.my.id
 0.0.0.0 celebswaistsizes.com
 0.0.0.0 celiklergoldtasarim.com
-0.0.0.0 cemageng.com.br
 0.0.0.0 centralvalleylaw.com
 0.0.0.0 ceroerrorenmedicacion.com
 0.0.0.0 cgscoaching.com
@@ -201,11 +204,11 @@
 0.0.0.0 clubmarketingdeafiliados.com
 0.0.0.0 cmedbd.com
 0.0.0.0 cnom.sante.gov.ml
+0.0.0.0 coadymarine.com
 0.0.0.0 codedezign.com
 0.0.0.0 codelinkinfotech.com
 0.0.0.0 cognicen.com
 0.0.0.0 cohortcapitals.com
-0.0.0.0 cointra.ac.ug
 0.0.0.0 comfyevents.com
 0.0.0.0 commandoforex.com
 0.0.0.0 complejo89.cl
@@ -237,9 +240,7 @@
 0.0.0.0 dacsandongthapmuoi.vn
 0.0.0.0 danaevara.com
 0.0.0.0 daralhemaya.com
-0.0.0.0 darkbox.pw
 0.0.0.0 datastatresearch.org
-0.0.0.0 dating.khokhas.co.za
 0.0.0.0 davidmcguinness.info
 0.0.0.0 dcrony.com
 0.0.0.0 ddlakava.ac.ug
@@ -248,7 +249,6 @@
 0.0.0.0 dekor-kitchens.co.uk
 0.0.0.0 demo-re-usables.inertiasoft.net
 0.0.0.0 demo.omnitech.co.ug
-0.0.0.0 demonware.online
 0.0.0.0 dental.xiaoxiao.media
 0.0.0.0 derekludlow.com
 0.0.0.0 designolab.online
@@ -368,6 +368,7 @@
 0.0.0.0 fukutex.net
 0.0.0.0 funletters.net
 0.0.0.0 futuractiontraders.com
+0.0.0.0 g-work.mx
 0.0.0.0 gabyagozetim.com
 0.0.0.0 gaepensino.net
 0.0.0.0 galerabeachartvillas.com
@@ -429,11 +430,13 @@
 0.0.0.0 hm-international.com
 0.0.0.0 homtex.in
 0.0.0.0 hotdelivery.com
+0.0.0.0 houseatthebeachinoc.com
 0.0.0.0 houssagynecologue.com
 0.0.0.0 hp.buytoprint.com
 0.0.0.0 hr2019.vrcom7.com
 0.0.0.0 hrfrance.net
 0.0.0.0 hseda.com
+0.0.0.0 htownbars.com
 0.0.0.0 hugersi.com
 0.0.0.0 hunggiang.vn
 0.0.0.0 hurghadamuseum.com
@@ -525,7 +528,6 @@
 0.0.0.0 kuvhal.com
 0.0.0.0 lahotte.net
 0.0.0.0 lakirasa.com
-0.0.0.0 lameguard.ru
 0.0.0.0 lamiera.net
 0.0.0.0 laperlaapp.com
 0.0.0.0 lara.amiyon.com
@@ -580,6 +582,7 @@
 0.0.0.0 masterinfor.com.br
 0.0.0.0 matchtranslations.com
 0.0.0.0 maviproducciones.com
+0.0.0.0 maxximbrasil.com
 0.0.0.0 mbgrm.com
 0.0.0.0 mbhadvisory.com
 0.0.0.0 mcapublicschool.com
@@ -606,6 +609,8 @@
 0.0.0.0 millatuibrahimkano.com
 0.0.0.0 milleniuninformatica.com.br
 0.0.0.0 mindfree.co.za
+0.0.0.0 miningpanel.sclad.solutions
+0.0.0.0 mistydeblasiophotography.com
 0.0.0.0 mkblaboratoire.com
 0.0.0.0 mmhhf.com
 0.0.0.0 moarkgcc.com
@@ -620,8 +625,10 @@
 0.0.0.0 muslimfinance.co.uk
 0.0.0.0 mutqun.com
 0.0.0.0 mysura.it
+0.0.0.0 mytheacademy.com
 0.0.0.0 nafeescables.com
 0.0.0.0 naijamp3tv.com
+0.0.0.0 namthaibinh.net
 0.0.0.0 nananobengkouakou.net
 0.0.0.0 naochicleaningservices.co.uk
 0.0.0.0 nativeinfotech.com
@@ -768,7 +775,6 @@
 0.0.0.0 religionobserver.com
 0.0.0.0 remotaja.com
 0.0.0.0 renacer.jgorange.com
-0.0.0.0 repairhubpat.com
 0.0.0.0 reposebay.com
 0.0.0.0 requestly.dev
 0.0.0.0 respekt5568.com
@@ -825,6 +831,7 @@
 0.0.0.0 server.toeicswt.co.kr
 0.0.0.0 server1.childrenspiace.us
 0.0.0.0 servisaludocupacional.pe
+0.0.0.0 shahu66.com
 0.0.0.0 shayksatay.com
 0.0.0.0 shemis.co
 0.0.0.0 sherwoodsproperty.com
@@ -994,16 +1001,19 @@
 0.0.0.0 velstenapparel.com
 0.0.0.0 vertebromed.md
 0.0.0.0 vesselsconnect.com
+0.0.0.0 vfocus.net
 0.0.0.0 viaholidaysindia.com
 0.0.0.0 vidaviajesperu.com
 0.0.0.0 vietroll.vn
 0.0.0.0 vip-monitoring.com
+0.0.0.0 vipysknik.by
 0.0.0.0 virtualplaya.com
 0.0.0.0 visioni2c.com
 0.0.0.0 vitalsync.org
 0.0.0.0 vitoturizm.com.tr
 0.0.0.0 vladimirmesic.com
 0.0.0.0 votre-futur-site.com
+0.0.0.0 vpn.sclad.team
 0.0.0.0 vtutrade.com
 0.0.0.0 wajahatenterprises.com
 0.0.0.0 walkindrivetoday.com
@@ -1060,6 +1070,7 @@
 0.0.0.0 www.lebuffet.com.tn
 0.0.0.0 www.maxmoney.com
 0.0.0.0 www.mediakomen.com
+0.0.0.0 www.movidoc.com.br
 0.0.0.0 www.neshuafoods.com
 0.0.0.0 www.nprlogistica.com.br
 0.0.0.0 www.opolis.io
@@ -1076,7 +1087,7 @@
 0.0.0.0 www.tvculturaourofino.com.br
 0.0.0.0 www.vaestsolutions.com
 0.0.0.0 www.vivaedeixeviver.org.br
-0.0.0.0 www.websound.ru
+0.0.0.0 www.weinsteincounseling.com
 0.0.0.0 www.ysbaojia.com
 0.0.0.0 wynecare.com
 0.0.0.0 x.233sy.cn
@@ -1084,9 +1095,11 @@
 0.0.0.0 xeletronicos.com.br
 0.0.0.0 xmanager.in
 0.0.0.0 xn----7sbhgfcdscaa3cdd6dq3e3dvf.xn--p1ai
+0.0.0.0 xrpreward.live
 0.0.0.0 xt.lykj988.com
 0.0.0.0 yallanzakeronline.com
 0.0.0.0 yarrowenterprise.com
+0.0.0.0 ycnexgroup.com
 0.0.0.0 yeichner.com
 0.0.0.0 yesdeko.com
 0.0.0.0 ymmlyrecipes.com
@@ -1098,4 +1111,4 @@
 0.0.0.0 zf.gouzapay.cn
 0.0.0.0 zhaoziliao1668.cn
 0.0.0.0 zmqnbags.com
-# Number of entries: 1092
+# Number of entries: 1105

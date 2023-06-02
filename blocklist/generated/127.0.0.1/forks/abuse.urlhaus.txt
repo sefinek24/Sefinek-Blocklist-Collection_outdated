@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-06-02 05:51:20 (UTC)                      #
+# Last updated: 2023-06-02 06:51:33 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -86,6 +86,7 @@
 127.0.0.1 angelakelleyphotography.com
 127.0.0.1 antacobinhduong.com
 127.0.0.1 antoinettegabriel.com
+127.0.0.1 aosafrica.co.za
 127.0.0.1 api-ms.cobainaja.id
 127.0.0.1 api.52kkg.com
 127.0.0.1 api.seeingoholidays.com
@@ -102,6 +103,7 @@
 127.0.0.1 assignmentmentor.co.uk
 127.0.0.1 assurancebtp.net
 127.0.0.1 assurancetp.com
+127.0.0.1 asu.com.vn
 127.0.0.1 asystem3.com
 127.0.0.1 athadnw.com
 127.0.0.1 atomm.com.br
@@ -133,6 +135,7 @@
 127.0.0.1 beauty-house-ye.com
 127.0.0.1 bebessi.com.tr
 127.0.0.1 bencevendeghaz.hu
+127.0.0.1 benwellgroup.co.uk
 127.0.0.1 besteducationlearn.com
 127.0.0.1 bethelmbcarvada.org
 127.0.0.1 bibianos.com
@@ -173,6 +176,7 @@
 127.0.0.1 canadianused.com
 127.0.0.1 canconsulting.in
 127.0.0.1 capitalperurrhh.com
+127.0.0.1 cargoconnect.online
 127.0.0.1 caribobeachresort.com
 127.0.0.1 casadabateria.com
 127.0.0.1 casamuseoayerbe.co
@@ -183,7 +187,6 @@
 127.0.0.1 cdn.unduhfile.my.id
 127.0.0.1 celebswaistsizes.com
 127.0.0.1 celiklergoldtasarim.com
-127.0.0.1 cemageng.com.br
 127.0.0.1 centralvalleylaw.com
 127.0.0.1 ceroerrorenmedicacion.com
 127.0.0.1 cgscoaching.com
@@ -201,11 +204,11 @@
 127.0.0.1 clubmarketingdeafiliados.com
 127.0.0.1 cmedbd.com
 127.0.0.1 cnom.sante.gov.ml
+127.0.0.1 coadymarine.com
 127.0.0.1 codedezign.com
 127.0.0.1 codelinkinfotech.com
 127.0.0.1 cognicen.com
 127.0.0.1 cohortcapitals.com
-127.0.0.1 cointra.ac.ug
 127.0.0.1 comfyevents.com
 127.0.0.1 commandoforex.com
 127.0.0.1 complejo89.cl
@@ -237,9 +240,7 @@
 127.0.0.1 dacsandongthapmuoi.vn
 127.0.0.1 danaevara.com
 127.0.0.1 daralhemaya.com
-127.0.0.1 darkbox.pw
 127.0.0.1 datastatresearch.org
-127.0.0.1 dating.khokhas.co.za
 127.0.0.1 davidmcguinness.info
 127.0.0.1 dcrony.com
 127.0.0.1 ddlakava.ac.ug
@@ -248,7 +249,6 @@
 127.0.0.1 dekor-kitchens.co.uk
 127.0.0.1 demo-re-usables.inertiasoft.net
 127.0.0.1 demo.omnitech.co.ug
-127.0.0.1 demonware.online
 127.0.0.1 dental.xiaoxiao.media
 127.0.0.1 derekludlow.com
 127.0.0.1 designolab.online
@@ -368,6 +368,7 @@
 127.0.0.1 fukutex.net
 127.0.0.1 funletters.net
 127.0.0.1 futuractiontraders.com
+127.0.0.1 g-work.mx
 127.0.0.1 gabyagozetim.com
 127.0.0.1 gaepensino.net
 127.0.0.1 galerabeachartvillas.com
@@ -429,11 +430,13 @@
 127.0.0.1 hm-international.com
 127.0.0.1 homtex.in
 127.0.0.1 hotdelivery.com
+127.0.0.1 houseatthebeachinoc.com
 127.0.0.1 houssagynecologue.com
 127.0.0.1 hp.buytoprint.com
 127.0.0.1 hr2019.vrcom7.com
 127.0.0.1 hrfrance.net
 127.0.0.1 hseda.com
+127.0.0.1 htownbars.com
 127.0.0.1 hugersi.com
 127.0.0.1 hunggiang.vn
 127.0.0.1 hurghadamuseum.com
@@ -525,7 +528,6 @@
 127.0.0.1 kuvhal.com
 127.0.0.1 lahotte.net
 127.0.0.1 lakirasa.com
-127.0.0.1 lameguard.ru
 127.0.0.1 lamiera.net
 127.0.0.1 laperlaapp.com
 127.0.0.1 lara.amiyon.com
@@ -580,6 +582,7 @@
 127.0.0.1 masterinfor.com.br
 127.0.0.1 matchtranslations.com
 127.0.0.1 maviproducciones.com
+127.0.0.1 maxximbrasil.com
 127.0.0.1 mbgrm.com
 127.0.0.1 mbhadvisory.com
 127.0.0.1 mcapublicschool.com
@@ -606,6 +609,8 @@
 127.0.0.1 millatuibrahimkano.com
 127.0.0.1 milleniuninformatica.com.br
 127.0.0.1 mindfree.co.za
+127.0.0.1 miningpanel.sclad.solutions
+127.0.0.1 mistydeblasiophotography.com
 127.0.0.1 mkblaboratoire.com
 127.0.0.1 mmhhf.com
 127.0.0.1 moarkgcc.com
@@ -620,8 +625,10 @@
 127.0.0.1 muslimfinance.co.uk
 127.0.0.1 mutqun.com
 127.0.0.1 mysura.it
+127.0.0.1 mytheacademy.com
 127.0.0.1 nafeescables.com
 127.0.0.1 naijamp3tv.com
+127.0.0.1 namthaibinh.net
 127.0.0.1 nananobengkouakou.net
 127.0.0.1 naochicleaningservices.co.uk
 127.0.0.1 nativeinfotech.com
@@ -768,7 +775,6 @@
 127.0.0.1 religionobserver.com
 127.0.0.1 remotaja.com
 127.0.0.1 renacer.jgorange.com
-127.0.0.1 repairhubpat.com
 127.0.0.1 reposebay.com
 127.0.0.1 requestly.dev
 127.0.0.1 respekt5568.com
@@ -825,6 +831,7 @@
 127.0.0.1 server.toeicswt.co.kr
 127.0.0.1 server1.childrenspiace.us
 127.0.0.1 servisaludocupacional.pe
+127.0.0.1 shahu66.com
 127.0.0.1 shayksatay.com
 127.0.0.1 shemis.co
 127.0.0.1 sherwoodsproperty.com
@@ -994,16 +1001,19 @@
 127.0.0.1 velstenapparel.com
 127.0.0.1 vertebromed.md
 127.0.0.1 vesselsconnect.com
+127.0.0.1 vfocus.net
 127.0.0.1 viaholidaysindia.com
 127.0.0.1 vidaviajesperu.com
 127.0.0.1 vietroll.vn
 127.0.0.1 vip-monitoring.com
+127.0.0.1 vipysknik.by
 127.0.0.1 virtualplaya.com
 127.0.0.1 visioni2c.com
 127.0.0.1 vitalsync.org
 127.0.0.1 vitoturizm.com.tr
 127.0.0.1 vladimirmesic.com
 127.0.0.1 votre-futur-site.com
+127.0.0.1 vpn.sclad.team
 127.0.0.1 vtutrade.com
 127.0.0.1 wajahatenterprises.com
 127.0.0.1 walkindrivetoday.com
@@ -1060,6 +1070,7 @@
 127.0.0.1 www.lebuffet.com.tn
 127.0.0.1 www.maxmoney.com
 127.0.0.1 www.mediakomen.com
+127.0.0.1 www.movidoc.com.br
 127.0.0.1 www.neshuafoods.com
 127.0.0.1 www.nprlogistica.com.br
 127.0.0.1 www.opolis.io
@@ -1076,7 +1087,7 @@
 127.0.0.1 www.tvculturaourofino.com.br
 127.0.0.1 www.vaestsolutions.com
 127.0.0.1 www.vivaedeixeviver.org.br
-127.0.0.1 www.websound.ru
+127.0.0.1 www.weinsteincounseling.com
 127.0.0.1 www.ysbaojia.com
 127.0.0.1 wynecare.com
 127.0.0.1 x.233sy.cn
@@ -1084,9 +1095,11 @@
 127.0.0.1 xeletronicos.com.br
 127.0.0.1 xmanager.in
 127.0.0.1 xn----7sbhgfcdscaa3cdd6dq3e3dvf.xn--p1ai
+127.0.0.1 xrpreward.live
 127.0.0.1 xt.lykj988.com
 127.0.0.1 yallanzakeronline.com
 127.0.0.1 yarrowenterprise.com
+127.0.0.1 ycnexgroup.com
 127.0.0.1 yeichner.com
 127.0.0.1 yesdeko.com
 127.0.0.1 ymmlyrecipes.com
@@ -1098,4 +1111,4 @@
 127.0.0.1 zf.gouzapay.cn
 127.0.0.1 zhaoziliao1668.cn
 127.0.0.1 zmqnbags.com
-# Number of entries: 1092
+# Number of entries: 1105
