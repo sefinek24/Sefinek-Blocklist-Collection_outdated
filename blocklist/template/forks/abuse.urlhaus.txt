@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-06-02 15:54:21 (UTC)                      #
+# Last updated: 2023-06-02 16:56:29 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -35,6 +35,7 @@
 0.0.0.0 acarels.com
 0.0.0.0 accede.net
 0.0.0.0 acdpk.org
+0.0.0.0 acellr.co.uk
 0.0.0.0 acrhitechinfo.com
 0.0.0.0 activesupportandcare.org.ng
 0.0.0.0 acutweb.com
@@ -91,11 +92,13 @@
 0.0.0.0 angel.bk.idv.tw
 0.0.0.0 angelakelleyphotography.com
 0.0.0.0 antacobinhduong.com
+0.0.0.0 antoinettegabriel.com
 0.0.0.0 anydeskremote.shop
 0.0.0.0 aosafrica.co.za
 0.0.0.0 apexlinkz.com
 0.0.0.0 apexwholesaleinc.com
 0.0.0.0 api-ms.cobainaja.id
+0.0.0.0 api.52kkg.com
 0.0.0.0 api.seeingoholidays.com
 0.0.0.0 apkfeb.com
 0.0.0.0 apps.saintsoporte.com
@@ -142,6 +145,7 @@
 0.0.0.0 bcqatar.com
 0.0.0.0 bdconsulting-cm.com
 0.0.0.0 beachwood.ug
+0.0.0.0 bearcatpumps.com.cn
 0.0.0.0 beautifulqueen.com.br
 0.0.0.0 beauty-house-ye.com
 0.0.0.0 beautychoose.com
@@ -149,6 +153,7 @@
 0.0.0.0 bencevendeghaz.hu
 0.0.0.0 benwellgroup.co.uk
 0.0.0.0 besteducationlearn.com
+0.0.0.0 bethelmbcarvada.org
 0.0.0.0 bibianos.com
 0.0.0.0 biddingenterprise.com.au
 0.0.0.0 biddyaniketonhighschool.com
@@ -193,7 +198,6 @@
 0.0.0.0 cargoconnect.online
 0.0.0.0 caribobeachresort.com
 0.0.0.0 casadabateria.com
-0.0.0.0 casamuseoayerbe.co
 0.0.0.0 castlecarrent.com
 0.0.0.0 catvalor.com
 0.0.0.0 cbcmodesto.org
@@ -232,6 +236,7 @@
 0.0.0.0 cohortcapitals.com
 0.0.0.0 coiffurepacitto.com
 0.0.0.0 cointra.ac.ug
+0.0.0.0 colisumy.com
 0.0.0.0 comfyevents.com
 0.0.0.0 commandoforex.com
 0.0.0.0 complejo89.cl
@@ -246,6 +251,7 @@
 0.0.0.0 copadegypt.com
 0.0.0.0 copikon.com
 0.0.0.0 corpolevesuplementos.com.br
+0.0.0.0 corpotechgroup.com
 0.0.0.0 corsyne.com
 0.0.0.0 count.mail.163.com.impactmedfoundation.com
 0.0.0.0 countrychristmas.ca
@@ -278,6 +284,7 @@
 0.0.0.0 demirelmarka.com
 0.0.0.0 demo-re-usables.inertiasoft.net
 0.0.0.0 demo.omnitech.co.ug
+0.0.0.0 demonware.online
 0.0.0.0 dental.xiaoxiao.media
 0.0.0.0 derekludlow.com
 0.0.0.0 designolab.online
@@ -304,6 +311,7 @@
 0.0.0.0 downchatgpt.xyz
 0.0.0.0 download.caihong.com
 0.0.0.0 download.doumaibiji.cn
+0.0.0.0 download.pdf00.cn
 0.0.0.0 dowsa.net
 0.0.0.0 dozajans.com
 0.0.0.0 drhanneserasmus.co.za
@@ -318,6 +326,7 @@
 0.0.0.0 dukaree.com
 0.0.0.0 dutulongxuyen.com
 0.0.0.0 e-commerce.saleensuporte.com.br
+0.0.0.0 e-hemsire.net
 0.0.0.0 e-moio.com
 0.0.0.0 eagleuhd.com
 0.0.0.0 easterninstrumed.com
@@ -399,6 +408,7 @@
 0.0.0.0 fodexy.com
 0.0.0.0 foodsssl.com
 0.0.0.0 forbesadvert.com
+0.0.0.0 fran.ac.ug
 0.0.0.0 fransceysse.ac.ug
 0.0.0.0 frey2.com
 0.0.0.0 frozenhub.nl
@@ -468,6 +478,7 @@
 0.0.0.0 highness-sa.com
 0.0.0.0 himalayantravelholidays.com
 0.0.0.0 hipotesis.uy
+0.0.0.0 hitstation.nl
 0.0.0.0 hm-international.com
 0.0.0.0 homtex.in
 0.0.0.0 hotdelivery.com
@@ -485,6 +496,7 @@
 0.0.0.0 ianjesuscr.org
 0.0.0.0 ibraralico.com
 0.0.0.0 icondude.com
+0.0.0.0 idrissischool.edu.my
 0.0.0.0 idsexpo.com
 0.0.0.0 ifreemagazines.com
 0.0.0.0 ihopkcportugues.com
@@ -540,6 +552,8 @@
 0.0.0.0 jointings.org
 0.0.0.0 jojoexports.com
 0.0.0.0 joker123truewallet.net
+0.0.0.0 jp.imgjeoighw.com
+0.0.0.0 jr-software-web.net
 0.0.0.0 jskgdhjkdfhjdkjhd844.ru
 0.0.0.0 jsl.com.ng
 0.0.0.0 juliereyesrealtorteam.site
@@ -550,7 +564,6 @@
 0.0.0.0 karapinarhaber.com.tr
 0.0.0.0 kardeslerboncukhediyelik.com
 0.0.0.0 karer.by
-0.0.0.0 karimgousa.ug
 0.0.0.0 karimgouss.ug
 0.0.0.0 karvinternational.com
 0.0.0.0 kcac.org.au
@@ -662,7 +675,6 @@
 0.0.0.0 millatuibrahimkano.com
 0.0.0.0 milleniuninformatica.com.br
 0.0.0.0 mindfree.co.za
-0.0.0.0 miningpanel.sclad.solutions
 0.0.0.0 mistitis.ug
 0.0.0.0 mistydeblasiophotography.com
 0.0.0.0 mkblaboratoire.com
@@ -702,6 +714,7 @@
 0.0.0.0 nladfk.com
 0.0.0.0 noithathoanggiatn.com
 0.0.0.0 noithatxuanchien.com
+0.0.0.0 noobquan.xyz
 0.0.0.0 noor786110.com
 0.0.0.0 nooranbeauty.com
 0.0.0.0 nortechng.com
@@ -726,7 +739,6 @@
 0.0.0.0 oligaro.com
 0.0.0.0 olugun.co.za
 0.0.0.0 olymposgame.com
-0.0.0.0 omeryener.com.tr
 0.0.0.0 omeshan.com
 0.0.0.0 oncologico.org.do
 0.0.0.0 onestopsilkscreeners.ca
@@ -787,6 +799,8 @@
 0.0.0.0 pipclass.com
 0.0.0.0 planetedev.info
 0.0.0.0 plaza-center.com
+0.0.0.0 pn-raha.go.id
+0.0.0.0 pns.org.pk
 0.0.0.0 pointblanknews.com
 0.0.0.0 pologroundsmusic.com
 0.0.0.0 polushka.net
@@ -828,7 +842,6 @@
 0.0.0.0 raptplay.com
 0.0.0.0 rapture2.romangrey.net
 0.0.0.0 rbzjewellers.com
-0.0.0.0 re-corre.com
 0.0.0.0 realizemyproject.com
 0.0.0.0 records.dennisign.se
 0.0.0.0 recrealtor.com
@@ -918,6 +931,7 @@
 0.0.0.0 sicramadigital.com
 0.0.0.0 signetdigital.com
 0.0.0.0 simaprolatam.org
+0.0.0.0 sipo.ru
 0.0.0.0 sirinatpetrol.com
 0.0.0.0 sirinatservis.com
 0.0.0.0 sirinatureroost.com
@@ -944,9 +958,10 @@
 0.0.0.0 spaceframe.mobi.space-frame.co.za
 0.0.0.0 spandhana.co.in
 0.0.0.0 spartancv.co.uk
-0.0.0.0 speedlab.com.eg
+0.0.0.0 speedwell.com.bd
 0.0.0.0 speedycabng.com
 0.0.0.0 spices.com.sg
+0.0.0.0 spiritualoutdooradventures.org
 0.0.0.0 src1.minibai.com
 0.0.0.0 srv-fattureincloud.de
 0.0.0.0 sshd.run
@@ -992,7 +1007,6 @@
 0.0.0.0 tenants.com
 0.0.0.0 tessacharpentier.com
 0.0.0.0 test.earborist.com
-0.0.0.0 test.typoten.com
 0.0.0.0 testsieger-online.com
 0.0.0.0 theclearclass.com
 0.0.0.0 thecrescentschools.com
@@ -1069,7 +1083,6 @@
 0.0.0.0 user1681261126533.requestly.dev
 0.0.0.0 utkalautomobiles.com
 0.0.0.0 uxsingh.com
-0.0.0.0 uylab.org
 0.0.0.0 vainavitechnologies.com
 0.0.0.0 vaishnaoigroup.com
 0.0.0.0 valensamenities.com
@@ -1107,7 +1120,6 @@
 0.0.0.0 websound.ru
 0.0.0.0 wefoundworld.com
 0.0.0.0 wetryp.com
-0.0.0.0 whatelles.nl
 0.0.0.0 widowget.top
 0.0.0.0 wilshirelabs.com
 0.0.0.0 windcomtechnologies.com
@@ -1156,7 +1168,9 @@
 0.0.0.0 www.maxmoney.com
 0.0.0.0 www.mediakomen.com
 0.0.0.0 www.moninediy.com
+0.0.0.0 www.movidoc.com.br
 0.0.0.0 www.neshuafoods.com
+0.0.0.0 www.nprlogistica.com.br
 0.0.0.0 www.opolis.io
 0.0.0.0 www.palharesinformatica.com.br
 0.0.0.0 www.piaozone.com
@@ -1168,6 +1182,7 @@
 0.0.0.0 www.snappyshop.it
 0.0.0.0 www.starcountry.net
 0.0.0.0 www.sunglassesninja.com
+0.0.0.0 www.tradeinsights.net
 0.0.0.0 www.tvculturaourofino.com.br
 0.0.0.0 www.vaestsolutions.com
 0.0.0.0 www.vivaedeixeviver.org.br
@@ -1197,5 +1212,6 @@
 0.0.0.0 zankgroup.fr
 0.0.0.0 zaofisa.net
 0.0.0.0 zf.gouzapay.cn
+0.0.0.0 zhaoziliao1668.cn
 0.0.0.0 zmqnbags.com
-# Number of entries: 1192
+# Number of entries: 1208
