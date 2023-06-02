@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-06-02 03:57:21 (UTC)                      #
+# Last updated: 2023-06-02 04:54:17 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -133,11 +133,11 @@
 127.0.0.1 bbc-s.news
 127.0.0.1 bdconsulting-cm.com
 127.0.0.1 beachwood.ug
+127.0.0.1 bearcatpumps.com.cn
 127.0.0.1 beautifulqueen.com.br
 127.0.0.1 beauty-house-ye.com
 127.0.0.1 bebessi.com.tr
 127.0.0.1 bencevendeghaz.hu
-127.0.0.1 benwellgroup.co.uk
 127.0.0.1 besteducationlearn.com
 127.0.0.1 bethelmbcarvada.org
 127.0.0.1 bibianos.com
@@ -178,7 +178,6 @@
 127.0.0.1 canadianused.com
 127.0.0.1 canconsulting.in
 127.0.0.1 capitalperurrhh.com
-127.0.0.1 cargoconnect.online
 127.0.0.1 caribobeachresort.com
 127.0.0.1 casadabateria.com
 127.0.0.1 casamuseoayerbe.co
@@ -214,6 +213,7 @@
 127.0.0.1 cognicen.com
 127.0.0.1 cohortcapitals.com
 127.0.0.1 cointra.ac.ug
+127.0.0.1 colisumy.com
 127.0.0.1 comfyevents.com
 127.0.0.1 commandoforex.com
 127.0.0.1 complejo89.cl
@@ -227,10 +227,12 @@
 127.0.0.1 copadegypt.com
 127.0.0.1 copikon.com
 127.0.0.1 corpolevesuplementos.com.br
+127.0.0.1 corpotechgroup.com
 127.0.0.1 corsyne.com
 127.0.0.1 count.mail.163.com.impactmedfoundation.com
 127.0.0.1 countrychristmas.ca
 127.0.0.1 countrywideprocess.net
+127.0.0.1 crackload.net
 127.0.0.1 cracksmsa.ug
 127.0.0.1 crsn.com.ar
 127.0.0.1 crystalcoin.cc
@@ -250,7 +252,6 @@
 127.0.0.1 deerwatches.com
 127.0.0.1 deine-bewerbung.com
 127.0.0.1 dekor-kitchens.co.uk
-127.0.0.1 demirelmarka.com
 127.0.0.1 demo-re-usables.inertiasoft.net
 127.0.0.1 demo.omnitech.co.ug
 127.0.0.1 demonware.online
@@ -379,6 +380,7 @@
 127.0.0.1 gabyagozetim.com
 127.0.0.1 gaepensino.net
 127.0.0.1 galerabeachartvillas.com
+127.0.0.1 gapegape.co.za
 127.0.0.1 garokelka.com
 127.0.0.1 gawahweekly.com
 127.0.0.1 gbsports.theapplab.org
@@ -392,7 +394,6 @@
 127.0.0.1 globalhealthcareltd.com
 127.0.0.1 globuscertifications.com
 127.0.0.1 gobesitysurgery.com
-127.0.0.1 godstar.com.br
 127.0.0.1 goldrush.ug
 127.0.0.1 gomlgaming.dev
 127.0.0.1 goromgorom.com
@@ -403,7 +404,6 @@
 127.0.0.1 grasshoppervanlines.com
 127.0.0.1 greenisco.com
 127.0.0.1 greenlizard.co.za
-127.0.0.1 greyfordacademy1.com
 127.0.0.1 grupo-cala.com
 127.0.0.1 gsmobile.es
 127.0.0.1 gsscorporationltd.com
@@ -433,6 +433,7 @@
 127.0.0.1 highness-sa.com
 127.0.0.1 himalayantravelholidays.com
 127.0.0.1 hipotesis.uy
+127.0.0.1 hitstation.nl
 127.0.0.1 hm-international.com
 127.0.0.1 homtex.in
 127.0.0.1 hotdelivery.com
@@ -464,6 +465,7 @@
 127.0.0.1 imrancoaching.com
 127.0.0.1 incotel.com.pk
 127.0.0.1 indianrobostore.com
+127.0.0.1 indolian.com
 127.0.0.1 indonesias.me
 127.0.0.1 indrasbikaner.com
 127.0.0.1 infigroupsindia.com
@@ -476,7 +478,6 @@
 127.0.0.1 iohp.org
 127.0.0.1 iohp.org.do
 127.0.0.1 iongencorp.com
-127.0.0.1 iprovietnam.com
 127.0.0.1 irembo.com
 127.0.0.1 isat.net.mx
 127.0.0.1 islandmuslimcommunity.org
@@ -547,6 +548,7 @@
 127.0.0.1 leepebitz.com
 127.0.0.1 lesdeuxpalmiers.com
 127.0.0.1 letco.org
+127.0.0.1 letsggoo.com
 127.0.0.1 library.arihantmbainstitute.ac.in
 127.0.0.1 lindnerelektroanlagen.de
 127.0.0.1 linkajobs.com
@@ -596,7 +598,6 @@
 127.0.0.1 medcar.com.tn
 127.0.0.1 medicalbillingandtelehealth.com
 127.0.0.1 medstream-ea.com
-127.0.0.1 meeweb.com
 127.0.0.1 meiieco.fr
 127.0.0.1 melaniegowen.com
 127.0.0.1 mendezplumbingservicellc.com
@@ -626,11 +627,11 @@
 127.0.0.1 mrketiando.com.br
 127.0.0.1 mszjapan.com
 127.0.0.1 mtnpalmsmanorafh.com
+127.0.0.1 mumgee.co.za
 127.0.0.1 musicaondemand.com
 127.0.0.1 muslimfinance.co.uk
 127.0.0.1 mutqun.com
 127.0.0.1 mysura.it
-127.0.0.1 mytheacademy.com
 127.0.0.1 nafeescables.com
 127.0.0.1 naijamp3tv.com
 127.0.0.1 namthaibinh.net
@@ -666,7 +667,6 @@
 127.0.0.1 nyptpob.com
 127.0.0.1 oasisandmore.com
 127.0.0.1 oazahotel.com.mk
-127.0.0.1 oceancityrentalbyowner.com
 127.0.0.1 ochies.com
 127.0.0.1 octoprocuring.com
 127.0.0.1 oilgasin.com
@@ -700,13 +700,13 @@
 127.0.0.1 outdoortacklebox.com
 127.0.0.1 outletmodafirmata.com
 127.0.0.1 ovajabmedia.com
-127.0.0.1 ozelmimarsinanmtal.com
 127.0.0.1 ozla1a.shop
 127.0.0.1 ozvita.club
 127.0.0.1 pablobrothel.com.ar
 127.0.0.1 pakistancomparison.com
 127.0.0.1 palharesinformatica.com.br
 127.0.0.1 panditengineering.com
+127.0.0.1 parallel.rockvideos.at
 127.0.0.1 parrotbay.net
 127.0.0.1 pascasarjana.iainfmpapua.ac.id
 127.0.0.1 passmyassignment.org
@@ -733,7 +733,6 @@
 127.0.0.1 pns.org.pk
 127.0.0.1 pologroundsmusic.com
 127.0.0.1 polushka.net
-127.0.0.1 ponizinny.nl
 127.0.0.1 pooramkuries.com
 127.0.0.1 portmapp.com
 127.0.0.1 posmicrosystems.com
@@ -780,12 +779,14 @@
 127.0.0.1 religionobserver.com
 127.0.0.1 remotaja.com
 127.0.0.1 renacer.jgorange.com
+127.0.0.1 repairhubpat.com
 127.0.0.1 reposebay.com
 127.0.0.1 requestly.dev
 127.0.0.1 respekt5568.com
 127.0.0.1 retailexpertscloud.com
 127.0.0.1 retrenia.com
 127.0.0.1 rhemagospelchurch.org
+127.0.0.1 richterhi-tech.com
 127.0.0.1 ritus.com.br
 127.0.0.1 rollsbeer.com
 127.0.0.1 ronaldlitt.top
@@ -829,7 +830,6 @@
 127.0.0.1 seekthenature.com
 127.0.0.1 senbiaojita.com
 127.0.0.1 senderolunarejo.com
-127.0.0.1 seniorweekoc.net
 127.0.0.1 sercitec.com
 127.0.0.1 sertvs.com
 127.0.0.1 server.easysalepage.in.th
@@ -837,7 +837,6 @@
 127.0.0.1 server1.childrenspiace.us
 127.0.0.1 servisaludocupacional.pe
 127.0.0.1 shahu66.com
-127.0.0.1 shayanefaizconst.com
 127.0.0.1 shayksatay.com
 127.0.0.1 shemis.co
 127.0.0.1 sherwoodsproperty.com
@@ -863,8 +862,8 @@
 127.0.0.1 smmserverpro.com
 127.0.0.1 soaresdesigner.com.br
 127.0.0.1 socacic.com
+127.0.0.1 sociallysavvyseo.com
 127.0.0.1 sociopoolindia.com
-127.0.0.1 soft.110route.com
 127.0.0.1 softs-lab.ru
 127.0.0.1 sohojeshekha.com
 127.0.0.1 solapurcancer.com
@@ -878,7 +877,6 @@
 127.0.0.1 speedwell.com.bd
 127.0.0.1 speedycabng.com
 127.0.0.1 spices.com.sg
-127.0.0.1 spiritualoutdooradventures.org
 127.0.0.1 src1.minibai.com
 127.0.0.1 srv-fattureincloud.de
 127.0.0.1 sshd.run
@@ -943,6 +941,7 @@
 127.0.0.1 thulasipharmacy.com
 127.0.0.1 tiblej.com
 127.0.0.1 tiemvangngoctham.com
+127.0.0.1 timamollo.co.za
 127.0.0.1 timkubal.com
 127.0.0.1 tinubushettimadata.com
 127.0.0.1 tipsfreehealth.com
@@ -961,7 +960,6 @@
 127.0.0.1 trasportisodano.it
 127.0.0.1 travelwithmanta.co.za
 127.0.0.1 treadlefish.net
-127.0.0.1 trieutin.com
 127.0.0.1 trucknow.com
 127.0.0.1 trustmeemily.com
 127.0.0.1 tudien.org.vn
@@ -1056,6 +1054,7 @@
 127.0.0.1 www.charmingsoftech.com
 127.0.0.1 www.chawkyfrenn.com
 127.0.0.1 www.chemsky.tn
+127.0.0.1 www.chipmania.it
 127.0.0.1 www.clinicamomentum.com.br
 127.0.0.1 www.dacui.online
 127.0.0.1 www.dental.xiaoxiao.media
@@ -1082,6 +1081,7 @@
 127.0.0.1 www.reifenquick.de
 127.0.0.1 www.reiwo-service.de
 127.0.0.1 www.roofing.galacticleads.com
+127.0.0.1 www.saf-oil.ru
 127.0.0.1 www.smpnuruliman.xyz
 127.0.0.1 www.snappyshop.it
 127.0.0.1 www.starcountry.net
@@ -1091,7 +1091,6 @@
 127.0.0.1 www.vaestsolutions.com
 127.0.0.1 www.vivaedeixeviver.org.br
 127.0.0.1 www.websound.ru
-127.0.0.1 www.weinsteincounseling.com
 127.0.0.1 www.ysbaojia.com
 127.0.0.1 wynecare.com
 127.0.0.1 x.233sy.cn
@@ -1100,7 +1099,7 @@
 127.0.0.1 xmanager.in
 127.0.0.1 xn----7sbhgfcdscaa3cdd6dq3e3dvf.xn--p1ai
 127.0.0.1 xrpreward.live
-127.0.0.1 xyktza.nbxyk.net
+127.0.0.1 xt.lykj988.com
 127.0.0.1 yallanzakeronline.com
 127.0.0.1 yarrowenterprise.com
 127.0.0.1 ycnexgroup.com
@@ -1115,4 +1114,4 @@
 127.0.0.1 zf.gouzapay.cn
 127.0.0.1 zhaoziliao1668.cn
 127.0.0.1 zmqnbags.com
-# Number of entries: 1109
+# Number of entries: 1108
