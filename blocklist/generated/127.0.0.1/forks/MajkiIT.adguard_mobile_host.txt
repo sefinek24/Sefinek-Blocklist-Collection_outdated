@@ -1,4 +1,4 @@
-#202305310303
+#202306020303
 # Adguard Mobile Host filters for Pi hole
 # Collaborators: xxcriticxx, MajkiIT
 # Homepage: https://www.certyficate.it/
@@ -236,6 +236,7 @@
 127.0.0.1 an.facebook.com
 127.0.0.1 analytics.scalemonk.com
 127.0.0.1 aniview.com
+127.0.0.1 anythinktech.com
 127.0.0.1 ap.smardroid.com
 127.0.0.1 api-a.op-mobile.opera.com
 127.0.0.1 api-ad-adapter.wps.com
@@ -393,6 +394,7 @@
 127.0.0.1 d27tpsznug51gz.cloudfront.net
 127.0.0.1 d2nrdy2pg3k168.cloudfront.net
 127.0.0.1 d32z5ni8t5127x.cloudfront.net
+127.0.0.1 d3hdbjtb1686tn.cloudfront.net
 127.0.0.1 d60y8cj1tje2a.cloudfront.net
 127.0.0.1 d830x8j3o1b2k.cloudfront.net
 127.0.0.1 dad-api.dcard.tw
@@ -479,6 +481,7 @@
 127.0.0.1 hqsjc.com
 127.0.0.1 httpool.com
 127.0.0.1 huntmad.com
+127.0.0.1 hybird.rayjump.com
 127.0.0.1 hybrid.ai
 127.0.0.1 hyperadx.com
 127.0.0.1 i-mobile.co.jp
@@ -699,6 +702,7 @@
 127.0.0.1 rtb.platform.glispa.com
 127.0.0.1 s-adx.op-mobile.opera.com
 127.0.0.1 s.adx.opera.com
+127.0.0.1 s.hisp.in
 127.0.0.1 s3.ttpsdk.info
 127.0.0.1 saymedia.com
 127.0.0.1 sc.smardroid.com

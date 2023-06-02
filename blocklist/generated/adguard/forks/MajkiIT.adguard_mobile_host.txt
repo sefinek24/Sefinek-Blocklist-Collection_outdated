@@ -1,4 +1,4 @@
-!202305310303
+!202306020303
 ! Adguard Mobile Host filters for Pi hole
 ! Collaborators: xxcriticxx, MajkiIT
 ! Homepage: https://www.certyficate.it/
@@ -236,6 +236,7 @@
 ||an.facebook.com^
 ||analytics.scalemonk.com^
 ||aniview.com^
+||anythinktech.com^
 ||ap.smardroid.com^
 ||api-a.op-mobile.opera.com^
 ||api-ad-adapter.wps.com^
@@ -393,6 +394,7 @@
 ||d27tpsznug51gz.cloudfront.net^
 ||d2nrdy2pg3k168.cloudfront.net^
 ||d32z5ni8t5127x.cloudfront.net^
+||d3hdbjtb1686tn.cloudfront.net^
 ||d60y8cj1tje2a.cloudfront.net^
 ||d830x8j3o1b2k.cloudfront.net^
 ||dad-api.dcard.tw^
@@ -479,6 +481,7 @@
 ||hqsjc.com^
 ||httpool.com^
 ||huntmad.com^
+||hybird.rayjump.com^
 ||hybrid.ai^
 ||hyperadx.com^
 ||i-mobile.co.jp^
@@ -699,6 +702,7 @@
 ||rtb.platform.glispa.com^
 ||s-adx.op-mobile.opera.com^
 ||s.adx.opera.com^
+||s.hisp.in^
 ||s3.ttpsdk.info^
 ||saymedia.com^
 ||sc.smardroid.com^

@@ -1,5 +1,5 @@
 # Title: Lightswitch05's hate-and-junk-extended.txt
-# Released: 2023-05-30T01:05:25+00:00
+# Released: 2023-06-02T01:05:26+00:00
 # Count: 1857 domains
 # Homepage: https://www.github.developerdan.com/hosts/
 # Issues: https://github.com/lightswitch05/hosts/issues
@@ -319,6 +319,7 @@
 127.0.0.1 shop.isitwetyet.com
 127.0.0.1 www.isitwetyet.com
 127.0.0.1 jadeegg.com
+127.0.0.1 partners.jadeegg.com
 127.0.0.1 www.jadeegg.com
 127.0.0.1 joyinliberty.com
 127.0.0.1 bdev.joyinliberty.com
@@ -1024,7 +1025,6 @@
 127.0.0.1 webmail.qresearch.it
 127.0.0.1 www.qresearch.it
 127.0.0.1 afa.net
-127.0.0.1 activate.afa.net
 127.0.0.1 admin.afa.net
 127.0.0.1 adserver.afa.net
 127.0.0.1 afapledge.afa.net
