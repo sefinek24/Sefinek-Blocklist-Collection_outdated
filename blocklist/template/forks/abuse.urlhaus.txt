@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-06-02 02:19:29 (UTC)                      #
+# Last updated: 2023-06-02 02:50:40 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -34,7 +34,6 @@
 0.0.0.0 acarels.com
 0.0.0.0 accede.net
 0.0.0.0 acdpk.org
-0.0.0.0 acellr.co.uk
 0.0.0.0 acrhitechinfo.com
 0.0.0.0 activesupportandcare.org.ng
 0.0.0.0 acutweb.com
@@ -45,6 +44,7 @@
 0.0.0.0 afauto.it
 0.0.0.0 afiadv.org
 0.0.0.0 africatravelhub.com
+0.0.0.0 afromerchants.co.zw
 0.0.0.0 agemn.co.za
 0.0.0.0 agraartandcraft.com
 0.0.0.0 agrominingtecnologia.net.br
@@ -309,6 +309,7 @@
 0.0.0.0 educajuris.cl
 0.0.0.0 edumontonline.com
 0.0.0.0 eftfbd.org
+0.0.0.0 egsso.net
 0.0.0.0 egwis.com
 0.0.0.0 ejbreneman.com
 0.0.0.0 ekoloji.eleganzaajans.com
@@ -334,7 +335,6 @@
 0.0.0.0 eurooknamsk.ru
 0.0.0.0 evolucionaotec.cl
 0.0.0.0 exa-smart.com
-0.0.0.0 exilum.com
 0.0.0.0 exoticoo.com
 0.0.0.0 expaceos.com
 0.0.0.0 expopioneros.com
@@ -400,7 +400,6 @@
 0.0.0.0 grasshoppervanlines.com
 0.0.0.0 greenisco.com
 0.0.0.0 greenlizard.co.za
-0.0.0.0 greyfordacademy1.com
 0.0.0.0 grupo-cala.com
 0.0.0.0 gsmobile.es
 0.0.0.0 gsscorporationltd.com
@@ -494,6 +493,7 @@
 0.0.0.0 ji.jahhaega2qq.com
 0.0.0.0 jjscurrency.com
 0.0.0.0 jkalfa.com
+0.0.0.0 jobcity.com
 0.0.0.0 jointings.org
 0.0.0.0 jojoexports.com
 0.0.0.0 joker123truewallet.net
@@ -531,7 +531,6 @@
 0.0.0.0 kuvhal.com
 0.0.0.0 lahotte.net
 0.0.0.0 lakirasa.com
-0.0.0.0 lameguard.ru
 0.0.0.0 lamiera.net
 0.0.0.0 laperlaapp.com
 0.0.0.0 lara.amiyon.com
@@ -598,8 +597,10 @@
 0.0.0.0 meeweb.com
 0.0.0.0 meiieco.fr
 0.0.0.0 melaniegowen.com
+0.0.0.0 mendezplumbingservicellc.com
 0.0.0.0 mentortpa.com
 0.0.0.0 meonhanong.com
+0.0.0.0 mepstein.com
 0.0.0.0 mesoftwares.vip
 0.0.0.0 metalurgistas.com
 0.0.0.0 mexicoautomatico.com
@@ -707,6 +708,7 @@
 0.0.0.0 palharesinformatica.com.br
 0.0.0.0 panditengineering.com
 0.0.0.0 parrotbay.net
+0.0.0.0 pascasarjana.iainfmpapua.ac.id
 0.0.0.0 passmyassignment.org
 0.0.0.0 paste-bin.xyz
 0.0.0.0 patmypets.com
@@ -736,7 +738,6 @@
 0.0.0.0 portmapp.com
 0.0.0.0 posmicrosystems.com
 0.0.0.0 potolki-razumno.ru
-0.0.0.0 ppfatahillah.com
 0.0.0.0 prasinosimports.com
 0.0.0.0 prestigehomeautomation.net
 0.0.0.0 primusth.com
@@ -750,6 +751,7 @@
 0.0.0.0 publisherget.top
 0.0.0.0 pueblomacabeo.com
 0.0.0.0 punjabdevelopersassociation.com.pk
+0.0.0.0 pyrd5.xyz
 0.0.0.0 qadirpharmaceuticals.com
 0.0.0.0 qadonline.org
 0.0.0.0 qassimnews.com
@@ -784,7 +786,6 @@
 0.0.0.0 retailexpertscloud.com
 0.0.0.0 retrenia.com
 0.0.0.0 rhemagospelchurch.org
-0.0.0.0 richterhi-tech.com
 0.0.0.0 ritus.com.br
 0.0.0.0 rollsbeer.com
 0.0.0.0 ronaldlitt.top
@@ -834,7 +835,9 @@
 0.0.0.0 server.easysalepage.in.th
 0.0.0.0 server.toeicswt.co.kr
 0.0.0.0 server1.childrenspiace.us
+0.0.0.0 servisaludocupacional.pe
 0.0.0.0 shahu66.com
+0.0.0.0 shayanefaizconst.com
 0.0.0.0 shayksatay.com
 0.0.0.0 shemis.co
 0.0.0.0 sherwoodsproperty.com
@@ -842,6 +845,7 @@
 0.0.0.0 shipminttracking.net
 0.0.0.0 shivhement.com
 0.0.0.0 shop.mediasova.ru
+0.0.0.0 shsplatform.co.uk
 0.0.0.0 sicramadigital.com
 0.0.0.0 signetdigital.com
 0.0.0.0 simaprolatam.org
@@ -917,6 +921,7 @@
 0.0.0.0 telesense-carrier.com
 0.0.0.0 temptmag.com
 0.0.0.0 tenants.com
+0.0.0.0 tengfeidn.com
 0.0.0.0 tessacharpentier.com
 0.0.0.0 test.earborist.com
 0.0.0.0 test.typoten.com
@@ -931,6 +936,7 @@
 0.0.0.0 thenaturalflavorproject.com
 0.0.0.0 therootzshop.com
 0.0.0.0 thesmilesshop.com
+0.0.0.0 thetulumtakeover.com
 0.0.0.0 thetuxedoshoppe.com
 0.0.0.0 thextra2.com
 0.0.0.0 thomasakvo.com
@@ -957,6 +963,7 @@
 0.0.0.0 trasportisodano.it
 0.0.0.0 travelwithmanta.co.za
 0.0.0.0 treadlefish.net
+0.0.0.0 trieutin.com
 0.0.0.0 trucknow.com
 0.0.0.0 trustmeemily.com
 0.0.0.0 tudien.org.vn
@@ -1006,6 +1013,7 @@
 0.0.0.0 vietroll.vn
 0.0.0.0 vip-monitoring.com
 0.0.0.0 vipysknik.by
+0.0.0.0 virtualplaya.com
 0.0.0.0 visioni2c.com
 0.0.0.0 vitalsync.org
 0.0.0.0 vitoturizm.com.tr
@@ -1014,6 +1022,7 @@
 0.0.0.0 vpn.sclad.team
 0.0.0.0 vtutrade.com
 0.0.0.0 wajahatenterprises.com
+0.0.0.0 walkindrivetoday.com
 0.0.0.0 wallowemb.com
 0.0.0.0 wchelpquest.org
 0.0.0.0 web.geomegasoft.net
@@ -1041,6 +1050,7 @@
 0.0.0.0 www.alertsecurities.in
 0.0.0.0 www.amazonmall.club
 0.0.0.0 www.arkidecture.com
+0.0.0.0 www.artrsllc.com
 0.0.0.0 www.asterglobal.com
 0.0.0.0 www.bancarioscornelio.com.br
 0.0.0.0 www.bearware.org
@@ -1050,6 +1060,7 @@
 0.0.0.0 www.chawkyfrenn.com
 0.0.0.0 www.chemsky.tn
 0.0.0.0 www.clinicamomentum.com.br
+0.0.0.0 www.dacui.online
 0.0.0.0 www.dental.xiaoxiao.media
 0.0.0.0 www.dld.ae
 0.0.0.0 www.enc-tech.com
@@ -1058,11 +1069,13 @@
 0.0.0.0 www.hebgb.top
 0.0.0.0 www.hseda.com
 0.0.0.0 www.infinity-systems.it
+0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.institut-corps-a-ligne.fr
 0.0.0.0 www.janisthaaivf.com
 0.0.0.0 www.ks.cn
 0.0.0.0 www.lasikofmichigan.com
 0.0.0.0 www.lebuffet.com.tn
+0.0.0.0 www.maxmoney.com
 0.0.0.0 www.mediakomen.com
 0.0.0.0 www.neshuafoods.com
 0.0.0.0 www.opolis.io
@@ -1097,11 +1110,11 @@
 0.0.0.0 yeichner.com
 0.0.0.0 yesdeko.com
 0.0.0.0 ymmlyrecipes.com
-0.0.0.0 yp.hnggzyjy.cn
 0.0.0.0 yzkzixun.com
 0.0.0.0 zainco.net
 0.0.0.0 zankgroup.fr
+0.0.0.0 zaofisa.net
 0.0.0.0 zf.gouzapay.cn
 0.0.0.0 zhaoziliao1668.cn
 0.0.0.0 zmqnbags.com
-# Number of entries: 1098
+# Number of entries: 1111
