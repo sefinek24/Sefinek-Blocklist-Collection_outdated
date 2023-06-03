@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 30 May 2023 15:46 UTC+7
-# Version: 2305301546
-# Blocked: 18,145 domains
+# Last modified: 03 Jun 2023 21:29 UTC+7
+# Version: 2306032129
+# Blocked: 18,151 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2125,10 +2125,6 @@ server=/update.rubiconproject.com/
 server=/video-ads-apex.rubiconproject.com/
 server=/video-ads.rubiconproject.com/
 server=/www.rubiconproject.com/
-#[iesnare.com]
-server=/iesnare.com/
-server=/mpsnare.iesnare.com/
-server=/www.iesnare.com/
 #[fyber.com]
 server=/api-rewarded-video.fyber.com/
 server=/api.fyber.com/
@@ -11169,6 +11165,7 @@ server=/ads.livetv644.me/
 server=/ads.livetv655.me/
 server=/ads.livetv658.me/
 server=/ads.livetv662.me/
+server=/ads.livetv664.me/
 #[company-target.com]
 server=/company-target.com/
 server=/api-staging.company-target.com/
@@ -13093,6 +13090,7 @@ server=/logs.docnhanh.com.vn/
 server=/logs.thethaovanhoa.vn/
 server=/logsbin.dantri.com.vn/
 server=/logscafef.channelvn.net/
+server=/logv3.metric.vn/
 server=/marketing.itgeek.vn/
 server=/matomo.quan.hoabinh.vn/
 server=/mautic.200lab.io/
@@ -15157,6 +15155,10 @@ server=/daijopimplo.com/
 server=/daincautela.com/
 server=/daisycontroversy.com/
 server=/dakic-ia-300.com/
+server=/dalyai.com/
+server=/dalyio.com/
+server=/dalysb.com/
+server=/dalysh.com/
 server=/damaged-shop.pro/
 server=/damdoor.com/
 server=/danban.com/
@@ -15312,6 +15314,7 @@ server=/doublepimpads.com/
 server=/doubtfulrainstorm.com/
 server=/downloadr.xyz/
 server=/dozubatan.com/
+server=/dpmawsiaaep.com/
 server=/dpyabvkadg.com/
 server=/dq3yxnlzwhcys.cloudfront.net/
 server=/dq95d35.com/
@@ -17080,6 +17083,7 @@ server=/papayamobile.com/
 server=/paradoxfactor.com/
 server=/parchedangle.com/
 server=/pardnergam.com/
+server=/parentlargevia.com/
 server=/parisjeroleinpg.com/
 server=/parsimoniouspolice.com/
 server=/partage-facile.com/
@@ -18517,6 +18521,7 @@ server=/washedrunaway.com/
 server=/wasplighthouse.com/
 server=/watchingthat.com/
 server=/wateryvan.com/
+server=/waufooke.com/
 server=/waust.at/
 server=/wauthaik.net/
 server=/waxpigbaa.com/

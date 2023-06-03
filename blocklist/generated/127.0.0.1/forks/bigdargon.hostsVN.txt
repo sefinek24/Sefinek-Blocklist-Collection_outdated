@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 30 May 2023 15:46 UTC+7
-# Version: 2305301546
-# Blocked: 18,145 domains
+# Last modified: 03 Jun 2023 21:29 UTC+7
+# Version: 2306032129
+# Blocked: 18,151 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2125,10 +2125,6 @@
 127.0.0.1 video-ads-apex.rubiconproject.com
 127.0.0.1 video-ads.rubiconproject.com
 127.0.0.1 www.rubiconproject.com
-#[iesnare.com]
-127.0.0.1 iesnare.com
-127.0.0.1 mpsnare.iesnare.com
-127.0.0.1 www.iesnare.com
 #[fyber.com]
 127.0.0.1 api-rewarded-video.fyber.com
 127.0.0.1 api.fyber.com
@@ -11169,6 +11165,7 @@
 127.0.0.1 ads.livetv655.me
 127.0.0.1 ads.livetv658.me
 127.0.0.1 ads.livetv662.me
+127.0.0.1 ads.livetv664.me
 #[company-target.com]
 127.0.0.1 company-target.com
 127.0.0.1 api-staging.company-target.com
@@ -13093,6 +13090,7 @@
 127.0.0.1 logs.thethaovanhoa.vn
 127.0.0.1 logsbin.dantri.com.vn
 127.0.0.1 logscafef.channelvn.net
+127.0.0.1 logv3.metric.vn
 127.0.0.1 marketing.itgeek.vn
 127.0.0.1 matomo.quan.hoabinh.vn
 127.0.0.1 mautic.200lab.io
@@ -15157,6 +15155,10 @@
 127.0.0.1 daincautela.com
 127.0.0.1 daisycontroversy.com
 127.0.0.1 dakic-ia-300.com
+127.0.0.1 dalyai.com
+127.0.0.1 dalyio.com
+127.0.0.1 dalysb.com
+127.0.0.1 dalysh.com
 127.0.0.1 damaged-shop.pro
 127.0.0.1 damdoor.com
 127.0.0.1 danban.com
@@ -15312,6 +15314,7 @@
 127.0.0.1 doubtfulrainstorm.com
 127.0.0.1 downloadr.xyz
 127.0.0.1 dozubatan.com
+127.0.0.1 dpmawsiaaep.com
 127.0.0.1 dpyabvkadg.com
 127.0.0.1 dq3yxnlzwhcys.cloudfront.net
 127.0.0.1 dq95d35.com
@@ -17080,6 +17083,7 @@
 127.0.0.1 paradoxfactor.com
 127.0.0.1 parchedangle.com
 127.0.0.1 pardnergam.com
+127.0.0.1 parentlargevia.com
 127.0.0.1 parisjeroleinpg.com
 127.0.0.1 parsimoniouspolice.com
 127.0.0.1 partage-facile.com
@@ -18517,6 +18521,7 @@
 127.0.0.1 wasplighthouse.com
 127.0.0.1 watchingthat.com
 127.0.0.1 wateryvan.com
+127.0.0.1 waufooke.com
 127.0.0.1 waust.at
 127.0.0.1 wauthaik.net
 127.0.0.1 waxpigbaa.com
