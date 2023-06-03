@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-06-02 22:53:40 (UTC)                      #
+# Last updated: 2023-06-02 23:54:21 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -11,6 +11,7 @@
 0.0.0.0 1ct-diamond.hu
 0.0.0.0 1ecosolution.it
 0.0.0.0 2023foco.com.br
+0.0.0.0 20thstreetcoc.com
 0.0.0.0 230.btc-f2pool.top
 0.0.0.0 247xtrade.com
 0.0.0.0 33rdderryscouts.com
@@ -39,7 +40,6 @@
 0.0.0.0 acrhitechinfo.com
 0.0.0.0 activesupportandcare.org.ng
 0.0.0.0 acutweb.com
-0.0.0.0 adagro.com.br
 0.0.0.0 adblueeuro5.com
 0.0.0.0 admin.byte.in.ua
 0.0.0.0 aeonproducts.com
@@ -47,7 +47,6 @@
 0.0.0.0 afiadv.org
 0.0.0.0 africatravelhub.com
 0.0.0.0 afromerchants.co.zw
-0.0.0.0 agemn.co.za
 0.0.0.0 agraartandcraft.com
 0.0.0.0 agrominingtecnologia.net.br
 0.0.0.0 ahmadmassoud.net
@@ -93,6 +92,7 @@
 0.0.0.0 angelakelleyphotography.com
 0.0.0.0 antacobinhduong.com
 0.0.0.0 antoinettegabriel.com
+0.0.0.0 anydeskremote.shop
 0.0.0.0 aosafrica.co.za
 0.0.0.0 apexlinkz.com
 0.0.0.0 apexwholesaleinc.com
@@ -143,6 +143,8 @@
 0.0.0.0 bbc-s.news
 0.0.0.0 bcqatar.com
 0.0.0.0 bdconsulting-cm.com
+0.0.0.0 beachwood.ug
+0.0.0.0 bearcatpumps.com.cn
 0.0.0.0 beautifulqueen.com.br
 0.0.0.0 beauty-house-ye.com
 0.0.0.0 beautychoose.com
@@ -252,6 +254,7 @@
 0.0.0.0 copikon.com
 0.0.0.0 corpolevesuplementos.com.br
 0.0.0.0 corpotechgroup.com
+0.0.0.0 corsyne.com
 0.0.0.0 count.mail.163.com.impactmedfoundation.com
 0.0.0.0 countrychristmas.ca
 0.0.0.0 countrywideprocess.net
@@ -281,7 +284,6 @@
 0.0.0.0 dejandohuellasintheworld.com
 0.0.0.0 dekor-kitchens.co.uk
 0.0.0.0 demirelmarka.com
-0.0.0.0 demo-re-usables.inertiasoft.net
 0.0.0.0 demo.omnitech.co.ug
 0.0.0.0 demonware.online
 0.0.0.0 dental.xiaoxiao.media
@@ -359,6 +361,7 @@
 0.0.0.0 elpyldry.info
 0.0.0.0 elvalledetarrazu.com
 0.0.0.0 emaids.co.za
+0.0.0.0 emmanuelgroup.org
 0.0.0.0 enterpriseresearch.ac.uk
 0.0.0.0 epicmpls.com
 0.0.0.0 eraport.dfirma.pl
@@ -374,7 +377,6 @@
 0.0.0.0 eurelectradingltd.com
 0.0.0.0 eurocaseroma.com
 0.0.0.0 eurooknamsk.ru
-0.0.0.0 event.abr.org.ro
 0.0.0.0 evolucionaotec.cl
 0.0.0.0 exa-smart.com
 0.0.0.0 exilum.com
@@ -409,6 +411,7 @@
 0.0.0.0 foodsssl.com
 0.0.0.0 forbesadvert.com
 0.0.0.0 fran.ac.ug
+0.0.0.0 fransceysse.ac.ug
 0.0.0.0 frey2.com
 0.0.0.0 frozenhub.nl
 0.0.0.0 fukutex.net
@@ -445,7 +448,6 @@
 0.0.0.0 greenisco.com
 0.0.0.0 greenlizard.co.za
 0.0.0.0 greenreset.com
-0.0.0.0 greyfordacademy1.com
 0.0.0.0 grupo-cala.com
 0.0.0.0 gsmobile.es
 0.0.0.0 gsscorporationltd.com
@@ -483,7 +485,6 @@
 0.0.0.0 homtex.in
 0.0.0.0 hotdelivery.com
 0.0.0.0 houseatthebeachinoc.com
-0.0.0.0 houseofiron.org
 0.0.0.0 houssagynecologue.com
 0.0.0.0 hp.buytoprint.com
 0.0.0.0 hr2019.vrcom7.com
@@ -504,7 +505,6 @@
 0.0.0.0 iieecsa.com
 0.0.0.0 ileapinternational.org
 0.0.0.0 ilnadir.com
-0.0.0.0 iluminareodonto.com.br
 0.0.0.0 image-thaihometown.com
 0.0.0.0 imbueautoworx.co.za
 0.0.0.0 imit.ac.in
@@ -542,6 +542,7 @@
 0.0.0.0 jayalakshmitravels.com
 0.0.0.0 jayashapuratraders.com
 0.0.0.0 jbsacademy.com
+0.0.0.0 jcedu.org
 0.0.0.0 jhayesconsulting.com
 0.0.0.0 ji.ase6gasdegkk.com
 0.0.0.0 ji.jahhaega2qq.com
@@ -581,7 +582,6 @@
 0.0.0.0 kmphi.com
 0.0.0.0 komeeshun.com
 0.0.0.0 koriska.com
-0.0.0.0 kotogadang-pusako.com
 0.0.0.0 krystal-beauty.com
 0.0.0.0 kustens.com
 0.0.0.0 kuvhal.com
@@ -597,14 +597,12 @@
 0.0.0.0 lastimaners.ug
 0.0.0.0 launchfxm.com
 0.0.0.0 lavalebakery.com
-0.0.0.0 lceventos.net
 0.0.0.0 ldcc.org.do
 0.0.0.0 leafsuk.com.au
 0.0.0.0 leepebitz.com
 0.0.0.0 lenanka.com
 0.0.0.0 lesdeuxpalmiers.com
 0.0.0.0 letco.org
-0.0.0.0 letsggoo.com
 0.0.0.0 library.arihantmbainstitute.ac.in
 0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 linkajobs.com
@@ -668,6 +666,7 @@
 0.0.0.0 mesoftwares.vip
 0.0.0.0 metalurgistas.com
 0.0.0.0 mexicoautomatico.com
+0.0.0.0 microsecurityupdate.com
 0.0.0.0 midstate-towing.com
 0.0.0.0 mightycapitalfx.com
 0.0.0.0 milanojackets.com
@@ -757,6 +756,7 @@
 0.0.0.0 organizer.safeonline.it
 0.0.0.0 origins-france.fr
 0.0.0.0 orlaterole.com
+0.0.0.0 orlcasablanca.com
 0.0.0.0 orsan.gruporhynous.com
 0.0.0.0 ortopediawong.com
 0.0.0.0 osam.org.ar
@@ -810,7 +810,6 @@
 0.0.0.0 portmapp.com
 0.0.0.0 posmicrosystems.com
 0.0.0.0 potolki-razumno.ru
-0.0.0.0 ppfatahillah.com
 0.0.0.0 prasinosimports.com
 0.0.0.0 prestigehomeautomation.net
 0.0.0.0 primaflor-sby.com
@@ -856,6 +855,7 @@
 0.0.0.0 relaxindulge.co.nz
 0.0.0.0 religionobserver.com
 0.0.0.0 remotaja.com
+0.0.0.0 renacer.jgorange.com
 0.0.0.0 repairhubpat.com
 0.0.0.0 reposebay.com
 0.0.0.0 requestly.dev
@@ -947,9 +947,7 @@
 0.0.0.0 smeolbd.com
 0.0.0.0 smimarketing.co.uk
 0.0.0.0 smmserverpro.com
-0.0.0.0 soaresdesigner.com.br
 0.0.0.0 socacic.com
-0.0.0.0 sociallysavvyseo.com
 0.0.0.0 sociopoolindia.com
 0.0.0.0 soft.110route.com
 0.0.0.0 softs-lab.ru
@@ -965,7 +963,6 @@
 0.0.0.0 speedlab.com.eg
 0.0.0.0 speedwell.com.bd
 0.0.0.0 speedycabng.com
-0.0.0.0 spices.com.sg
 0.0.0.0 spiritualoutdooradventures.org
 0.0.0.0 srv-fattureincloud.de
 0.0.0.0 sshd.run
@@ -984,7 +981,6 @@
 0.0.0.0 sufidukan.com
 0.0.0.0 sumeetgroup.com
 0.0.0.0 suntecwebservices.com
-0.0.0.0 superstar.tibolts.co.uk
 0.0.0.0 support.clz.kr
 0.0.0.0 swiftwriters.net
 0.0.0.0 t.honker.info
@@ -1043,6 +1039,7 @@
 0.0.0.0 todayjournal.net
 0.0.0.0 tofinka.com
 0.0.0.0 tomazellapresentes.com.br
+0.0.0.0 tomjal.com
 0.0.0.0 tonydong.com
 0.0.0.0 toplitoral.com
 0.0.0.0 topnotchinspection.com
@@ -1143,6 +1140,7 @@
 0.0.0.0 wshsoft.company
 0.0.0.0 www.acompanhantescuritiba.org
 0.0.0.0 www.agies.org
+0.0.0.0 www.alertsecurities.in
 0.0.0.0 www.amazonmall.club
 0.0.0.0 www.arkidecture.com
 0.0.0.0 www.artrsllc.com
@@ -1153,7 +1151,6 @@
 0.0.0.0 www.cesasin.com.ar
 0.0.0.0 www.chawkyfrenn.com
 0.0.0.0 www.chemsky.tn
-0.0.0.0 www.chipmania.it
 0.0.0.0 www.clinicamomentum.com.br
 0.0.0.0 www.dacui.online
 0.0.0.0 www.dental.xiaoxiao.media
@@ -1161,6 +1158,7 @@
 0.0.0.0 www.enc-tech.com
 0.0.0.0 www.fixstudio.co.kr
 0.0.0.0 www.globallaborsupply.com
+0.0.0.0 www.hebgb.top
 0.0.0.0 www.hseda.com
 0.0.0.0 www.infinity-systems.it
 0.0.0.0 www.ingonherbal.com
@@ -1169,7 +1167,6 @@
 0.0.0.0 www.ks.cn
 0.0.0.0 www.lasikofmichigan.com
 0.0.0.0 www.lebuffet.com.tn
-0.0.0.0 www.maxmoney.com
 0.0.0.0 www.mediakomen.com
 0.0.0.0 www.moninediy.com
 0.0.0.0 www.movidoc.com.br
@@ -1193,7 +1190,6 @@
 0.0.0.0 www.websound.ru
 0.0.0.0 www.weinsteincounseling.com
 0.0.0.0 www.ysbaojia.com
-0.0.0.0 wynecare.com
 0.0.0.0 wzappstech.com
 0.0.0.0 x.233sy.cn
 0.0.0.0 xaydungmtcons.com
@@ -1203,7 +1199,6 @@
 0.0.0.0 xrpreward.live
 0.0.0.0 xt.lykj988.com
 0.0.0.0 xtremedevelopers.com
-0.0.0.0 xyktza.nbxyk.net
 0.0.0.0 yallanzakeronline.com
 0.0.0.0 yarrowenterprise.com
 0.0.0.0 ycnexgroup.com
@@ -1217,4 +1212,4 @@
 0.0.0.0 zf.gouzapay.cn
 0.0.0.0 zhaoziliao1668.cn
 0.0.0.0 zmqnbags.com
-# Number of entries: 1211
+# Number of entries: 1206
