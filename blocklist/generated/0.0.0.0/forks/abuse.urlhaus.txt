@@ -1,13 +1,13 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-06-03 04:50:31 (UTC)                      #
+# Last updated: 2023-06-03 05:59:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
 0.0.0.0 1717.1000uc.com
-0.0.0.0 1ecosolution.it
+0.0.0.0 2023foco.com.br
 0.0.0.0 20thstreetcoc.com
 0.0.0.0 230.btc-f2pool.top
 0.0.0.0 247xtrade.com
@@ -15,7 +15,6 @@
 0.0.0.0 360.lcy2zzx.pw
 0.0.0.0 360down7.miiyun.cn
 0.0.0.0 8.365tv.ma
-0.0.0.0 a.angel-tn.idv.tw
 0.0.0.0 aadarshtechnosoft.com
 0.0.0.0 aamalapp.com
 0.0.0.0 ab-sol.net
@@ -30,7 +29,6 @@
 0.0.0.0 afauto.it
 0.0.0.0 afiadv.org
 0.0.0.0 afromerchants.co.zw
-0.0.0.0 agemn.co.za
 0.0.0.0 agraartandcraft.com
 0.0.0.0 agrominingtecnologia.net.br
 0.0.0.0 ahmadmassoud.net
@@ -56,16 +54,19 @@
 0.0.0.0 altinvadi.net
 0.0.0.0 amarteargentina.com.ar
 0.0.0.0 ambassadorsofislam.org
+0.0.0.0 americanocoffea.ru
 0.0.0.0 americantv.online
 0.0.0.0 andrewpharma.com
 0.0.0.0 angel.bk.idv.tw
 0.0.0.0 angelakelleyphotography.com
 0.0.0.0 antacobinhduong.com
+0.0.0.0 antoinettegabriel.com
 0.0.0.0 aosafrica.co.za
 0.0.0.0 apexlinkz.com
 0.0.0.0 apexwholesaleinc.com
 0.0.0.0 api-ms.cobainaja.id
 0.0.0.0 api.52kkg.com
+0.0.0.0 api.seeingoholidays.com
 0.0.0.0 apkvisions.com
 0.0.0.0 apps.saintsoporte.com
 0.0.0.0 aquapools.in
@@ -97,6 +98,7 @@
 0.0.0.0 bcqatar.com
 0.0.0.0 beachwood.ug
 0.0.0.0 beautychoose.com
+0.0.0.0 bebessi.com.tr
 0.0.0.0 bencevendeghaz.hu
 0.0.0.0 benwellgroup.co.uk
 0.0.0.0 bethelmbcarvada.org
@@ -129,15 +131,12 @@
 0.0.0.0 buscascolegios.diit.cl
 0.0.0.0 caioaraujo.vip
 0.0.0.0 camminachetipassa.it
-0.0.0.0 canadianused.com
 0.0.0.0 canconsulting.in
-0.0.0.0 capitalperurrhh.com
 0.0.0.0 cargoconnect.online
 0.0.0.0 casamuseoayerbe.co
 0.0.0.0 castlecarrent.com
 0.0.0.0 cbcmodesto.org
 0.0.0.0 cdaonline.com.ar
-0.0.0.0 cdn.doxbin.org
 0.0.0.0 cdn.unduhfile.my.id
 0.0.0.0 celiklergoldtasarim.com
 0.0.0.0 cemageng.com.br
@@ -146,6 +145,7 @@
 0.0.0.0 ch1.spacermodem.com
 0.0.0.0 chinformatique-dz.com
 0.0.0.0 chiomastech.com
+0.0.0.0 chiptune.com
 0.0.0.0 chothuexetaitphcm.net
 0.0.0.0 chrisbernardproperties.com
 0.0.0.0 chuckozeas.com
@@ -185,7 +185,6 @@
 0.0.0.0 daralhemaya.com
 0.0.0.0 darkbox.pw
 0.0.0.0 dating.khokhas.co.za
-0.0.0.0 davidmcguinness.info
 0.0.0.0 ddlakava.ac.ug
 0.0.0.0 deerwatches.com
 0.0.0.0 deine-bewerbung.com
@@ -214,15 +213,18 @@
 0.0.0.0 down.pcclear.com
 0.0.0.0 down.udashi.com
 0.0.0.0 downchatgpt.xyz
+0.0.0.0 download.caihong.com
 0.0.0.0 download.doumaibiji.cn
 0.0.0.0 download.pdf00.cn
 0.0.0.0 downloads.bcweb.org.uk
 0.0.0.0 dozajans.com
 0.0.0.0 drhanneserasmus.co.za
 0.0.0.0 drive.google.com.it-barcelona.com
+0.0.0.0 droomsoft.com
 0.0.0.0 droyals.com
 0.0.0.0 drpetertio.com
 0.0.0.0 drzak.uk
+0.0.0.0 duarteytejada.com
 0.0.0.0 dukaree.com
 0.0.0.0 dutulongxuyen.com
 0.0.0.0 e-commerce.saleensuporte.com.br
@@ -307,12 +309,14 @@
 0.0.0.0 greenreset.com
 0.0.0.0 grupo-cala.com
 0.0.0.0 gsmobile.es
+0.0.0.0 gsscorporationltd.com
 0.0.0.0 gtn.cl
 0.0.0.0 guillesa.com
 0.0.0.0 gurakis.com
 0.0.0.0 guvencecelik.com
 0.0.0.0 hallmapping.com
 0.0.0.0 harleyqueretaro.com
+0.0.0.0 hausseeblickscheidegg.de
 0.0.0.0 hbcuspbresearch.org
 0.0.0.0 hdedutools.com
 0.0.0.0 healthyherbsbenefits.com
@@ -335,6 +339,7 @@
 0.0.0.0 hrfrance.net
 0.0.0.0 hseda.com
 0.0.0.0 htownbars.com
+0.0.0.0 hugersi.com
 0.0.0.0 hunggiang.vn
 0.0.0.0 hurghadamuseum.com
 0.0.0.0 ianjesuscr.org
@@ -372,7 +377,6 @@
 0.0.0.0 jobcity.com
 0.0.0.0 jointings.org
 0.0.0.0 jp.imgjeoighw.com
-0.0.0.0 jr-software-web.net
 0.0.0.0 jskgdhjkdfhjdkjhd844.ru
 0.0.0.0 jsl.com.ng
 0.0.0.0 junglekitchen.org
@@ -392,6 +396,7 @@
 0.0.0.0 kimyen.net
 0.0.0.0 kmphi.com
 0.0.0.0 koriska.com
+0.0.0.0 kotogadang-pusako.com
 0.0.0.0 kustens.com
 0.0.0.0 lakebrillac.co.uk
 0.0.0.0 lakirasa.com
@@ -403,6 +408,8 @@
 0.0.0.0 lceventos.net
 0.0.0.0 leepebitz.com
 0.0.0.0 lenanka.com
+0.0.0.0 letsggoo.com
+0.0.0.0 library.arihantmbainstitute.ac.in
 0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 linkajobs.com
 0.0.0.0 linkvilleplayers.org
@@ -434,7 +441,6 @@
 0.0.0.0 mcapublicschool.com
 0.0.0.0 mdttasarim.com.tr
 0.0.0.0 medcar.com.tn
-0.0.0.0 medicaintl.com
 0.0.0.0 medicalbillingandtelehealth.com
 0.0.0.0 meeweb.com
 0.0.0.0 megacert.net
@@ -445,7 +451,6 @@
 0.0.0.0 mepstein.com
 0.0.0.0 mesoftwares.vip
 0.0.0.0 microsecurityupdate.com
-0.0.0.0 milleniuninformatica.com.br
 0.0.0.0 mindfree.co.za
 0.0.0.0 mistitis.ug
 0.0.0.0 mistydeblasiophotography.com
@@ -463,6 +468,7 @@
 0.0.0.0 mytheacademy.com
 0.0.0.0 nafeescables.com
 0.0.0.0 naijamp3tv.com
+0.0.0.0 namthaibinh.net
 0.0.0.0 nananobengkouakou.net
 0.0.0.0 nativeinfotech.com
 0.0.0.0 nativespeak.net
@@ -476,6 +482,7 @@
 0.0.0.0 nhatheptienchebinhduong.com
 0.0.0.0 nhorangtreem.com
 0.0.0.0 nidanhospital.com
+0.0.0.0 nienkz.nl
 0.0.0.0 nladfk.com
 0.0.0.0 noithathoanggiatn.com
 0.0.0.0 noithatxuanchien.com
@@ -487,7 +494,6 @@
 0.0.0.0 novak-home.com
 0.0.0.0 nrc-soluciones.com.ar
 0.0.0.0 nsdvina.com
-0.0.0.0 oazahotel.com.mk
 0.0.0.0 oceancityrentalbyowner.com
 0.0.0.0 ogsyazilim.com
 0.0.0.0 olugun.co.za
@@ -505,6 +511,7 @@
 0.0.0.0 organizer.safeonline.it
 0.0.0.0 origins-france.fr
 0.0.0.0 orlaterole.com
+0.0.0.0 orlcasablanca.com
 0.0.0.0 orsan.gruporhynous.com
 0.0.0.0 ortopediawong.com
 0.0.0.0 osam.org.ar
@@ -559,7 +566,9 @@
 0.0.0.0 punjabdevelopersassociation.com.pk
 0.0.0.0 purohitpipes.com
 0.0.0.0 qadonline.org
+0.0.0.0 qassimnews.com
 0.0.0.0 qmsled.com
+0.0.0.0 quizbn.com
 0.0.0.0 quraniqraacademy.com
 0.0.0.0 rabbicominternet.com
 0.0.0.0 ramactools.net
@@ -640,7 +649,6 @@
 0.0.0.0 skyparktravel.com
 0.0.0.0 slpbridge.com
 0.0.0.0 smartphoodapp.com
-0.0.0.0 smeolbd.com
 0.0.0.0 sociallysavvyseo.com
 0.0.0.0 soft.110route.com
 0.0.0.0 softs-lab.ru
@@ -654,6 +662,7 @@
 0.0.0.0 speedycabng.com
 0.0.0.0 spices.com.sg
 0.0.0.0 spiritualoutdooradventures.org
+0.0.0.0 src1.minibai.com
 0.0.0.0 srv-fattureincloud.de
 0.0.0.0 sshd.run
 0.0.0.0 stablewin32.app
@@ -666,13 +675,13 @@
 0.0.0.0 sudaksha.com
 0.0.0.0 sumeetgroup.com
 0.0.0.0 suntecwebservices.com
-0.0.0.0 superstar.tibolts.co.uk
 0.0.0.0 support.clz.kr
 0.0.0.0 t.honker.info
 0.0.0.0 tammisnaps.com
 0.0.0.0 techforguru.com
 0.0.0.0 techniguitare.com
 0.0.0.0 techvibeo.com
+0.0.0.0 tecni-soft.com
 0.0.0.0 tejuoshoshoppingcomplex.com
 0.0.0.0 telecompunch.com
 0.0.0.0 temptmag.com
@@ -693,6 +702,7 @@
 0.0.0.0 thekassia.co.uk
 0.0.0.0 thenaturalflavorproject.com
 0.0.0.0 thetulumtakeover.com
+0.0.0.0 thextra2.com
 0.0.0.0 thomasakvo.com
 0.0.0.0 threerosesbeauty.com
 0.0.0.0 tiblej.com
@@ -721,7 +731,6 @@
 0.0.0.0 tusaceitesesenciales.com
 0.0.0.0 twizt.net
 0.0.0.0 tyrehouse.com
-0.0.0.0 ubmhaiti.org
 0.0.0.0 ufagold.com
 0.0.0.0 ukecpakistan.com
 0.0.0.0 ukguk71.ru
@@ -730,26 +739,25 @@
 0.0.0.0 unicorpbrunei.com
 0.0.0.0 unigifts.net
 0.0.0.0 unimarkme.com
+0.0.0.0 unitedec-eg.com
 0.0.0.0 unlockingdreamsfinancial.com
 0.0.0.0 update.cg100iii.com
 0.0.0.0 upload-wefiles.com
 0.0.0.0 user1681259423012.requestly.dev
+0.0.0.0 uxsingh.com
 0.0.0.0 uylab.org
 0.0.0.0 vainavitechnologies.com
 0.0.0.0 vashovskycorp.com
 0.0.0.0 vccrp.com
 0.0.0.0 vdtlte.com
 0.0.0.0 vedrishi.com
-0.0.0.0 veley.co
 0.0.0.0 velstenapparel.com
 0.0.0.0 vfocus.net
 0.0.0.0 vidaviajesperu.com
 0.0.0.0 vietroll.vn
-0.0.0.0 vipysknik.by
 0.0.0.0 vitalsync.org
 0.0.0.0 vitoturizm.com.tr
 0.0.0.0 votre-futur-site.com
-0.0.0.0 walkindrivetoday.com
 0.0.0.0 web.geomegasoft.net
 0.0.0.0 weboceantech.com
 0.0.0.0 websound.ru
@@ -799,7 +807,6 @@
 0.0.0.0 www.lasikofmichigan.com
 0.0.0.0 www.lebuffet.com.tn
 0.0.0.0 www.maxmoney.com
-0.0.0.0 www.mediakomen.com
 0.0.0.0 www.moninediy.com
 0.0.0.0 www.movidoc.com.br
 0.0.0.0 www.neshuafoods.com
@@ -838,8 +845,7 @@
 0.0.0.0 yesdeko.com
 0.0.0.0 yzkzixun.com
 0.0.0.0 zainco.net
-0.0.0.0 zaofisa.net
 0.0.0.0 zf.gouzapay.cn
 0.0.0.0 zhaoziliao1668.cn
 0.0.0.0 zmqnbags.com
-# Number of entries: 836
+# Number of entries: 842
