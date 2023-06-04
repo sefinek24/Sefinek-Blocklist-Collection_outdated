@@ -1,4 +1,4 @@
-#202306020303
+#202306040303
 # EasyPrivacy Host filters for Pi hole
 # Collaborators: xxcriticxx, MajkiIT
 # Homepage: https://www.certyficate.it/
@@ -2814,6 +2814,7 @@
 127.0.0.1 analytics2-meride-tv.akamaized.net
 127.0.0.1 analytics4.dashboard.fingerprint.com
 127.0.0.1 analyticsehnwe.servicebus.windows.net
+127.0.0.1 analyticssec.overwolf.com
 127.0.0.1 analyze.full-marke.com
 127.0.0.1 analyzer.fc2.com
 127.0.0.1 analyzer2.fc2.com
@@ -3876,7 +3877,6 @@
 127.0.0.1 bbysa.aprica.com
 127.0.0.1 bc.marfeelcache.com
 127.0.0.1 bc.nhk.jp
-127.0.0.1 bc.qunar.com
 127.0.0.1 bc34.wijnvoordeel.nl
 127.0.0.1 bca.aviationweek.com
 127.0.0.1 bcanl.bca-autoveiling.nl
@@ -3892,7 +3892,6 @@
 127.0.0.1 bdkuth.smartbuyglasses.co.uk
 127.0.0.1 bdoaustralia.bdo.com.au
 127.0.0.1 bdt.123rf.com
-127.0.0.1 bdwblog.eastmoney.com
 127.0.0.1 bdzcck.stadiumgoods.com
 127.0.0.1 be-go.experian.com
 127.0.0.1 be.secure.sonosite.com
@@ -4262,6 +4261,7 @@
 127.0.0.1 bruisebaseball.com
 127.0.0.1 brvelocity.eccocar.com
 127.0.0.1 brwerental.eccocar.com
+127.0.0.1 bs.nakanohito.jp
 127.0.0.1 bs.yandex.ru
 127.0.0.1 bskblt.6thstreet.com
 127.0.0.1 bsytzb.hago.kr
@@ -4271,7 +4271,6 @@
 127.0.0.1 btloader.com
 127.0.0.1 btn.listonic.com
 127.0.0.1 btn.rtl2.de
-127.0.0.1 btrace.qq.com
 127.0.0.1 btstats.benakt.com
 127.0.0.1 btstats.devtribu.fr
 127.0.0.1 bttmkj.diesel.com
@@ -4708,7 +4707,6 @@
 127.0.0.1 cmp.tek.no
 127.0.0.1 cmp.telerama.fr
 127.0.0.1 cmp2.channelpartner.de
-127.0.0.1 cmstool.youku.com
 127.0.0.1 cmzaly.gebrueder-goetz.de
 127.0.0.1 cn-go.experian.com
 127.0.0.1 cn.adpinfo.com
@@ -5548,6 +5546,7 @@
 127.0.0.1 data.decathlon.pl
 127.0.0.1 data.digitalks.az
 127.0.0.1 data.econa.com
+127.0.0.1 data.eetech.com
 127.0.0.1 data.engelhorn.com
 127.0.0.1 data.engelhorn.de
 127.0.0.1 data.glamour.ru
@@ -6186,7 +6185,6 @@
 127.0.0.1 ec.walkme.com
 127.0.0.1 ecefyu.geox.com
 127.0.0.1 eclick.360doc.com
-127.0.0.1 eclick.baidu.com
 127.0.0.1 ecomm.atea.com
 127.0.0.1 ecomm.events
 127.0.0.1 ecommhpi.ext.hp.com
@@ -6521,6 +6519,7 @@
 127.0.0.1 emptyescort.com
 127.0.0.1 emrdnt.sumaity.com
 127.0.0.1 ems-a8net-tracking.easy-myshop.jp
+127.0.0.1 ems.youku.com
 127.0.0.1 emycewiw.xyz
 127.0.0.1 enablis.actonservice.com
 127.0.0.1 enawsu.adzuna.co.uk
@@ -6657,6 +6656,7 @@
 127.0.0.1 eqingl.ivet.bg
 127.0.0.1 eqkwat.histoiredor.com
 127.0.0.1 eqy.link
+127.0.0.1 era.easyvoyage.com
 127.0.0.1 erb.tremblant.ca
 127.0.0.1 erepublic.actonservice.com
 127.0.0.1 erkili.kaporal.com
@@ -7964,6 +7964,7 @@
 127.0.0.1 i.viafoura.co
 127.0.0.1 i218435.net
 127.0.0.1 i9w8p.pw
+127.0.0.1 ia-dmp.com
 127.0.0.1 ia.51.la
 127.0.0.1 ia.ekstrabladet.dk
 127.0.0.1 iaalxo.vans.ru
@@ -9372,7 +9373,6 @@
 127.0.0.1 log.hypebeast.com
 127.0.0.1 log.idnes.cz
 127.0.0.1 log.invodo.com
-127.0.0.1 log.kuwo.cn
 127.0.0.1 log.m.sm.cn
 127.0.0.1 log.mediacategory.com
 127.0.0.1 log.medietall.no
@@ -9401,7 +9401,6 @@
 127.0.0.1 log.zdnet.co.kr
 127.0.0.1 log.zongheng.com
 127.0.0.1 log000.goo.ne.jp
-127.0.0.1 log1.17173.com
 127.0.0.1 log2.sina.cn
 127.0.0.1 logbak.hicloud.com
 127.0.0.1 logger.bzu.kr
@@ -9418,7 +9417,6 @@
 127.0.0.1 loggychops.paulsmith.site
 127.0.0.1 logicanalytics.io
 127.0.0.1 login.e-ticket.co.jp
-127.0.0.1 loginlog.sdo.com
 127.0.0.1 logistics.dbschenker.com
 127.0.0.1 logistics.osmworldwide.com
 127.0.0.1 loglady.kiwi.com
@@ -9440,7 +9438,6 @@
 127.0.0.1 logservice.hicloud.com
 127.0.0.1 logservice1.hicloud.com
 127.0.0.1 logstash-3.radio-canada.ca
-127.0.0.1 logstat.caixin.com
 127.0.0.1 logtake.weidian.com
 127.0.0.1 logx.optimizely.com
 127.0.0.1 lokalwerben.t-online.de
@@ -9604,7 +9601,6 @@
 127.0.0.1 mapp.jysk.dk
 127.0.0.1 mapp.jysk.nl
 127.0.0.1 mapp.yesstyle.com
-127.0.0.1 mar.vip.com
 127.0.0.1 marcomm.woodward.com
 127.0.0.1 markedcrayon.com
 127.0.0.1 markedpail.com
@@ -11182,7 +11178,6 @@
 127.0.0.1 pbox.photobox.se
 127.0.0.1 pc-cr.net.easyjet.com
 127.0.0.1 pc.personalcreations.com
-127.0.0.1 pcapp-data-collect.youku.com
 127.0.0.1 pci.aon.com
 127.0.0.1 pcm.symantec.com
 127.0.0.1 pcnphysio-com.ca-eulerian.net
@@ -11237,7 +11232,6 @@
 127.0.0.1 ping.resoluteoil.com
 127.0.0.1 pingback.giphy.com
 127.0.0.1 pingback.issuu.com
-127.0.0.1 pingback.sogou.com
 127.0.0.1 pingjs.qq.com
 127.0.0.1 pingo.staticmoly.me
 127.0.0.1 pings.conviva.com
@@ -11286,6 +11280,7 @@
 127.0.0.1 pixel.homebook.pl
 127.0.0.1 pixel.honestjohn.co.uk
 127.0.0.1 pixel.inforsea.com
+127.0.0.1 pixel.ionos.de
 127.0.0.1 pixel.ionos.fr
 127.0.0.1 pixel.kknews.cc
 127.0.0.1 pixel.lilystyle.ai
@@ -11972,6 +11967,7 @@
 127.0.0.1 rlcdn.com
 127.0.0.1 rloddo.olx.bg
 127.0.0.1 rlog.popin.cc
+127.0.0.1 rlogs.youdao.com
 127.0.0.1 rmgdapfnccsharpprd.azurewebsites.net
 127.0.0.1 rmp4.destinia.uy
 127.0.0.1 rnffgv.wemakeprice.com
@@ -12082,8 +12078,6 @@
 127.0.0.1 s.nerdfulmind.com
 127.0.0.1 s.nextblock.sg
 127.0.0.1 s.onlineornot.com
-127.0.0.1 s.qhupdate.com
-127.0.0.1 s.renren.com
 127.0.0.1 s.repguard.uk
 127.0.0.1 s.saucisson-rebellion.fr
 127.0.0.1 s.sick.com
@@ -12216,7 +12210,6 @@
 127.0.0.1 scintillatingsilver.com
 127.0.0.1 scis.tbs.co.jp
 127.0.0.1 scjlpq.navitime.co.jp
-127.0.0.1 sclick.baidu.com
 127.0.0.1 scmetrics.shell.com
 127.0.0.1 scnt.rambler.ru
 127.0.0.1 scode.randomhouse.com
@@ -13355,6 +13348,7 @@
 127.0.0.1 sp.aviasales.com
 127.0.0.1 sp.aviasales.ru
 127.0.0.1 sp.cargurus.co.uk
+127.0.0.1 sp.data.funkedigital.de
 127.0.0.1 sp.dpgmedia.net
 127.0.0.1 sp.gameomatic.fr
 127.0.0.1 sp.jrklein.com
@@ -13858,7 +13852,6 @@
 127.0.0.1 static-tracking.klaviyo.com
 127.0.0.1 static.fengkongcloud.com
 127.0.0.1 statistic.qzone.qq.com
-127.0.0.1 statistic.takungpao.com
 127.0.0.1 statistic2.reichelt.de
 127.0.0.1 statistics.csob.cz
 127.0.0.1 statistics.daktilo.com
@@ -13922,7 +13915,6 @@
 127.0.0.1 stats.athleteswith.com
 127.0.0.1 stats.auto-dombrowski.de
 127.0.0.1 stats.autofarm.network
-127.0.0.1 stats.autohome.com.cn
 127.0.0.1 stats.autoscholarwithmrb.com
 127.0.0.1 stats.autoscout24.ch
 127.0.0.1 stats.babymatras.net
@@ -15435,6 +15427,7 @@
 127.0.0.1 timejs.game.163.com
 127.0.0.1 timeterritory.com
 127.0.0.1 timetwig.com
+127.0.0.1 timing.uhrforum.de
 127.0.0.1 tinytendency.com
 127.0.0.1 tippcom01.tipp24.com
 127.0.0.1 tipstats.onepagelove.com
@@ -17083,7 +17076,9 @@
 127.0.0.1 trusted-web-seal.cybertrust.ne.jp
 127.0.0.1 trustisimportant.fun
 127.0.0.1 trwtvj.parkseed.com
+127.0.0.1 trx-cdn.zip.co
 127.0.0.1 trx-hub.com
+127.0.0.1 trx.zip.co
 127.0.0.1 trx3.famousfix.com
 127.0.0.1 try.abtasty.com
 127.0.0.1 try.jaranda.kr

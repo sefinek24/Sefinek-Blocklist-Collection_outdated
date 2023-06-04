@@ -1,4 +1,4 @@
-#202306020303
+#202306040303
 # Adguard Mobile Host filters for Pi hole
 # Collaborators: xxcriticxx, MajkiIT
 # Homepage: https://www.certyficate.it/
@@ -75,6 +75,7 @@
 127.0.0.1 adcamp.ru
 127.0.0.1 adcel.co
 127.0.0.1 adcel.vrvm.com
+127.0.0.1 adcenter-api.cashwalk.co
 127.0.0.1 adcolony.com
 127.0.0.1 adcs.rqmob.com
 127.0.0.1 addapptr.com
