@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sun, 04 Jun 2023, 14:29 UTC+02:00
-# Version: 2023.6.4.2
+# Last modified: Sun, 04 Jun 2023, 16:05 UTC+02:00
+# Version: 2023.6.4.3
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -65,6 +65,7 @@ adresowkapsa.pl
 adwokaci-24.pl
 adworkmedia.com
 aeaeii.com
+aeio.shop
 affiliater.pl
 africanmango900.pl
 africanmango.pl
@@ -203,6 +204,7 @@ baiibuy.com
 bajeranckie.pl
 bakaron.com
 bali-shop.pl
+baltn.com
 banatik.com
 banvar.com
 bartekzukiewicz.pl
@@ -693,11 +695,13 @@ easybuyfashion.takedrop.pl
 easygolift.pl
 easytommy.com
 ebook4all.com.pl
+ebudmarket.com
 ebutiklatika.pl
 ecco-polska.pl
 eccobuty.co
 eccobutyoutlet.fun
 eccobutypolska.com
+eccooutlet.pl
 eccooutletpolska.com
 eccooutletpolska.pl
 eccooutletsklepinternetowy.com
@@ -1252,6 +1256,7 @@ kodyumyslu.pl
 kofiup.pl
 koiluck.com
 koisaibuy.com
+kokoeeshop.com
 kokoszulka.pl
 kokotow.pl
 kolorfun.pl
@@ -1378,6 +1383,7 @@ lpilogryfice.pl
 lsomolai.shop
 lubuskauniapracy.pl
 lucyfeed.com
+luimoo.com
 lululemonpolskasklep.com
 luna-jewels.pl
 luxique.pl
@@ -1527,6 +1533,7 @@ moda-marzenie.com
 modablask.com
 modadlamnie.shop
 modamart.pl
+modamotyl.com
 modawanilia.com
 modi4moda.com
 moellynshop.com
@@ -2248,6 +2255,7 @@ sklepfila.com
 sklepguesspolska.com
 sklepkeenpolska.com
 sklepkjl.com
+sklepkody24.pl
 sklepkurtkapolska.com
 skleplasportivapolska.com
 sklepmartenspl.com
@@ -2391,6 +2399,7 @@ superzebra.pl
 suprabuty.pl
 suunfay.com
 svaeastore.com
+swagshoponline.pl
 swagster.pl
 swatti-wear.com
 sweet-her.pl
@@ -2804,6 +2813,7 @@ www.adresowkapsa.pl
 www.adwokaci-24.pl
 www.adworkmedia.com
 www.aeaeii.com
+www.aeio.shop
 www.affiliater.pl
 www.africanmango900.pl
 www.africanmango.pl
@@ -2942,6 +2952,7 @@ www.baiibuy.com
 www.bajeranckie.pl
 www.bakaron.com
 www.bali-shop.pl
+www.baltn.com
 www.banatik.com
 www.banvar.com
 www.bartekzukiewicz.pl
@@ -3432,11 +3443,13 @@ www.easybuyfashion.takedrop.pl
 www.easygolift.pl
 www.easytommy.com
 www.ebook4all.com.pl
+www.ebudmarket.com
 www.ebutiklatika.pl
 www.ecco-polska.pl
 www.eccobuty.co
 www.eccobutyoutlet.fun
 www.eccobutypolska.com
+www.eccooutlet.pl
 www.eccooutletpolska.com
 www.eccooutletpolska.pl
 www.eccooutletsklepinternetowy.com
@@ -3992,6 +4005,7 @@ www.kodyumyslu.pl
 www.kofiup.pl
 www.koiluck.com
 www.koisaibuy.com
+www.kokoeeshop.com
 www.kokoszulka.pl
 www.kokotow.pl
 www.kolorfun.pl
@@ -4118,6 +4132,7 @@ www.lpilogryfice.pl
 www.lsomolai.shop
 www.lubuskauniapracy.pl
 www.lucyfeed.com
+www.luimoo.com
 www.lululemonpolskasklep.com
 www.luna-jewels.pl
 www.luxique.pl
@@ -4267,6 +4282,7 @@ www.moda-marzenie.com
 www.modablask.com
 www.modadlamnie.shop
 www.modamart.pl
+www.modamotyl.com
 www.modawanilia.com
 www.modi4moda.com
 www.moellynshop.com
@@ -4968,6 +4984,7 @@ www.sklepfila.com
 www.sklepguesspolska.com
 www.sklepkeenpolska.com
 www.sklepkjl.com
+www.sklepkody24.pl
 www.sklepkurtkapolska.com
 www.skleplasportivapolska.com
 www.sklepmartenspl.com
@@ -5111,6 +5128,7 @@ www.superzebra.pl
 www.suprabuty.pl
 www.suunfay.com
 www.svaeastore.com
+www.swagshoponline.pl
 www.swagster.pl
 www.swatti-wear.com
 www.sweet-her.pl
@@ -5504,6 +5522,7 @@ www.yaboris.com
 www.yanjunijuni.com
 www.ydaburnaleury.com
 www.yellownet.pl
+www.yesiibuy.com
 www.yeyaeo.com
 www.yifu02.shop
 www.yill666.com
@@ -5612,6 +5631,7 @@ yaboris.com
 yanjunijuni.com
 ydaburnaleury.com
 yellownet.pl
+yesiibuy.com
 yeyaeo.com
 yifu02.shop
 yill666.com
@@ -9455,6 +9475,7 @@ zgarniij_vouchher.skroc.pl
 649c933d5f437416a788227bfb12c88f.alldom.co.pl
 649f06cdd46ac8c19c3071e316b0a0dc.alldom.co.pl
 651.allegro-lokalnie.icu
+652.84512212.pw
 654b891c47f0113ad560679052cf5004.rezolvs.pl
 655f1fb566c2fae0f22150203b114f73.alldom.co.pl
 656c9aba92f0e0eb0ef25342b054810a.hospla.co.pl
@@ -13914,6 +13935,7 @@ alphahaul.com
 alphasierra.com.bd
 alpiegerva.tk
 alpsmarkets.com
+alqoiezzcnzmmz.site
 alregolokal.com
 alregrolokalne.3321-dispatch.xyz
 alrilti.tk
@@ -24213,6 +24235,7 @@ delivery.azsax.com
 delivery.beliefandidea.com
 delivery.belmarsportfishing.com
 delivery.biceristorante.com
+delivery.biol113.com
 delivery.blingsity.com
 delivery.brainteaserboutique.com
 delivery.capacityglacier.com
@@ -29689,6 +29712,7 @@ fgssf.prlmaxiiisok.xyz
 fgy.tslopleu.com
 fgyhzeretryzet.alevsesli.net
 fgyy.innplats.top
+fh2.boats
 fhanbe.com
 fhbbinprost.dotsdehakip.tk
 fhfhd.pasvar.xyz
@@ -32473,6 +32497,7 @@ greatfuturepromise.site
 greatingrdpl.site
 greatinvest.xyz
 greatopportuniity.site
+greatperspectivee.site
 greatstlim.sa.com
 grecized.info
 grecja-praca.com
@@ -33416,6 +33441,7 @@ hierarchydozen.info
 hifanuto.site
 hifrequencymedia.com
 higder.weebly.com
+higghersell.com
 high5me.online
 high-invstment.shop
 high-tech-project.top
@@ -51713,6 +51739,7 @@ olx.1232653.xyz
 olx.1333200.xyz
 olx.1421222.xyz
 olx.01451212.xyz
+olx.1451455.xyz
 olx.1484888.xyz
 olx.1510212.xyz
 olx.01541215.xyz
@@ -51786,6 +51813,7 @@ olx.14152011.xyz
 olx.14154851.xyz
 olx.14512221.xyz
 olx.14512222.xyz
+olx.14975585.xyz
 olx.14985277.xyz
 olx.15322333.xyz
 olx.15522212.xyz
@@ -51822,6 +51850,7 @@ olx.42322333.xyz
 olx.44151222.xyz
 olx.44151512.xyz
 olx.44152011.xyz
+olx.44975585.xyz
 olx.44985277.xyz
 olx.45034534.xyz
 olx.45034535.xyz
@@ -55367,6 +55396,7 @@ permanenc.com
 perochek.space
 perousiithy.site
 perpetualaffirm.shop
+perrolusiters.site
 perrq.loyalmp3.site
 perry.transprt.info.pl
 perrysprovisions.com
@@ -56681,6 +56711,7 @@ plikgier.5p.pl
 plikownik2015.wordpress.com
 pliks.pl
 plikson.pl
+plineaarn.com
 plineup.space
 plinv-pl.web.app
 plinv.net
@@ -59332,6 +59363,7 @@ productsending-inpost.345084512.xyz
 productsendinguser.xyz
 productsendjng.xyz
 productvjnted.467588.xyz
+proeleccroma35.site
 proelecroma.site
 prof0mied.maxi-bl0g.site
 prof1.live1program.site
@@ -59737,6 +59769,7 @@ prostezycie.click
 prostle.online
 prostozmiasta.b-cdn.net
 prostozpolski365.pl
+prostys.com
 prosuccsess-syst.sbs
 prosystem2022.site
 prosystem2022.store
@@ -60178,6 +60211,7 @@ qqhr2008.com
 qqoeiiieoiiwoiuir.site
 qqqqttt.weebly.com
 qqqunt.alvargarsalv.site
+qqqwpweofcskkj.com
 qqttfx.s3.us-east-005.backblazeb2.com
 qqyuqmpx1.digital
 qr.gaznf.xyz
@@ -65674,6 +65708,7 @@ taklask.uno
 takprisj.link
 taksamo810.site
 tal.gaznf.xyz
+talcoskull.site
 talentedprotest.com
 talentmanagerpro.site
 talentmaster.bio
@@ -67423,6 +67458,7 @@ tourbillonschansons.com
 tourherobits.com
 tourismoodle.emu.edu.tr
 tourneyin.com
+tourrrestt.site
 touthxds.xyz
 tow3727a-ni727az.finoawtv.co.pl
 towardchance.club
@@ -76522,6 +76558,7 @@ www.646ce35c34a550ae34a83e59a5190b97.rha.co.pl
 www.649c933d5f437416a788227bfb12c88f.alldom.co.pl
 www.649f06cdd46ac8c19c3071e316b0a0dc.alldom.co.pl
 www.651.allegro-lokalnie.icu
+www.652.84512212.pw
 www.654b891c47f0113ad560679052cf5004.rezolvs.pl
 www.655f1fb566c2fae0f22150203b114f73.alldom.co.pl
 www.656c9aba92f0e0eb0ef25342b054810a.hospla.co.pl
@@ -80981,6 +81018,7 @@ www.alphahaul.com
 www.alphasierra.com.bd
 www.alpiegerva.tk
 www.alpsmarkets.com
+www.alqoiezzcnzmmz.site
 www.alregolokal.com
 www.alregrolokalne.3321-dispatch.xyz
 www.alrilti.tk
@@ -91280,6 +91318,7 @@ www.delivery.azsax.com
 www.delivery.beliefandidea.com
 www.delivery.belmarsportfishing.com
 www.delivery.biceristorante.com
+www.delivery.biol113.com
 www.delivery.blingsity.com
 www.delivery.brainteaserboutique.com
 www.delivery.capacityglacier.com
@@ -96756,6 +96795,7 @@ www.fgssf.prlmaxiiisok.xyz
 www.fgy.tslopleu.com
 www.fgyhzeretryzet.alevsesli.net
 www.fgyy.innplats.top
+www.fh2.boats
 www.fhanbe.com
 www.fhbbinprost.dotsdehakip.tk
 www.fhfhd.pasvar.xyz
@@ -99540,6 +99580,7 @@ www.greatfuturepromise.site
 www.greatingrdpl.site
 www.greatinvest.xyz
 www.greatopportuniity.site
+www.greatperspectivee.site
 www.greatstlim.sa.com
 www.grecized.info
 www.grecja-praca.com
@@ -100483,6 +100524,7 @@ www.hierarchydozen.info
 www.hifanuto.site
 www.hifrequencymedia.com
 www.higder.weebly.com
+www.higghersell.com
 www.high5me.online
 www.high-invstment.shop
 www.high-tech-project.top
@@ -118781,6 +118823,7 @@ www.olx.1232653.xyz
 www.olx.1333200.xyz
 www.olx.1421222.xyz
 www.olx.01451212.xyz
+www.olx.1451455.xyz
 www.olx.1484888.xyz
 www.olx.1510212.xyz
 www.olx.01541215.xyz
@@ -118854,6 +118897,7 @@ www.olx.14152011.xyz
 www.olx.14154851.xyz
 www.olx.14512221.xyz
 www.olx.14512222.xyz
+www.olx.14975585.xyz
 www.olx.14985277.xyz
 www.olx.15322333.xyz
 www.olx.15522212.xyz
@@ -118890,6 +118934,7 @@ www.olx.42322333.xyz
 www.olx.44151222.xyz
 www.olx.44151512.xyz
 www.olx.44152011.xyz
+www.olx.44975585.xyz
 www.olx.44985277.xyz
 www.olx.45034534.xyz
 www.olx.45034535.xyz
@@ -122435,6 +122480,7 @@ www.permanenc.com
 www.perochek.space
 www.perousiithy.site
 www.perpetualaffirm.shop
+www.perrolusiters.site
 www.perrq.loyalmp3.site
 www.perry.transprt.info.pl
 www.perrysprovisions.com
@@ -123500,6 +123546,7 @@ www.plikgier.5p.pl
 www.plikownik2015.wordpress.com
 www.pliks.pl
 www.plikson.pl
+www.plineaarn.com
 www.plineup.space
 www.plinv-pl.web.app
 www.plinv.net
@@ -126151,6 +126198,7 @@ www.productsending-inpost.345084512.xyz
 www.productsendinguser.xyz
 www.productsendjng.xyz
 www.productvjnted.467588.xyz
+www.proeleccroma35.site
 www.proelecroma.site
 www.prof0mied.maxi-bl0g.site
 www.prof1.live1program.site
@@ -126556,6 +126604,7 @@ www.prostezycie.click
 www.prostle.online
 www.prostozmiasta.b-cdn.net
 www.prostozpolski365.pl
+www.prostys.com
 www.prosuccsess-syst.sbs
 www.prosystem2022.site
 www.prosystem2022.store
@@ -126997,6 +127046,7 @@ www.qqhr2008.com
 www.qqoeiiieoiiwoiuir.site
 www.qqqqttt.weebly.com
 www.qqqunt.alvargarsalv.site
+www.qqqwpweofcskkj.com
 www.qqttfx.s3.us-east-005.backblazeb2.com
 www.qqyuqmpx1.digital
 www.qr.gaznf.xyz
@@ -132493,6 +132543,7 @@ www.taklask.uno
 www.takprisj.link
 www.taksamo810.site
 www.tal.gaznf.xyz
+www.talcoskull.site
 www.talentedprotest.com
 www.talentmanagerpro.site
 www.talentmaster.bio
@@ -134242,6 +134293,7 @@ www.tourbillonschansons.com
 www.tourherobits.com
 www.tourismoodle.emu.edu.tr
 www.tourneyin.com
+www.tourrrestt.site
 www.touthxds.xyz
 www.tow3727a-ni727az.finoawtv.co.pl
 www.towardchance.club
@@ -141445,6 +141497,7 @@ www.zens.pl
 www.zeo.widomkoster.xyz
 www.zeon.autos
 www.zephyrspaceblog61.site
+www.zephyrspaceeblog10.site
 www.zepsucspecjalny.site
 www.zerion.online
 www.zerkalist.site
@@ -141612,6 +141665,7 @@ www.zmiastaprosto.b-cdn.net
 www.zmiazdzonynienasycony.site
 www.zmiazdzycswedzenie.site
 www.zmilczarek.pl
+www.zmnnajkkqqkdm.site
 www.zmopda.pl
 www.zmwpoqii.pl
 www.zn1qp7.webwave.dev
@@ -143000,6 +143054,7 @@ zens.pl
 zeo.widomkoster.xyz
 zeon.autos
 zephyrspaceblog61.site
+zephyrspaceeblog10.site
 zepsucspecjalny.site
 zerion.online
 zerkalist.site
@@ -143167,6 +143222,7 @@ zmiastaprosto.b-cdn.net
 zmiazdzonynienasycony.site
 zmiazdzycswedzenie.site
 zmilczarek.pl
+zmnnajkkqqkdm.site
 zmopda.pl
 zmwpoqii.pl
 zn1qp7.webwave.dev
