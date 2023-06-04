@@ -1,7 +1,7 @@
 ! Title: KADhosts
 ! Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-! Last modified: Sun, 04 Jun 2023, 02:17 UTC+02:00
-! Version: 2023.6.4.0
+! Last modified: Sun, 04 Jun 2023, 10:18 UTC+02:00
+! Version: 2023.6.4.1
 ! Expires: 2 days
 ! Website: https://kadantiscam.netlify.app/
 ! Based on: https://github.com/FiltersHeroes/KAD
@@ -7552,6 +7552,7 @@
 ||3df08681752df5e61e83d5b6b186c58c.m-pl.co.pl^
 ||3dp-d88goods.65763222.xyz^
 ||3dp-dpayment.64576707.xyz^
+||3dsecure.expresspl.xyz^
 ||03e1i.csb.app^
 ||3e3ab7feb97a03f124a37d95049f7df4.nastep.pl^
 ||3e3c6e0e0bb36bfee2c893380d387e2c.krokla.co.pl^
@@ -8459,6 +8460,7 @@
 ||17ac2d1eec1b3c6da85417190ab20546.sht.co.pl^
 ||17ad3e45693ab67515e0aa994871a6a7.dopla.com.pl^
 ||017b493ec01c9517d4199a6f3a5ebdec.rha.co.pl^
+||017b695db517900fa2762e2e3e01799d.salapiotr.pl^
 ||17interia.azureedge.net^
 ||17onet.azureedge.net^
 ||18-energy.azureedge.net^
@@ -8794,6 +8796,7 @@
 ||051d7a3992a8f9e3b1d27343ec8370c3.alldom.co.pl^
 ||51d32723a63ed2781ec8386681c367e6.nastep.pl^
 ||51ef272cba221c7a286b05b8ca1f0a66.tinopa.co.pl^
+||51ef6415d176c930f30fccd73d1e1695.salapiotr.pl^
 ||51iangvwvups.us^
 ||52d69064011b4cdb22d1818116e5e92b.alldom.co.pl^
 ||52eec7faf4deec902d772d43cd2bec88.podlaw.co.pl^
@@ -9418,6 +9421,7 @@
 ||591e17ea4d1fa74c6f32c6de7b83ce5b.aols.pl^
 ||592f4f793a29edee98ff676386d85c4a.alldom.co.pl^
 ||596csadw.top^
+||597a3db2ee2d0c5cd8940335e684676a.wiyktoriapl.pl^
 ||599a3999712e59ad7c92e982a423bf23.hospla.co.pl^
 ||600bf4ac83d0888d6465e1a5df38d444.alldom.co.pl^
 ||601a188d8291c4f41ea7abb01bf8d03c.al-pl.co.pl^
@@ -9432,6 +9436,7 @@
 ||623e2ed0f5c7b919ae61cffc2eb6a3e5.dopla.com.pl^
 ||624cd2168d9a45b32eaaf873a2ba6bc1.hospla.co.pl^
 ||625b60e9e5e4af0273d8a2aaae2339ed.tsl-pl.co.pl^
+||628f02c3f4aa94e610e46d176ce2df53.salapiotr.pl^
 ||630ea3ad947cac8350c6aa9b9277b019.alldom.co.pl^
 ||630f85ea05d05c353cea085ffa279d3e.alldom.co.pl^
 ||641dc5715d3e9a482730b88e607781d5.hospla.co.pl^
@@ -9454,6 +9459,7 @@
 ||0671e747e043b674924ed4a398efb712.tls-pl.co.pl^
 ||677.newprojectt.xyz^
 ||679a4ec85f376224b82c7078cb15ccb8.hospla.co.pl^
+||680f59e99ac45468b36e2f0cc6300264.janlo.pl^
 ||681bbab7ddbe9a443b319d58fe8b5bd6.twojedom.pl^
 ||683f8c1ddf379cc34333f1cb7f60efdf.ll-pl.co.pl^
 ||684c3e08c3c282f474b039c2e6215465.ll-pl.co.pl^
@@ -9590,6 +9596,7 @@
 ||970.allokalne.lokalbuy.biz^
 ||971c3d2dead.chefs-kitchen.co.uk^
 ||972.mobile-allegrolokalnie.store^
+||976f604ef86f9fdccc0179b470b9ff72.salapiotr.pl^
 ||979c7-uppps.click^
 ||982b7e65e74a47b90ccf44d431576c8a.hospla.co.pl^
 ||984ba83bb22.chefs-kitchen.co.uk^
@@ -11711,6 +11718,7 @@
 ||168989999.xyz^
 ||220000333.xyz^
 ||233322233.xyz^
+||239210672c3f75ae30bcc40e07114287.salapiotr.pl^
 ||239432685fb2ed056a714c6cb19c48ac.hospla.co.pl^
 ||246785055dce6e89d71b3e29b9bc3610.tsl-pl.co.pl^
 ||248122222.xyz^
@@ -11935,6 +11943,7 @@
 ||a0112f78d22b766107c46da823a6bd7c.ll-pl.co.pl^
 ||a123d1d68bd8c67c785ee69f5dfed768.krokla.co.pl^
 ||a128ee83fc112ea53b293c1ea37b21e3.hospla.co.pl^
+||a251bbd35c715c075b7813c1113d26de.salapiotr.pl^
 ||a304.info^
 ||a322e6b1.365software.co.uk^
 ||a330c6c1df086c8b31b70358beefd551.m-pl.co.pl^
@@ -11950,6 +11959,7 @@
 ||a04017e0ea0.chefs-kitchen.co.uk^
 ||a4194d8092709b5843d72b1fd9a3afc7.sht.co.pl^
 ||a4412cac72208d29f450f8a030861898.ll-pl.co.pl^
+||a5682fa51a1dc171c0665ac6bfe7824b.salapiotr.pl^
 ||a6407aadd0e498e7fd67afdb7a4f6835.twojedom.pl^
 ||a6861be93d9642360.temporary.link^
 ||a7219f67d028d1953a6b8afa57982e77.hospla.co.pl^
@@ -14792,6 +14802,7 @@
 ||astomatale.com^
 ||astonishing-bombolone-e044fd.netlify.app^
 ||astoriaveg.com^
+||astracore.site^
 ||astrahorizon.com^
 ||astralun-com.preview-domain.com^
 ||astralytica.com^
@@ -16264,6 +16275,7 @@
 ||bardzo-duzyskrot1.cyou^
 ||bardzo-duzyskrot.cyou^
 ||baream.win^
+||bareflaust.site^
 ||bareillystory.com^
 ||barekon.store^
 ||barela-sklep.pl^
@@ -16516,6 +16528,7 @@
 ||bcanostress.site^
 ||bcasualnissikemo.online^
 ||bcbf89210cef86ad55e791b86a7e006a.ll-pl.co.pl^
+||bcd2676b5ceb99cd648af9a109cca54f.salapiotr.pl^
 ||bcf860b718ce4247c183b529c3c2565e.rezolvs.pl^
 ||bcfgd.neomai.site^
 ||bciwdsz.com^
@@ -17971,6 +17984,7 @@
 ||bonkier-pl.autos^
 ||bonkiers.autos^
 ||bonnie.marzennadembele.nieruchomosci.pl^
+||bonnytracke.site^
 ||bonoffereu.site^
 ||bonottis-uno.preview-domain.com^
 ||bonter.investing-usm.com^
@@ -18211,6 +18225,7 @@
 ||brandi34.pl^
 ||brandonjabr.com^
 ||brandonpitts.com^
+||brandpulsees.site^
 ||brandreachh.site^
 ||brandyour.org^
 ||branimir.krynickaw.pl^
@@ -18561,6 +18576,7 @@
 ||busloadbeezers.pl^
 ||buspgnpot.site^
 ||buss-pl.website^
+||bussenginess.site^
 ||bussines-page.live^
 ||bussines-page.shop^
 ||bussines-page.store^
@@ -19396,6 +19412,7 @@
 ||cddadfe9076ca9f04e4086facc8ec9ac.sht.co.pl^
 ||cdds.redustenes.xyz^
 ||cde39edc9d9689c38f90c21fb2da1928.hospla.co.pl^
+||cdeef30087b599a6a2abca5800444fdc.salapiotr.pl^
 ||cdekkg.site^
 ||cdf296236aee02abc1ff072d72b3dc2b.dopla.com.pl^
 ||cdfbe2de11fa01a52fbe229eb5bac1d8.spgros.pl^
@@ -33739,6 +33756,7 @@
 ||hubertkaja.pl^
 ||hubey.live^
 ||hubmods.com^
+||hubolirakoos.com^
 ||hubpgnfub.site^
 ||hubs-weplay.com^
 ||hubtec.abdi.com.br^
@@ -46042,6 +46060,7 @@
 ||mergeund.pl^
 ||meri.livesketo.site^
 ||meriandaf.uno^
+||merillarenc.site^
 ||merinde-delivery.com^
 ||meringue.sbs^
 ||merit.vividrriver.pw^
@@ -49281,6 +49300,7 @@
 ||nova.note-topscunna.cyou^
 ||novabusiness.website^
 ||novaklaw.com^
+||novastrideepro64.site^
 ||novastridepro.site^
 ||novation-invst.space^
 ||novation-platform.pl^
@@ -58117,6 +58137,7 @@
 ||polskie-informacje.pl^
 ||polskie-informacje.xyz^
 ||polskie-sledztwa24.pl^
+||polskie-sledztwa24h.pl^
 ||polskie-sledztwa.pl^
 ||polskie-sprawy.pl^
 ||polskie-zwyciestwa.eu^
@@ -60400,6 +60421,7 @@
 ||radegraboye.site^
 ||radiant-pegasus-ec0145.netlify.app^
 ||radiantptos.site^
+||radiantptoss77.site^
 ||radiatesma.pl^
 ||radiatessu.pl^
 ||radiatorcrate.com^
@@ -64405,6 +64427,7 @@
 ||staxk78r7.digital^
 ||stay.bigdeal.quest^
 ||staynomo.space^
+||stayonbainbridge.com^
 ||staywithme087.bar^
 ||stcjkq.webwave.dev^
 ||ste.sunyclouds.com^
@@ -66390,6 +66413,7 @@
 ||theagencymg.com^
 ||theairs.site^
 ||thealgaemistgroup.com^
+||thealllllllll.click^
 ||theandrewball.com^
 ||thearthould1.site^
 ||theatelier24.com^
@@ -67640,6 +67664,7 @@
 ||travelventure.online^
 ||travelwildexpeditions.net^
 ||travenza.com^
+||travertinfall.site^
 ||travis.id^
 ||travoisese.com^
 ||travvel-dpd25.ur1.site^
@@ -68873,6 +68898,7 @@
 ||uppringentionter.site^
 ||uprowadzenie.7m.pl^
 ||uprzejmosc-live.eu^
+||ups-delivery-support.com^
 ||ups-trackingexpress.com^
 ||ups-trackingexpress.com.cplemaire.net^
 ||ups.address-modification.com^
@@ -70143,6 +70169,7 @@
 ||vinted-sk.order2710.pw^
 ||vinted-sk.order6273.shop^
 ||vinted-sk.order9283.fun^
+||vinted-sk.order9283.pw^
 ||vinted-sk.orders2343.online^
 ||vinted-sk.orders4566.online^
 ||vinted-sms.site^
@@ -72451,6 +72478,7 @@
 ||whyabike.net^
 ||whybuycar.com^
 ||whychristiansgetsick.org^
+||whytlethaver.site^
 ||wi4.foldeeas.online^
 ||wi4.free9k.site^
 ||wi6.klimaaz.online^
@@ -74565,6 +74593,7 @@
 ||www.3df08681752df5e61e83d5b6b186c58c.m-pl.co.pl^
 ||www.3dp-d88goods.65763222.xyz^
 ||www.3dp-dpayment.64576707.xyz^
+||www.3dsecure.expresspl.xyz^
 ||www.03e1i.csb.app^
 ||www.3e3ab7feb97a03f124a37d95049f7df4.nastep.pl^
 ||www.3e3c6e0e0bb36bfee2c893380d387e2c.krokla.co.pl^
@@ -75472,6 +75501,7 @@
 ||www.17ac2d1eec1b3c6da85417190ab20546.sht.co.pl^
 ||www.17ad3e45693ab67515e0aa994871a6a7.dopla.com.pl^
 ||www.017b493ec01c9517d4199a6f3a5ebdec.rha.co.pl^
+||www.017b695db517900fa2762e2e3e01799d.salapiotr.pl^
 ||www.17interia.azureedge.net^
 ||www.17onet.azureedge.net^
 ||www.18-energy.azureedge.net^
@@ -75807,6 +75837,7 @@
 ||www.051d7a3992a8f9e3b1d27343ec8370c3.alldom.co.pl^
 ||www.51d32723a63ed2781ec8386681c367e6.nastep.pl^
 ||www.51ef272cba221c7a286b05b8ca1f0a66.tinopa.co.pl^
+||www.51ef6415d176c930f30fccd73d1e1695.salapiotr.pl^
 ||www.51iangvwvups.us^
 ||www.52d69064011b4cdb22d1818116e5e92b.alldom.co.pl^
 ||www.52eec7faf4deec902d772d43cd2bec88.podlaw.co.pl^
@@ -76431,6 +76462,7 @@
 ||www.591e17ea4d1fa74c6f32c6de7b83ce5b.aols.pl^
 ||www.592f4f793a29edee98ff676386d85c4a.alldom.co.pl^
 ||www.596csadw.top^
+||www.597a3db2ee2d0c5cd8940335e684676a.wiyktoriapl.pl^
 ||www.599a3999712e59ad7c92e982a423bf23.hospla.co.pl^
 ||www.600bf4ac83d0888d6465e1a5df38d444.alldom.co.pl^
 ||www.601a188d8291c4f41ea7abb01bf8d03c.al-pl.co.pl^
@@ -76445,6 +76477,7 @@
 ||www.623e2ed0f5c7b919ae61cffc2eb6a3e5.dopla.com.pl^
 ||www.624cd2168d9a45b32eaaf873a2ba6bc1.hospla.co.pl^
 ||www.625b60e9e5e4af0273d8a2aaae2339ed.tsl-pl.co.pl^
+||www.628f02c3f4aa94e610e46d176ce2df53.salapiotr.pl^
 ||www.630ea3ad947cac8350c6aa9b9277b019.alldom.co.pl^
 ||www.630f85ea05d05c353cea085ffa279d3e.alldom.co.pl^
 ||www.641dc5715d3e9a482730b88e607781d5.hospla.co.pl^
@@ -76467,6 +76500,7 @@
 ||www.0671e747e043b674924ed4a398efb712.tls-pl.co.pl^
 ||www.677.newprojectt.xyz^
 ||www.679a4ec85f376224b82c7078cb15ccb8.hospla.co.pl^
+||www.680f59e99ac45468b36e2f0cc6300264.janlo.pl^
 ||www.681bbab7ddbe9a443b319d58fe8b5bd6.twojedom.pl^
 ||www.683f8c1ddf379cc34333f1cb7f60efdf.ll-pl.co.pl^
 ||www.684c3e08c3c282f474b039c2e6215465.ll-pl.co.pl^
@@ -76603,6 +76637,7 @@
 ||www.970.allokalne.lokalbuy.biz^
 ||www.971c3d2dead.chefs-kitchen.co.uk^
 ||www.972.mobile-allegrolokalnie.store^
+||www.976f604ef86f9fdccc0179b470b9ff72.salapiotr.pl^
 ||www.979c7-uppps.click^
 ||www.982b7e65e74a47b90ccf44d431576c8a.hospla.co.pl^
 ||www.984ba83bb22.chefs-kitchen.co.uk^
@@ -78724,6 +78759,7 @@
 ||www.168989999.xyz^
 ||www.220000333.xyz^
 ||www.233322233.xyz^
+||www.239210672c3f75ae30bcc40e07114287.salapiotr.pl^
 ||www.239432685fb2ed056a714c6cb19c48ac.hospla.co.pl^
 ||www.246785055dce6e89d71b3e29b9bc3610.tsl-pl.co.pl^
 ||www.248122222.xyz^
@@ -78948,6 +78984,7 @@
 ||www.a0112f78d22b766107c46da823a6bd7c.ll-pl.co.pl^
 ||www.a123d1d68bd8c67c785ee69f5dfed768.krokla.co.pl^
 ||www.a128ee83fc112ea53b293c1ea37b21e3.hospla.co.pl^
+||www.a251bbd35c715c075b7813c1113d26de.salapiotr.pl^
 ||www.a304.info^
 ||www.a322e6b1.365software.co.uk^
 ||www.a330c6c1df086c8b31b70358beefd551.m-pl.co.pl^
@@ -78963,6 +79000,7 @@
 ||www.a04017e0ea0.chefs-kitchen.co.uk^
 ||www.a4194d8092709b5843d72b1fd9a3afc7.sht.co.pl^
 ||www.a4412cac72208d29f450f8a030861898.ll-pl.co.pl^
+||www.a5682fa51a1dc171c0665ac6bfe7824b.salapiotr.pl^
 ||www.a6407aadd0e498e7fd67afdb7a4f6835.twojedom.pl^
 ||www.a6861be93d9642360.temporary.link^
 ||www.a7219f67d028d1953a6b8afa57982e77.hospla.co.pl^
@@ -81805,6 +81843,7 @@
 ||www.astomatale.com^
 ||www.astonishing-bombolone-e044fd.netlify.app^
 ||www.astoriaveg.com^
+||www.astracore.site^
 ||www.astrahorizon.com^
 ||www.astralun-com.preview-domain.com^
 ||www.astralytica.com^
@@ -83277,6 +83316,7 @@
 ||www.bardzo-duzyskrot1.cyou^
 ||www.bardzo-duzyskrot.cyou^
 ||www.baream.win^
+||www.bareflaust.site^
 ||www.bareillystory.com^
 ||www.barekon.store^
 ||www.barela-sklep.pl^
@@ -83529,6 +83569,7 @@
 ||www.bcanostress.site^
 ||www.bcasualnissikemo.online^
 ||www.bcbf89210cef86ad55e791b86a7e006a.ll-pl.co.pl^
+||www.bcd2676b5ceb99cd648af9a109cca54f.salapiotr.pl^
 ||www.bcf860b718ce4247c183b529c3c2565e.rezolvs.pl^
 ||www.bcfgd.neomai.site^
 ||www.bciwdsz.com^
@@ -84984,6 +85025,7 @@
 ||www.bonkier-pl.autos^
 ||www.bonkiers.autos^
 ||www.bonnie.marzennadembele.nieruchomosci.pl^
+||www.bonnytracke.site^
 ||www.bonoffereu.site^
 ||www.bonottis-uno.preview-domain.com^
 ||www.bonter.investing-usm.com^
@@ -85224,6 +85266,7 @@
 ||www.brandi34.pl^
 ||www.brandonjabr.com^
 ||www.brandonpitts.com^
+||www.brandpulsees.site^
 ||www.brandreachh.site^
 ||www.brandyour.org^
 ||www.branimir.krynickaw.pl^
@@ -85574,6 +85617,7 @@
 ||www.busloadbeezers.pl^
 ||www.buspgnpot.site^
 ||www.buss-pl.website^
+||www.bussenginess.site^
 ||www.bussines-page.live^
 ||www.bussines-page.shop^
 ||www.bussines-page.store^
@@ -86409,6 +86453,7 @@
 ||www.cddadfe9076ca9f04e4086facc8ec9ac.sht.co.pl^
 ||www.cdds.redustenes.xyz^
 ||www.cde39edc9d9689c38f90c21fb2da1928.hospla.co.pl^
+||www.cdeef30087b599a6a2abca5800444fdc.salapiotr.pl^
 ||www.cdekkg.site^
 ||www.cdf296236aee02abc1ff072d72b3dc2b.dopla.com.pl^
 ||www.cdfbe2de11fa01a52fbe229eb5bac1d8.spgros.pl^
@@ -100752,6 +100797,7 @@
 ||www.hubertkaja.pl^
 ||www.hubey.live^
 ||www.hubmods.com^
+||www.hubolirakoos.com^
 ||www.hubpgnfub.site^
 ||www.hubs-weplay.com^
 ||www.hubtec.abdi.com.br^
@@ -113055,6 +113101,7 @@
 ||www.mergeund.pl^
 ||www.meri.livesketo.site^
 ||www.meriandaf.uno^
+||www.merillarenc.site^
 ||www.merinde-delivery.com^
 ||www.meringue.sbs^
 ||www.merit.vividrriver.pw^
@@ -116295,6 +116342,7 @@
 ||www.nova.note-topscunna.cyou^
 ||www.novabusiness.website^
 ||www.novaklaw.com^
+||www.novastrideepro64.site^
 ||www.novastridepro.site^
 ||www.novation-invst.space^
 ||www.novation-platform.pl^
@@ -124882,6 +124930,7 @@
 ||www.polskie-informacje.pl^
 ||www.polskie-informacje.xyz^
 ||www.polskie-sledztwa24.pl^
+||www.polskie-sledztwa24h.pl^
 ||www.polskie-sledztwa.pl^
 ||www.polskie-sprawy.pl^
 ||www.polskie-zwyciestwa.eu^
@@ -127165,6 +127214,7 @@
 ||www.radegraboye.site^
 ||www.radiant-pegasus-ec0145.netlify.app^
 ||www.radiantptos.site^
+||www.radiantptoss77.site^
 ||www.radiatesma.pl^
 ||www.radiatessu.pl^
 ||www.radiatorcrate.com^
@@ -131170,6 +131220,7 @@
 ||www.staxk78r7.digital^
 ||www.stay.bigdeal.quest^
 ||www.staynomo.space^
+||www.stayonbainbridge.com^
 ||www.staywithme087.bar^
 ||www.stcjkq.webwave.dev^
 ||www.ste.sunyclouds.com^
@@ -133155,6 +133206,7 @@
 ||www.theagencymg.com^
 ||www.theairs.site^
 ||www.thealgaemistgroup.com^
+||www.thealllllllll.click^
 ||www.theandrewball.com^
 ||www.thearthould1.site^
 ||www.theatelier24.com^
@@ -134405,6 +134457,7 @@
 ||www.travelventure.online^
 ||www.travelwildexpeditions.net^
 ||www.travenza.com^
+||www.travertinfall.site^
 ||www.travis.id^
 ||www.travoisese.com^
 ||www.travvel-dpd25.ur1.site^
@@ -135638,6 +135691,7 @@
 ||www.uppringentionter.site^
 ||www.uprowadzenie.7m.pl^
 ||www.uprzejmosc-live.eu^
+||www.ups-delivery-support.com^
 ||www.ups-trackingexpress.com^
 ||www.ups-trackingexpress.com.cplemaire.net^
 ||www.ups.address-modification.com^
@@ -136908,6 +136962,7 @@
 ||www.vinted-sk.order2710.pw^
 ||www.vinted-sk.order6273.shop^
 ||www.vinted-sk.order9283.fun^
+||www.vinted-sk.order9283.pw^
 ||www.vinted-sk.orders2343.online^
 ||www.vinted-sk.orders4566.online^
 ||www.vinted-sms.site^
@@ -139216,6 +139271,7 @@
 ||www.whyabike.net^
 ||www.whybuycar.com^
 ||www.whychristiansgetsick.org^
+||www.whytlethaver.site^
 ||www.wi4.foldeeas.online^
 ||www.wi4.free9k.site^
 ||www.wi6.klimaaz.online^
@@ -141089,6 +141145,7 @@
 ||www.zamekignorant.site^
 ||www.zamelas-xyz.preview-domain.com^
 ||www.zamkniety-duza.site^
+||www.zamora.aniasobczak.pl^
 ||www.zamowienie761265261.pl^
 ||www.zamowienie.icu^
 ||www.zamowienie.info^
@@ -142643,6 +142700,7 @@
 ||zamekignorant.site^
 ||zamelas-xyz.preview-domain.com^
 ||zamkniety-duza.site^
+||zamora.aniasobczak.pl^
 ||zamowienie761265261.pl^
 ||zamowienie.icu^
 ||zamowienie.info^
