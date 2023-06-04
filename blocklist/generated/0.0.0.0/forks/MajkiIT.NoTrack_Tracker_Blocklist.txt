@@ -1,9 +1,16 @@
-#202306040303
-# NoTrack Tracker Blocklist for Pi hole
-# Collaborators: xxcriticxx, MajkiIT
-# Homepage: https://www.certyficate.it/
-# Contact: errorsfilters@certyficate.it 
-# Support: https://github.com/MajkiIT/polish-ads-filter/issues
-# License: https://creativecommons.org/licenses/by-nc-sa/4.0/
-# Copyright (C) 2020 Certyficate IT
-#
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+0.0.0.0 "http://www.w3.org/tr/xhtml1/dtd/xhtml1-strict.dtd">
+0.0.0.0 <html>
+0.0.0.0 <head>
+<title>503 backend read error</title>
+0.0.0.0 </head>
+0.0.0.0 <body>
+<h1>Error 503 backend read error</h1>
+<p>backend read error</p>
+<h3>Error 54113</h3>
+<p>Details: cache-iad-kiad7000085-IAD 1685894569 3049606269</p>
+0.0.0.0 <hr>
+<p>Varnish cache server</p>
+0.0.0.0 </body>
+0.0.0.0 </html>
