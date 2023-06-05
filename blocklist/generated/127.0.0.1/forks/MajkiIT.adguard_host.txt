@@ -1,4 +1,4 @@
-#202306040303
+#202306050303
 # Adguard Host filters for Pi hole
 # Collaborators: xxcriticxx, MajkiIT
 # Homepage: https://www.certyficate.it/
@@ -146,6 +146,7 @@
 127.0.0.1 0fmm.com
 127.0.0.1 0ftyz.top
 127.0.0.1 0gw7e6s3wrao9y3q.pro
+127.0.0.1 0hlc8.top
 127.0.0.1 0i0i0i0.com
 127.0.0.1 0iqiehoa35.ru
 127.0.0.1 0l9x.cn
@@ -382,6 +383,7 @@
 127.0.0.1 1728445846.rsc.cdn77.org
 127.0.0.1 1731d04ba1.com
 127.0.0.1 1736253261.rsc.cdn77.org
+127.0.0.1 173e.cn
 127.0.0.1 177c156af9.com
 127.0.0.1 177o.com
 127.0.0.1 17chk.vip
@@ -1661,6 +1663,7 @@
 127.0.0.1 8jay04c4q7te.com
 127.0.0.1 8jkx.com
 127.0.0.1 8jrc564wtf.cn
+127.0.0.1 8jxxai.com
 127.0.0.1 8kj1ldt1.de
 127.0.0.1 8mdphsb8fm.com
 127.0.0.1 8o9m.cn
@@ -4093,6 +4096,7 @@
 127.0.0.1 adt.com.vn
 127.0.0.1 adt328.com
 127.0.0.1 adt545.net
+127.0.0.1 adt567.net
 127.0.0.1 adt598.com
 127.0.0.1 adtag.cc
 127.0.0.1 adtag.sphdigital.com
@@ -9661,6 +9665,7 @@
 127.0.0.1 bnstero.com
 127.0.0.1 bntech.io
 127.0.0.1 bny3.cn
+127.0.0.1 bny6.cn
 127.0.0.1 bnz9.cn
 127.0.0.1 bo.facesbet.com
 127.0.0.1 bo2ffe45ss4gie.com
@@ -11156,7 +11161,6 @@
 127.0.0.1 cdn.adt511.net
 127.0.0.1 cdn.adt523.net
 127.0.0.1 cdn.adt532.com
-127.0.0.1 cdn.adt567.net
 127.0.0.1 cdn.advisible.com
 127.0.0.1 cdn.alistcloud.com
 127.0.0.1 cdn.allsportsflix.best
@@ -16731,6 +16735,7 @@
 127.0.0.1 drrzzl.cn
 127.0.0.1 drsmediaexchange.com
 127.0.0.1 drtraff.ru
+127.0.0.1 drtyujgsg.xyz
 127.0.0.1 drubgyrinid.com
 127.0.0.1 drufhfueg.com
 127.0.0.1 druggedsilurid.com
@@ -18482,6 +18487,7 @@
 127.0.0.1 events.demoup.com
 127.0.0.1 events.devcycle.com
 127.0.0.1 events.emogi.com
+127.0.0.1 events.flagship.io
 127.0.0.1 events.getsitectrl.com
 127.0.0.1 events.iap.unity3d.com
 127.0.0.1 events.ifunny.co
@@ -19717,6 +19723,7 @@
 127.0.0.1 flowcodeapp.com
 127.0.0.1 flowers.moex.com
 127.0.0.1 flowerstreatment.com
+127.0.0.1 flowerycreature.com
 127.0.0.1 floweryflavor.com
 127.0.0.1 floweryoperation.com
 127.0.0.1 flowln.com
@@ -22543,6 +22550,7 @@
 127.0.0.1 hawkyeye5ssnd.com
 127.0.0.1 hawsuffer.com
 127.0.0.1 haxbyq.com
+127.0.0.1 haxd7.top
 127.0.0.1 hay-borsa.ru
 127.0.0.1 hayfatduh.com
 127.0.0.1 haymarketstat.de
@@ -22683,6 +22691,7 @@
 127.0.0.1 heeteefu.com
 127.0.0.1 hefei64.com
 127.0.0.1 hefeltlonely.one
+127.0.0.1 hefrpv.xyz
 127.0.0.1 heftymynah.com
 127.0.0.1 hegarberetrof.pro
 127.0.0.1 hegazedatthewo.com
@@ -23404,6 +23413,7 @@
 127.0.0.1 hpyue.com
 127.0.0.1 hpzosbx.cn
 127.0.0.1 hq1.appsflyer.com
+127.0.0.1 hq390.xyz
 127.0.0.1 hq3x.com
 127.0.0.1 hqae.cn
 127.0.0.1 hqawqssuvqyl.xyz
@@ -23518,6 +23528,7 @@
 127.0.0.1 huckauhy.com
 127.0.0.1 huddha.com
 127.0.0.1 huddhi.com
+127.0.0.1 hudqrn.xyz
 127.0.0.1 hue2a.com
 127.0.0.1 huffson-delivery.com
 127.0.0.1 hufkzv.xyz
@@ -27298,6 +27309,7 @@
 127.0.0.1 layeredseether.com
 127.0.0.1 layerloop.com
 127.0.0.1 layingprocuregather.com
+127.0.0.1 lazyii.icu
 127.0.0.1 lazypeacefullyutterly.com
 127.0.0.1 lb.secureweb24.net
 127.0.0.1 lbazhaheil.top
@@ -32456,6 +32468,7 @@
 127.0.0.1 nwehirapbk.com
 127.0.0.1 nwhocamewi.xyz
 127.0.0.1 nwhvceb.cn
+127.0.0.1 nwmol.top
 127.0.0.1 nwmum.com
 127.0.0.1 nwogldc.top
 127.0.0.1 nwrazu.cn
@@ -32554,6 +32567,7 @@
 127.0.0.1 oakenboubous.com
 127.0.0.1 oaksafta.com
 127.0.0.1 oakssterile.com
+127.0.0.1 oalmbmf.xyz
 127.0.0.1 oalsauwy.net
 127.0.0.1 oalselry.com
 127.0.0.1 oalsoagn.com
@@ -36856,6 +36870,7 @@
 127.0.0.1 pxpfnbe1t1.com
 127.0.0.1 pxrs6.cn
 127.0.0.1 pxx.tnklrs.cn
+127.0.0.1 pxzkqq.com
 127.0.0.1 pyblogs.xyz
 127.0.0.1 pycizury.pro
 127.0.0.1 pyfqqcekcgd.xyz
@@ -48839,6 +48854,7 @@
 127.0.0.1 vra.outbrain.com
 127.0.0.1 vraatdwugla.com
 127.0.0.1 vrewpywootyu.com
+127.0.0.1 vrffwbf.cn
 127.0.0.1 vrhorus.com
 127.0.0.1 vriddhiabrege.live
 127.0.0.1 vriwjpzvh.com
@@ -50792,6 +50808,7 @@
 127.0.0.1 xiaopinwo.com
 127.0.0.1 xiaosaguniang.xyz
 127.0.0.1 xiaoshuoyun.cn
+127.0.0.1 xiaosss.ren
 127.0.0.1 xiaoxiangmovie.com
 127.0.0.1 xiaoxiaozhijia.shop
 127.0.0.1 xiaoyunong13.top
@@ -51876,6 +51893,7 @@
 127.0.0.1 yystzl.cn
 127.0.0.1 yyttc.top
 127.0.0.1 yyttm.top
+127.0.0.1 yytxzct.xyz
 127.0.0.1 yyujke.top
 127.0.0.1 yyupphb.cn
 127.0.0.1 yywccbdy.cyou
@@ -51965,6 +51983,7 @@
 127.0.0.1 zampad.com
 127.0.0.1 zampda.net
 127.0.0.1 zangocash.com
+127.0.0.1 zangtankqq.com
 127.0.0.1 zanlisgq.fun
 127.0.0.1 zanoogha.com
 127.0.0.1 zanox-affiliate.de

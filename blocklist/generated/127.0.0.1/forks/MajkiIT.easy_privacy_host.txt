@@ -1,4 +1,4 @@
-#202306040303
+#202306050303
 # EasyPrivacy Host filters for Pi hole
 # Collaborators: xxcriticxx, MajkiIT
 # Homepage: https://www.certyficate.it/
@@ -6790,6 +6790,7 @@
 127.0.0.1 events.devcycle.com
 127.0.0.1 events.elliemae.com
 127.0.0.1 events.engage.cebglobal.com
+127.0.0.1 events.flagship.io
 127.0.0.1 events.forddirectdealers.com
 127.0.0.1 events.framer.com
 127.0.0.1 events.georgiancollege.ca
@@ -7034,6 +7035,7 @@
 127.0.0.1 flow.kiloutou.fr
 127.0.0.1 flower.aridjaya.com
 127.0.0.1 flowerstreatment.com
+127.0.0.1 flowerycreature.com
 127.0.0.1 floweryflavor.com
 127.0.0.1 floweryoperation.com
 127.0.0.1 flqjny.supplementler.com
