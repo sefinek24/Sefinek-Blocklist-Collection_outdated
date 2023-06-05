@@ -1,6 +1,6 @@
 ---
 
-name: CI
+name: Generate new committed blocklists
 
 on:
   push:
@@ -64,7 +64,7 @@ jobs:
           git add .
           if [ -n "$(git status -s)" ]; then
             git status
-            git commit -m "Update blocklist files by GitHub Actions"
+            git commit -m "Update committed blocklist files"
             git push
           else
             echo "No changes to commit"
