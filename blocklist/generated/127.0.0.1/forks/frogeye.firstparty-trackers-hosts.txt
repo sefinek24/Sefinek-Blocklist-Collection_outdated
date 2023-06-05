@@ -12,16 +12,16 @@
 # Acknowledgements: https://hostfiles.frogeye.fr/#acknowledgements
 #
 # Generation software: eulaurarien v3.0.0
-# List generation date: 2023-06-05T00:13:55+02:00
+# List generation date: 2023-06-06T00:14:40+02:00
 # Oldest record: 2021-12-31T14:30:24+01:00
 # Number of source websites: 873
 # Number of source subdomains: 18981
-# Number of source DNS records: 18013
+# Number of source DNS records: 17960
 #
 # Input rules: asns: 6, zones: 48
-# Subsequent rules: asns: 6, hostnames: 14131, ip4s: 64, zones: 48
-# … no dupplicates: asns: 6, hostnames: 11898, zones: 48
-# Output rules: hostnames: 14131
+# Subsequent rules: asns: 6, hostnames: 14130, ip4s: 64, zones: 48
+# … no dupplicates: asns: 6, hostnames: 11897, zones: 48
+# Output rules: hostnames: 14130
 #
 
 127.0.0.1 101230059950694.wt-eu02.net
@@ -330,7 +330,6 @@
 127.0.0.1 ablinks.marketing.numi.com
 127.0.0.1 ablinks.m.draft.com
 127.0.0.1 ablinks.news.learnwithhomer.com
-127.0.0.1 ablinks.picsart.com
 127.0.0.1 ablinks.trackerinfo.southbeachdiet.com
 127.0.0.1 ablinksuni.a.grubhub.com
 127.0.0.1 ablinksuni.a.seamless.com
