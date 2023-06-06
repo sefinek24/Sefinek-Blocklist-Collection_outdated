@@ -13,7 +13,7 @@
 </div>
 <br>
 <div align="center">
-    <a href="https://sefinek.net/pihole-blocklist-customization" title="Blocklist Generator for Pihole, AdGuard etc. - Sefinek">
+    <a href="https://sefinek.net/blocklist-generator" title="Blocklist Customization - Sefinek's Website">
         <img src="images/generator.png" width="90%" alt="">
     </a>
 </div>

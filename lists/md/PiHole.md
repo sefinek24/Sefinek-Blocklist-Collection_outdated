@@ -1,11 +1,13 @@
 <div align="center">
-    <h1>📥 Last list update: 22.05.2023 / DD.MM.YYYY</h1>
+    <h1>📝 Default bocklist collection</h1>
     <p>
-        ⭐ <b>Mark this repository with a star if you find it useful.</b> ⭐
+        📄 » <b>Format: Pi-hole / 0.0.0.0 [Domain]</b><br>
+        📥 » <b>Last update: 22.05.2023 / DD.MM.YYYY</b><br>
+        ⭐ » <b>Mark this repository with a star if you find it useful.</b>
     </p>
 </div>
 <h3 align="right">
-    <a href="https://sefinek.net/pihole-blocklist-customization">🌍 Try my blocklist generator on my website »</a>
+    <a href="https://sefinek.net/blocklist-generator/pihole">🌍 Try blocklist generator on my website (recommended) »</a>
 </h3>
 <br>
 
@@ -23,6 +25,7 @@ https://blocklist.sefinek.net/generated/0.0.0.0/forks/AssoEchap.stalkerware-indi
 https://blocklist.sefinek.net/generated/0.0.0.0/forks/bigdargon.hostsVN.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/forks/blocklistproject.abuse.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/forks/blocklistproject.drugs.txt
+https://blocklist.sefinek.net/generated/0.0.0.0/forks/blocklistproject.fraud.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/forks/blocklistproject.gambling.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/forks/blocklistproject.malware.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/forks/blocklistproject.phishing.txt
