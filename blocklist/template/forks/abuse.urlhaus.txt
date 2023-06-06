@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-06-06 04:59:10 (UTC)                      #
+# Last updated: 2023-06-06 05:54:28 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -57,6 +57,7 @@
 0.0.0.0 bayyan.magesticflyer.com
 0.0.0.0 bbc-s.news
 0.0.0.0 beachwood.ug
+0.0.0.0 bearcatpumps.com.cn
 0.0.0.0 beautifulqueen.com.br
 0.0.0.0 bencevendeghaz.hu
 0.0.0.0 benwellgroup.co.uk
@@ -66,14 +67,12 @@
 0.0.0.0 bigs.bikershop.biz
 0.0.0.0 bisnesservis-fk.ru
 0.0.0.0 bmg.edu.vn
-0.0.0.0 bocasislandexpress.com
 0.0.0.0 bontiakhotel.net
 0.0.0.0 bookkeepingagents.com
 0.0.0.0 borntobefree.org.za
 0.0.0.0 botnet.catpn.net
 0.0.0.0 botnet.nguyennghi.info
 0.0.0.0 bracell.latitude.net.br
-0.0.0.0 brideofmessiah.com
 0.0.0.0 british-shorthair.es
 0.0.0.0 brknarikan.com
 0.0.0.0 bruiserbodies.com
@@ -83,6 +82,7 @@
 0.0.0.0 camminachetipassa.it
 0.0.0.0 canconsulting.in
 0.0.0.0 cargoconnect.online
+0.0.0.0 casamuseoayerbe.co
 0.0.0.0 cdaonline.com.ar
 0.0.0.0 cdn.doxbin.org
 0.0.0.0 cdn.unduhfile.my.id
@@ -98,7 +98,6 @@
 0.0.0.0 cnom.sante.gov.ml
 0.0.0.0 coadymarine.com
 0.0.0.0 cointra.ac.ug
-0.0.0.0 colisumy.com
 0.0.0.0 congtykhoancatbetong.com
 0.0.0.0 coop-host.com
 0.0.0.0 corpolevesuplementos.com.br
@@ -140,7 +139,6 @@
 0.0.0.0 down.pcclear.com
 0.0.0.0 download.caihong.com
 0.0.0.0 download.doumaibiji.cn
-0.0.0.0 downloads.bcweb.org.uk
 0.0.0.0 drhanneserasmus.co.za
 0.0.0.0 drive.google.com.it-barcelona.com
 0.0.0.0 droomsoft.com
@@ -207,9 +205,7 @@
 0.0.0.0 hr2019.vrcom7.com
 0.0.0.0 hrfrance.net
 0.0.0.0 hseda.com
-0.0.0.0 htownbars.com
 0.0.0.0 hugersi.com
-0.0.0.0 hunggiang.vn
 0.0.0.0 hydramecs.com
 0.0.0.0 idrissischool.edu.my
 0.0.0.0 image-thaihometown.com
@@ -217,7 +213,6 @@
 0.0.0.0 imit.ac.in
 0.0.0.0 incotel.com.pk
 0.0.0.0 indolian.com
-0.0.0.0 indonesias.me
 0.0.0.0 inmobiliariasucasasegura.com
 0.0.0.0 intellectproactive.com
 0.0.0.0 iprovietnam.com
@@ -312,6 +307,7 @@
 0.0.0.0 notificationsse.com
 0.0.0.0 novak-home.com
 0.0.0.0 nrc-soluciones.com.ar
+0.0.0.0 oazahotel.com.mk
 0.0.0.0 oceancityrentalbyowner.com
 0.0.0.0 olugun.co.za
 0.0.0.0 omeryener.com.tr
@@ -324,6 +320,7 @@
 0.0.0.0 orderedami.com
 0.0.0.0 organizer.safeonline.it
 0.0.0.0 origins-france.fr
+0.0.0.0 orlcasablanca.com
 0.0.0.0 orsan.gruporhynous.com
 0.0.0.0 outdoortacklebox.com
 0.0.0.0 ovajabmedia.com
@@ -347,7 +344,6 @@
 0.0.0.0 pooramkuries.com
 0.0.0.0 posmicrosystems.com
 0.0.0.0 potolki-razumno.ru
-0.0.0.0 ppfatahillah.com
 0.0.0.0 prestigehomeautomation.net
 0.0.0.0 primaflor-sby.com
 0.0.0.0 primusth.com
@@ -365,6 +361,7 @@
 0.0.0.0 records.dennisign.se
 0.0.0.0 redmag-dz.com
 0.0.0.0 reifenquick.de
+0.0.0.0 relaxindulge.co.nz
 0.0.0.0 remotaja.com
 0.0.0.0 renacer.jgorange.com
 0.0.0.0 retailexpertscloud.com
@@ -476,7 +473,6 @@
 0.0.0.0 www.amazonmall.club
 0.0.0.0 www.arkidecture.com
 0.0.0.0 www.artrsllc.com
-0.0.0.0 www.asterglobal.com
 0.0.0.0 www.bancarioscornelio.com.br
 0.0.0.0 www.bearware.org
 0.0.0.0 www.carusoadvogados.com.br
@@ -518,6 +514,7 @@
 0.0.0.0 www.tvculturaourofino.com.br
 0.0.0.0 www.vaestsolutions.com
 0.0.0.0 www.websound.ru
+0.0.0.0 www.weinsteincounseling.com
 0.0.0.0 www.ysbaojia.com
 0.0.0.0 wynecare.com
 0.0.0.0 x.233sy.cn
@@ -536,4 +533,4 @@
 0.0.0.0 zexeq.com
 0.0.0.0 zf.gouzapay.cn
 0.0.0.0 zhaoziliao1668.cn
-# Number of entries: 530
+# Number of entries: 527
