@@ -6,7 +6,7 @@ const totalCPUs = require('node:os').cpus().length;
 if (process.env.NODE_ENV === 'development') {
 	require('./server.js');
 } else if (cluster.isMaster) {
-	console.log(`Primary ${process.pid} is running`);
+	console.log(`Primary ${process.pid} is running: http://127.0.0.1:${process.env.PORT}`);
 
 	for (let i = 0; i < totalCPUs; i++) {
 		cluster.fork();
