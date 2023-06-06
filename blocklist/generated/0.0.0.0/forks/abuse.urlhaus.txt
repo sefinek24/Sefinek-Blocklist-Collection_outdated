@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-06-06 03:04:44 (UTC)                      #
+# Last updated: 2023-06-06 03:59:29 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -39,11 +39,13 @@
 0.0.0.0 antacobinhduong.com
 0.0.0.0 aosafrica.co.za
 0.0.0.0 apexwholesaleinc.com
+0.0.0.0 api-ms.cobainaja.id
 0.0.0.0 api.52kkg.com
 0.0.0.0 api.filedoge.com
 0.0.0.0 api.seeingoholidays.com
 0.0.0.0 apps.saintsoporte.com
 0.0.0.0 aquapools.in
+0.0.0.0 aristonbentre.com
 0.0.0.0 ask6.awt.com.pk
 0.0.0.0 asu.com.vn
 0.0.0.0 athadnw.com
@@ -139,7 +141,6 @@
 0.0.0.0 down.pcclear.com
 0.0.0.0 down.udashi.com
 0.0.0.0 download.caihong.com
-0.0.0.0 download.doumaibiji.cn
 0.0.0.0 download.pdf00.cn
 0.0.0.0 downloads.bcweb.org.uk
 0.0.0.0 drhanneserasmus.co.za
@@ -169,6 +170,7 @@
 0.0.0.0 expressionsofwood.ca
 0.0.0.0 extantlaws.com
 0.0.0.0 famesa.com.ar
+0.0.0.0 fantadentalperu.com
 0.0.0.0 fastprivate.me
 0.0.0.0 files5.uludagbilisim.com
 0.0.0.0 florent-webdev.com
@@ -199,6 +201,7 @@
 0.0.0.0 herchinfitout.com.sg
 0.0.0.0 hergelekitap.com.tr
 0.0.0.0 hipotesis.uy
+0.0.0.0 hitstation.nl
 0.0.0.0 hostigram.xyz
 0.0.0.0 houseatthebeachinoc.com
 0.0.0.0 houssagynecologue.com
@@ -250,11 +253,14 @@
 0.0.0.0 lceventos.net
 0.0.0.0 letsggoo.com
 0.0.0.0 library.arihantmbainstitute.ac.in
+0.0.0.0 linkvilleplayers.org
 0.0.0.0 live.fxcrm.net
 0.0.0.0 livetrack.in
 0.0.0.0 lopespublicidade.com
+0.0.0.0 lorem.com.sa
 0.0.0.0 lotemoclubrificantes.com.br
 0.0.0.0 ltc.typoten.com
+0.0.0.0 macayaywaak.cl
 0.0.0.0 macro.nyc
 0.0.0.0 madicon.co.za
 0.0.0.0 main.cloudfronts.net
@@ -275,6 +281,7 @@
 0.0.0.0 meiieco.fr
 0.0.0.0 mendezplumbingservicellc.com
 0.0.0.0 meonhanong.com
+0.0.0.0 mepstein.com
 0.0.0.0 mesoftwares.vip
 0.0.0.0 microsecurityupdate.com
 0.0.0.0 mindfree.co.za
@@ -326,6 +333,7 @@
 0.0.0.0 p2.d9media.cn
 0.0.0.0 pablobrothel.com.ar
 0.0.0.0 palharesinformatica.com.br
+0.0.0.0 parallel.rockvideos.at
 0.0.0.0 parrotbay.net
 0.0.0.0 pascasarjana.iainfmpapua.ac.id
 0.0.0.0 paste-bin.xyz
@@ -341,7 +349,6 @@
 0.0.0.0 potolki-razumno.ru
 0.0.0.0 ppfatahillah.com
 0.0.0.0 prestigehomeautomation.net
-0.0.0.0 primaflor-sby.com
 0.0.0.0 primusth.com
 0.0.0.0 propagandaetrafego.com
 0.0.0.0 protechasia.com
@@ -433,8 +440,10 @@
 0.0.0.0 transparenciacanaa.com.br
 0.0.0.0 transportadoramiranda.com
 0.0.0.0 travelwithmanta.co.za
+0.0.0.0 trieutin.com
 0.0.0.0 tusaceitesesenciales.com
 0.0.0.0 twizt.net
+0.0.0.0 ukguk71.ru
 0.0.0.0 umakarmaker.com.bd
 0.0.0.0 unacam.ong.br
 0.0.0.0 unapromo.com
@@ -459,7 +468,6 @@
 0.0.0.0 websound.ru
 0.0.0.0 whatelles.nl
 0.0.0.0 windcomtechnologies.com
-0.0.0.0 wisewomanwarrior.com
 0.0.0.0 wonderpillars.co.in
 0.0.0.0 wshsoft.company
 0.0.0.0 www.acompanhantescuritiba.org
@@ -473,7 +481,6 @@
 0.0.0.0 www.bearware.org
 0.0.0.0 www.carusoadvogados.com.br
 0.0.0.0 www.cesasin.com.ar
-0.0.0.0 www.charmingsoftech.com
 0.0.0.0 www.chawkyfrenn.com
 0.0.0.0 www.chemsky.tn
 0.0.0.0 www.clinicamomentum.com.br
@@ -483,6 +490,7 @@
 0.0.0.0 www.fixstudio.co.kr
 0.0.0.0 www.globallaborsupply.com
 0.0.0.0 www.hebgb.top
+0.0.0.0 www.hseda.com
 0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.institut-corps-a-ligne.fr
 0.0.0.0 www.janisthaaivf.com
@@ -517,6 +525,7 @@
 0.0.0.0 xmanager.in
 0.0.0.0 xn----7sbhgfcdscaa3cdd6dq3e3dvf.xn--p1ai
 0.0.0.0 xrpreward.live
+0.0.0.0 xt.lykj988.com
 0.0.0.0 xyktza.nbxyk.net
 0.0.0.0 ycnexgroup.com
 0.0.0.0 yeichner.com
@@ -526,4 +535,4 @@
 0.0.0.0 zaofisa.net
 0.0.0.0 zf.gouzapay.cn
 0.0.0.0 zhaoziliao1668.cn
-# Number of entries: 520
+# Number of entries: 529
