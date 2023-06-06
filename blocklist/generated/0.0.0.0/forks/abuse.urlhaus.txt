@@ -1,13 +1,12 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2023-06-06 07:59:21 (UTC)                      #
+# Last updated: 2023-06-06 08:53:35 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
 ################################################################
 #
 0.0.0.0 1717.1000uc.com
-0.0.0.0 1ecosolution.it
 0.0.0.0 2023foco.com.br
 0.0.0.0 20thstreetcoc.com
 0.0.0.0 230.btc-f2pool.top
@@ -48,7 +47,7 @@
 0.0.0.0 aristonbentre.com
 0.0.0.0 ask6.awt.com.pk
 0.0.0.0 asu.com.vn
-0.0.0.0 athadnw.com
+0.0.0.0 atomm.com.br
 0.0.0.0 azmeasurement.com
 0.0.0.0 balneario.tissotodontologia.com.br
 0.0.0.0 basic4u.com.tr
@@ -60,7 +59,6 @@
 0.0.0.0 bencevendeghaz.hu
 0.0.0.0 benwellgroup.co.uk
 0.0.0.0 bethelmbcarvada.org
-0.0.0.0 biddingenterprise.com.au
 0.0.0.0 bigmikesupplies.co.za
 0.0.0.0 bigs.bikershop.biz
 0.0.0.0 bisnesservis-fk.ru
@@ -72,6 +70,7 @@
 0.0.0.0 botnet.catpn.net
 0.0.0.0 botnet.nguyennghi.info
 0.0.0.0 bracell.latitude.net.br
+0.0.0.0 brideofmessiah.com
 0.0.0.0 british-shorthair.es
 0.0.0.0 brknarikan.com
 0.0.0.0 bruiserbodies.com
@@ -98,7 +97,6 @@
 0.0.0.0 cnom.sante.gov.ml
 0.0.0.0 coadymarine.com
 0.0.0.0 cointra.ac.ug
-0.0.0.0 congtykhoancatbetong.com
 0.0.0.0 coop-host.com
 0.0.0.0 corpolevesuplementos.com.br
 0.0.0.0 corpotechgroup.com
@@ -109,7 +107,6 @@
 0.0.0.0 cracksmsa.ug
 0.0.0.0 crsn.com.ar
 0.0.0.0 crystalcoin.cc
-0.0.0.0 cursodeparapsicologia.org
 0.0.0.0 d.tocat.co
 0.0.0.0 d1.udashi.com
 0.0.0.0 dacsandongthapmuoi.vn
@@ -144,6 +141,7 @@
 0.0.0.0 downloads.bcweb.org.uk
 0.0.0.0 drhanneserasmus.co.za
 0.0.0.0 drive.google.com.it-barcelona.com
+0.0.0.0 droomsoft.com
 0.0.0.0 dukaree.com
 0.0.0.0 dutulongxuyen.com
 0.0.0.0 e-commerce.saleensuporte.com.br
@@ -154,6 +152,7 @@
 0.0.0.0 ecofarmcafe.com
 0.0.0.0 edu.pmvanini.rs.gov.br
 0.0.0.0 educajuris.cl
+0.0.0.0 egsso.net
 0.0.0.0 egwis.com
 0.0.0.0 ekoloji.eleganzaajans.com
 0.0.0.0 elvalledetarrazu.com
@@ -163,7 +162,6 @@
 0.0.0.0 esquiudigital.com
 0.0.0.0 eurooknamsk.ru
 0.0.0.0 exilum.com
-0.0.0.0 expopioneros.com
 0.0.0.0 expressionsofwood.ca
 0.0.0.0 extantlaws.com
 0.0.0.0 famesa.com.ar
@@ -184,12 +182,14 @@
 0.0.0.0 gomlgaming.dev
 0.0.0.0 gotovacoil.com
 0.0.0.0 gplongxuyen.org
+0.0.0.0 greenisco.com
 0.0.0.0 greenlizard.co.za
 0.0.0.0 gsmobile.es
 0.0.0.0 gtn.cl
 0.0.0.0 guvencecelik.com
 0.0.0.0 hallmapping.com
 0.0.0.0 harleyqueretaro.com
+0.0.0.0 hausseeblickscheidegg.de
 0.0.0.0 healthyherbsbenefits.com
 0.0.0.0 heatherrichardsonline.com
 0.0.0.0 helmprecision.com
@@ -219,6 +219,7 @@
 0.0.0.0 intellectproactive.com
 0.0.0.0 iprovietnam.com
 0.0.0.0 j.xnyidc.top
+0.0.0.0 jcedu.org
 0.0.0.0 jhayesconsulting.com
 0.0.0.0 ji.ase6gasdegkk.com
 0.0.0.0 ji.jahhaega2qq.com
@@ -231,6 +232,7 @@
 0.0.0.0 justplay.asia
 0.0.0.0 karapinarhaber.com.tr
 0.0.0.0 karer.by
+0.0.0.0 karimgousa.ug
 0.0.0.0 karimgouss.ug
 0.0.0.0 kelaskan.com
 0.0.0.0 kevinley.com
@@ -244,8 +246,6 @@
 0.0.0.0 lasermobilesounds.co.uk
 0.0.0.0 lastimaners.ug
 0.0.0.0 lceventos.net
-0.0.0.0 letsggoo.com
-0.0.0.0 library.arihantmbainstitute.ac.in
 0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 live.fxcrm.net
 0.0.0.0 livetrack.in
@@ -255,7 +255,6 @@
 0.0.0.0 ltc.typoten.com
 0.0.0.0 macayaywaak.cl
 0.0.0.0 macro.nyc
-0.0.0.0 madicon.co.za
 0.0.0.0 main.cloudfronts.net
 0.0.0.0 makeupuccino.com
 0.0.0.0 mansepool.com
@@ -277,12 +276,10 @@
 0.0.0.0 mepstein.com
 0.0.0.0 mesoftwares.vip
 0.0.0.0 microsecurityupdate.com
-0.0.0.0 mindfree.co.za
 0.0.0.0 mistitis.ug
 0.0.0.0 mithransilks.com
 0.0.0.0 mkblaboratoire.com
 0.0.0.0 moarkgcc.com
-0.0.0.0 modern-city.by
 0.0.0.0 moodle.corplearning.net
 0.0.0.0 mrc.com.pk
 0.0.0.0 mumgee.co.za
@@ -302,7 +299,9 @@
 0.0.0.0 novak-home.com
 0.0.0.0 nrc-soluciones.com.ar
 0.0.0.0 oazahotel.com.mk
+0.0.0.0 oceancityrentalbyowner.com
 0.0.0.0 olugun.co.za
+0.0.0.0 omeryener.com.tr
 0.0.0.0 ong-rafaa.org
 0.0.0.0 onlinedcus.com
 0.0.0.0 onppe.dz
@@ -362,7 +361,6 @@
 0.0.0.0 rollsbeer.com
 0.0.0.0 rretoques.cl
 0.0.0.0 safetygear.pk
-0.0.0.0 sanubix.vip
 0.0.0.0 scarletespinal.com
 0.0.0.0 scglobal.co.th
 0.0.0.0 schoolofspanish.co.za
@@ -395,7 +393,6 @@
 0.0.0.0 speedycabng.com
 0.0.0.0 spices.com.sg
 0.0.0.0 spiritualoutdooradventures.org
-0.0.0.0 src1.minibai.com
 0.0.0.0 srv-fattureincloud.de
 0.0.0.0 sshd.run
 0.0.0.0 stablewin32.app
@@ -464,9 +461,9 @@
 0.0.0.0 www.acompanhantescuritiba.org
 0.0.0.0 www.agies.org
 0.0.0.0 www.alertsecurities.in
-0.0.0.0 www.amazonmall.club
 0.0.0.0 www.arkidecture.com
 0.0.0.0 www.artrsllc.com
+0.0.0.0 www.asterglobal.com
 0.0.0.0 www.bancarioscornelio.com.br
 0.0.0.0 www.bearware.org
 0.0.0.0 www.carusoadvogados.com.br
@@ -479,7 +476,6 @@
 0.0.0.0 www.dental.xiaoxiao.media
 0.0.0.0 www.enc-tech.com
 0.0.0.0 www.fixstudio.co.kr
-0.0.0.0 www.globallaborsupply.com
 0.0.0.0 www.hebgb.top
 0.0.0.0 www.hseda.com
 0.0.0.0 www.ingonherbal.com
@@ -520,8 +516,9 @@
 0.0.0.0 ycnexgroup.com
 0.0.0.0 yeichner.com
 0.0.0.0 yesdeko.com
+0.0.0.0 yp.hnggzyjy.cn
 0.0.0.0 yzkzixun.com
 0.0.0.0 zaofisa.net
 0.0.0.0 zf.gouzapay.cn
 0.0.0.0 zhaoziliao1668.cn
-# Number of entries: 518
+# Number of entries: 515
