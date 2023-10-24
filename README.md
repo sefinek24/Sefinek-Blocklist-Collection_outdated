@@ -1,3 +1,6 @@
+# ⚠️ Deprecation status
+This repository is deprecated. Please see: [sefinek24/Sefinek-Blocklist-Collection](https://github.com/sefinek24/Sefinek-Blocklist-Collection)
+
 <img width="41%" align="right" src="images/kitten.png" alt="Gigachad kitten">
 <div align="center">
     <h1>
